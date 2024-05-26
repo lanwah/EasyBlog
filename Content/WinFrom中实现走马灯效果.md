@@ -12,7 +12,7 @@
 
 实现效果
 
-![img](https://img2022.cnblogs.com/blog/987480/202208/987480-20220822143253321-542306734.gif)
+![img](.\Images\WinFrom中实现走马灯效果\987480-20220822143253321-542306734.gif)
 
 今天在WinForm中模拟实现此功能。
 
@@ -22,7 +22,7 @@
 
 ## 实现的效果
 
-![1](https://images.cnblogs.com/cnblogs_com/lanwah/2394700/o_240526015108_1.gif)
+![1](.\Images\WinFrom中实现走马灯效果\1.gif)
 
 文字我拆分成了3行：
 
@@ -41,7 +41,7 @@
 ### 第一步
 
 绘制灰色底图文字，这一步很简单，如下图所示：
-![image-20240526090923670](https://images.cnblogs.com/cnblogs_com/lanwah/2394700/o_240526015108_image-20240526090923670.png)关键代码如下：
+![image-20240526090923670](.\Images\WinFrom中实现走马灯效果\image-20240526090923670.png)关键代码如下：
 
 ```C#
             // 字体
@@ -64,7 +64,7 @@
 
 2、Graphics 类的 `public void SetClip(RectangleF rect)` 设置剪辑区域，每次只绘制特定区域的颜色渐变，其他区域进行剪辑。
 
-![image-20240526092259978](https://images.cnblogs.com/cnblogs_com/lanwah/2394700/o_240526015108_image-20240526092259978.png)
+![image-20240526092259978](.\Images\WinFrom中实现走马灯效果\image-20240526092259978.png)
 
 贴取绘制第一段渐变的代码，相关代码在代码中的【演示渐变绘制裁剪】的注释部分：
 
@@ -442,3 +442,4 @@ namespace SpotLightDemo
 代码提供参考，文中只给出了实现效果和实现思路，针对特定的场景和要求可以进一步封装成需要的WinForm控件以便代码的复用。
 
 如果大家有更好的方式和建议也欢迎给出，希望和大家一起进步。
+
