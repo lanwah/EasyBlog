@@ -1,6 +1,5 @@
 # WinFrom中实现走马灯效果
 
-[TOC]
 
 在：https://www.cnblogs.com/yanjinhua/p/16611967.html 文章中作者用WPF实现了走马灯的文字效果，实现效果及相关的文字如下：
 
