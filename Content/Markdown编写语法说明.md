@@ -13,7 +13,7 @@
 markdown输入：
 
 ```markdown
-> [!important]
+> [!IMPORTANT]
 > 重要的提示内容，格式如下面的图片
 ```
 
@@ -26,7 +26,7 @@ markdown输出：![image-20240528191429151](Images/Markdown编写语法说明/im
 markdown输入：
 
 ```markdown
-> [!tip]
+> [!TIP]
 > 提示信息内容，格式如下面的图片
 ```
 
@@ -41,7 +41,7 @@ markdown输出：
 markdown输入：
 
 ```markdown
-> [!note]
+> [!NOTE]
 > 注意信息内容，格式如下面的图片
 ```
 
