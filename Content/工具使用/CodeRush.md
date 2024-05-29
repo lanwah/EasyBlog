@@ -4,14 +4,24 @@
 
 ## CodeRush常用快捷键
 
-| 功能说明 | 快捷键         | 前置条件     |
-| -------- | -------------- | ------------ |
-| 复制     | `CTRL+C`       | 编辑器有焦点 |
-| 剪切     | `CTRL+X`       | 编辑器有焦点 |
-| 扩大选择 | `CTRL+W`       | 编辑器有焦点 |
-| 减少选择 | `CTRL+SHIFT+W` | 编辑器有焦点 |
-|          |                |              |
-|          |                |              |
+### [Keyboard Shortcuts]([Keyboard Shortcuts | CodeRush | DevExpress Documentation](https://docs.devexpress.com/CodeRushForRoslyn/403630/getting-started/keyboard-shortcuts))
+
+1. [Shortcuts](https://docs.devexpress.com/CodeRushForRoslyn/403628/getting-started/keyboard-shortcuts/shortcuts)
+
+2. [Caps as a Modifier](https://docs.devexpress.com/CodeRushForRoslyn/403629/getting-started/keyboard-shortcuts/caps-as-a-modifier)
+
+3. [CodeRush Shortcuts](https://docs.devexpress.com/CodeRushForRoslyn/401983/getting-started/keyboard-shortcuts/coderush-shortcuts)
+
+### 常用快捷键
+
+| 快捷键         | 功能说明 | 前置条件     |
+| -------------- | -------- | ------------ |
+| `CTRL+C`       | 复制     | 编辑器有焦点 |
+| `CTRL+X`       | 剪切     | 编辑器有焦点 |
+| `CTRL+W`       | 扩大选择 | 编辑器有焦点 |
+| `CTRL+SHIFT+W` | 减少选择 | 编辑器有焦点 |
+|                |          |              |
+|                |          |              |
 
 
 
@@ -23,7 +33,7 @@
 
 ## Q&A
 
-Num+/Num- 快捷键是什么？
+<span style="color:blue;font-weight:bold;">Num+/Num- 快捷键是什么？</span>
 
 > [!TIP]
 >
