@@ -53,7 +53,7 @@
 
 <span style="color:blue;font-weight:bold;">Visual Studio智能感知与CodeRush冲突如何解决？</span>
 
-> ![image-20240529182001720](Images/CodeRush/image-20240529182001720.png)
+> ![image-20240529182001720](../Images/CodeRush/image-20240529182001720.png)
 >
 > 此处的配置解决了两个问题：
 >
