@@ -16,12 +16,14 @@ markdown输入：
 
 ```markdown
 > [!IMPORTANT]
-> 重要的提示内容，格式如下面的图片
+> 重要的提示内容，格式如下面的图片，Typora中不支持因此使用图片展示
 ```
 
 
 
-markdown输出：![image-20240528191429151](Images/Markdown编写语法说明/image-20240528191429151.png)
+markdown输出：
+
+![image-20240528191429151](Images/Markdown编写语法说明/image-20240528191429151.png)
 
 ### 提示信息
 
@@ -29,7 +31,7 @@ markdown输入：
 
 ```markdown
 > [!TIP]
-> 提示信息内容，格式如下面的图片
+> 提示信息内容，格式如下面的图片，Typora中不支持因此使用图片展示
 ```
 
 
@@ -44,7 +46,7 @@ markdown输入：
 
 ```markdown
 > [!NOTE]
-> 注意信息内容，格式如下面的图片
+> 注意信息内容，格式如下面的图片，Typora中不支持因此使用图片展示
 ```
 
 
@@ -70,3 +72,12 @@ markdown输出：
 **效果**
 
 <mark>高亮文字内容</mark>
+
+### 带边框字体
+
+`<span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</span>`
+
+**显示效果：**
+
+<span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</span>
+
