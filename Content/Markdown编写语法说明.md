@@ -55,6 +55,29 @@ markdown输出：
 
 ![image-20240528192156405](Images/Markdown编写语法说明/image-20240528192156405.png)
 
+
+
+> [!NOTE] 
+>
+> Information the user should notice even if skimming. 
+
+> [!TIP] 
+>
+> Optional information to help a user be more successful. 
+
+
+> [!IMPORTANT] 
+>
+> Essential information required for user success.
+
+> [!CAUTION] 
+>
+> Negative potential consequences of an action. 
+
+> [!WARNING] 
+>
+> Dangerous certain consequences of an action.
+
 ## 颜色文字
 
 ### 蓝色粗体文字
