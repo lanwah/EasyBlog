@@ -12,8 +12,6 @@
 
 ### 重要信息
 
-markdown输入：
-
 ```markdown
 > [!IMPORTANT]
 > 重要的提示内容，格式如下面的图片，Typora中不支持因此使用图片展示
@@ -21,13 +19,15 @@ markdown输入：
 
 
 
-markdown输出：
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">markdown输出：</span>
 
-![image-20240528191429151](Images/Markdown编写语法说明/image-20240528191429151.png)
+> [!IMPORTANT] 
+>
+> Essential information required for user success.
+
+
 
 ### 提示信息
-
-markdown输入：
 
 ```markdown
 > [!TIP]
@@ -36,13 +36,15 @@ markdown输入：
 
 
 
-markdown输出：
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">markdown输出：</span>
 
-![image-20240528191925065](Images/Markdown编写语法说明/image-20240528191925065.png)
+> [!TIP] 
+>
+> Optional information to help a user be more successful. 
 
-### 注意信息
 
-markdown输入：
+
+### 备注信息
 
 ```markdown
 > [!NOTE]
@@ -51,56 +53,100 @@ markdown输入：
 
 
 
-markdown输出：
-
-![image-20240528192156405](Images/Markdown编写语法说明/image-20240528192156405.png)
-
-
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">markdown输出：</span>
 
 > [!NOTE] 
 >
 > Information the user should notice even if skimming. 
 
-> [!TIP] 
->
-> Optional information to help a user be more successful. 
 
 
-> [!IMPORTANT] 
->
-> Essential information required for user success.
+### 注意信息
+
+```markdown
+> [!CAUTION] 
+> Negative potential consequences of an action. 
+```
+
+
+
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">markdown输出：</span>
 
 > [!CAUTION] 
 >
 > Negative potential consequences of an action. 
 
+
+
+### 警告信息
+
+```markdown
+> [!WARNING] 
+> Dangerous certain consequences of an action.
+```
+
+
+
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">markdown输出：</span>
+
 > [!WARNING] 
 >
 > Dangerous certain consequences of an action.
+
+
 
 ## 颜色文字
 
 ### 蓝色粗体文字
 
-`<span style="color:blue;font-weight:bold;">内容</span>`
+```xml
+<span style="color:blue;font-weight:bold;">内容</span>
+```
+
+
 
 **效果**
 
 <span style="color:blue;font-weight:bold;">请在这写入内容，这为蓝色文字的效果</span>
 
+
+
 ### 高亮文字
 
-`<mark>内容</mark>`
+```xml
+<mark>内容</mark>
+```
+
+
 
 **效果**
 
 <mark>高亮文字内容</mark>
 
-### 带边框字体
 
-`<span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</span>`
+
+### 左边框字体
+
+```xml
+<span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</span>
+```
+
+
 
 **显示效果：**
 
 <span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</span>
 
+
+
+### 下边框字体
+
+```
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</span>
+```
+
+
+
+**显示效果**
+
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</span>

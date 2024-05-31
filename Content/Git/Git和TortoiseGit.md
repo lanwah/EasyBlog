@@ -8,23 +8,23 @@ Git是一个免费的开源分布式版本控制系统，旨在以快速和高�
 
 ### Git官网
 
-![](../Images/Common/hand-right.png)[Git (git-scm.com)](https://git-scm.com/)
+![](../Images/Common/hand-down.png)[Git (git-scm.com)](https://git-scm.com/)
 
 ### Git 的优势
 
-![](../Images/Common/hand-right.png) [About - Git (git-scm.com)](https://git-scm.com/about/branching-and-merging)
+![](../Images/Common/hand-down.png) [About - Git (git-scm.com)](https://git-scm.com/about/branching-and-merging)
 
 ### Git Doc
 
-![](../Images/Common/hand-right.png) [Git - Reference (git-scm.com)](https://git-scm.com/docs)
+![](../Images/Common/hand-down.png) [Git - Reference (git-scm.com)](https://git-scm.com/docs)
 
 ### Pro Git book
 
-![](../Images/Common/hand-right.png) [Git - Book (git-scm.com)](https://git-scm.com/book/en/v2)
+![](../Images/Common/hand-down.png) [Git - Book (git-scm.com)](https://git-scm.com/book/en/v2)
 
 ### Git 下载
 
-![](../Images/Common/hand-right.png) [Git - Downloading Package (git-scm.com)](https://git-scm.com/download/win)
+![](../Images/Common/hand-down.png) [Git - Downloading Package (git-scm.com)](https://git-scm.com/download/win)
 
 > [!TIP]
 >
@@ -34,7 +34,7 @@ Git是一个免费的开源分布式版本控制系统，旨在以快速和高�
 
 ### Git GUI 客户端
 
-![](../Images/Common/hand-right.png) [Git - GUI Clients (git-scm.com)](https://git-scm.com/downloads/guis/)
+![](../Images/Common/hand-down.png) [Git - GUI Clients (git-scm.com)](https://git-scm.com/downloads/guis/)
 
 ---
 
@@ -44,15 +44,15 @@ TortoiseGit是一个Windows Shell的Git接口，基于TortoiseSVN。它是开源
 
 ### TortoiseGit官网
 
-![](../Images/Common/hand-right.png) [TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/)
+![](../Images/Common/hand-down.png) [TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/)
 
 ### TortoiseGit的功能
 
-![](../Images/Common/hand-right.png) [About – TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/about/)
+![](../Images/Common/hand-down.png) [About – TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/about/)
 
 ### Frequently asked questions (FAQ)
 
-![](../Images/Common/hand-right.png)[Frequently asked questions – TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/support/faq/#install)
+![](../Images/Common/hand-down.png)[Frequently asked questions – TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/support/faq/#install)
 
 ### 与Git的关系
 

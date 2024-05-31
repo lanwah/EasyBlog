@@ -43,7 +43,7 @@
 
 ## Q&A
 
-<span style="color:blue;font-weight:bold;">Num+/Num- 快捷键是什么？</span>
+<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">Num+/Num- 快捷键是什么？</span>
 
 > [!TIP]
 >
