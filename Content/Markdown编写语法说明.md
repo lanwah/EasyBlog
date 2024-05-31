@@ -143,3 +143,38 @@
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">显示效果：</div>
 
 <div style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px 14px 14px 5px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</div>
+
+### 红色立体标题
+
+```html
+<div style="display:inline-block;position:relative;background:#F3715D;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div>推荐标题</div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #DD6755;            border-right:5px solid #DD6755;left: 0px;bottom: -10px;"></div>
+    </div>
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">显示效果：</div>
+
+<div style="display:inline-block;position:relative;background:#F3715D;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div>推荐标题</div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #DD6755;            border-right:5px solid #DD6755;left: 0px;bottom: -10px;"></div>
+    </div>
+
+
+
+### 蓝色立体标题
+
+```html
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div>推荐标题</div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">显示效果：</div>
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div>推荐标题</div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+
