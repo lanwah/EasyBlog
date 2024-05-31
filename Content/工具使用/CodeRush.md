@@ -4,7 +4,7 @@
 
 ## CodeRush常用快捷键
 
-### [Keyboard Shortcuts]([Keyboard Shortcuts | CodeRush | DevExpress Documentation](https://docs.devexpress.com/CodeRushForRoslyn/403630/getting-started/keyboard-shortcuts))
+### [Keyboard Shortcuts](https://docs.devexpress.com/CodeRushForRoslyn/403630/getting-started/keyboard-shortcuts)
 
 1. [Shortcuts](https://docs.devexpress.com/CodeRushForRoslyn/403628/getting-started/keyboard-shortcuts/shortcuts)
 
@@ -43,7 +43,7 @@
 
 ## Q&A
 
-<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">Num+/Num- 快捷键是什么？</span>
+<div style="color:blue;font-weight:bold;font-size:16pt;">Num+/Num- 快捷键是什么？</div>
 
 > [!TIP]
 >
@@ -51,7 +51,7 @@
 >
 > ![image-20240528190805491](../Images/CodeRush/image-20240528190805491.png)
 
-<span style="color:blue;font-weight:bold;">Visual Studio智能感知与CodeRush冲突如何解决？</span>
+<div style="color:blue;font-weight:bold;font-size:16pt;">Visual Studio智能感知与CodeRush冲突如何解决？</div>
 
 > ![image-20240529182001720](../Images/CodeRush/image-20240529182001720.png)
 >
