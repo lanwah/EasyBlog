@@ -8,7 +8,7 @@ Git是一个免费的开源分布式版本控制系统，旨在以快速和高�
 
 ### Git官网
 
-![](../Images/Common/hand-right.png) [Git (git-scm.com)](https://git-scm.com/)
+![](../Images/Common/hand-right.png)[Git (git-scm.com)](https://git-scm.com/)
 
 ### Git 的优势
 
