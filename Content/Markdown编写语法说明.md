@@ -126,20 +126,20 @@
 ### 左边框字体
 
 ```xml
-<span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</span>
+<div style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</div>
 ```
 
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;">显示效果：</div>
 
-<span style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</span>
+<div style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</div>
 
 
 
 ### 下边框字体
 
 ```
-<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">内容</span>
+<div style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px 14px 14px 5px;font-size:16px;letter-spacing:1px;">内容</div>
 ```
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">显示效果：</div>
 
-<span style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</span>
+<div style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px 14px 14px 5px;font-size:16px;letter-spacing:1px;">左侧边框带宽度，颜色为蓝色</div>
