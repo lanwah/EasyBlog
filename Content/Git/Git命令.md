@@ -8,63 +8,71 @@
 
 保存修改到本地仓库并推送至服务器。
 
-<h3 style="border-bottom:4px solid #2196F3;background:#ddffff;padding:14px 14px 14px 5px;font-size:16px;letter-spacing:1px;">查看文件状态</h3>
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看文件状态</h3>
 
-[git status](https://git-scm.com/docs/git-status)
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-status">git status</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
 
-> [!NOTE]
->
-> ```bash
-> git status -s
-> ```
+ ```bash
+git status -s
+ ```
 
 
 
-### 添加提交文件
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">添加提交文件</h3>
 
-> [!TIP]
->
-> 需要先添加提交文件（建立并提交索引）才能进行提交操作。
+需要先添加提交文件（建立并提交索引）才能进行提交操作。
 
-> 命令
->
-> [git add](https://git-scm.com/docs/git-add)
->
-> 例子
->
-> `git add .`
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-add">git add</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
 
-### 撤销提交文件
+```bash
+git add .
+```
 
-> 命令
->
-> [git reset](https://git-scm.com/docs/git-reset)
->
-> 例子
->
-> `git reset`
 
-### 提交修改
 
-> 命令
->
-> [git commit](https://git-scm.com/docs/git-commit)
->
-> 例子
->
-> `git commit -m “提交的说明”`
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销提交文件</h3>
 
-### 提交推送到远程仓库
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-reset">git reset</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
 
-> 命令
->
-> [git push](https://git-scm.com/docs/git-push)
->
-> 例子
->
-> ```bash
-> git push
-> ```
+```bash
+git reset
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">提交修改</h3>
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-commit">git commit</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+
+```bash
+git commit -m “提交的说明”
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">提交推送到远程仓库</h3>
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-push">git push</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+
+```bash
+git push
+```
+
 
 
 
@@ -72,61 +80,115 @@
 
 暂存本地修改，然后把修改的文件恢复到修改之前。
 
-[git-stash 命令](https://git-scm.com/docs/git-stash)
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-stash">git-stash</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
 
-### 暂存分支修改
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">暂存分支修改</h3>
 
-**命令：**
 
-1. `git stash`
-2. `git stash save 暂存名称`
+```bash
+git stash
+// 或
+git stash save 暂存名称
+```
 
-### 查看暂存信息
 
-**命令：**
 
-`git stash list`
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看暂存信息</h3>
 
-### 恢复暂存修改，但不删除暂存
+```bash
+git stash list
+```
 
-命令：
 
-1. `git stash apply`
-2. `git stash apply 0` 等同于 `git stash apply stash@{0}`
 
-### 删除暂存
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">恢复暂存修改，但不删除暂存</h3>
+
+```bash
+git stash apply
+```
+
+```bash
+git stash apply 0 
+// 等同于
+git stash apply stash@{0}
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除暂存</h3>
 
 <span style="color:red;">注意：</span>直接删除暂存则暂存的信息将丢失
 
-命令：`git stash drop`
+```bash
+git stash drop
+```
 
-`git stash drop 0` 等同于 `git stash drop stash@{0}`
+```bash
+git stash drop 0
+// 等同于
+git stash drop stash@{0}
+```
 
-### 恢复并删除暂存
 
-**命令：**
 
-`git stash pop 0` 等同于  `git stash pop stash@{0}`
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">恢复并删除暂存</h3>
+
+
+```bash
+git stash pop 0
+// 等同于
+git stash pop stash@{0}
+```
+
+
 
 ## 分支操作
 
-### 查看本地分支和远程分支情况
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-branch">git branch</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
 
-**命令：**`git branch -a`
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看本地分支和远程分支情况</h3>
 
-### 查看本地分支和追踪情况
 
-**命令：**`git remote show origin`
+```bash
+git branch -a
+```
 
-### 把远程分支同步到本地
 
-**命令：**`git remote prune origin`
 
-### 删除本地分支
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看本地分支和追踪情况</h3>
 
-**命令：**`git branch -D 分支名称`
 
-<span style="color:green;font-weight:bold;">例如：</span>`git branch -D feature/chatfix`
+```bash
+git remote show origin
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">把远程分支同步到本地</h3>
+
+
+```bash
+git remote prune origin
+```
+
+
+
+h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除本地分支</h3>
+
+
+```bash
+git branch -D 分支名称
+// 例如：
+git branch -D feature/chatfix
+```
+
+
 
 ### 参考文章：
 
