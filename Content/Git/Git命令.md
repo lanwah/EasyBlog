@@ -15,6 +15,8 @@
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
 
+
+
  ```bash
 git status -s
  ```
@@ -30,6 +32,8 @@ git status -s
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
 
+
+
 ```bash
 git add .
 ```
@@ -42,6 +46,8 @@ git add .
         <div><a style="color:white;" href="https://git-scm.com/docs/git-reset">git reset</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
+
+
 
 ```bash
 git reset
@@ -56,6 +62,8 @@ git reset
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
 
+
+
 ```bash
 git commit -m “提交的说明”
 ```
@@ -68,6 +76,8 @@ git commit -m “提交的说明”
         <div><a style="color:white;" href="https://git-scm.com/docs/git-push">git push</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
+
+
 
 ```bash
 git push
@@ -84,6 +94,8 @@ git push
         <div><a style="color:white;" href="https://git-scm.com/docs/git-stash">git-stash</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
+
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">暂存分支修改</h3>
 
@@ -190,10 +202,9 @@ git branch -D feature/chatfix
 
 
 
-### 参考文章：
+## 参考文章：
 
 1. [git同步远程已删除的分支和删除本地多余的分支](https://www.cnblogs.com/saysmy/p/9166331.html)
-2. 
 
 
 
