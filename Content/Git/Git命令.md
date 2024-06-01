@@ -14,7 +14,7 @@
         <div><a style="color:white;" href="https://git-scm.com/docs/git-status">git status</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-<p></p>
+<p style="margin-top:20px;"></p>
 
 
  ```bash
@@ -31,7 +31,7 @@ git status -s
         <div><a style="color:white;" href="https://git-scm.com/docs/git-add">git add</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-<div></div>
+<p style="margin-top:40px;"></p>
 
 
 ```bash
