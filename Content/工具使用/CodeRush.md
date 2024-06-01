@@ -30,7 +30,27 @@
 | `C`                  | 添加 try/catch 代码块                                        | 选择多行文本                                                 |
 | `T`                  | 添加 try/catch/finally 代码块                                | 选择多行文本                                                 |
 | `F`                  | 添加 try/finally 代码块                                      | 选择多行文本                                                 |
-|                      |                                                              |                                                              |
+| r                    | return                                                       |                                                              |
+| rt                   | return true;                                                 |                                                              |
+| rf                   | return false;                                                |                                                              |
+| rn                   | return null;                                                 |                                                              |
+| s                    | 设置值                                                       | 依赖于剪贴板的变量                                           |
+| st                   | 剪贴板的变量设置为true                                       |                                                              |
+| sf                   | 剪贴板的变量设置为false                                      |                                                              |
+| sn                   | 剪贴板的变量设置为null                                       |                                                              |
+| n                    | 不等于                                                       | 依赖于剪贴板的变量                                           |
+| nt                   | 剪贴板的变量不等于为true                                     |                                                              |
+| nf                   | 剪贴板的变量不等于为false                                    |                                                              |
+| nn                   | 剪贴板的变量不等于为null                                     |                                                              |
+| s.e                  | string.Empty                                                 |                                                              |
+| p.e                  | Point.Empty                                                  |                                                              |
+| v+类型，如 vs        | string varName;                                              |                                                              |
+| n+类型，如 ns        | string @string = string.Empty;                               |                                                              |
+| m+类型，如 ms        | string MethodName()<br/>{<br/>    <br/>}                     |                                                              |
+| a+类型，如 as        | public string PropertyName { get; set; }                     |                                                              |
+| p+类型，如 ps        | string propertyName;<br/><br/>public string PropertyName<br/>{<br/>    get => propertyName;<br/>    set => propertyName = value;<br/>} |                                                              |
+| nl.s                 | List<string> list = new List<string>();                      |                                                              |
+| nd.s,i               | Dictionary<string, int> dictionary = new Dictionary<string, int>(); |                                                              |
 |                      |                                                              |                                                              |
 
 
