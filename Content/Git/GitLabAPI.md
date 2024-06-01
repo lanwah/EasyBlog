@@ -24,7 +24,7 @@
 > 完整访问地址：https://docs.gitlab.com/ee/，如下图所示：
 
 
-![GitLab Docs列表界面](../Images/GitLab API/image-20230323110148188.png)
+![GitLab Docs列表界面](../Images/GitLabAPI/image-20230323110148188.png)
 
 ## GitLab使用相关
 
@@ -40,7 +40,7 @@
 
 3. [Personal/project/group access tokens](https://docs.gitlab.com/ee/api/rest/#personalprojectgroup-access-tokens)
 
-   ![设置访问令牌](../Images/GitLab API/image-20230323140125415.png)
+   ![设置访问令牌](../Images/GitLabAPI/image-20230323140125415.png)
 
    可以在请求地址中加入==private_token==参数进行设置，也可以在请求头中加入==PRIVATE-TOKEN==进行设置。
 
