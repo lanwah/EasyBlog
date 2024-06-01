@@ -16,7 +16,6 @@
     </div>
 <p style="margin-top:25px;"></p>
 
-
  ```bash
 git status -s
  ```
@@ -193,7 +192,7 @@ git remote prune origin
 
 
 
-h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除本地分支</h3>
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除本地分支</h3>
 
 
 ```bash
@@ -207,14 +206,4 @@ git branch -D feature/chatfix
 ## 参考文章：
 
 1. [git同步远程已删除的分支和删除本地多余的分支](https://www.cnblogs.com/saysmy/p/9166331.html)
-
-
-
-
-
-
-
-
-
-
 
