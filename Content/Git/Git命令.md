@@ -14,7 +14,7 @@
         <div><a style="color:white;" href="https://git-scm.com/docs/git-status">git status</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-<p style="margin-top:20px;"></p>
+<p style="margin-top:25px;"></p>
 
 
  ```bash
@@ -31,7 +31,7 @@ git status -s
         <div><a style="color:white;" href="https://git-scm.com/docs/git-add">git add</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-<p style="margin-top:40px;"></p>
+<p style="margin-top:25px;"></p>
 
 
 ```bash
@@ -46,7 +46,7 @@ git add .
         <div><a style="color:white;" href="https://git-scm.com/docs/git-reset">git reset</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-
+<p style="margin-top:25px;"></p>
 
 
 ```bash
@@ -61,7 +61,7 @@ git reset
         <div><a style="color:white;" href="https://git-scm.com/docs/git-commit">git commit</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-
+<p style="margin-top:25px;"></p>
 
 
 ```bash
@@ -76,7 +76,7 @@ git commit -m “提交的说明”
         <div><a style="color:white;" href="https://git-scm.com/docs/git-push">git push</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-
+<p style="margin-top:25px;"></p>
 
 
 ```bash
@@ -94,7 +94,7 @@ git push
         <div><a style="color:white;" href="https://git-scm.com/docs/git-stash">git-stash</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
-
+<p style="margin-top:10px;"></p>
 
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">暂存分支修改</h3>
@@ -163,6 +163,8 @@ git stash pop stash@{0}
         <div><a style="color:white;" href="https://git-scm.com/docs/git-branch">git branch</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
+<p style="margin-top:10px;"></p>
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看本地分支和远程分支情况</h3>
 
