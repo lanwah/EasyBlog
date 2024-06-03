@@ -1,5 +1,9 @@
 # CodeRush
 
+[TOC]
+
+---
+
 此文用于记录CodeRush的使用和配置。
 
 ## CodeRush常用快捷键
@@ -60,6 +64,12 @@
 [CodeRush 快捷键和模板](./CodeRush/CodeRushShortcutsAndTemplates.pdf)
 
 [CodeRush学习指引项目](./CodeRush/LearningSolution.rar)
+
+## Visual Studio 2022安装CodeRush扩展
+
+如下图所示，找到【扩展】 -> 【管理扩展】 在打开的界面中左侧选择【联机】，右侧的搜索栏中输入 <mark>coderush</mark> 回车检索，在查询结果中选中相应的插件安装即可。
+
+![image-20240603112338447](../Images/CodeRush/image-20240603112338447.png)
 
 ## Q&A
 
