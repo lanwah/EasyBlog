@@ -229,7 +229,7 @@
 
 
 
-### 推荐标题
+### 红色推荐标题
 
 ```xml
 <div style="display:inline-block;position:relative;background:#F3715D;color:white;text-align:center;padding:0px 20px;height:45px;
@@ -247,6 +247,24 @@
 	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#F3715D;transform:skew(45deg,0deg);z-index:-1;"></div>
 </div>
 
+
+### 蓝色推荐标题
+
+```html
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
+            line-height:45px;letter-spacing:2px;">
+	<div>推荐标题</div>
+	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
+</div>
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">显示效果：</div>
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
+            line-height:45px;letter-spacing:2px;">
+	<div>推荐标题</div>
+	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
+</div>
 
 
 

@@ -164,12 +164,74 @@ git stash pop stash@{0}
     </div>
 <p style="margin-top:10px;"></p>
 
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">查看分支</div>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看本地分支情况</h3>
+
+1、可以查看本地分支名称与当前分支（*号开头的为当前分支）
+
+```bash
+git branch
+```
+
+2、以下命令支持通配符过滤，-l 为 --list的简写方式，格式为 git branch --list 通配符筛选
+
+```bash
+git branch --list
+```
+
+同
+
+```bash
+git branch -l
+```
+
+列出本地分支中以d开头的分支
+
+```bash
+git branch -l d*
+```
+
+3、列出本地分支名称，sha1，及最后一次提交信息
+
+```bash
+git branch -v
+```
+
+带上上游分支名称
+
+```bash
+git branch -vv
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看远程分支情况</h3>
+
+```bash
+git branch -r
+```
+
+同样支持和 -l 一起使用
+
+```bash
+git branch -r -l *main
+```
+
+
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看本地分支和远程分支情况</h3>
 
 
 ```bash
 git branch -a
+```
+
+支持与 --list 一起使用，比如如下的命令实现显示本地及远程分支中的main分支。
+
+```
+git branch -a -l *main
 ```
 
 
@@ -179,6 +241,29 @@ git branch -a
 
 ```bash
 git remote show origin
+```
+
+---
+
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">创建分支</div>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">以当前分支为基准分支创建新的分支</h3>
+
+1、创建分支不改变当前分支
+
+```bash
+git branch 分支名称
+// 例如，当前分支为main分支，创建mainNew分支
+git branch mainNew
+```
+
+根据指定的基线分支创建新的分支
+
+```
+git branch 分支名称 远程分支名称
+// 例如，以远程 origin/dev 为基线创建 dev 分支
+git branch dev origin/dev
 ```
 
 
