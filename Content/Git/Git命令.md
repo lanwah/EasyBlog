@@ -84,7 +84,6 @@ git push
 
 
 
-
 ## 暂存
 
 暂存本地修改，然后把修改的文件恢复到修改之前。
@@ -266,6 +265,70 @@ git branch 分支名称 远程分支名称
 git branch dev origin/dev
 ```
 
+2、创建分支并切换当前分支到新分支，推荐使用git switch
+
+```bash
+git switch -c mainclone
+```
+
+或
+
+```bash
+git checkout -b mainclone
+```
+
+---
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">切换分支</div>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">切换当前分支</h3>
+
+推荐使用 git switch
+
+```bash
+git switch 分支名称（分支名称不存在会提示错误）
+// 例如
+git switch main
+```
+
+同
+
+```
+git checkout 分支名称（分支名称不存在会提示错误）
+// 例如
+git checkout main
+```
+
+> [!NOTE]
+>
+> **git checkout 和 git switch 的区别**
+>
+> it checkout 是用于创建和切换分支的旧命令。它还可以用于恢复来自某个提交的修改。但是 git checkout 能做的不仅仅是这些，它还可以让你从任何分支复制文件或直接提交到当前工作区中，而无需切换分支。
+>
+> 实际上，git checkout 做了三件事情：
+>
+> 1）切换分支；
+>
+> 2）从暂存区复制文件到工作区（放弃当前修改）；
+>
+> 3）从其他区复制文件到工作区；
+>
+> 如果你不明白，那没关系，只需要记住：git checkout 能做的**不仅仅是分支的切换**，还有很多其他额外的功能，而这些额外的功能，增加了 git checkout 这个命令的复杂性。
+>
+> 因此，从 git 2.23 版本发布以后，引入了两个新的命令：**git switch** 和 **git restore**。
+>
+> 这样做的目的，是为了让人们**使用 git switch 来切换分支，使用 git restore 来撤销本地修改**。与此同时，git checkout 仍然被保存，用于提供更高级的选项来处理各种更加复杂的操作。
+>
+> **那么，git checkout 和 git switch 应该使用哪一个呢？**
+>
+> 如果是切换分支，请使用 git switch 命令而不是 git checkout。为什么？因为它就是为这个特定任务创建的。对于新的 git 用户，更容易记住 git switch 用于切换分支，git restore 用于恢复修改。
+>
+> 因此，对于切换和创建分支这个操作来说，使用 git switch 命令替代 git checkout 是被提倡的做法。
+>
+> 摘自：[git switch 和 checkout 之间有什么区别？](https://www.modb.pro/db/459519)
+
+---
+
 
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">把远程分支同步到本地</h3>
@@ -279,12 +342,66 @@ git remote prune origin
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除本地分支</h3>
 
+1、删除已经合并了的分支
+
+```bash
+git branch -d 分支名称
+// 例如，以下命令删除develop分支
+git branch -d develop
+```
+
+2、强制删除分支，-D 为 `--delete --force` 的简写
+
 
 ```bash
 git branch -D 分支名称
-// 例如：
-git branch -D feature/chatfix
+// 例如，以下命令删除 develop 分支
+git branch -D develop
 ```
+
+
+
+## 与上游保持同步
+
+本节介绍Fork了其他人的项目代码，如何同步别人的最新代码到自己的仓库中。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">1、查看自己的仓库是否已经关联了上游仓库</h3>
+
+输入下面的命令，然后查看输出中是否有upstream的信息，没有上游仓库则按步骤2操作，否则按步骤3操作。
+
+```bash
+git remote -v
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">2、关联上游仓库</h3>
+
+```bash
+git remote add upstream 原始仓库地址
+// 例如：
+git remote add upstream https://github.com/schacon/blink
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">3、从远程仓库中拉取最新提交</h3>
+
+```bash
+git fetch upstream
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">4、将本地仓库与上游仓库中相应分支的代码进行合并</h3>
+
+```bash
+git merge upstream/develop
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">5、将合并的结果推送到自己仓库的远端分支</h3>
+
+```bash
+git push origin/develop
+```
+
+上述的过程也可以用 TortoiseGit 的相关菜单进行操作。
+
+![image-20240604181718629](../Images/Git命令/image-20240604181718629.png)
 
 
 
