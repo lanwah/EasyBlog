@@ -411,6 +411,122 @@ git diff --cached
 
 ---
 
+## 查看分支日志
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-log">git log</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">查看当前分支日志</div>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">1、查看当前分支前5条日志，浏览模式下按 q 退出</h3>
+
+```bash
+git log -5
+```
+
+同
+
+```bash
+git log -n 5
+```
+
+同
+
+```bash
+git log --max-count=5
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">2、查看当前分支前5条非合并日志，浏览模式下按 q 退出</h3>
+
+```bash
+git log --no-merges -5
+```
+
+查看当前分支前5条非合并日志的话用如下命令
+
+```bash
+git log --merges -5
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">3、查看其他分支前5条日志，浏览模式下按 q 退出</h3>
+
+> [!TIP]
+>
+> 查看其他分支的日志，只要在 <mark>log</mark> 后面加上分支的名称即可。
+
+```bash
+git log origin/demo --no-merges -3
+```
+
+其中 **origin/demo** 为分支名称。
+
+
+
+---
+
+## 挑选部分commit合并
+
+适用场景：从develop分支挑选部分的commit合并到release。
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-cherry-pick">git cherry-pick</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">操作步骤</div>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">1、拉取最新的代码</h3>
+
+```bash
+git fetch origin
+```
+
+此步骤是为了拉取各分支的最新提交信息到本地，防止因为本地的其他分支因为没同步而没获取到<mark>需要的提交(我们需要的提交，把此提交合并到当前分支)</mark>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">2、切换到目标分支</h3>
+
+此处为release分支，如果本地分支已落后于远端分支，则请先进行合并以便与远端分支保持同步。
+
+```bash
+git switch release
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">3、从源分支中找到需要合并入提交的SHA-1值</h3>
+
+```bash
+git log develop --no-merges -3
+```
+
+上面的指令用于获取指定分支上的非合并日志，在日志中有 SHA-1 的值，记录需要的 SHA-1 值。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">4、根据挑选的 SHA-1 合并代码到当前分支</h3>
+
+```bash
+git cherry-pick sha1 sha2 sha3
+例如
+git cherry-pick 42cc76034817af2daa0db15382f23881ee31c952
+```
+
+执行完上面的指令之后，本地参考中已经合并了相关的提交，可以使用  git log -3 或 git status 查看本地仓库信息，如果没有冲突那么直接推送到远端仓库。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">5、推送并入的提交到远端仓库</h3>
+
+```bash
+git push
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">相关参考</div>
+
+1. [git 教程 --git cherry-pick 命令](https://www.cnblogs.com/ahzxy2018/p/14482626.html)
+
+
+
+---
+
 ## 与上游保持同步
 
 本节介绍Fork了其他人的项目代码，如何同步别人的最新代码到自己的仓库中。
