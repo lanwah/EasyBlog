@@ -69,6 +69,14 @@ git commit -m “提交的说明”
 
 
 
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">Stage Change（添加修改文件/暂存修改文件） 并提交修改</h3>
+
+```bash
+git commit -a -m “提交的说明”
+```
+
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">提交推送到远程仓库</h3>
 
 <div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
@@ -360,6 +368,48 @@ git branch -D develop
 ```
 
 
+
+## 查看工作区和暂存区的修改
+
+> [!TIP]
+>
+> **工作区**
+>
+> 本地Coding的工作区，是Stage Change之前的状态
+>
+> **暂存区**
+>
+> 修改了代码后先要Stage Change，Stage Change之后的状态
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看还未暂存状态下修改的文件信息</h3>
+
+```bash
+git diff --name-only
+```
+
+查看还未暂存状态下修改的文件内容，列出了修改的地方，内容太多不直观，个人不太喜欢用，退出查看状态 ==英文输入状态下输入 q== 
+
+```bash
+git diff
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">查看暂存状态下修改的文件信息</h3>
+
+```bash
+git diff --cached --name-only
+```
+
+查看暂存状态下修改的文件内容，列出了修改的地方，内容太多不直观，个人不太喜欢用，退出查看状态 ==英文输入状态下输入 q== 
+
+```bash
+git diff --cached 
+```
+
+
+
+---
 
 ## 与上游保持同步
 
