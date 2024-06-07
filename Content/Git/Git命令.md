@@ -453,13 +453,13 @@ git log --merges -5
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">3、查看其他分支前5条日志，浏览模式下按 q 退出</h3>
 
-> [!TIP]
->
-> 查看其他分支的日志，只要在 <mark>log</mark> 后面加上分支的名称即可。
-
 ```bash
 git log origin/demo --no-merges -3
 ```
+
+> [!TIP]
+>
+> 查看其他分支的日志，只要在 <mark>log</mark> 后面加上分支的名称即可。
 
 其中 **origin/demo** 为分支名称。
 
