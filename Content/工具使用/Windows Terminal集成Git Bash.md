@@ -14,7 +14,7 @@
 
 1. [Windows Terminal的介绍与安装](https://zhuanlan.zhihu.com/p/351281543)
 2. [Windows Terminal完整指南](https://blog.csdn.net/freeking101/article/details/117767267)
-2. Oh My Posh 安装与使用
+2. [Oh My Posh 安装与使用(Windows Terminal集成Oh My Posh主题)](https://lanwah.github.io/EasyBlog/blogs/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/OhMyPosh%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.html)
 
 ## Windows Terminal 集成 Git Bash
 
