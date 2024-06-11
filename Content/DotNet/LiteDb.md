@@ -21,6 +21,8 @@
 	<div>LiteDbWrapper.cs</div>
 	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
 </div>
+<p style="margin-top:25px;"></p>
+
 
 ```C#
     /// <summary>
@@ -142,8 +144,10 @@
                 this.LiteDb.Dispose();
             }
         }
+    }
 
-
+    public static class LiteDbExtensions
+    {
         /// <summary>
         /// 根据Id存储文件，如果文件存在则更新
         /// </summary>
@@ -153,7 +157,7 @@
         /// <param name="filePath"></param>
         /// <param name="metaData"></param>
         /// <returns></returns>
-        public static LiteFileInfo<TFileId> UploadFile<TFileId>(LiteDatabase db, TFileId id, string filePath, BsonDocument metaData = null)
+        public static LiteFileInfo<TFileId> UploadFile<TFileId>(this LiteDatabase db, TFileId id, string filePath, BsonDocument metaData = null)
         {
             // Get file storage with Int Id
             var storage = db.GetStorage<TFileId>();
@@ -181,7 +185,7 @@
         /// <param name="stream"></param>
         /// <param name="metaData"></param>
         /// <returns></returns>
-        public static LiteFileInfo<TFileId> UploadFile<TFileId>(LiteDatabase db, TFileId id, string fileName, Stream stream, BsonDocument metaData = null)
+        public static LiteFileInfo<TFileId> UploadFile<TFileId>(this LiteDatabase db, TFileId id, string fileName, Stream stream, BsonDocument metaData = null)
         {
             // Get file storage with Int Id
             var storage = db.GetStorage<TFileId>();
@@ -198,7 +202,7 @@
         /// <param name="id"></param>
         /// <param name="filePath"></param>
         /// <returns></returns>
-        public static LiteFileInfo<TFileId> DownloadFile<TFileId>(LiteDatabase db, TFileId id, string filePath)
+        public static LiteFileInfo<TFileId> DownloadFile<TFileId>(this LiteDatabase db, TFileId id, string filePath)
         {
             // Get file storage with Int Id
             var storage = db.GetStorage<TFileId>();
@@ -216,7 +220,7 @@
         /// <param name="id"></param>
         /// <param name="stream"></param>
         /// <returns></returns>
-        public static LiteFileInfo<TFileId> DownloadFile<TFileId>(LiteDatabase db, TFileId id, Stream stream)
+        public static LiteFileInfo<TFileId> DownloadFile<TFileId>(this LiteDatabase db, TFileId id, Stream stream)
         {
             // Get file storage with Int Id
             var storage = db.GetStorage<TFileId>();
@@ -226,6 +230,21 @@
 
             return liteFileInfo;
         }
+        /// <summary>
+        /// 删除文件
+        /// </summary>
+        /// <typeparam name="TFileId"></typeparam>
+        /// <param name="db"></param>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        public static bool DeleteFile<TFileId>(this LiteDatabase db, TFileId id)
+        {
+            // Get file storage with Id
+            var storage = db.GetStorage<TFileId>();
+
+            // And delete file, return true if success, false if not found
+            return storage.Delete(id);
+        }
     }
 ```
 
@@ -234,6 +253,8 @@
 	<div>RegisterTypeManager.cs</div>
 	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
 </div>
+<p style="margin-top:25px;"></p>
+
 
 ```C#
     /// <summary>
