@@ -74,7 +74,7 @@
 | `Ctrl + W + E`             | 错误列表                                                     |          |
 | `Ctrl + W + O`             | 输出列表                                                     |          |
 | `CTRL + W + T`             | 打开任务列表（TODO，HACK，UNDONE），用CodeRush的话会跟Ctrl+W快捷键冲突。<br />可以通过VS菜单的视图/任务列表打开（Alt+V,K） |          |
-| `Ctrl + W + S`             | 工具箱                                                       |          |
+| `Ctrl + W + X`             | 工具箱                                                       |          |
 | `Ctrl + W + U`             | 文档大纲                                                     |          |
 | `Shift + Esc`              | 关闭相关视图窗口                                             |          |
 | `F4`                       | 属性窗口                                                     |          |

@@ -163,6 +163,104 @@ git stash pop stash@{0}
 
 
 
+## 撤销未提交的修改
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-checkout">git-checkout</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+修改还未提交（commit），那么可以用以下命令进行恢复。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销单个文件的修改</h3>
+
+```bash
+git checkout -- 修改的文件名
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">例如</div>
+
+```bash
+git checkout -- demo/ReadMe.txt
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销所有未提交的修改</h3>
+
+```bash
+git checkout -- .
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除工作区中所有未跟踪的文件和目录（比如新添加的文件，但还没有添加到暂存区的）</h3>
+
+```bash
+git clean -fd
+```
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://blog.csdn.net/weixin_38803409/article/details/132962409">git-restore</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+
+
+
+
+
+
+## 撤销已提交的修改
+
+本节介绍通过 git commit 已经提交了的代码如何进行撤销。
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-reset">git-reset</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+git-reset - Reset current HEAD to the specified state
+
+> [!TIP]
+>
+> ==HEAD== 可以是小写的。
+>
+> HEAD^` 意思是上一个版本，也可以写成 `HEAD~1。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销commit，撤销add，撤销代码</h3>
+
+```bash
+git reset --hard HEAD^
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销commit，撤销add，不撤销代码</h3>
+
+保留所作的代码修改，修改的代码在本地工作区（未 add 的状态）。
+
+```bash
+git reset HDAD^
+```
+
+同
+
+```bash
+git reset --mixed HEAD^
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销commit，不撤销add</h3>
+
+不撤销add自然也就不会撤销修改的代码，此时已修改的代码时已经add到暂存区的状态（已 add 的状态）。
+
+```bash
+git reset --soft HEAD^
+```
+
+### 其他参考
+
+[git commit 撤销的三种方法_git撤销commit-CSDN博客](https://blog.csdn.net/weixin_45678402/article/details/134663161)
+
+
+
 ## 分支操作
 
 <div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
@@ -311,7 +409,7 @@ git checkout main
 >
 > **git checkout 和 git switch 的区别**
 >
-> it checkout 是用于创建和切换分支的旧命令。它还可以用于恢复来自某个提交的修改。但是 git checkout 能做的不仅仅是这些，它还可以让你从任何分支复制文件或直接提交到当前工作区中，而无需切换分支。
+> git checkout 是用于创建和切换分支的旧命令。它还可以用于恢复来自某个提交的修改。但是 git checkout 能做的不仅仅是这些，它还可以让你从任何分支复制文件或直接提交到当前工作区中，而无需切换分支。
 >
 > 实际上，git checkout 做了三件事情：
 >
@@ -518,6 +616,33 @@ git cherry-pick 42cc76034817af2daa0db15382f23881ee31c952
 ```bash
 git push
 ```
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
+            line-height:45px;letter-spacing:2px;">
+	<div>例子</div>
+	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
+</div>
+
+```bash
+// 1. 拉取代码
+git fetch origin
+// 2. 合并代码，确保本地代码已是最新
+git merge
+// 3.1 挑选 SHA-1 合并代码到当前分支，并执行commit
+git cherry-pick sha1 sha2 sha3
+// 3.2 挑选 SHA-1 合并代码到当前分支，不执行commit(-n/--no-commit)
+git cherry-pick -n sha1 sha2 sha3
+// 3.2.1 提交修改
+git commit -m "提交的信息"
+// 4. 推送到服务器
+git push 
+
+// 待验证
+git cherry-pick -n origin/develop   // 把 origin/develop 的最近的一个提交合并到本分支
+git cherry-pick -n origin/develop~1 // 把 origin/develop 的倒数第二个提交合并到本分支
+```
+
+
 
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">相关参考</div>
 
