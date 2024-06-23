@@ -185,11 +185,15 @@ git checkout -- 修改的文件名
 git checkout -- demo/ReadMe.txt
 ```
 
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销所有未提交的修改</h3>
 
 ```bash
 git checkout -- .
 ```
+
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">删除工作区中所有未跟踪的文件和目录（比如新添加的文件，但还没有添加到暂存区的）</h3>
 
@@ -197,15 +201,41 @@ git checkout -- .
 git clean -fd
 ```
 
+
+
 <div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
         <div><a style="color:white;" href="https://blog.csdn.net/weixin_38803409/article/details/132962409">git-restore</a></div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
     </div>
 <p style="margin-top:10px;"></p>
 
+版本要求：Git 2.23版本及以上版本
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销工作区中所有的修改</h3>
+
+```bash
+git restore .
+```
+
+撤销工作区中单个文件的修改
+
+```bash
+git restore 文件名称
+```
 
 
 
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">取消暂存（把暂存区中的文件恢复到工作区）</h3>
+
+```bash
+git restore --stage .
+```
+
+取消单个文件的暂存，使其恢复到工作区
+
+```bash
+git restore --stage 文件名称
+```
 
 
 
@@ -233,6 +263,8 @@ git-reset - Reset current HEAD to the specified state
 git reset --hard HEAD^
 ```
 
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销commit，撤销add，不撤销代码</h3>
 
 保留所作的代码修改，修改的代码在本地工作区（未 add 的状态）。
@@ -247,6 +279,8 @@ git reset HDAD^
 git reset --mixed HEAD^
 ```
 
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">撤销commit，不撤销add</h3>
 
 不撤销add自然也就不会撤销修改的代码，此时已修改的代码时已经add到暂存区的状态（已 add 的状态）。
@@ -254,6 +288,8 @@ git reset --mixed HEAD^
 ```bash
 git reset --soft HEAD^
 ```
+
+
 
 ### 其他参考
 
@@ -348,8 +384,9 @@ git branch -a -l *main
 git remote show origin
 ```
 
----
 
+
+---
 
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">创建分支</div>
 
@@ -382,6 +419,8 @@ git switch -c mainclone
 ```bash
 git checkout -b mainclone
 ```
+
+
 
 ---
 
@@ -537,6 +576,8 @@ git log -n 5
 git log --max-count=5
 ```
 
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">2、查看当前分支前5条非合并日志，浏览模式下按 q 退出</h3>
 
 ```bash
@@ -548,6 +589,8 @@ git log --no-merges -5
 ```bash
 git log --merges -5
 ```
+
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">3、查看其他分支前5条日志，浏览模式下按 q 退出</h3>
 
@@ -585,6 +628,8 @@ git fetch origin
 
 此步骤是为了拉取各分支的最新提交信息到本地，防止因为本地的其他分支因为没同步而没获取到<mark>需要的提交(我们需要的提交，把此提交合并到当前分支)</mark>
 
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">2、切换到目标分支</h3>
 
 此处为release分支，如果本地分支已落后于远端分支，则请先进行合并以便与远端分支保持同步。
@@ -593,6 +638,8 @@ git fetch origin
 git switch release
 ```
 
+
+
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">3、从源分支中找到需要合并入提交的SHA-1值</h3>
 
 ```bash
@@ -600,6 +647,8 @@ git log develop --no-merges -3
 ```
 
 上面的指令用于获取指定分支上的非合并日志，在日志中有 SHA-1 的值，记录需要的 SHA-1 值。
+
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">4、根据挑选的 SHA-1 合并代码到当前分支</h3>
 
@@ -610,6 +659,8 @@ git cherry-pick 42cc76034817af2daa0db15382f23881ee31c952
 ```
 
 执行完上面的指令之后，本地参考中已经合并了相关的提交，可以使用  git log -3 或 git status 查看本地仓库信息，如果没有冲突那么直接推送到远端仓库。
+
+
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">5、推送并入的提交到远端仓库</h3>
 
@@ -699,6 +750,6 @@ git push origin/develop
 ## 参考文章：
 
 1. [git同步远程已删除的分支和删除本地多余的分支](https://www.cnblogs.com/saysmy/p/9166331.html)
-
 1. [git常用命令-提交代码](https://www.cnblogs.com/nicoz/p/16968374.html)
+1. [git --- 回滚 restore, reset, revert](https://blog.csdn.net/weixin_38803409/article/details/132962409)
 
