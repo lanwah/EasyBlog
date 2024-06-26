@@ -90,6 +90,22 @@ git commit -a -m “提交的说明”
 git push
 ```
 
+推送并设置远端分支
+
+```bash
+git push --set-upstream origin 分支名称
+
+// 例如：
+git push --set-upstream origin develop
+```
+
+<a id="git_push_origin">把本地分支推送到远端指定分支</a>
+
+```bash
+// 把本地分支推送到远端master分支
+git push origin HEAD:master
+```
+
 
 
 ## 暂存
@@ -390,7 +406,7 @@ git remote show origin
 
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">创建分支</div>
 
-<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">以当前分支为基准分支创建新的分支</h3>
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">以当前分支为基准创建新的分支</h3>
 
 1、创建分支不改变当前分支
 
@@ -400,13 +416,6 @@ git branch 分支名称
 git branch mainNew
 ```
 
-根据指定的基线分支创建新的分支
-
-```
-git branch 分支名称 远程分支名称
-// 例如，以远程 origin/dev 为基线创建 dev 分支
-git branch dev origin/dev
-```
 
 2、创建分支并切换当前分支到新分支，推荐使用git switch
 
@@ -418,6 +427,14 @@ git switch -c mainclone
 
 ```bash
 git checkout -b mainclone
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">根据指定的基线分支创建新的分支</h3>
+
+```
+git branch 分支名称 远程分支名称
+// 例如，以远程 origin/dev 为基线创建 dev 分支
+git branch dev origin/dev
 ```
 
 
@@ -505,6 +522,32 @@ git branch -D develop
 ```
 
 
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">分支重命名</div>
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">重命名分支名称</h3>
+
+```bash
+git branch -m 分支名称 新分支名称
+```
+
+把 develop 分支重命名成 developNew
+
+```bash
+git branch -m develop developNew
+```
+
+> [!TIP]
+>
+> 重命名分支之后可能导致因为本地分支名称与远程分支名称不一致而出现的 git push 命令使用报错，可以参考以下内容进行处理。
+>
+> <a href="#push.default(git push 默认推送规则)">push.default(git push 默认推送规则)</a>
+>
+> [推送到远端指定分支](#git_push_origin)
+
+
+
+---
 
 ## 查看工作区和暂存区的修改
 
@@ -746,6 +789,88 @@ git push origin/develop
 ![image-20240604181718629](../Images/Git命令/image-20240604181718629.png)
 
 
+
+---
+
+## Git 配置
+
+本节介绍 git config 相关配置的查询和设置。
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-config/en">git-config</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+git-config - Get and set repository or global options
+
+```bash
+// 当前仓库配置
+git config ****
+
+// 全局配置
+git config --global **
+
+// 例如：
+// 查询当前仓库的 push 规则配置
+git config push.default
+
+// 查询全局的 push 规则配置
+git config --global push.default
+```
+
+
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">push.default(git push 默认推送规则) </h3>
+
+Defines the action `git push` should take if no refspec is given (whether from the command-line, config, or elsewhere). Different values are well-suited for specific workflows; for instance, in a purely central workflow (i.e. the fetch source is equal to the push destination), `upstream` is probably what you want. Possible values are:
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">支持的配置</div>
+
+| 配置项     | 说明                                                         |
+| ---------- | ------------------------------------------------------------ |
+| `nothing`  | do not push anything (error out) unless a refspec is given. This is primarily meant for people who want to avoid mistakes by always being explicit. |
+| `current`  | push the current branch to update a branch with the same name on the receiving end. Works in both central and non-central workflows. |
+| `upstream` | push the current branch back to the branch whose changes are usually integrated into the current branch (which is called `@{upstream}`). This mode only makes sense if you are pushing to the same repository you would normally pull from (i.e. central workflow). |
+| `tracking` | This is a deprecated synonym for `upstream`.                 |
+| `simple`   | push the current branch with the same name on the remote.If you are working on a centralized workflow (pushing to the same repository you pull from, which is typically `origin`), then you need to configure an upstream branch with the same name.<br />This mode is the default since Git 2.0, and is the safest option suited for beginners. |
+| `matching` | push all branches having the same name on both ends. This makes the repository you are pushing to remember the set of branches that will be pushed out (e.g. if you always push *maint* and *master* there and no other branches, the repository you push to will have these two branches, and your local *maint* and *master* will be pushed there).<br />To use this mode effectively, you have to make sure *all* the branches you would push out are ready to be pushed out before running *git push*, as the whole point of this mode is to allow you to push all of the branches in one go. If you usually finish work on only one branch and push out the result, while other branches are unfinished, this mode is not for you. Also this mode is not suitable for pushing into a shared central repository, as other people may add new branches there, or update the tip of existing branches outside your control.<br />This used to be the default, but not since Git 2.0 (`simple` is the new default). |
+
+介绍：**[push.default](https://git-scm.com/docs/git-config/en#Documentation/git-config.txt-pushdefault)**
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">查询配置</div>
+
+1、查询当前仓库的 push 规则配置
+
+```bash
+git config push.default
+```
+
+2、查询全局的 push 规则配置
+
+```bash
+git config --global push.default
+```
+
+
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">设置默认的推送规则（push 规则）</div>
+
+1、设置当前仓库的 push 规则配置
+
+```bash
+git config push.default upstream
+```
+
+2、设置全局的 push 规则配置
+
+```bash
+git config --global push.default upstream
+```
+
+
+
+---
 
 ## 参考文章：
 
