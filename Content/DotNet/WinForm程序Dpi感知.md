@@ -72,11 +72,11 @@
 
 在Win7系统中。
 
-![img](../images/WinForm程序Dpi感知/70.png)
+![img](../Images/WinForm程序Dpi感知/70.png)
 
 在Win10系统中
 
-![image-20230803192552906](../images/WinForm程序Dpi感知/image-20230803192552906.png)
+![image-20230803192552906](../Images/WinForm程序Dpi感知/image-20230803192552906.png)
 
 ### 4、在WinForm程序中默认的Dpi感知模式是什么？
 
@@ -106,25 +106,25 @@
 
 ==注意在无应用程序清单文件(.manifest文件)或.manifest文件中未启用Dpi感知时获取到的Dpi值始终是96。==
 
-![image-20230803200344785](../images/WinForm程序Dpi感知/image-20230803200344785.png)
+![image-20230803200344785](../Images/WinForm程序Dpi感知/image-20230803200344785.png)
 
 ### 7、不同Dpi下WinForm程序的显示效果
 
 按钮设计时初始大小
 
-![image-20230803200829757](../images/WinForm程序Dpi感知/image-20230803200829757.png)
+![image-20230803200829757](../Images/WinForm程序Dpi感知/image-20230803200829757.png)
 
 系统缩放系数
 
-![image-20230803201357770](../images/WinForm程序Dpi感知/image-20230803201357770.png)
+![image-20230803201357770](../Images/WinForm程序Dpi感知/image-20230803201357770.png)
 
 不启用Dpi感知时的效果图
 
-![QQ截图20230803201039](../images/WinForm程序Dpi感知/QQ截图20230803201039.png)
+![QQ截图20230803201039](../Images/WinForm程序Dpi感知/QQ截图20230803201039.png)
 
 启用Dpi感知后的效果图
 
-![QQ截图20230803201139](../images/WinForm程序Dpi感知/QQ截图20230803201139.png)
+![QQ截图20230803201139](../Images/WinForm程序Dpi感知/QQ截图20230803201139.png)
 
 注意看标签字的清晰度和弹出框中Size的区别，真实图片可以明显感觉到清晰度的差别，上图中可能不明显。
 
