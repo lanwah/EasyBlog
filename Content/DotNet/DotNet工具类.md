@@ -177,7 +177,21 @@
 
 
 
-## Office
+## M. 密码与安全
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------------------------------- |
+| **Git:[hashids.net](https://github.com/ullmark/hashids.net)** | [MIT license](https://github.com/ullmark/hashids.net#MIT-1-ov-file) | 最后更新日期：2023年09月14日 | https://sqids.org/dotnet?hashids |
+|                                                              |                                                              |                              |                                  |
+|                                                              |                                                              |                              |                                  |
+
+### 相关参考
+
+1. **[使用Hashids来保护你的Dotnet应用程序【hashids.net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503308&idx=3&sn=164b29c19167e711607fe75da6c9f888&chksm=96b14517d355f5891e8f9ed31797e05ec53c85ef54d5daec7c87ff06dbb8eefb77908a266bd8&scene=126&sessionid=1721695050#rd)**
+
+
+
+## O. Office
 
 | 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档 |
 | ------------------------------------------------------------ | ---------- | ---------------------------- | -------- |
@@ -192,7 +206,22 @@
 
 
 
-## 软件工具
+## O. ORM
+
+| 项目名称                                                | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[NPoco](https://github.com/schotime/NPoco)**      | [Apache-2.0 license](https://github.com/schotime/NPoco#Apache-2.0-1-ov-file) | 最后更新日期：2023年12月20日 | [Wiki](https://github.com/schotime/NPoco/wiki)               |
+| **Git:[Dommel](https://github.com/henkmollema/Dommel)** | [MIT license](https://github.com/henkmollema/Dommel#MIT-1-ov-file) | 最后更新日期：2024年04月04日 | C#开源（MIT License）、免费、简单易用的Dapper扩展类库，<br />帮助.NET开发者使用Dapper的CRUD操作变得更简单：Dommel。 |
+|                                                         |                                                              |                              |                                                              |
+
+### 相关参考
+
+1. **[C# 轻量级 ORM 框架 NPoco 的简单应用【NPoco】](https://www.cnblogs.com/timefiles/p/18294967)**
+1. **[C#开源、简单易用的Dapper扩展类库 【Dommel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503284&idx=1&sn=466657f30b1e8c611bd6224e4e6f6655&chksm=9691d84b7fe416bd914ae798d63e80ac9704d37d1334a85cc84d08f1bddb361b2bbec2f6c6d4&scene=126&sessionid=1721608423#rd)**
+
+
+
+## R. 软件工具
 
 介绍使用软件相关的工具。
 
@@ -210,3 +239,14 @@
 
 
 
+## S. 数据处理
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[ToolGood.Words](https://github.com/toolgood/ToolGood.Words)** | [ToolGood.Words](https://github.com/toolgood/ToolGood.Words) | 最后更新日期：2024年02月23日 | 一款高性能非法词(敏感词)检测组件，<br />附带繁体简体互换，支持全角半角互换，获取拼音首字母，<br />获取拼音字母，拼音模糊搜索等功能。 |
+|                                                              |                                                              |                              |                                                              |
+|                                                              |                                                              |                              |                                                              |
+
+### 相关参考
+
+1. **[一款.NET高性能非法词(敏感词)检测组件【ToolGood.Words】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503193&idx=3&sn=c6657a89e1c09c8f7494d0e777e5de85&chksm=967e711341bde9c927e219e60eb47bf82e7e1614123c2078e30cae102215bace7e56cee89258&scene=126&sessionid=1721370136#rd)**

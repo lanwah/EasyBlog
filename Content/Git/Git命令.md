@@ -4,6 +4,144 @@
 
 ---
 
+## git config(git 配置)
+
+获取或设置 git 本地仓库的配置或全局配置。
+
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-config/en">git-config</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+git config - Get and set repository or global options
+
+```bash
+// 设置配置时不建议用此命令，因为此命令设置的位置不能明确的被定义
+git config ****
+
+// 当前仓库的配置
+git config --local ****
+
+// 全局配置
+git config --global ****
+
+// 系统配置
+git config --system ****
+
+// 例如：
+// 查询当前仓库的 push 规则配置
+git config --local push.default
+
+// 查询全局的 push 规则配置
+git config --global push.default
+```
+
+查询或设置配置命令格式(-l 等价于 --list)
+
+```bash
+// 以本地配置为例
+
+// 获取本地所有配置
+git config --local -l
+
+// 获取本地特定配置
+git config --local 配置项名称
+// 例如，查询本地仓库的 putty key 配置
+git config --local remote.origin.puttykeyfile
+
+// 设置本地仓库的特定配置
+git config --local 配置项名称 配置项值
+// 例如，设置本地仓库的 putty key
+git config --local remote.origin.puttykeyfile "C:\Users\Administrator\Documents\.ssh\****.ppk"
+```
+
+
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
+            line-height:45px;letter-spacing:2px;">
+	<div>push.default (默认推送规则)</div>
+	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
+</div>
+
+获取或设置默认的推送规则。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">push.default(git push 默认推送规则) </h3>
+
+Defines the action `git push` should take if no refspec is given (whether from the command-line, config, or elsewhere). Different values are well-suited for specific workflows; for instance, in a purely central workflow (i.e. the fetch source is equal to the push destination), `upstream` is probably what you want. Possible values are:
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">支持的配置</div>
+
+| 配置项     | 说明                                                         |
+| ---------- | ------------------------------------------------------------ |
+| `nothing`  | do not push anything (error out) unless a refspec is given. This is primarily meant for people who want to avoid mistakes by always being explicit. |
+| `current`  | push the current branch to update a branch with the same name on the receiving end. Works in both central and non-central workflows. |
+| `upstream` | push the current branch back to the branch whose changes are usually integrated into the current branch (which is called `@{upstream}`). This mode only makes sense if you are pushing to the same repository you would normally pull from (i.e. central workflow). |
+| `tracking` | This is a deprecated synonym for `upstream`.                 |
+| `simple`   | push the current branch with the same name on the remote.If you are working on a centralized workflow (pushing to the same repository you pull from, which is typically `origin`), then you need to configure an upstream branch with the same name.<br />This mode is the default since Git 2.0, and is the safest option suited for beginners. |
+| `matching` | push all branches having the same name on both ends. This makes the repository you are pushing to remember the set of branches that will be pushed out (e.g. if you always push *maint* and *master* there and no other branches, the repository you push to will have these two branches, and your local *maint* and *master* will be pushed there).<br />To use this mode effectively, you have to make sure *all* the branches you would push out are ready to be pushed out before running *git push*, as the whole point of this mode is to allow you to push all of the branches in one go. If you usually finish work on only one branch and push out the result, while other branches are unfinished, this mode is not for you. Also this mode is not suitable for pushing into a shared central repository, as other people may add new branches there, or update the tip of existing branches outside your control.<br />==This used to be the default, but not since Git 2.0 (`simple` is the new default).== |
+
+介绍：**[push.default](https://git-scm.com/docs/git-config/en#Documentation/git-config.txt-pushdefault)**
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">查询配置</div>
+
+1、查询当前仓库的 push 规则配置
+
+```bash
+git config --local push.default
+```
+
+2、查询全局的 push 规则配置
+
+```bash
+git config --global push.default
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">设置默认的推送规则（push 规则）</div>
+
+1、设置当前仓库的 push 规则配置
+
+```bash
+git config --local push.default upstream
+```
+
+2、设置全局的 push 规则配置
+
+```bash
+git config --global push.default upstream
+```
+
+
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
+            line-height:45px;letter-spacing:2px;">
+	<div>remote.origin.puttykeyfile (加载 Putty Key)</div>
+	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
+</div>
+
+Load Putty Key，为本地仓库加载Putty Key。
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">查询本地的 Putty Key 配置</div>
+
+```bash
+git config --local remote.origin.puttykeyfile
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">设置本地的 Putty Key 配置</div>
+
+```bash
+git config --local remote.origin.puttykeyfile "C:\Users\Administrator\Documents\.ssh\****.ppk"
+```
+
+
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">相关参考：</div>
+
+1. **[git puttykeyfile 兩三事](https://zhengda.github.io/2016/05/05/git-puttykeyfile-%E5%85%A9%E4%B8%89%E4%BA%8B/)**
+
+---
+
 ## 提交修改并推送
 
 保存修改到本地仓库并推送至服务器。
@@ -549,6 +687,62 @@ git branch -m develop developNew
 
 ---
 
+## git clone(克隆远端仓库)
+
+git clone - Clone a repository into a new directory
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
+        <div><a style="color:white;" href="https://git-scm.com/docs/git-clone">git clone</a></div>
+        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
+    </div>
+<p style="margin-top:10px;"></p>
+
+把远端代码下载到本地，注意此中的本地跟Git bash的工作目录有关系。
+
+比如在Windows桌面打开Git bash命令窗口，那么工作目录和本地路径就是相对于桌面路径而言。
+
+比如在 E:\Projects 目录下打开Git bash命令窗口，那么工作目录和本地路径就是相对于 E:\Projects 目录而言。
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">1、下载代码到本地的指定目录</h3>
+
+```bash
+git clone 远端项目地址 本地相对路径
+```
+
+**本地相对路径** 省略时会把远端项目下载到本地目录下以项目名称命名的目录之下。
+
+比如我在 **E:\Projects** 打开了 Git bash，并执行  `git clone https://github.com/oxyplot/oxyplot ` 命令，那么代码会下载到 **E:\Projects\oxyplot** 目录下。
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">例如</div>
+
+```bash
+git clone https://github.com/oxyplot/oxyplot chart/oxyplot/oxyplot_develop
+```
+
+<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">2、下载指定分支的代码到本地</h3>
+
+<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
+            line-height:45px;letter-spacing:2px;">
+	<div>-b 分支名称</div>
+	<div style="position:absolute;right:-22px;top:0px;height:45px;width:45px;background:#2196F3;transform:skew(45deg,0deg);z-index:-1;"></div>
+</div>
+
+```bash
+git clone -b 分支名称 ....
+```
+
+<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">例如</div>
+
+```bash
+git clone -b master https://github.com/oxyplot/oxyplot chart/oxyplot/oxyplot_master
+```
+
+上面的命令用 **-b master** 指定了 master 分支，因此会把 master 分支下载到本地。
+
+
+
+---
+
 ## 查看工作区和暂存区的修改
 
 > [!TIP]
@@ -792,85 +986,7 @@ git push origin/develop
 
 ---
 
-## Git 配置
 
-本节介绍 git config 相关配置的查询和设置。
-
-<div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding: 0px 25px;            height:45px;line-height:45px;border-radius:5px 5px 5px 0px;letter-spacing:2px;">
-        <div><a style="color:white;" href="https://git-scm.com/docs/git-config/en">git-config</a></div>
-        <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
-    </div>
-<p style="margin-top:10px;"></p>
-
-git-config - Get and set repository or global options
-
-```bash
-// 当前仓库配置
-git config ****
-
-// 全局配置
-git config --global **
-
-// 例如：
-// 查询当前仓库的 push 规则配置
-git config push.default
-
-// 查询全局的 push 规则配置
-git config --global push.default
-```
-
-
-
-<h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">push.default(git push 默认推送规则) </h3>
-
-Defines the action `git push` should take if no refspec is given (whether from the command-line, config, or elsewhere). Different values are well-suited for specific workflows; for instance, in a purely central workflow (i.e. the fetch source is equal to the push destination), `upstream` is probably what you want. Possible values are:
-
-<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">支持的配置</div>
-
-| 配置项     | 说明                                                         |
-| ---------- | ------------------------------------------------------------ |
-| `nothing`  | do not push anything (error out) unless a refspec is given. This is primarily meant for people who want to avoid mistakes by always being explicit. |
-| `current`  | push the current branch to update a branch with the same name on the receiving end. Works in both central and non-central workflows. |
-| `upstream` | push the current branch back to the branch whose changes are usually integrated into the current branch (which is called `@{upstream}`). This mode only makes sense if you are pushing to the same repository you would normally pull from (i.e. central workflow). |
-| `tracking` | This is a deprecated synonym for `upstream`.                 |
-| `simple`   | push the current branch with the same name on the remote.If you are working on a centralized workflow (pushing to the same repository you pull from, which is typically `origin`), then you need to configure an upstream branch with the same name.<br />This mode is the default since Git 2.0, and is the safest option suited for beginners. |
-| `matching` | push all branches having the same name on both ends. This makes the repository you are pushing to remember the set of branches that will be pushed out (e.g. if you always push *maint* and *master* there and no other branches, the repository you push to will have these two branches, and your local *maint* and *master* will be pushed there).<br />To use this mode effectively, you have to make sure *all* the branches you would push out are ready to be pushed out before running *git push*, as the whole point of this mode is to allow you to push all of the branches in one go. If you usually finish work on only one branch and push out the result, while other branches are unfinished, this mode is not for you. Also this mode is not suitable for pushing into a shared central repository, as other people may add new branches there, or update the tip of existing branches outside your control.<br />This used to be the default, but not since Git 2.0 (`simple` is the new default). |
-
-介绍：**[push.default](https://git-scm.com/docs/git-config/en#Documentation/git-config.txt-pushdefault)**
-
-<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">查询配置</div>
-
-1、查询当前仓库的 push 规则配置
-
-```bash
-git config push.default
-```
-
-2、查询全局的 push 规则配置
-
-```bash
-git config --global push.default
-```
-
-
-
-<div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">设置默认的推送规则（push 规则）</div>
-
-1、设置当前仓库的 push 规则配置
-
-```bash
-git config push.default upstream
-```
-
-2、设置全局的 push 规则配置
-
-```bash
-git config --global push.default upstream
-```
-
-
-
----
 
 ## 参考文章：
 
