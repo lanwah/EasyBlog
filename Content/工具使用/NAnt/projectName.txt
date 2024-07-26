@@ -1,0 +1,5 @@
+BinzhouNew
+第二行内容
+NOW
+@NOW@
+第五行内容

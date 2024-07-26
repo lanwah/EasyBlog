@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="EchoDemo" default="Run">
+	<target name="Run">
+		<!-- 输出单行信息 -->
+		<echo message="Hello NAnt" />
+
+		<!-- <echo message="level is :${level}" /> -->
+
+		<!-- Debug 下输出的信息(nant -buildfile:C:\Users\Administrator\Desktop\echo.build -debug) -->
+		<echo message="Hello NAnt in debug model ." level="Debug"/>
+		
+		<!-- Error 下输出的信息(nant -buildfile:C:\Users\Administrator\Desktop\echo.build -q) -->
+		<echo message="Hello NAnt in Error model ." level="Error"/>
+
+		<!-- 输出多行信息 -->
+		<echo>第一行信息
+第二行信息
+第三行信息</echo>
+
+		<!-- 函数调用 -->
+		<!-- <echo message="Base build directory = ${nant.project.basedir}" /> -->
+		<echo message="Base build directory = ${project::get-base-directory()}" />
+
+		<!-- 输出到文件 -->
+		<echo file="buildmessage.txt">Base build directory = ${project::get-base-directory()}</echo>
+	</target>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="MCSPC" default="Run">
+	<loadfile file="projectName.txt" encoding="utf-8" property="message" />
+	
+	<target name="Run">
+		<echo message="Hello NAnt"/>
+		<echo message="${message}，良华"/>
+	</target>
+</project>

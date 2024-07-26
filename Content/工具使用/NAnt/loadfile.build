@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="LoadfileDemo" default="Run">
+    <description>loadfile 使用示例</description>
+    <!-- 参数定义 -->
+    <property name="fileName" value="projectName.txt" />
+
+    <!-- 从文件加载数据到 message 参数中 -->
+    <loadfile file="${fileName}" encoding="utf-8" property="message" />
+
+    <!-- 从文件加载数据到 content 参数中，并把文件内容中的 @NOW@ 进行替换 -->
+    <loadfile file="${fileName}" encoding="utf-8" property="content">
+        <filterchain>
+            <replacetokens>
+                <token key="NOW" value="${datetime::now()}" />
+            </replacetokens>
+        </filterchain>
+    </loadfile>
+    
+    <!-- 从文件加载数据到 content2 参数中，并使用replacestring把文件内容中的 NOW 进行替换 -->
+    <loadfile file="${fileName}" encoding="utf-8" property="content2">
+        <filterchain>
+            <replacestring from="@NOW@" to="2024年7月26日 16点30分" />
+            <replacestring from="NOW" to="2024年7月26日 16点13分" />
+        </filterchain>
+    </loadfile>
+
+    <target name="Run">
+        <echo message="从 ${fileName} 文件加载数据" />
+        <echo message="文件内容：${message}" />
+        <echo />
+        <echo message="替换处理后的文件内容：${content}" />
+        <echo />
+        <echo message="替换处理后的文件内容：${content2}" />
+    </target>
+</project>
