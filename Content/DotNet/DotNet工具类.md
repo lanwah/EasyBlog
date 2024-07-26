@@ -77,6 +77,7 @@
 ### 相关参考
 
 1. [精选6款.NET开源图表库：免费、高效且功能强大！](https://mp.weixin.qq.com/s/nohV4mO1rmkFkK1HglXzvg)
+1. **[LiveCharts2：一个.NET开源、美观、功能强大的.NET图表库【LiveCharts2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=2&sn=ae85d302de7455cfacfb3d02b4626df8&chksm=967c22f1fa95b9356205d80d435824c2aa04a65cc920c51d954f7f5116e83497fef2005682bf&scene=126&sessionid=1721867131#rd)**
 
 
 
@@ -98,16 +99,17 @@
 
 ## 数据库工具
 
-| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------------ | ---------- | ---------------------------- | -------- |
-| **Gitee:[SmartSQL](https://gitee.com/dotnetchina/SmartSQL)** | Apache-2.0 | 最后更新日期：2024年07月16日 |          |
-| **Gitee:[DBCHM](https://gitee.com/dotnetchina/DBCHM)**       | MIT        | 最后更新日期：2024年05月07日 |          |
-|                                                              |            |                              |          |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
+| **Gitee:[SmartSQL](https://gitee.com/dotnetchina/SmartSQL)** | Apache-2.0                                                   | 最后更新日期：2024年07月16日 |          |
+| **Gitee:[DBCHM](https://gitee.com/dotnetchina/DBCHM)**       | MIT                                                          | 最后更新日期：2024年05月07日 |          |
+| **Git:[EasySQLite](https://github.com/YSGStudyHards/EasySQLite)** | [MIT license](https://github.com/YSGStudyHards/EasySQLite#MIT-1-ov-file) | 最后更新日期：2024年07月26日 |          |
 
 ### 相关参考
 
 1. **[一款.NET开源方便、快捷的数据库文档查询和生成工具【SmartSQL】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=2&sn=e11b53919e6daefa8198cdaeb807be98&chksm=966ec3374049d80288fb844853f8dd57c3ef74517e5c8bfab383978b4b3c5cd9d6deca5142f1&scene=126&sessionid=1721090926#rd)**
 2. **[.NET开源、简单、实用的数据库文档生成工具【DBCHM】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=1&sn=3831a498151d890c55a1259f9f5e7384&chksm=96e463269a917a5c8776a97aef1a88a509fd9636eb799bb300c4d58d365aace2cfa98b74b112&scene=126&sessionid=1721177969#rd)**
+2. **[七天.NET 8操作SQLite入门到实战 - （3）第七天Blazor学生管理页面编写和接口对接【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=1&sn=ec931b964ac9ce26abd2b44ded6d0892&chksm=96b4de8a2a13eaedc4dcb826d5b54b5d894f95cfa31408f8bd9187ca40c311df83afda7303d0&scene=126&sessionid=1721954425#rd)**
 
 
 
@@ -179,15 +181,16 @@
 
 ## M. 密码与安全
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------------------------------- |
-| **Git:[hashids.net](https://github.com/ullmark/hashids.net)** | [MIT license](https://github.com/ullmark/hashids.net#MIT-1-ov-file) | 最后更新日期：2023年09月14日 | https://sqids.org/dotnet?hashids |
-|                                                              |                                                              |                              |                                  |
-|                                                              |                                                              |                              |                                  |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[hashids.net](https://github.com/ullmark/hashids.net)** | [MIT license](https://github.com/ullmark/hashids.net#MIT-1-ov-file) | 最后更新日期：2023年09月14日 | https://sqids.org/dotnet?hashids                             |
+| **Git:[NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt)** | [MIT license](https://github.com/myloveCc/NETCore.Encrypt#MIT-1-ov-file) | 最后更新日期：2022年11月29日 | [.NET Core 常用加密和Hash工具NETCore.Encrypt](https://www.cnblogs.com/piscesLoveCc/p/7423205.html) |
+|                                                              |                                                              |                              |                                                              |
 
 ### 相关参考
 
 1. **[使用Hashids来保护你的Dotnet应用程序【hashids.net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503308&idx=3&sn=164b29c19167e711607fe75da6c9f888&chksm=96b14517d355f5891e8f9ed31797e05ec53c85ef54d5daec7c87ff06dbb8eefb77908a266bd8&scene=126&sessionid=1721695050#rd)**
+1. **[一款.NET Core开源的加密解密工具类库【NETCore.Encrypt】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=2&sn=1a8cc167d9134eda35dd7d0da908ed2a&chksm=96f20f9263cd9fef2a82a8b3d0f09621c0a98002917f950039660025147e57096edb093e9e56&scene=126&sessionid=1721954425#rd)**
 
 
 

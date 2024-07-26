@@ -38,6 +38,40 @@
 
 
 
+## WPF 数据绑定
+
+### 设计时的数据绑定
+
+> 有些布局没有数据很难进行可视化。 在本文档中，我们将审查从事桌面项目的开发人员可在 XAML 设计器中模拟数据的一种方法。 此方法是使用现有可忽略的“d:”命名空间来实现的。 利用这种方法，可快速将设计时数据添加到页面或控件中，而无需创建完整的模拟视图模型，或者只需测试属性更改会如何影响应用程序，而无需担心这些更改会影响你的发布版本。 所有 d: 数据仅由 XAML 设计器使用，无可忽略的命名空间值编译到应用程序中。
+
+#### 设计时数据基本信息
+
+设计时数据是你设置的模拟数据，使控件更易于在 XAML 设计器中进行可视化。 首先，将以下代码行添加到 XAML 文档的标头（如果这些代码行尚不存在）：
+
+```xaml
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+mc:Ignorable="d"
+```
+
+添加命名空间后，可将 `d:` 置于任何特性或控件之前，使其仅在 XAML 设计器中显示，而不在运行时显示。
+
+例如，可将文本添加到通常绑定了数据的 TextBlock。
+
+```xaml
+<TextBlock Text="{Binding Name}" d:Text="Name!" />
+```
+
+![Design-time data with text in a TextBlock](Images/WPF学习笔记/xaml-design-time-textblock.png)
+
+#### 推荐阅读
+
+1. **[在 Visual Studio 中通过 XAML 设计器使用设计时数据](https://learn.microsoft.com/zh-cn/visualstudio/xaml-tools/xaml-designtime-data?view=vs-2022)**
+2. **[将设计时示例数据与 Visual Studio 中的 XAML 设计器结合使用](https://learn.microsoft.com/zh-cn/visualstudio/xaml-tools/xaml-designtime-data?view=vs-2022)**
+3. **[设计时特性](https://learn.microsoft.com/zh-cn/previous-versions/visualstudio/visual-studio-2010/ee839627(v=vs.100))**
+
+
+
 ## FAQ
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">1. 什么是WPF？</h3>
