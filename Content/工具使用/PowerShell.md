@@ -268,6 +268,14 @@ Cmdlet          Wait-Process                 7.0.0.0    Microsoft.PowerShell.Man
 
 了解命令的输出类型有助于缩小相关命令的搜索范围。
 
+## 关于主题
+
+[关于主题 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about?view=powershell-7.4)
+
+### [about_History](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_history?view=powershell-7.4)
+
+![image-20240728214649933](../Images/PowerShell/image-20240728214649933.png)
+
 ## 相关参考
 
 1.  [探索 PowerShell](https://learn.microsoft.com/zh-cn/powershell/scripting/discover-powershell?view=powershell-7.4)
