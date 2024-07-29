@@ -153,15 +153,16 @@
 
 ## IoT项目
 
-| 项目名称                                              | 使用的协议 | 最新版本                     | 帮助文档 |
-| ----------------------------------------------------- | ---------- | ---------------------------- | -------- |
-| **[iotgateway](https://gitee.com/iioter/iotgateway)** | MIT        | 最后更新日期：2024年06月10日 |          |
-|                                                       |            |                              |          |
-|                                                       |            |                              |          |
+| 项目名称                                                    | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)** | MIT                                                          | 最后更新日期：2024年06月10日 |                                                              |
+| **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)** | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | 最后更新日期：2022年10月25日 | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
+|                                                             |                                                              |                              |                                                              |
 
 ### 相关参考
 
 1. **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
+1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
 
 
 
@@ -176,6 +177,24 @@
 ### 相关参考
 
 1. **[使用Terminal.Gui构建功能强大的.NET控制台应用](https://www.cnblogs.com/Can-daydayup/p/18282774)**
+
+
+
+## L. LLM(大语言模型)
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[Semantic-kernel](https://github.com/microsoft/semantic-kernel)** | [MIT license](https://github.com/microsoft/semantic-kernel#MIT-1-ov-file) | 最后更新日期：2024年07月27日 | [Introduction to Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) |
+| **Git:[BotSharp](https://github.com/SciSharp/BotSharp)**     | [Apache-2.0 license](https://github.com/SciSharp/BotSharp#Apache-2.0-1-ov-file) | 最后更新日期：2024年07月27日 | [The Open Source LLM Application Framework](https://botsharp.readthedocs.io/en/latest/) |
+| **Git:[LLamaSharp](https://github.com/SciSharp/LLamaSharp)** | [MIT license](https://github.com/SciSharp/LLamaSharp#MIT-1-ov-file) | 最后更新日期：2024年07月28日 | [在线文档](https://scisharp.github.io/LLamaSharp/0.14.0/)    |
+| **Git:[Autogen](https://github.com/microsoft/autogen)**      | CC-BY-4.0, MIT licenses found                                | 最后更新日期：2024年07月29日 | [在线文档](https://microsoft.github.io/autogen/)             |
+| **Git:[kernel-memory](https://github.com/microsoft/kernel-memory)** | [MIT license](https://github.com/microsoft/kernel-memory#MIT-1-ov-file) | 最后更新日期：2024年07月27日 | [在线文档](https://microsoft.github.io/kernel-memory/)       |
+| **Git:[LangChain](https://github.com/tryAGI/LangChain)**     | [MIT license](https://github.com/tryAGI/LangChain#MIT-1-ov-file) | 最后更新日期：2024年07月29日 | [在线文档](https://tryagi.gitbook.io/langchain)              |
+| Git:                                                         |                                                              | 最后更新日期：               |                                                              |
+
+### 相关参考
+
+1. [分享6个.NET开源的AI和LLM相关项目框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503450&idx=1&sn=f816eafc74b984e6e3b50f93ebeec5c6&chksm=96cddf12c6d21ee3b11fed6fbb4bbbedb6e4de04770a44f3836b28ffbc513d428784dbefa410&scene=126&sessionid=1722213176#rd)
 
 
 
@@ -253,3 +272,17 @@
 ### 相关参考
 
 1. **[一款.NET高性能非法词(敏感词)检测组件【ToolGood.Words】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503193&idx=3&sn=c6657a89e1c09c8f7494d0e777e5de85&chksm=967e711341bde9c927e219e60eb47bf82e7e1614123c2078e30cae102215bace7e56cee89258&scene=126&sessionid=1721370136#rd)**
+
+
+
+## Y. 音频/视频
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)** | [MIT license](https://github.com/nilaoda/N_m3u8DL-RE#MIT-1-ov-file) | 最后更新日期：2024年07月25日 | 免费、跨平台的DASH/HLS/MSS下载工具，<br />并且支持点播和直播（DASH/HLS）的内容下载 |
+|                                                              |                                                              |                              |                                                              |
+|                                                              |                                                              |                              |                                                              |
+
+### 相关参考
+
+1. **[一款.NET开源、跨平台的DASH/HLS/MSS下载工具【N_m3u8DL-RE】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=1&sn=06c95846c78c7710c599cf7c0499f915&chksm=968c3e69394cab31d03015486448fe60ba0ccfbff3d6454d113b653e5272ca2b5fde95863889&scene=126&sessionid=1722213176#rd)**
