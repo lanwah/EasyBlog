@@ -10,16 +10,17 @@
 
 编写日期：2024年7月9日
 
-| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ---------- | ---------------------------- | ------------------------------------------------------------ |
-| **Gitee:[HandyControl](https://gitee.com/handyorg/HandyControl)** | MIT        | 最后更新时间：2024年07月06日 | [介绍文档](https://handyorg.github.io/handycontrol/quick_start/) |
-| **Gitee:[Rubyer-WPF](https://gitee.com/wuyanxin1028/rubyer-wpf)** | MIT        | 最后更新时间：2024年06月26日 |                                                              |
-|                                                              |            |                              |                                                              |
+| 项目名称                                                     | 使用的协议                                               | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[HandyControl](https://gitee.com/handyorg/HandyControl)** | MIT                                                      | 最后更新时间：2024年07月06日 | [介绍文档](https://handyorg.github.io/handycontrol/quick_start/) |
+| **Gitee:[Rubyer-WPF](https://gitee.com/wuyanxin1028/rubyer-wpf)** | MIT                                                      | 最后更新时间：2024年06月26日 |                                                              |
+| **Git:[wpfui](https://github.com/lepoco/wpfui)**             | [MIT](https://github.com/lepoco/wpfui/blob/main/LICENSE) | 最后更新时间：2024年07月26日 | [在线文档](https://wpfui.lepo.co/documentation/getting-started.html) |
 
 ### 相关参考
 
 1. **[一个开源、免费、强大且美观的WPF控件库 【HandyControl】](https://mp.weixin.qq.com/s/Z-liTdNSDWQUaiRqvljtkw)**
 1. **[一款免费通用的WPF主题和控件库【Rubyer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503331&idx=2&sn=23825dd18deb27d5e6e227b3750bb263&chksm=96ca92e0aff149efaf1bdafeb1b3ce9361f3ce71d1af62f0a53b9af84a997e7a72d618d5c9de&scene=126&sessionid=1721781073#rd)**
+1. **[一款基于Fluent设计风格、现代化的WPF UI控件库【wpfui】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503534&idx=2&sn=30e9087ac8cc34000187f5413f9a36e7&chksm=96e6a9480ff3f66c5d99b9270c0544ac58c7f8a0bd74c212d794a19d753cca5dfdc88e0e228c&scene=126&sessionid=1722302129#rd)**
 
 
 
