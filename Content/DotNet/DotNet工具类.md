@@ -187,6 +187,20 @@
 
 
 
+## Q. QrCode
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator)** | [MIT license](https://github.com/manuelbl/QrCodeGenerator#MIT-1-ov-file) | 最后更新日期：2024年03月23日 | [在线文档](https://codecrete.net/QrCodeGenerator/api/index.html) |
+| Git:                                                         |                                                              | 最后更新日期：               | 在线文档                                                     |
+| Git:                                                         |                                                              | 最后更新日期：               | 在线文档                                                     |
+
+### 相关参考
+
+1. **[推荐一款.NET开源、功能强大的二维码生成类库【QrCodeGenerator】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503576&idx=1&sn=a879d201e8eb7f96b019de10902ae8aa&chksm=9647cb482ed5b778c6794c79a8d7c7be523a25f57652841b99d7ff1d96aee2edb385558b2576&scene=126&sessionid=1722386747#rd)**
+
+
+
 ## Q. 其他工具类
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
