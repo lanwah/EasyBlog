@@ -1,7 +1,7 @@
 {
-  "Name": "Lanwah Blog",
-  "Description": "\uD83D\uDDFDCoding and Changing ....",
-  "AuthorName": "lanwah",
+  "Name": "Ater Blog",
+  "Description": "My Blog - Powered by Ater Blog",
+  "AuthorName": "Ater",
   "BaseHref": "/EasyBlog/",
-  "Domain": ""
+  "Domain": null
 }
