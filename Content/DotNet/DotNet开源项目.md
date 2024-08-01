@@ -4,7 +4,7 @@
 
 ---
 
-## ASP.NET Core
+## A. ASP.NET Core
 
 | 项目名称                                                     | 使用的协议 | 最新版本 | 帮助文档 |
 | ------------------------------------------------------------ | ---------- | -------- | -------- |
@@ -12,11 +12,38 @@
 |                                                              |            |          |          |
 |                                                              |            |          |          |
 
-
-
 ### 相关参考
 
 1. **[ASP.NET Core中创建中间件的几种方式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=1&sn=930bb3dcb6c6dc67da50a3fd46921539&chksm=9678120c970e65d4df4790a1b126eacc876666e9132fcfe762ff39c9a91dc9657d6298a3d2a0&scene=126&sessionid=1720745568#rd)**
+
+
+
+## B. Blazor开源项目
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin)** | LGPL-3.0                                                     | 最后更新日期：2024年05月31日 | 基于Bootstrap Blazor开源的.NET通用后台权限管理系统，<br />后台管理页面兼容所有主流浏览器，<br />完全响应式布局（支持电脑、平板、手机等所有主流设备），<br />可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素<br />（按钮、表格、文本框等等）：BootstrapAdmin。 |
+| **Git:[ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)** | [MIT](https://github.com/ant-design-blazor/ant-design-blazor/blob/master/LICENSE) | 最后更新日期：2024年08月01日 | 基于Ant Design和Blazor的开源（MIT License）、<br />免费的企业级组件库（喜欢Ant Design风格的同学推荐使用） |
+|                                                              |                                                              |                              |                                                              |
+
+### 相关参考
+
+1. **[基于Bootstrap Blazor开源的.NET通用后台权限管理系统【BootstrapAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502476&idx=1&sn=f32f44ef80b6f49e98b915c46f9284f0&scene=21#wechat_redirect)**
+1. **[一套基于 Ant Design 和 Blazor 的开源企业级组件库【Ant Design Blazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502797&idx=1&sn=79b4da3703ff2f87510b1ad304435e62&scene=21#wechat_redirect)**
+
+
+
+## C. 仓库管理系统
+
+| 项目名称                                                     | 使用的协议     | 最新版本   | 帮助文档                                                     |
+| ------------------------------------------------------------ | -------------- | ---------- | ------------------------------------------------------------ |
+| **Gitee:[ModernWMS](https://gitee.com/modernwms/ModernWMS)** | **Apache-2.0** | Apache-2.0 | 该库存管理系统是，我们从多年ERP系统研发中<br />总结出来的一套针对小型物流仓储供应链流程。<br /> 在工作过程中我们很多的中小企业，由于IT预算有限，<br />所以无法用上适合他们的系统，<br />却又实实在在存在仓储管理方面的需求，<br />以此我们开始了这个项目。 为了帮助一些有需要的用户。 |
+|                                                              |                |            |                                                              |
+|                                                              |                |            |                                                              |
+
+### 相关参考
+
+1. **[一个.NET开源的简易完整的仓库管理系统 【ModernWMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503057&idx=2&sn=54f6a82fe68f361dfd2283de90c4f274&chksm=960352e80bdb9baf01cb06f7c3da9ea778e04cdde006280e495d3bd2f41ec013b681131d7789&scene=126&sessionid=1721004385#rd)**
 
 
 
@@ -83,15 +110,17 @@
 
 ## H. Http客户端
 
-| 项目名称                                          | 使用的协议                                                   | 最新版本                     | 帮助文档 |
-| ------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | -------- |
-| **Git:[Flurl](https://github.com/tmenier/Flurl)** | [MIT license](https://github.com/tmenier/Flurl#MIT-1-ov-file) | 最后更新日期：2024年01月18日 |          |
-|                                                   |                                                              |                              |          |
-|                                                   |                                                              |                              |          |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[Flurl](https://github.com/tmenier/Flurl)**            | [MIT license](https://github.com/tmenier/Flurl#MIT-1-ov-file) | 最后更新日期：2024年01月18日 |                                                              |
+| **Git:[SuperShortLink](https://github.com/Bryan-Cyf/SuperShortLink)** | MIT license                                                  | 最后更新日期：               | SuperShortLink是一个基于.NET开源（MIT License）、<br />免费、强大易用的短链生成及监控系统，包含了短URL的生成、<br />短URL跳转长URL、短URL访问统计以及Web后台监控页面，<br />可以帮助我们更容易地生成短链、监控短链。 |
+|                                                              |                                                              |                              |                                                              |
 
 ### 相关参考
 
 1. **[适用于 .NET 的现代化、流畅、可测试的HTTP客户端库【Flurl】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=1&sn=86e602ca0b1e93d791343670e1420bd7&chksm=96d43af3f65850c5ad0525bbcc54a0a35c02f8cb12b7f61cc40ce27da9be312e03317a2acc20&scene=126&sessionid=1721264675#rd)**
+1. **[短链的基本工作原理描述与实现方案【SuperShortLink】](https://blog.csdn.net/zhuqiang12/article/details/106587896)**
+1. **[基于.NET开源、强大易用的短链生成及监控系统【SuperShortLink】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503308&idx=1&sn=364aa77a9bb5eaae652adbb46395a284&chksm=96d6db2e4708a8daa0a463ee7b8f3041a3af835d08e8660f1d017cd75cfa8757234328681305&scene=126&sessionid=1721695050#rd)**
 
 
 
@@ -107,6 +136,20 @@
 
 1. **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
 1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
+
+
+
+## J. 监控系统
+
+| 项目名称                                                 | 使用的协议      | 最新版本    | 帮助文档                                                     |
+| -------------------------------------------------------- | --------------- | ----------- | ------------------------------------------------------------ |
+| **Git:[Opserver](https://github.com/Opserver/Opserver)** | **MIT license** | MIT license | Opserver一款Stack Overflow基于.NET开源、<br />免费的轻量级监控系统，它可以独立监控多个系统，<br />支持提取有关 CPU、内存、网络和硬件的统计数据。<br />并且支持跨平台部署（包括 Windows，macOS，Linux）。 |
+|                                                          |                 |             |                                                              |
+|                                                          |                 |             |                                                              |
+
+### 相关参考
+
+1. **[Stack Overflow基于.NET开源的轻量级监控系统【Opserver】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=2&sn=cbf5707e8bc804aa71c25bd624921f86&chksm=96c22a12ec0fcb2b392b31e713306ede2cc84b1a8d3ac942b098b9dbdc295009ac6bff3da09f&scene=126&sessionid=1721608423#rd)**
 
 
 
@@ -249,17 +292,19 @@
 
 ## S. 数据库工具
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
-| **Gitee:[SmartSQL](https://gitee.com/dotnetchina/SmartSQL)** | Apache-2.0                                                   | 最后更新日期：2024年07月16日 |          |
-| **Gitee:[DBCHM](https://gitee.com/dotnetchina/DBCHM)**       | MIT                                                          | 最后更新日期：2024年05月07日 |          |
-| **Git:[EasySQLite](https://github.com/YSGStudyHards/EasySQLite)** | [MIT license](https://github.com/YSGStudyHards/EasySQLite#MIT-1-ov-file) | 最后更新日期：2024年07月26日 |          |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[SmartSQL](https://gitee.com/dotnetchina/SmartSQL)** | Apache-2.0                                                   | 最后更新日期：2024年07月16日 |                                                              |
+| **Gitee:[DBCHM](https://gitee.com/dotnetchina/DBCHM)**       | MIT                                                          | 最后更新日期：2024年05月07日 |                                                              |
+| **Git:[EasySQLite](https://github.com/YSGStudyHards/EasySQLite)** | [MIT license](https://github.com/YSGStudyHards/EasySQLite#MIT-1-ov-file) | 最后更新日期：2024年07月26日 |                                                              |
+| **Git:[sharding-core](https://github.com/dotnetcore/sharding-core)** | [Apache-2.0 license](https://github.com/dotnetcore/sharding-core#Apache-2.0-1-ov-file) | 最后更新日期：2024年07月22日 | 款开源、简单易用、高性能、普适性，<br />针对EF Core生态下的分表分库的扩展解决方案，<br />支持EF Core2+的所有版本，支持EF Core2+的所有数据库、<br />支持自定义路由、动态路由、高性能分页、<br />读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 |
 
 ### 相关参考
 
 1. **[一款.NET开源方便、快捷的数据库文档查询和生成工具【SmartSQL】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=2&sn=e11b53919e6daefa8198cdaeb807be98&chksm=966ec3374049d80288fb844853f8dd57c3ef74517e5c8bfab383978b4b3c5cd9d6deca5142f1&scene=126&sessionid=1721090926#rd)**
 2. **[.NET开源、简单、实用的数据库文档生成工具【DBCHM】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=1&sn=3831a498151d890c55a1259f9f5e7384&chksm=96e463269a917a5c8776a97aef1a88a509fd9636eb799bb300c4d58d365aace2cfa98b74b112&scene=126&sessionid=1721177969#rd)**
 3. **[七天.NET 8操作SQLite入门到实战 - （3）第七天Blazor学生管理页面编写和接口对接【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=1&sn=ec931b964ac9ce26abd2b44ded6d0892&chksm=96b4de8a2a13eaedc4dcb826d5b54b5d894f95cfa31408f8bd9187ca40c311df83afda7303d0&scene=126&sessionid=1721954425#rd)**
+3. **[一款EF Core下高性能、轻量级针对分表分库读写分离的解决方案【ShardingCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502705&idx=1&sn=5faea9b76fcf02778d709b8b1650fe5b&scene=21#wechat_redirect)**
 
 
 
@@ -320,3 +365,56 @@
 ### 相关参考
 
 1. **[一款.NET开源、跨平台的DASH/HLS/MSS下载工具【N_m3u8DL-RE】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=1&sn=06c95846c78c7710c599cf7c0499f915&chksm=968c3e69394cab31d03015486448fe60ba0ccfbff3d6454d113b653e5272ca2b5fde95863889&scene=126&sessionid=1722213176#rd)**
+
+
+
+## Y. 远程管理工具
+
+| 项目名称                                           | 使用的协议  | 最新版本       | 帮助文档                                                     |
+| -------------------------------------------------- | ----------- | -------------- | ------------------------------------------------------------ |
+| **Git:[Quasar](https://github.com/quasar/Quasar)** | MIT license | 最后更新日期： | Quasar是一个免费（MIT License）、<br />开源的远程管理工具，专为Windows系统设计。<br />它使用C#语言编写，具有轻量级、高稳定性、易用性的特点。<br />Quasar为远程技术支持、<br />系统监控和员工监控等提供了强大的解决方案。 |
+|                                                    |             |                |                                                              |
+|                                                    |             |                |                                                              |
+
+### 相关参考
+
+1. **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
+
+
+
+## Z. 桌面工具
+
+| 项目名称                                                  | 使用的协议         | 最新版本       | 帮助文档                                                     |
+| --------------------------------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ |
+| **Git:[GeekDesk](https://github.com/BookerLiu/GeekDesk)** | Apache-2.0 license | 最后更新日期： | [中文文档](https://github.com/BookerLiu/GeekDesk/blob/master/README-zh.md)<br />GeekDesk（极客桌面）是一款C#构建的免费、小巧、美观、<br />高度自定义的桌面快速启动管理工具，集成了Everything搜索功能，<br />不仅能帮我们整理桌面，还能快速启动应用程序、管理文件夹。 |
+|                                                           |                    |                |                                                              |
+|                                                           |                    |                |                                                              |
+
+### 相关参考
+
+1. **[C#开源、美观、小巧的桌面快速启动管理神器！【GeekDesk】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503576&idx=3&sn=c308d814ac80499cb810649934cdc50a&chksm=96cd1df6baefc271098a1e2e8cd605e217798720456ce503e6974f26176ba8d4738604a2770b&scene=126&sessionid=1722386747#rd)**
+
+
+
+## Z. 指纹与人脸识别
+
+| 项目名称                                                  | 使用的协议      | 最新版本       | 帮助文档 |
+| --------------------------------------------------------- | --------------- | -------------- | -------- |
+| **Git:[3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)** | **MIT license** | 最后更新日期： |          |
+|                                                           |                 |                |          |
+|                                                           |                 |                |          |
+
+### 相关参考
+
+1. **[C# Onnx Dense Face 3D人脸重建，人脸Mesh【3DDFA_V2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=3&sn=96fe0af25c1793e76068db2f14030c45&chksm=96e7af4ea01693d53f631d72178db67b9361c9b9427088e304785e8149479b313ad4602bb70f&scene=126&sessionid=1721090926#rd)**
+
+### 1、百度人脸识别Windows C++离线sdk C#接入
+
+**相关参考**
+
+1. **[百度人脸识别Windows C++离线sdk C#接入](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=3&sn=4893f6b1072b6db27094323c0d9572e7&chksm=96a93452a3884fc8b2c640c283570242004882497852c2a3da89f57504626a0db58ef4a05e2b&scene=126&sessionid=1721867131#rd)**
+2. **[百度人脸识别，离线识别SDK](https://ai.baidu.com/ai-doc/FACE/Yk37c1opz)**
+3. [百度离线人脸识别sdk的使用](https://www.cnblogs.com/ctwpx/p/14836007.html)
+
+
+
