@@ -1,4 +1,4 @@
-# DotNet 工具类
+# DotNet 开源项目
 
 [TOC]
 
@@ -124,6 +124,21 @@
 
 
 
+## H. 后台管理系统
+
+| 项目名称                                                | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[DncZeus](https://github.com/lampo1024/DncZeus)** | [MIT license](https://github.com/lampo1024/DncZeus#MIT-1-ov-file) | 最后更新日期：2023年06月14日 | DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) <br />的前后端分离的通用后台权限(页面访问、<br />操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，<br />UI则是目前流行的基于Vue.js的iView(iview-admin)。<br />项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，<br />让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。<br />演示地址(demo): |
+| Git:                                                    |                                                              | 最后更新日期：               |                                                              |
+| Git:                                                    |                                                              | 最后更新日期：               |                                                              |
+
+### 相关参考
+
+1. **[一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架 【DncZeus】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492114&idx=2&sn=a9c43f87847ce12d23b6eecb100dd09e&scene=21#wechat_redirect)**
+2. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+
+
+
 ## IoT项目
 
 | 项目名称                                                    | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -167,6 +182,22 @@
 
 
 
+## K. 快速开发框架
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)** | [MIT license](https://github.com/cq-panda/Vue.NetCore#MIT-1-ov-file) | 最后更新日期：2024年07月26日 | 一款基于Vue（提供Vue2/Vue3版本）<br />和.Net Core前后端分离、开源免费<br />（MIT License）、强大、跨平台的快速开发框架，<br />并且框架内置代码生成器（解决重复性工作，提高开发效率），<br />支持移动端(iOS/Android/H5/微信小程序）。 |
+| **Git:[WTM](https://github.com/dotnetcore/WTM)**             | [MIT license](https://github.com/dotnetcore/WTM#MIT-1-ov-file) | 最后更新日期：2024年07月15日 | WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。<br />支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，<br />内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。 |
+| Git:                                                         |                                                              | 最后更新日期：               |                                                              |
+
+### 相关参考
+
+1. **[基于Vue（提供Vue2/Vue3版本）和.Net Core前后端分离、强大、跨平台的快速开发框架【Vue.NetCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496991&idx=1&sn=b4220ca6211fdb6ca7a6e768abc0a3aa&scene=21#wechat_redirect)**
+2. **[一款基于.NET Core的快速开发框架、支持多种前端UI、内置代码生成器【WalkingTec.Mvvm框架（简称WTM）】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495031&idx=1&sn=54cb0e07e0f22b4563b31b444a4034dc&scene=21#wechat_redirect)**
+3. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+
+
+
 ## L. LLM(大语言模型)
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -181,7 +212,8 @@
 
 ### 相关参考
 
-1. [分享6个.NET开源的AI和LLM相关项目框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503450&idx=1&sn=f816eafc74b984e6e3b50f93ebeec5c6&chksm=96cddf12c6d21ee3b11fed6fbb4bbbedb6e4de04770a44f3836b28ffbc513d428784dbefa410&scene=126&sessionid=1722213176#rd)
+1. **[分享6个.NET开源的AI和LLM相关项目框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503450&idx=1&sn=f816eafc74b984e6e3b50f93ebeec5c6&chksm=96cddf12c6d21ee3b11fed6fbb4bbbedb6e4de04770a44f3836b28ffbc513d428784dbefa410&scene=126&sessionid=1722213176#rd)**
+1. 
 
 
 
@@ -241,6 +273,25 @@
 ### 相关参考
 
 1. **[推荐一款.NET开源、功能强大的二维码生成类库【QrCodeGenerator】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503576&idx=1&sn=a879d201e8eb7f96b019de10902ae8aa&chksm=9647cb482ed5b778c6794c79a8d7c7be523a25f57652841b99d7ff1d96aee2edb385558b2576&scene=126&sessionid=1722386747#rd)**
+
+
+
+## Q. 权限管理系统
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[OpenAuth.Net](https://gitee.com/dotnetchina/OpenAuth.Net)** | LGPL-2.1                                                     | 最后更新日期：2024年07月28日 | .Net权限管理及快速开发框架、<br />最好用的权限工作流系统。<br />源于Martin Fowler企业级应用开发思想及最新技术组合<br />（SqlSugar、EF、Quartz、AutoFac、WebAPI、Swagger、<br />Mock、NUnit、Vue2/3、Element-ui/plus、<br />IdentityServer等）。包括：角色授权、<br />代码生成、打印设计、表单设计、工作流等。<br />架构易扩展，是中小企业的首选。 |
+| **Git:[Admin.Core](https://github.com/zhontai/Admin.Core)**  | [MIT license](https://github.com/zhontai/Admin.Core#MIT-1-ov-file) | 最后更新日期：2024年07月24日 | 中台Admin前后端分离的权限管理系统。支持多租户、<br />数据权限、<br />动态Api、任务调度、OSS文件上传、滑块拼图验证、<br />国内外主流数据库自由切换和动态高级查询。<br />基于.Net跨平台开发的WebApi。集成统一认证授权、<br />事件总线、数据验证、分布式缓存、分布式事务、Ip限流、<br />全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 |
+| **Git:[Blog.Core](https://github.com/anjoy8/Blog.Core)**     | [Apache-2.0 license](https://github.com/anjoy8/Blog.Core#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月02日 | ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，<br />vue教程姊妹篇，官方文档：[apk.neters.club/.doc](http://apk.neters.club/.doc) |
+| **Git:[YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)** | [MIT license](https://github.com/liukuo362573/YiShaAdmin#MIT-1-ov-file) | 最后更新日期：2024年06月28日 | 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观 |
+
+### 相关参考
+
+1. **[.NET开源且好用的权限工作流管理系统【OpenAuth.Net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247494572&idx=1&sn=cf96b4de8f2094fe98db8b19e397e7b6&scene=21#wechat_redirect)**
+2. **[.NET开源的简单、快速、强大的前后端分离后台权限管理系统【Admin.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496023&idx=1&sn=5d73769113d69c06565d63b09947def9&scene=21#wechat_redirect)**
+3. **[开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架【Blog.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490524&idx=1&sn=746b3b581603b569106e22fa2455854a&scene=21#wechat_redirect)**
+4. **[一款基于.NET Core Web + Bootstrap的企业级快速开发框架【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500620&idx=1&sn=311bb3529e3b79e3c29ded1a6ac9658e&scene=21#wechat_redirect)**
+5. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 
 
 

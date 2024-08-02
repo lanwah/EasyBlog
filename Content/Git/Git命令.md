@@ -993,4 +993,5 @@ git push origin/develop
 1. [git同步远程已删除的分支和删除本地多余的分支](https://www.cnblogs.com/saysmy/p/9166331.html)
 1. [git常用命令-提交代码](https://www.cnblogs.com/nicoz/p/16968374.html)
 1. [git --- 回滚 restore, reset, revert](https://blog.csdn.net/weixin_38803409/article/details/132962409)
+1. [Git新手指南：从基础到实践的全方位教程](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=3&sn=4f2fe94bcebbaa58462df0e61733f4c8&chksm=961e5620483a57332271e574eeb6bc02c692a05d6823f3cc413a84369e89934da37f39ce9cb7&scene=126&sessionid=1722566287#rd)
 
