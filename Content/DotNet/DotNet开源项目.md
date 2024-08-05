@@ -94,6 +94,20 @@
 
 
 
+## D. 电子邮件
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[MailKit](https://github.com/jstedfast/MailKit)**      | [MIT license](https://github.com/jstedfast/MailKit#MIT-1-ov-file) | 最后更新日期：2024年08月03日 | MailKit是一个跨平台、开源（MIT License）、<br />免费的.NET邮件处理库，提供强大的 API，<br />用于发送、接收和处理电子邮件，并且它还提供了对SMTP、<br />POP3和IMAP协议的全面支持。 |
+| **Git:[FluentEmail](https://github.com/lukencode/FluentEmail)** | [MIT license](https://github.com/lukencode/FluentEmail#MIT-1-ov-file) | 最后更新日期：2022年03月03日 | FluentEmail 是一个用于 .NET 和 .NET Core 的<br />电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。<br />该项目支持使用 Razor 模板来创建电子邮件内容，<br />并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 |
+| Git:                                                         |                                                              | 最后更新日期                 |                                                              |
+
+### 相关参考
+
+1. **[.NET电子邮件高效处理解决方案](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503770&idx=1&sn=d8936bf7ba698c3f48c6066b3fbe27bc&chksm=96efb076cf415304a2952a235c571fa53fc535c93146e2df784bcb03421efdd89231b9f09b9c&scene=126&sessionid=1722818981#rd)**
+
+
+
 ## G. 工作流
 
 | 项目名称 | 使用的协议 | 最新版本 | 帮助文档 |
@@ -193,7 +207,8 @@
 ### 相关参考
 
 1. **[基于Vue（提供Vue2/Vue3版本）和.Net Core前后端分离、强大、跨平台的快速开发框架【Vue.NetCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496991&idx=1&sn=b4220ca6211fdb6ca7a6e768abc0a3aa&scene=21#wechat_redirect)**
-2. **[一款基于.NET Core的快速开发框架、支持多种前端UI、内置代码生成器【WalkingTec.Mvvm框架（简称WTM）】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495031&idx=1&sn=54cb0e07e0f22b4563b31b444a4034dc&scene=21#wechat_redirect)**
+2. **[Vue + .NET Core前后端分离，不一样的快速发开框架(提供Vue2/Vue3版本【Vue.NetCore】)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=2&sn=eafaf9d85b0788350acfb9b4da733c9e&chksm=9657dc5766e1bea66b98c9f7888a517a8450c5c0fa17b7cefa1b6b0cb36f26768933a6d22d97&scene=126&sessionid=1722818981#rd)**
+3. **[一款基于.NET Core的快速开发框架、支持多种前端UI、内置代码生成器【WalkingTec.Mvvm框架（简称WTM）】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495031&idx=1&sn=54cb0e07e0f22b4563b31b444a4034dc&scene=21#wechat_redirect)**
 3. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 
 
@@ -229,6 +244,20 @@
 
 1. **[使用Hashids来保护你的Dotnet应用程序【hashids.net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503308&idx=3&sn=164b29c19167e711607fe75da6c9f888&chksm=96b14517d355f5891e8f9ed31797e05ec53c85ef54d5daec7c87ff06dbb8eefb77908a266bd8&scene=126&sessionid=1721695050#rd)**
 1. **[一款.NET Core开源的加密解密工具类库【NETCore.Encrypt】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=2&sn=1a8cc167d9134eda35dd7d0da908ed2a&chksm=96f20f9263cd9fef2a82a8b3d0f09621c0a98002917f950039660025147e57096edb093e9e56&scene=126&sessionid=1721954425#rd)**
+
+
+
+## M. 命令行
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
+| **Git:[CommandLineParser](https://github.com/commandlineparser/commandline)** | [MIT license](https://github.com/commandlineparser/commandline#MIT-1-ov-file) | 最后更新日期：2023年03月07日 |          |
+| **Git:[command-line-api](https://github.com/dotnet/command-line-api)** | [MIT license](https://github.com/dotnet/command-line-api#MIT-1-ov-file) | 最后更新日期：2024年06月24日 |          |
+|                                                              |                                                              |                              |          |
+
+### 相关参考
+
+1. **[命令行参数解析处理](https://lanwah.github.io/EasyBlog/blogs/DotNet/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%A7%A3%E6%9E%90%E5%A4%84%E7%90%86.html)**
 
 
 
@@ -359,6 +388,20 @@
 
 
 
+## S. 数据库管理工具
+
+| 工具名称             | 官网                                                         | 下载地址                                                     | 介绍文档                                                     | 支持平台              |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
+| DBeaver              | [dbeaver.io](https://dbeaver.io/)                            | [下载](https://dbeaver.io/download)                          | [详细介绍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495950&idx=1&sn=a26fd06ddab528b5e5893aaaf535dd77&scene=21#wechat_redirect) | Windows、macOS、Linux |
+| Navicat Premium Lite | [navicat-premium-lite](https://www.navicat.com.cn/products#navicat-premium-lite) | [下载](https://www.navicat.com.cn/download/navicat-premium-lite) | [详细介绍](https://mp.weixin.qq.com/s/W65BzGtr1Ens4ykZzGjkyA) | Windows、macOS、Linux |
+| JookDB               | [JookDB](https://jookdb.com/)                                | [下载](https://jookdb.com/download.html)                     |                                                              | Windows、macOS、Linux |
+
+## 相关推荐
+
+1. **[推荐3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=1&sn=c59a76aa2bbb370809a17faaa511ecb4&chksm=9614b61a861a32b7323a3e6de7a7549bdb133ed6e08ab3e7657848c3e6f35e58eedc53affc24&scene=126&sessionid=1722818981#rd)**
+
+
+
 ## T. 通讯相关工具
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -391,17 +434,35 @@
 
 
 
-## T. 统计报表
+## T. 图形/图像
 
-| 项目名称                                                     | 使用的协议 | 最新版本                 | 帮助文档                                                     |
-| ------------------------------------------------------------ | ---------- | ------------------------ | ------------------------------------------------------------ |
-| **Gitee:[CellReport](https://gitee.com/NoneDay/CellReport)** | Apache-2.0 | 最后更新日期：2024-06-13 | 前端设计器：基于vue、luckysheet、echarts<br />等前端技术实现的网页方式。 <br />后端报表引擎：基于.NET 6构建，确保了报表的高性能和可扩展性。 |
-|                                                              |            |                          |                                                              |
-|                                                              |            |                          |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[mlsd](https://github.com/navervision/mlsd)**          | [Apache-2.0 license](https://github.com/navervision/mlsd#Apache-2.0-1-ov-file) | 最后更新时间：2023年07月11日 | 直线检测                                                     |
+| **Git:[excalidraw](https://github.com/excalidraw/excalidraw)** | [MIT license](https://github.com/excalidraw/excalidraw#MIT-1-ov-file) | 最后更新日期：2024年08月05日 | Excalidraw是一款卓越的开源，<br />且免费（遵循MIT license开源协议）的在线白板工具，<br />其核心理念在于打造手绘风格的图形设计体验。<br />它旨在为用户提供一个快速、便捷且富有创意的平台，<br />让绘制图形、流程图及草图变得轻松自如。<br />无论是技术开发者、专业设计师，还是教育领域的工作者，<br />Excalidraw都能成为你工作流程中不可或缺的得力助手。 |
+| **Git:[SkiaSharp](https://github.com/mono/SkiaSharp)**       | [MIT license](https://github.com/mono/SkiaSharp/blob/main/LICENSE.md) | 最后更新日期：2024年07月29日 | SkiaSharp is a cross-platform 2D graphics API for .NET <br />platforms based on Google's Skia Graphics Library. It <br />provides a  comprehensive 2D API that can be used <br />across mobile,  server and desktop models to render images. |
+| **Git:  [Magick.NET](https://github.com/dlemstra/Magick.NET)** | [Apache-2.0 license](https://github.com/dlemstra/Magick.NET#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月05日 | ImageMagick is a powerful image manipulation library that <br />supports over [100 major file formats](https://imagemagick.org/script/formats.php) (not including <br />sub-formats). <br />With Magick.NET you can use ImageMagick in your <br />C#/VB.NET/.NET Core application without having to <br />install ImageMagick on your server or desktop. |
 
 ### 相关参考
 
-1. [一个.NET开源且强大的复杂统计报表制作与运行工具（CellReport）](https://mp.weixin.qq.com/s/iXUb5Ti21XJYtxP9pxnjgw)
+1. **[C# OnnxRuntime 轻量实时的M-LSD直线检测](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=3&sn=fd83d708e218ecb2ee96fa8276261b67&chksm=96f4439a38b6ad7b2ba6cedbd17bb13b292edc3718996116488d31f08ed33cc6521f08cd00a7&scene=126&sessionid=1722818981#rd)**
+2. **[78k+ Star 免费且强大的绘图神器，手绘风格，泰酷辣！【excalidraw】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503770&idx=2&sn=1e9af008ff89a6897d061c950ea16d51&chksm=967e0cfecabab7853eb01fce5da02045d981d062c6f1ddfca939bcca44ee46d189251a24c207&scene=126&sessionid=1722818981#rd)**
+1. **[告别加载等待：.NET图片秒转WebP的黑科技！【ImageMagick】【SkiaSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=3&sn=0579b4cfd22d32ccb83c390c57c1049f&chksm=9636331b7e239bd6460d7f6949d9f8f3c998e51be9235bb2dcad778266d7c282a9ea487b8a2b&scene=126&sessionid=1722818981#rd)**
+
+
+
+## T. 统计报表
+
+| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[CellReport](https://gitee.com/NoneDay/CellReport)** | Apache-2.0 | 最后更新日期：2024年06月13日 | 前端设计器：基于vue、luckysheet、echarts<br />等前端技术实现的网页方式。 <br />后端报表引擎：基于.NET 6构建，确保了报表的高性能和可扩展性。 |
+|                                                              |            |                              |                                                              |
+|                                                              |            |                              |                                                              |
+
+### 相关参考
+
+1. **[一个.NET开源且强大的复杂统计报表制作与运行工具（CellReport）](https://mp.weixin.qq.com/s/iXUb5Ti21XJYtxP9pxnjgw)**
+1. 
 
 
 
