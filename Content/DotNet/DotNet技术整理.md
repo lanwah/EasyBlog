@@ -32,3 +32,9 @@
 
 **[C#/.NET/.NET Core推荐学习书籍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=1&sn=4edf28a7e525e77ff6f785ede7e25fc0&chksm=96ca7c9e4e99ef9d52acf599be40c5f36bbba002536879f01a1dc8204f2152d4424877093c03&scene=126&sessionid=1722818981#rd)**
 
+
+
+## 异步
+
+- [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
+
