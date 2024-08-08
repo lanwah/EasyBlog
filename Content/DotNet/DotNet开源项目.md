@@ -108,6 +108,20 @@
 
 
 
+## D. 代理/反向代理
+
+| 项目名称                                                     | 使用的协议 | 最新版本 | 帮助文档     |
+| ------------------------------------------------------------ | ---------- | -------- | ------------ |
+| **Git:[Yarp](https://github.com/bingbing-gui/AspNetCore-Skill/tree/master/src/Yarp)** |            |          | Yarp使用示例 |
+|                                                              |            |          |              |
+|                                                              |            |          |              |
+
+### 相关参考
+
+1. **[提升ASP.NET Core应用性能：使用YARP反向代理的最佳实践](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=2&sn=eaeee8aef68bbc86c79561e3edfdf31d&chksm=96044355ee73df6c3a44a4f5a19403fa7b6c06c80f142eaf1eb8ce24d54ae7821fc77a4be9d3&scene=126&sessionid=1722904874#rd)**
+
+
+
 ## G. 工作流
 
 | 项目名称 | 使用的协议 | 最新版本 | 帮助文档 |
@@ -187,12 +201,14 @@
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Git:[Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)** | [MIT license](https://github.com/gui-cs/Terminal.Gui#MIT-1-ov-file) | 最后更新日期：2024年07月12日 | [API Documentation](https://gui-cs.github.io/Terminal.Gui/api/Terminal.Gui) |
-|                                                              |                                                              |                              |                                                              |
+| **Git:[Spectre.Console](https://github.com/spectreconsole/spectre.console)** | [MIT license](https://github.com/spectreconsole/spectre.console#MIT-1-ov-file) | 最后更新日期：2024年08月01日 | [在线文档](https://spectreconsole.net/quick-start)           |
 |                                                              |                                                              |                              |                                                              |
 
 ### 相关参考
 
-1. **[使用Terminal.Gui构建功能强大的.NET控制台应用](https://www.cnblogs.com/Can-daydayup/p/18282774)**
+1. **[使用Terminal.Gui构建功能强大的.NET控制台应用【Terminal.Gui】](https://www.cnblogs.com/Can-daydayup/p/18282774)**
+2. **[一个库帮你轻松的创建漂亮的.NET控制台应用程序【Spectre.Console】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247499630&idx=1&sn=f23d18081290b96b4ae15a6910241625&scene=21#wechat_redirect)**
+1. **[增强用户体验：2个功能强大的.NET控制台应用帮助库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=1&sn=509f94d808c80b286b87d101a04279d5&chksm=96d6a4b284952ab582d15ba681a2557452500bad2c05d983f57b58034748e06caf4f682859bd&scene=126&sessionid=1722904874#rd)**
 
 
 
@@ -317,9 +333,10 @@
 ### 相关参考
 
 1. **[.NET开源且好用的权限工作流管理系统【OpenAuth.Net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247494572&idx=1&sn=cf96b4de8f2094fe98db8b19e397e7b6&scene=21#wechat_redirect)**
-2. **[.NET开源的简单、快速、强大的前后端分离后台权限管理系统【Admin.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496023&idx=1&sn=5d73769113d69c06565d63b09947def9&scene=21#wechat_redirect)**
-3. **[开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架【Blog.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490524&idx=1&sn=746b3b581603b569106e22fa2455854a&scene=21#wechat_redirect)**
-4. **[一款基于.NET Core Web + Bootstrap的企业级快速开发框架【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500620&idx=1&sn=311bb3529e3b79e3c29ded1a6ac9658e&scene=21#wechat_redirect)**
+2. **[一款实用的.NET权限工作流框架【OpenAuth.Net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=3&sn=0adf991bf4d2ad366d0dc8deb37dfefa&chksm=963765a831870ac57c96a223b7a8451f585adebeb3591022754d914478ac5bbeec968576f972&scene=126&sessionid=1722904874&poc_token=HDhxsWajsQBLJEfI8mvBoElQmLAMOD2FVoVRKGT8)**
+3. **[.NET开源的简单、快速、强大的前后端分离后台权限管理系统【Admin.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496023&idx=1&sn=5d73769113d69c06565d63b09947def9&scene=21#wechat_redirect)**
+4. **[开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架【Blog.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490524&idx=1&sn=746b3b581603b569106e22fa2455854a&scene=21#wechat_redirect)**
+5. **[一款基于.NET Core Web + Bootstrap的企业级快速开发框架【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500620&idx=1&sn=311bb3529e3b79e3c29ded1a6ac9658e&scene=21#wechat_redirect)**
 5. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 
 
@@ -482,15 +499,17 @@
 
 ## Y. 远程管理工具
 
-| 项目名称                                           | 使用的协议  | 最新版本       | 帮助文档                                                     |
-| -------------------------------------------------- | ----------- | -------------- | ------------------------------------------------------------ |
-| **Git:[Quasar](https://github.com/quasar/Quasar)** | MIT license | 最后更新日期： | Quasar是一个免费（MIT License）、<br />开源的远程管理工具，专为Windows系统设计。<br />它使用C#语言编写，具有轻量级、高稳定性、易用性的特点。<br />Quasar为远程技术支持、<br />系统监控和员工监控等提供了强大的解决方案。 |
-|                                                    |             |                |                                                              |
-|                                                    |             |                |                                                              |
+| 项目名称                                              | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ----------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[Quasar](https://github.com/quasar/Quasar)**    | MIT license                                                  | 最后更新日期：               | Quasar是一个免费（MIT License）、<br />开源的远程管理工具，专为Windows系统设计。<br />它使用C#语言编写，具有轻量级、高稳定性、易用性的特点。<br />Quasar为远程技术支持、<br />系统监控和员工监控等提供了强大的解决方案。 |
+| **Git:[1Remote](https://github.com/1Remote/1Remote)** | [GPL-3.0 license](https://github.com/1Remote/1Remote#GPL-3.0-1-ov-file) | 最后更新日期：2024年07月11日 | 1Remote是一款现代、功能丰富、易于使用的远程会话管理和启动器，<br />支持多种协议和定制选项，适合需要频繁管理远程会话的用户 |
+|                                                       |                                                              |                              |                                                              |
 
 ### 相关参考
 
 1. **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
+1. **[Windows 远程不要再用 mstsc 了，这款.NET开源工具更好用！【1Remote】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503805&idx=2&sn=ddbf05075b3d6715758456d6499a6208&chksm=96db395f69df2474ac59419f855682630adcd0cad201c465ab9b56c9df6b70c516b864e1ad12&scene=126&sessionid=1722990823#rd)**
+1. [1Remote官网](https://1remote.org/)， [1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)
 
 
 
