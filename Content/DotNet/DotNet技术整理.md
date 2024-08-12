@@ -24,7 +24,9 @@
 
 ## DotNet学习
 
-**[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
+- **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
+
+- **[C#筑基之解密委托与事件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=2&sn=4a44d7d209a84030ae68d83521d2741e&chksm=9641c13569cd48d5c6e4299307865ff5ac6f0f42d69a6849ff62f4535bc7a48b148c7f9e8dc1&scene=126&sessionid=1723383964#rd)**
 
 
 

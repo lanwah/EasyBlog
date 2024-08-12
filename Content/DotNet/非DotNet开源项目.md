@@ -26,6 +26,24 @@
 
 
 
+### 2、 avue-cli
+
+>avue-cli是一个适配手机、平板、PC 的后台开源免费模板，基于 vue3 + vite + element plus + avue3 + vue-router + vuex的后台管理模板，旨在减少开发工作量，实现快速开发。
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">项目名称：</span><b>avue-cli</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开源地址：</span><b>https://gitee.com/smallweigit/avue-cli</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">使用协议：</span><b>MIT license</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开发语言：</span><b>vue3 + vite + element plus + avue3 + vue-router + vuex的后台管理模板</b></p>
+
+**相关参考**
+
+1. **[一个适配手机、平板、PC 的后台开源免费模板！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504018&idx=3&sn=5a5e7790173d1d85096dce0969c255cc&chksm=96e5a07627b93f754d3ab5b8f09707d99946bb4fe0e0c5b015ff85ed464d7f715a579819520b&scene=126&sessionid=1723423096#rd)**
+
+
+
 ## S. 数据同步
 
 ### 1、Syncthing

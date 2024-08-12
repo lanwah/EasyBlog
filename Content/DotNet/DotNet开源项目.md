@@ -173,12 +173,13 @@
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)** | MIT                                                          | 最后更新日期：2024年06月10日 |                                                              |
 | **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)** | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | 最后更新日期：2022年10月25日 | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
-|                                                             |                                                              |                              |                                                              |
+| **Git:[IoTSharp](https://github.com/IoTSharp/IoTSharp)**    | [Apache-2.0 license](https://github.com/IoTSharp/IoTSharp#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月03日 | [在线文档](https://docs.iotsharp.net/docs/intro)             |
 
 ### 相关参考
 
 1. **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
 1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
+1. **[一个基于.Net Core 开源的物联网基础平台【IoTSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=3&sn=7caa5aa3a46e5c3d0199815c5b0f4d3e&chksm=96ffee3d20491289fa8ced405dc5073dd6528f83968406e7f227d4275cea3f51d8b2bc0741c0&scene=126&sessionid=1723383964#rd)**
 
 
 
@@ -307,17 +308,19 @@
 
 
 
-## Q. QrCode
+## Q. QrCode/BarCode/二维码
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Git:[QrCodeGenerator](https://github.com/manuelbl/QrCodeGenerator)** | [MIT license](https://github.com/manuelbl/QrCodeGenerator#MIT-1-ov-file) | 最后更新日期：2024年03月23日 | [在线文档](https://codecrete.net/QrCodeGenerator/api/index.html) |
-| Git:                                                         |                                                              | 最后更新日期：               | 在线文档                                                     |
+| **Git:[SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode)** | [MIT license](https://github.com/guitarrapc/SkiaSharp.QrCode#MIT-1-ov-file) | 最后更新日期：2024年02月20日 |                                                              |
 | Git:                                                         |                                                              | 最后更新日期：               | 在线文档                                                     |
 
 ### 相关参考
 
 1. **[推荐一款.NET开源、功能强大的二维码生成类库【QrCodeGenerator】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503576&idx=1&sn=a879d201e8eb7f96b019de10902ae8aa&chksm=9647cb482ed5b778c6794c79a8d7c7be523a25f57652841b99d7ff1d96aee2edb385558b2576&scene=126&sessionid=1722386747#rd)**
+2. **[.NET Core使用SkiaSharp快速生成二维码【SkiaSharp.QrCode】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492350&idx=1&sn=3fde32219dcf1df27ab1537cb1a2bf8a&scene=21#wechat_redirect)**
+1. **[2款高效的.NET二维码生成类库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=1&sn=45ee4ed43cecdb10c045d97b6086dbea&chksm=961f383ba9520571260a91281e71e1c5b035ec1b07821ae053747fcbeaf04fbfa219fd3c1c4d&scene=126&sessionid=1723383964#rd)**
 
 
 
@@ -329,6 +332,7 @@
 | **Git:[Admin.Core](https://github.com/zhontai/Admin.Core)**  | [MIT license](https://github.com/zhontai/Admin.Core#MIT-1-ov-file) | 最后更新日期：2024年07月24日 | 中台Admin前后端分离的权限管理系统。支持多租户、<br />数据权限、<br />动态Api、任务调度、OSS文件上传、滑块拼图验证、<br />国内外主流数据库自由切换和动态高级查询。<br />基于.Net跨平台开发的WebApi。集成统一认证授权、<br />事件总线、数据验证、分布式缓存、分布式事务、Ip限流、<br />全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 |
 | **Git:[Blog.Core](https://github.com/anjoy8/Blog.Core)**     | [Apache-2.0 license](https://github.com/anjoy8/Blog.Core#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月02日 | ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，<br />vue教程姊妹篇，官方文档：[apk.neters.club/.doc](http://apk.neters.club/.doc) |
 | **Git:[YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)** | [MIT license](https://github.com/liukuo362573/YiShaAdmin#MIT-1-ov-file) | 最后更新日期：2024年06月28日 | 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观 |
+| **Gitee:[YuebonCore](https://gitee.com/yuebon/YuebonNetCore)** | MIT                                                          | 最后更新日期：2024年05月04日 | YuebonCore基于.Net8.0的权限管理及快速开发框架，<br />前后端分离，核心模块包括：组织机构、角色用户、<br />权限授权、多系统、多应用管理、定时任务、<br />业务单据编码规则、代码生成器等，<br />整合应用最新技术包括Asp.NetCore MVC、SqlSugar、<br />WebAPI、Swagger、Vue等。它的架构易于扩展，<br />是中小项目的首选。 |
 
 ### 相关参考
 
@@ -337,7 +341,8 @@
 3. **[.NET开源的简单、快速、强大的前后端分离后台权限管理系统【Admin.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496023&idx=1&sn=5d73769113d69c06565d63b09947def9&scene=21#wechat_redirect)**
 4. **[开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架【Blog.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490524&idx=1&sn=746b3b581603b569106e22fa2455854a&scene=21#wechat_redirect)**
 5. **[一款基于.NET Core Web + Bootstrap的企业级快速开发框架【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500620&idx=1&sn=311bb3529e3b79e3c29ded1a6ac9658e&scene=21#wechat_redirect)**
-5. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+6. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+5. **[一款基于.NET8的权限管理及快速开发框架（前后端分离）【YuebonCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504018&idx=2&sn=0856e8bba2ab089168458b8f9744bda6&chksm=969914ac55a6033c71529b7c439973bb9dfa6bfa87e25dba8701c10144c93002bb26173f2f3b&scene=126&sessionid=1723423096#rd)**
 
 
 
@@ -393,14 +398,16 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Gitee:[SmartSQL](https://gitee.com/dotnetchina/SmartSQL)** | Apache-2.0                                                   | 最后更新日期：2024年07月16日 |                                                              |
 | **Gitee:[DBCHM](https://gitee.com/dotnetchina/DBCHM)**       | MIT                                                          | 最后更新日期：2024年05月07日 |                                                              |
-| **Git:[EasySQLite](https://github.com/YSGStudyHards/EasySQLite)** | [MIT license](https://github.com/YSGStudyHards/EasySQLite#MIT-1-ov-file) | 最后更新日期：2024年07月26日 |                                                              |
+| **Git:[EasySQLite](https://github.com/YSGStudyHards/EasySQLite)** | [MIT license](https://github.com/YSGStudyHards/EasySQLite#MIT-1-ov-file) | 最后更新日期：2024年07月26日 | EasySQLite是一个七天.NET 8操作SQLite<br />入门到实战详细教程（包含选型、开发、发布、部署）！ |
 | **Git:[sharding-core](https://github.com/dotnetcore/sharding-core)** | [Apache-2.0 license](https://github.com/dotnetcore/sharding-core#Apache-2.0-1-ov-file) | 最后更新日期：2024年07月22日 | 款开源、简单易用、高性能、普适性，<br />针对EF Core生态下的分表分库的扩展解决方案，<br />支持EF Core2+的所有版本，支持EF Core2+的所有数据库、<br />支持自定义路由、动态路由、高性能分页、<br />读写分离的一款EF Core拓展程序包，一款零依赖第三方组件的扩展。 |
 
 ### 相关参考
 
 1. **[一款.NET开源方便、快捷的数据库文档查询和生成工具【SmartSQL】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=2&sn=e11b53919e6daefa8198cdaeb807be98&chksm=966ec3374049d80288fb844853f8dd57c3ef74517e5c8bfab383978b4b3c5cd9d6deca5142f1&scene=126&sessionid=1721090926#rd)**
-2. **[.NET开源、简单、实用的数据库文档生成工具【DBCHM】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=1&sn=3831a498151d890c55a1259f9f5e7384&chksm=96e463269a917a5c8776a97aef1a88a509fd9636eb799bb300c4d58d365aace2cfa98b74b112&scene=126&sessionid=1721177969#rd)**
-3. **[七天.NET 8操作SQLite入门到实战 - （3）第七天Blazor学生管理页面编写和接口对接【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=1&sn=ec931b964ac9ce26abd2b44ded6d0892&chksm=96b4de8a2a13eaedc4dcb826d5b54b5d894f95cfa31408f8bd9187ca40c311df83afda7303d0&scene=126&sessionid=1721954425#rd)**
+2. **[.NET 开源快捷的数据库文档查询和生成工具【SmartSQL】](https://www.cnblogs.com/1312mn/p/18333223)**
+3. **[.NET开源、简单、实用的数据库文档生成工具【DBCHM】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=1&sn=3831a498151d890c55a1259f9f5e7384&chksm=96e463269a917a5c8776a97aef1a88a509fd9636eb799bb300c4d58d365aace2cfa98b74b112&scene=126&sessionid=1721177969#rd)**
+4. **[七天.NET 8操作SQLite入门到实战 - （3）第七天Blazor学生管理页面编写和接口对接【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=1&sn=ec931b964ac9ce26abd2b44ded6d0892&chksm=96b4de8a2a13eaedc4dcb826d5b54b5d894f95cfa31408f8bd9187ca40c311df83afda7303d0&scene=126&sessionid=1721954425#rd)**
+5. **[七天.NET 8操作SQLite入门到实战详细教程（选型、开发、发布、部署）【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504018&idx=1&sn=790513c805c55b6339770df3d22399cc&chksm=963c0f9ebaac0506f1740075d6147bb8f03237b784a45d3a8d04d149d408283a10830b631f99&scene=126&sessionid=1723423096#rd)**
 3. **[一款EF Core下高性能、轻量级针对分表分库读写分离的解决方案【ShardingCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502705&idx=1&sn=5faea9b76fcf02778d709b8b1650fe5b&scene=21#wechat_redirect)**
 
 
@@ -413,9 +420,23 @@
 | Navicat Premium Lite | [navicat-premium-lite](https://www.navicat.com.cn/products#navicat-premium-lite) | [下载](https://www.navicat.com.cn/download/navicat-premium-lite) | [详细介绍](https://mp.weixin.qq.com/s/W65BzGtr1Ens4ykZzGjkyA) | Windows、macOS、Linux |
 | JookDB               | [JookDB](https://jookdb.com/)                                | [下载](https://jookdb.com/download.html)                     |                                                              | Windows、macOS、Linux |
 
-## 相关推荐
+### 相关推荐
 
 1. **[推荐3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=1&sn=c59a76aa2bbb370809a17faaa511ecb4&chksm=9614b61a861a32b7323a3e6de7a7549bdb133ed6e08ab3e7657848c3e6f35e58eedc53affc24&scene=126&sessionid=1722818981#rd)**
+
+
+
+## S. 事件总线
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
+| **Git:[CodeWF.EventBus.Socket](https://github.com/dotnet9/CodeWF.EventBus.Socket)** | [MIT license](https://github.com/dotnet9/CodeWF.EventBus.Socket#MIT-1-ov-file) | 最后更新日期：2024年08月03日 |          |
+|                                                              |                                                              |                              |          |
+|                                                              |                                                              |                              |          |
+
+相关推荐
+
+1. **[C#使用Socket实现分布式事件总线，不依赖第三方MQ【CodeWF.EventBus.Socket】](https://github.com/dotnet9/CodeWF.EventBus.Socket)**
 
 
 
