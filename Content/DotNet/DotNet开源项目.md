@@ -94,6 +94,20 @@
 
 
 
+D. 电子白板/大屏
+
+| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ---------- | ---------------------------- | -------- |
+| **Gitee:[大屏数据展示模板](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi)** | MIT        | 最后更新日期：2020年01月22日 |          |
+|                                                              |            |                              |          |
+|                                                              |            |                              |          |
+
+### 相关参考
+
+1. **[开源免费的大屏数据展示模【大屏数据展示模板】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504120&idx=3&sn=8b180b54367936aae6d359bb84b5d5d5&chksm=9623df792cfee22bc2201a7ba67326e5604d6bc972a83522833a66a8280c08c0f1d4036ff6ea&scene=126&sessionid=1723594895#rd)**
+
+
+
 ## D. 电子邮件
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -167,19 +181,21 @@
 
 
 
-## IoT项目
+## I. IoT项目
 
-| 项目名称                                                    | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)** | MIT                                                          | 最后更新日期：2024年06月10日 |                                                              |
-| **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)** | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | 最后更新日期：2022年10月25日 | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
-| **Git:[IoTSharp](https://github.com/IoTSharp/IoTSharp)**    | [Apache-2.0 license](https://github.com/IoTSharp/IoTSharp#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月03日 | [在线文档](https://docs.iotsharp.net/docs/intro)             |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)**  | MIT                                                          | 最后更新日期：2024年06月10日 |                                                              |
+| **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)**  | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | 最后更新日期：2022年10月25日 | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
+| **Git:[IoTSharp](https://github.com/IoTSharp/IoTSharp)**     | [Apache-2.0 license](https://github.com/IoTSharp/IoTSharp#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月03日 | [在线文档](https://docs.iotsharp.net/docs/intro)             |
+| **Gitee:[ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)** | Apache-2.0                                                   | 最后更新日期：2024年8月13日  | ThingsGateway是一个基于.NET8的<br />跨平台高性能边缘采集网关，主要面向物联网（IOT）<br />和边缘计算领域。提供底层PLC通讯库、通讯调试软件等，<br />便于集成和调试。 |
 
 ### 相关参考
 
 1. **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
 1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
 1. **[一个基于.Net Core 开源的物联网基础平台【IoTSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=3&sn=7caa5aa3a46e5c3d0199815c5b0f4d3e&chksm=96ffee3d20491289fa8ced405dc5073dd6528f83968406e7f227d4275cea3f51d8b2bc0741c0&scene=126&sessionid=1723383964#rd)**
+1. **[一款基于.NET8的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=2&sn=6caa19725f253bd990d534f69007cebd&chksm=9658a6220f578a6af7dabaf592bc579c02aa590b075136a2db6e5239efde18493b7239409142&scene=126&sessionid=1723511292#rd)**
 
 
 
@@ -255,12 +271,16 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Git:[hashids.net](https://github.com/ullmark/hashids.net)** | [MIT license](https://github.com/ullmark/hashids.net#MIT-1-ov-file) | 最后更新日期：2023年09月14日 | https://sqids.org/dotnet?hashids                             |
 | **Git:[NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt)** | [MIT license](https://github.com/myloveCc/NETCore.Encrypt#MIT-1-ov-file) | 最后更新日期：2022年11月29日 | [.NET Core 常用加密和Hash工具NETCore.Encrypt](https://www.cnblogs.com/piscesLoveCc/p/7423205.html) |
-|                                                              |                                                              |                              |                                                              |
+| **Git:[bc-csharp](https://github.com/bcgit/bc-csharp)**      | [MIT license](https://github.com/bcgit/bc-csharp#MIT-1-ov-file) | 最后更新日期：2024年08月07日 | BouncyCastle是一款C#版开源、<br />免费的Bouncy Castle密码库，<br />开发人员可以通过该项目在他们的<br /> C# 应用程序中使用 Bouncy Castle 提供的<br />各种密码学功能，从而加强数据的安全性和保护隐私信息。 |
+| **Git:[NETCore.Encrypt](https://github.com/myloveCc/NETCore.Encrypt)** | [MIT license](https://github.com/myloveCc/NETCore.Encrypt#MIT-1-ov-file) | 最后更新日期：2022年11月29日 | NETCore.Encrypt是.NET Core加密解密工具类库，<br />包括AES、RSA、MD5、SHA1、DES、SHA256、<br />SHA384、SHA512等更多功能。 |
 
 ### 相关参考
 
 1. **[使用Hashids来保护你的Dotnet应用程序【hashids.net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503308&idx=3&sn=164b29c19167e711607fe75da6c9f888&chksm=96b14517d355f5891e8f9ed31797e05ec53c85ef54d5daec7c87ff06dbb8eefb77908a266bd8&scene=126&sessionid=1721695050#rd)**
 1. **[一款.NET Core开源的加密解密工具类库【NETCore.Encrypt】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=2&sn=1a8cc167d9134eda35dd7d0da908ed2a&chksm=96f20f9263cd9fef2a82a8b3d0f09621c0a98002917f950039660025147e57096edb093e9e56&scene=126&sessionid=1721954425#rd)**
+1. **[C#版开源免费的Bouncy Castle密码库【BouncyCastle】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497558&idx=1&sn=406755efc08b09636f973e0f3aebbe78&scene=21#wechat_redirect)**
+1. **[一款实用的.NET Core加密解密工具类库【NETCore.Encrypt】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247493884&idx=2&sn=ec77b0627a1a597798a04e2bb5d65b23&scene=21#wechat_redirect)**
+1. **[2款.NET开源的加密解密工具类库，值得收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=1&sn=f4283b99b6061a43d7f1275ecfa982eb&chksm=96094108fa652fe08212dab2c489d5880faa1c4b775faa821970c8406b4b3e46d4f30d26f80e&scene=126&sessionid=1723511292#rd)**
 
 
 

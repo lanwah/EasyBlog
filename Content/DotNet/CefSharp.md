@@ -113,3 +113,4 @@ CefSharp发布的版本
 
 1. [CefSharp 知道这些就完事了](https://blog.csdn.net/hcmdghv587/article/details/106279735)
 2. [关于CefSharp的坎坷之路](https://www.cnblogs.com/M-Silencer/p/5846494.html)
+2. [Chrome发布109正式版：Win7/8.1平台最后一次更新](https://baijiahao.baidu.com/s?id=1754687761569778706)

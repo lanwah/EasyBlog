@@ -113,3 +113,15 @@
 
 
 
+## Visual Studio 插件
+
+- [2024年最新最全Visual Studio实用插件推荐！ (qq.com)](https://mp.weixin.qq.com/s/A5mMJZkcUMdfkJFNG7sEWQ)
+
+- [开发效率提升利器：5款支持C#语言的AI辅助编程工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=1&sn=53da5ec1a1dd8cf6c325d062ad4e7f3d&chksm=96faa2572620b58390a2279a909aa2a06771ad74194d998fbf3f6257523ec04b5f2531569c49&scene=126&sessionid=1722213176#rd)
+
+
+
+## Visual Studio 调试
+
+- [编程技巧 --- VS远程调试](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=3&sn=b6faeeec08ba9125fd11d3f867601aac&chksm=96467c32caa9c460f5d03a7286c36d1943649345bf5e6245c35c0bb2c1e82c7f3e558e7f8ddb&scene=126&sessionid=1723511292#rd)
+
