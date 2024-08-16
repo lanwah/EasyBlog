@@ -168,16 +168,17 @@ D. 电子白板/大屏
 
 ## H. 后台管理系统
 
-| 项目名称                                                | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[DncZeus](https://github.com/lampo1024/DncZeus)** | [MIT license](https://github.com/lampo1024/DncZeus#MIT-1-ov-file) | 最后更新日期：2023年06月14日 | DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) <br />的前后端分离的通用后台权限(页面访问、<br />操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，<br />UI则是目前流行的基于Vue.js的iView(iview-admin)。<br />项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，<br />让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。<br />演示地址(demo): |
-| Git:                                                    |                                                              | 最后更新日期：               |                                                              |
-| Git:                                                    |                                                              | 最后更新日期：               |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[DncZeus](https://github.com/lampo1024/DncZeus)**      | [MIT license](https://github.com/lampo1024/DncZeus#MIT-1-ov-file) | 最后更新日期：2023年06月14日 | DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) <br />的前后端分离的通用后台权限(页面访问、<br />操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，<br />UI则是目前流行的基于Vue.js的iView(iview-admin)。<br />项目实现了前后端的动态权限管理和控制以及基于JWT的<br />用户令牌认证机制，让前后端的交互更流畅。<br />码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo): |
+| **Git:[Fantastic-admin](https://github.com/fantastic-admin/basic)** | [MIT license](https://github.com/fantastic-admin/basic#MIT-1-ov-file) | 最后更新日期：2024年8月14日  | 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，<br />兼容PC、移动端。vue-admin, vue-element-admin, vue后台,<br /> 后台系统, 后台框架, 管理后台, 管理系统 |
+| Git:                                                         |                                                              | 最后更新日期：               |                                                              |
 
 ### 相关参考
 
 1. **[一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架 【DncZeus】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492114&idx=2&sn=a9c43f87847ce12d23b6eecb100dd09e&scene=21#wechat_redirect)**
 2. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+2. **[一款开箱即用的 Vue3 中后台管理系统框架（支持多款 UI 组件库，兼容PC、移动端）【fantastic-admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=3&sn=1dfb3b8edc9c8bcef6fe4e7a91e948b7&chksm=969d0f3bbaa6526782fc4de1a0a66882d952c723b48b20bc1add106352e5a96d03b708319c5f&scene=126&sessionid=1723768329#rd)**
 
 
 
@@ -235,14 +236,15 @@ D. 电子白板/大屏
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Git:[Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)** | [MIT license](https://github.com/cq-panda/Vue.NetCore#MIT-1-ov-file) | 最后更新日期：2024年07月26日 | 一款基于Vue（提供Vue2/Vue3版本）<br />和.Net Core前后端分离、开源免费<br />（MIT License）、强大、跨平台的快速开发框架，<br />并且框架内置代码生成器（解决重复性工作，提高开发效率），<br />支持移动端(iOS/Android/H5/微信小程序）。 |
 | **Git:[WTM](https://github.com/dotnetcore/WTM)**             | [MIT license](https://github.com/dotnetcore/WTM#MIT-1-ov-file) | 最后更新日期：2024年07月15日 | WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。<br />支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，<br />内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。 |
-| Git:                                                         |                                                              | 最后更新日期：               |                                                              |
+| **Git:[Yi.Admin](https://gitee.com/ccnetcore/Yi)**           | MIT                                                          | 最后更新日期：2024年8月12日  | 后端.Net8，前端Vue3，框架三层架构\DDD领域驱动设计，<br />内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 <br />架构干净整洁、采用微软风格原生框架封装。 <br />适合小中大型项目上线、.Net8学习、Abp.vNext学习、<br />Sqlsugar学习 、项目二次开发。 |
 
 ### 相关参考
 
 1. **[基于Vue（提供Vue2/Vue3版本）和.Net Core前后端分离、强大、跨平台的快速开发框架【Vue.NetCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496991&idx=1&sn=b4220ca6211fdb6ca7a6e768abc0a3aa&scene=21#wechat_redirect)**
 2. **[Vue + .NET Core前后端分离，不一样的快速发开框架(提供Vue2/Vue3版本【Vue.NetCore】)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=2&sn=eafaf9d85b0788350acfb9b4da733c9e&chksm=9657dc5766e1bea66b98c9f7888a517a8450c5c0fa17b7cefa1b6b0cb36f26768933a6d22d97&scene=126&sessionid=1722818981#rd)**
 3. **[一款基于.NET Core的快速开发框架、支持多种前端UI、内置代码生成器【WalkingTec.Mvvm框架（简称WTM）】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495031&idx=1&sn=54cb0e07e0f22b4563b31b444a4034dc&scene=21#wechat_redirect)**
-3. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+4. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+3. **[一套以用户体验出发的.NET8 Web开源框架【YiFramework，Yi.Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504129&idx=2&sn=53a8c5ced48174365d33d569d1c00db3&chksm=96413c0a1b4eac6a1223eae128f8aa627b0f04a3e48bf6e8b82d5d14fdbc3b75ed84db99fab4&scene=126&sessionid=1723682105#rd)**，**[意框架在线Demo](https://ccnetcore.com:1000/index)**，**[意社区](https://ccnetcore.com/index)**
 
 
 
