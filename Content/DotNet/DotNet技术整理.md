@@ -12,7 +12,7 @@
 
    > 在当今的技术世界，人工智能 (AI) 正在以惊人的速度发展。对于开发者来说，使用最新的工具和框架来提升工作效率至关重要。而在 AI 领域，GraphRag.Net 作为一个强大的图算法框架，允许我们以高效的方式进行数据处理。同样，Ollama 作为一个开源的、简单易用的 AI 模型部署平台，正逐渐受到开发者的青睐。今天，我们就来聊聊如何使用 Ollama 将 GraphRag.Net 进行集成。
 
-3. 待补充
+3. **[ML.NET：一个.NET开源、免费、跨平台的机器学习框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504230&idx=1&sn=dc79a5de6b85b152dc95f634382213e5&chksm=96b2713680ab05d86caafcc4755c83dbee2c8a642956c3c1c4bfe153f0d82a9708891e462fff&scene=126&sessionid=1723899633#rd)**
 
 4. 待补充
 
@@ -40,6 +40,8 @@
 ### 算法
 
 - **[C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504120&idx=1&sn=f6ec4f6aed0384c7e3c579055b03e373&chksm=96f5f8948099076cba2ad627440c18d8cd6edad150141489ce539824976feba23f79c3356e42&scene=126&sessionid=1723594895#rd)**
+- **[一个开源免费的数据结构与算法入门教程（支持C#，Python，Java,，C++，C，JS等多门语言）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504230&idx=2&sn=7914bc447cd6ebd2d3cf94cdfa38b677&chksm=96a2cdaad48264c3e99514304831b9c7718d7ef714849659664d4b0e76ad66612b9423dd52dc&scene=126&sessionid=1723899633#rd)**
+- **[C#二叉搜索树算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504335&idx=1&sn=1858eca8bbdcedfab5f79afaf97f3a23&chksm=96e823146a881baa312a1c7a9f319a78e6a23ab59fd5f60ceff451892ca1ec949fd8f051fc16&scene=126&sessionid=1724028274#rd)**
 
 
 

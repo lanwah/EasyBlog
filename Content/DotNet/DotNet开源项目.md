@@ -170,15 +170,20 @@ D. 电子白板/大屏
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[DncZeus](https://github.com/lampo1024/DncZeus)**      | [MIT license](https://github.com/lampo1024/DncZeus#MIT-1-ov-file) | 最后更新日期：2023年06月14日 | DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) <br />的前后端分离的通用后台权限(页面访问、<br />操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，<br />UI则是目前流行的基于Vue.js的iView(iview-admin)。<br />项目实现了前后端的动态权限管理和控制以及基于JWT的<br />用户令牌认证机制，让前后端的交互更流畅。<br />码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo): |
-| **Git:[Fantastic-admin](https://github.com/fantastic-admin/basic)** | [MIT license](https://github.com/fantastic-admin/basic#MIT-1-ov-file) | 最后更新日期：2024年8月14日  | 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI 组件库，<br />兼容PC、移动端。vue-admin, vue-element-admin, vue后台,<br /> 后台系统, 后台框架, 管理后台, 管理系统 |
-| Git:                                                         |                                                              | 最后更新日期：               |                                                              |
+| **Git:[DncZeus](https://github.com/lampo1024/DncZeus)**      | [MIT license](https://github.com/lampo1024/DncZeus#MIT-1-ov-file) | 最后更新日期：2023年06月14日 | DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) <br />的前后端分离的通用后台权限(页面访问、操作按钮<br />控制)管理系统框架。后端使用.NET 7 + EF Core构建，<br />UI则是目前流行的基于Vue.js的iView(iview-admin)。<br />项目实现了前后端的动态权限管理和控制以及基于JWT的<br />用户令牌认证机制，让前后端的交互更流畅。<br />码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo): |
+| **Git:[Fantastic-admin](https://github.com/fantastic-admin/basic)** | [MIT license](https://github.com/fantastic-admin/basic#MIT-1-ov-file) | 最后更新日期：2024年08月14日 | 一款开箱即用的 Vue 中后台管理系统框架，支持多款 UI <br />组件库，兼容PC、移动端。<br />vue-admin, vue-element-admin, <br />vue后台, 后台系统, 后台框架, 管理后台, 管理系统 |
+| **Git:[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)** | [MIT license](https://github.com/PanJiaChen/vue-element-admin#MIT-1-ov-file) | 最后更新日期：2022年04月11日 | vue-element-admin是一个后台前端解决方案，它基<br />于 vue 和 element-ui实现。它使用了最新的前端技术栈，<br />内置了 i18n 国际化解决方案，动态路由，权限验证，<br />提炼了典型的业务模型，提供了丰富的功能组件，<br />它可以帮助你快速搭建企业级中后台产品原型。<br />相信不管你的需求是什么，本项目都能帮助到你。<br />[在线预览](https://panjiachen.github.io/vue-element-admin) |
+| **Git:[ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)** | [MIT license](https://github.com/vueComponent/ant-design-vue-pro#MIT-1-ov-file) | 最后更新日期：2022年10月10日 | 这里是 Ant Design 的 Vue 实现，开发和服务于<br />企业级后台产品。基于Vue框架集成的一个开箱即用<br />的中台前端/设计解决方案。<br />[在线预览](https://preview.pro.antdv.com/user/login) |
+| **Git:[arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue)** | [MIT license](https://github.com/arco-design/arco-design-pro-vue#MIT-1-ov-file) | 最后更新日期：2024年04月26日 | 基于 Arco Design Vue组件库的开箱即用的中后台前端解决<br />方案。Admin 中后台管理页面，创新的多架构方案。<br />[在线预览](https://vue-pro.arco.design/login) |
+| **Git:[vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)** | [MIT license](https://github.com/pure-admin/vue-pure-admin#MIT-1-ov-file) | 最后更新日期：2024年08月12日 | vue-pure-admin 是一款开源免费且开箱即用的中后台<br />管理系统模版。完全采用 ECMAScript 模块（ESM）规<br />范来编写和组织代码，使用了最新的 Vue3、 Vite、<br />Element-Plus、TypeScript、Pinia、<br />Tailwindcss 等主流技术开发。<br />[在线预览](https://pure-admin.github.io/vue-pure-admin) |
+| **Git:[tdesign-vue-next-starter](https://github.com/Tencent/tdesign-vue-next-starter)** | [MIT license](https://github.com/Tencent/tdesign-vue-next-starter#MIT-1-ov-file) | 最后更新日期：2024年07月28日 | TDesign Vue Next Starter 是一个基于 TDesign，<br />使用 Vue3、Vite、Pinia、TypeScript 开发，<br />可进行个性化主题配置，旨在提供项目开箱即用的、<br />配置式的中后台项目。<br />[在线预览](https://tdesign.tencent.com/starter/vue-next/login) |
 
 ### 相关参考
 
 1. **[一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架 【DncZeus】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492114&idx=2&sn=a9c43f87847ce12d23b6eecb100dd09e&scene=21#wechat_redirect)**
 2. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
-2. **[一款开箱即用的 Vue3 中后台管理系统框架（支持多款 UI 组件库，兼容PC、移动端）【fantastic-admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=3&sn=1dfb3b8edc9c8bcef6fe4e7a91e948b7&chksm=969d0f3bbaa6526782fc4de1a0a66882d952c723b48b20bc1add106352e5a96d03b708319c5f&scene=126&sessionid=1723768329#rd)**
+3. **[一款开箱即用的 Vue3 中后台管理系统框架（支持多款 UI 组件库，兼容PC、移动端）【fantastic-admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=3&sn=1dfb3b8edc9c8bcef6fe4e7a91e948b7&chksm=969d0f3bbaa6526782fc4de1a0a66882d952c723b48b20bc1add106352e5a96d03b708319c5f&scene=126&sessionid=1723768329#rd)**
+2. **[推荐5款免费、开箱即用的Vue后台管理系统模板](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504265&idx=1&sn=29014be03821357a4c299f9ec9e8e1a0&chksm=9634b53ddcd22735888de27ca93039d9421c281bf3093759a2110fb410af7106a22a16aae36b&scene=126&sessionid=1723984334#rd)**
 
 
 
@@ -363,7 +368,8 @@ D. 电子白板/大屏
 3. **[.NET开源的简单、快速、强大的前后端分离后台权限管理系统【Admin.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496023&idx=1&sn=5d73769113d69c06565d63b09947def9&scene=21#wechat_redirect)**
 4. **[开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架【Blog.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490524&idx=1&sn=746b3b581603b569106e22fa2455854a&scene=21#wechat_redirect)**
 5. **[一款基于.NET Core Web + Bootstrap的企业级快速开发框架【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500620&idx=1&sn=311bb3529e3b79e3c29ded1a6ac9658e&scene=21#wechat_redirect)**
-6. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+6. **[一个基于 .NET Core 的功能全面、易于使用权限管理系统【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504265&idx=3&sn=a63cadd9f74c97636e21b305c40b32bb&chksm=9666d8308a19932437be871e843184719fe049a76c7719a31e29d98e44b4ad0df90089cb71bf&scene=126&sessionid=1723984334#rd)**
+7. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 5. **[一款基于.NET8的权限管理及快速开发框架（前后端分离）【YuebonCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504018&idx=2&sn=0856e8bba2ab089168458b8f9744bda6&chksm=969914ac55a6033c71529b7c439973bb9dfa6bfa87e25dba8701c10144c93002bb26173f2f3b&scene=126&sessionid=1723423096#rd)**
 
 

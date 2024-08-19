@@ -32,13 +32,17 @@ CefSharp发布的版本
 
 <img src="../Images/Common/hand-right.png" alt="arrow-right" /> https://github.com/cefsharp/CefSharp/releases
 
-### 3、CefSharp中文帮助文档
+### 3、Cef版本和VC++版本
+
+[Release Branches](https://github.com/cefsharp/CefSharp?tab=readme-ov-file#release-branches)
+
+### 4、CefSharp中文帮助文档
 
 <img src="../Images/Common/hand-right.png" alt="arrow-right" /> [CefSharp中文帮助文档 · cefsharp/CefSharp Wiki · GitHub](https://github.com/cefsharp/CefSharp/wiki/CefSharp中文帮助文档)
 
 <img src="../Images/Common/hand-right.png" alt="arrow-right" /> [CSDN：CefSharp中文帮助文档](https://blog.csdn.net/fuhanghang/article/details/110468063)
 
-### 4、Output files description table (Redistribution)
+### 5、Output files description table (Redistribution)
 
 <img src="../Images/Common/hand-right.png" alt="arrow-right" /> https://github.com/cefsharp/CefSharp/wiki/Output-files-description-table-(Redistribution)
 
@@ -49,6 +53,7 @@ CefSharp发布的版本
 | [cefsharp/115](https://github.com/cefsharp/CefSharp/tree/cefsharp/115) | 5790        | 2019*        | 4.6.2**      | Framework要求4.6.2                                           |
 | [cefsharp/109](https://github.com/cefsharp/CefSharp/tree/cefsharp/109) | 5414        | 2019*        | 4.5.2**      | ==最后支持Windows 7/8/8.1的版本==                            |
 | [cefsharp/93](https://github.com/cefsharp/CefSharp/tree/cefsharp/93) | 4577        | 2019*        | 4.5.2**      | VC++使用2019                                                 |
+| [cefsharp/92](https://github.com/cefsharp/CefSharp/tree/cefsharp/92) | 4515        | 2015*        | 4.5.2**      | 最后支持VC++2015的版本                                       |
 | [cefsharp/v87.1.132](https://github.com/cefsharp/CefSharp/releases/tag/v87.1.132) | 4280        | 2015*        | 4.5.2**      | ==[支持AnyCpu配置](https://github.com/cefsharp/CefSharp/issues/1714)== |
 | [cefsharp/49](cefsharp/49)                                   | 2623        | 2013         | 4.0          | ==最后支持Xp的版本==                                         |
 
