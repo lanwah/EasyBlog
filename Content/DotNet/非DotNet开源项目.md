@@ -67,3 +67,22 @@
 
 
 
+## S. 数据库管理工具
+
+### 1、[dbgate](https://github.com/dbgate/dbgate)
+
+项目介绍：
+
+> DbGate是一个跨平台的数据库管理器，设计用于简化多数据库同时操作的复杂性，同时提供高级功能如模式比较、可视化查询设计器、图表可视化等。
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">项目名称：</span><b>dbgate</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开源地址：</span><b>https://github.com/dbgate/dbgate</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">使用协议：</span><b>GPL-3.0, Unknown licenses found</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开发语言：</span><b>Svelte+TypeScript+JavaScript</b></p>
+
+**相关参考**
+
+1. **[一款实用且跨平台的数据库管理神器（支持Web浏览器中运行）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504346&idx=3&sn=4de65d2842bfbad757598b87395e1159&chksm=962ffa475b0d4384a7ff6d6a6da778c2ec80e7c47a97c823ad17b9b018fb0991deaed421af7c&scene=126&sessionid=1724115259#rd)**
