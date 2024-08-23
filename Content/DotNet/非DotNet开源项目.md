@@ -6,6 +6,8 @@
 
 ---
 
+
+
 ## H. 台管理系统
 
 ### 1、 vue-pure-admin
@@ -86,3 +88,25 @@
 **相关参考**
 
 1. **[一款实用且跨平台的数据库管理神器（支持Web浏览器中运行）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504346&idx=3&sn=4de65d2842bfbad757598b87395e1159&chksm=962ffa475b0d4384a7ff6d6a6da778c2ec80e7c47a97c823ad17b9b018fb0991deaed421af7c&scene=126&sessionid=1724115259#rd)**
+
+
+
+## Y. 运维工具/软件
+
+### 1、[JumpServer](https://github.com/jumpserver/jumpserver)
+
+项目介绍：
+
+> JumpServer是一个功能全面、部署方便、广受欢迎的开源堡垒机系统，适用于多种运维管理场景，能够帮助企业提高运维效率和保障系统安全。
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">项目名称：</span><b>jumpserver</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开源地址：</span><b>https://github.com/jumpserver/jumpserver</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">使用协议：</span><b>GPL-3.0 license</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开发语言：</span><b>Python+CSS</b></p>
+
+**相关参考**
+
+1. **[推荐一款开源广受欢迎的开源堡垒机，符合 4A 规范的专业运维安全审计系统！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504372&idx=3&sn=6089751eebca6eb37efff3acd06dbc0d&chksm=96e7f9aed4b9d283977dca21e1f948cac191034f5b76361d64e2b61115f8689b414de19693b7&scene=126&sessionid=1724373028#rd)**

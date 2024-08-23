@@ -202,6 +202,7 @@ D. 电子白板/大屏
 1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
 1. **[一个基于.Net Core 开源的物联网基础平台【IoTSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=3&sn=7caa5aa3a46e5c3d0199815c5b0f4d3e&chksm=96ffee3d20491289fa8ced405dc5073dd6528f83968406e7f227d4275cea3f51d8b2bc0741c0&scene=126&sessionid=1723383964#rd)**
 1. **[一款基于.NET8的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=2&sn=6caa19725f253bd990d534f69007cebd&chksm=9658a6220f578a6af7dabaf592bc579c02aa590b075136a2db6e5239efde18493b7239409142&scene=126&sessionid=1723511292#rd)**
+1. **[一款基于.NET8开源的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=1&sn=264668f0118d76efabb225b65a5bd54f&chksm=96ca5fee1d70b2e046ccac224d36eeee946bf81c18a4724ececde2964cd3cdfd46eb86082245&scene=126&sessionid=1724241646#rd)**
 
 
 
@@ -302,6 +303,20 @@ D. 电子白板/大屏
 ### 相关参考
 
 1. **[命令行参数解析处理](https://lanwah.github.io/EasyBlog/blogs/DotNet/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%A7%A3%E6%9E%90%E5%A4%84%E7%90%86.html)**
+
+
+
+## N. 内容管理系统
+
+| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[ShenNiusModularity](https://gitee.com/shenniu_code_group/shen-nius.-modularity)** | MIT        | 最后更新日期：2023年11月06日 | ShenNiusModularity是一款基于 <br />.NET Core 框架研发的、开源、免费的自媒体内容管理系统。<br />项目秉承大道至简的原则开发，坚持业务模块最低复杂度复用，<br />代码方面追求简单、高效、实用。适合小白入门进阶，<br />同样适用老手上路干活。 |
+|                                                              |            |                              |                                                              |
+|                                                              |            |                              |                                                              |
+
+### 相关参考
+
+1. **[一款基于 .NET Core 框架研发的自媒体内容管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=3&sn=5e0f778cedee9647bf19db2adf1379c2&chksm=96451ee32e8acb6da12f206f096256251f7365fc61505684857c75aa6499446306c5f1c4a57b&scene=126&sessionid=1724241646#rd)**
 
 
 
