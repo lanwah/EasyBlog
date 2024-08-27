@@ -4,6 +4,20 @@
 
 ---
 
+## A. Avalonia UI
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia)** | [MIT license](https://github.com/AvaloniaCommunity/Material.Avalonia#MIT-1-ov-file) | 最后更新日期：2024年08月25日 | [使用文档](https://github.com/AvaloniaCommunity/Material.Avalonia/wiki/Getting-started) |
+|                                                              |                                                              |                              |                                                              |
+|                                                              |                                                              |                              |                                                              |
+
+### 相关参考
+
+1. **[基于Material Design风格开源的Avalonia UI控件库【Material.Avalonia】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504425&idx=2&sn=f168ef8e769266317c627e9fcf01aa6c&chksm=96ae2db6db690c50582868c906086fc65414e20fe5864234a12b09d6b00265cf52fb26f757cb&scene=126&sessionid=1724633234#rd)**
+
+
+
 ## A. ASP.NET Core
 
 | 项目名称                                                     | 使用的协议 | 最新版本 | 帮助文档 |
@@ -191,7 +205,7 @@ D. 电子白板/大屏
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)**  | MIT                                                          | 最后更新日期：2024年06月10日 |                                                              |
+| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)**  | MIT                                                          | 最后更新日期：2024年06月10日 | IoTGateway是一个<br />基于.NET6的跨平台物联网网关。<br />通过可视化配置，轻松的连接到<br />你的任何设备和系统(如PLC、扫码枪、<br />CNC、数据库、串口设备、上位机、<br />OPC Server、OPC UA Server、Mqtt Server等)，<br />从而与 Thingsboard、<br />IoTSharp或您自己的物联网平台(MES、<br />SCADA)进行双向数据通讯。提供简单的驱动开发接口；<br />当然也可以进行边缘计算。 |
 | **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)**  | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | 最后更新日期：2022年10月25日 | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
 | **Git:[IoTSharp](https://github.com/IoTSharp/IoTSharp)**     | [Apache-2.0 license](https://github.com/IoTSharp/IoTSharp#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月03日 | [在线文档](https://docs.iotsharp.net/docs/intro)             |
 | **Gitee:[ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)** | Apache-2.0                                                   | 最后更新日期：2024年8月13日  | ThingsGateway是一个基于.NET8的<br />跨平台高性能边缘采集网关，主要面向物联网（IOT）<br />和边缘计算领域。提供底层PLC通讯库、通讯调试软件等，<br />便于集成和调试。 |
@@ -199,6 +213,7 @@ D. 电子白板/大屏
 ### 相关参考
 
 1. **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
+1. **[IoTGateway：一个.NET开源、免费的跨平台物联网网关【IoTGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504456&idx=1&sn=b8485deb35307c1a06b162b5aacd826c&chksm=96effed0299e0594ed8a39a3da76acacd35667d8310ba95193937591c5991d92e477fd1dcfc5&scene=126&sessionid=1724720195#rd)**
 1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
 1. **[一个基于.Net Core 开源的物联网基础平台【IoTSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=3&sn=7caa5aa3a46e5c3d0199815c5b0f4d3e&chksm=96ffee3d20491289fa8ced405dc5073dd6528f83968406e7f227d4275cea3f51d8b2bc0741c0&scene=126&sessionid=1723383964#rd)**
 1. **[一款基于.NET8的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=2&sn=6caa19725f253bd990d534f69007cebd&chksm=9658a6220f578a6af7dabaf592bc579c02aa590b075136a2db6e5239efde18493b7239409142&scene=126&sessionid=1723511292#rd)**

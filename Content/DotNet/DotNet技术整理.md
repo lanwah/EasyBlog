@@ -26,6 +26,12 @@
 
 
 
+## 反射
+
+- **[.NET中特性＋反射 实现数据校验](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504376&idx=2&sn=2fd96b56646f763d3c23e634762f78e9&chksm=961d2d935c66a4f7a753d320a71bf38450dd8c6141983cf7d7cb6775d4effbe49ec942cd7419&scene=126&sessionid=1724562956#rd)**
+
+
+
 ## 表达式树
 
 - **[.NET 中的表达式树（Expression Trees）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504372&idx=2&sn=bc243418b04091f4179baf1fe7cfe04a&chksm=965212cf8e05ea9ef9f7a49bdb165c34ce05247f0e2c458a99146cd9752aff4b913dca9000c9&scene=126&sessionid=1724373028#rd)**
@@ -67,3 +73,8 @@
 
 - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
 
+
+
+## TCP/IP
+
+- **[上位机面试必备：TCP通信，这25题不可不知 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504376&idx=3&sn=3212da98c6028bd08bbffbfcd144885d&chksm=96d34db37079beb9dd094eafeab4c1b866a777b4cae4456f03a8cd3fc7226271bd688d3d85aa&scene=126&sessionid=1724562956#rd)**
