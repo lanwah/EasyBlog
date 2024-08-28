@@ -81,16 +81,16 @@
 
 ## D. 第三方登录
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
-| **Gitee:[CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)** | AGPL-3.0                                                     | 最后更新日期：2023年10月10日 |          |
-| **Git:[NSmartProxy](https://github.com/tmoonlight/NSmartProxy)** | [MIT license](https://github.com/tmoonlight/NSmartProxy#MIT-1-ov-file) | 最后更新日期：2023年01月02日 |          |
-|                                                              |                                                              |                              |          |
+| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ---------- | ---------------------------- | -------- |
+| **Gitee:[CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)** | AGPL-3.0   | 最后更新日期：2023年10月10日 |          |
+|                                                              |            |                              |          |
+|                                                              |            |                              |          |
 
 ### 相关参考
 
 1. **[.NET平台史上最全的第三方登录开源整合库（包含钉钉、百度、支付宝、微信、企业微信等各大平台【CollectiveOAuth】）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502956&idx=2&sn=e709af54b7d976f1daa751cd0544eba0&chksm=96463d9074778865002fd77cbea379b413c05dcc284fb0b8660ff01c2e398a467476a0093080&scene=126&sessionid=1720695115#rd)**
-1. **[一款.NET开源免费的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503018&idx=3&sn=93b468d3e0baaa92f8b725b334dcaa4c&chksm=964b7216b55d3134182255240b91435a9ee7da0131f0f9631ce7b9b0c8502b494215b2c8b1e9&scene=126&sessionid=1721004385#rd)**
+1. 
 
 
 
@@ -326,12 +326,13 @@ D. 电子白板/大屏
 | 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档                                                     |
 | ------------------------------------------------------------ | ---------- | ---------------------------- | ------------------------------------------------------------ |
 | **Gitee:[ShenNiusModularity](https://gitee.com/shenniu_code_group/shen-nius.-modularity)** | MIT        | 最后更新日期：2023年11月06日 | ShenNiusModularity是一款基于 <br />.NET Core 框架研发的、开源、免费的自媒体内容管理系统。<br />项目秉承大道至简的原则开发，坚持业务模块最低复杂度复用，<br />代码方面追求简单、高效、实用。适合小白入门进阶，<br />同样适用老手上路干活。 |
-|                                                              |            |                              |                                                              |
+| **Gitee:[lin-cms-dotnetcore](https://gitee.com/igeekfan/lin-cms-dotnetcore)** | MIT        | 最后更新日期：2024年08月24日 | 基于.NET 8+FreeSql实现的简单实用的CMS，前后端分离<br />Docker部署、OAtuh2授权登录、QQ、Github、<br />Gitee快速登录、代码生成器、仿掘金专栏、IdentityServer4 |
 |                                                              |            |                              |                                                              |
 
 ### 相关参考
 
 1. **[一款基于 .NET Core 框架研发的自媒体内容管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=3&sn=5e0f778cedee9647bf19db2adf1379c2&chksm=96451ee32e8acb6da12f206f096256251f7365fc61505684857c75aa6499446306c5f1c4a57b&scene=126&sessionid=1724241646#rd)**
+1. **[基于.NET 8+FreeSql实现的简单实用的CMS【lin-cms-dotnetcore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=2&sn=b39078c758eb32a328730672b72b80bc&chksm=967c6169d123fdc7127e2ca52b00b8011897dee846f546ce9929edc6e99e0affde41e74a6ee1&scene=126&sessionid=1724806111#rd)**
 
 
 
@@ -561,6 +562,21 @@ D. 电子白板/大屏
 
 1. **[一个.NET开源且强大的复杂统计报表制作与运行工具（CellReport）](https://mp.weixin.qq.com/s/iXUb5Ti21XJYtxP9pxnjgw)**
 1. 
+
+
+
+## W. 网络管理与安全
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[NSmartProxy](https://github.com/tmoonlight/NSmartProxy)** | [MIT license](https://github.com/tmoonlight/NSmartProxy#MIT-1-ov-file) | 最后更新日期：2023年01月02日 | .NET开源、免费（MIT License）、<br />跨平台的内网穿透工具，<br />采用.NET Core的全异步模式打造：NSmartProxy。 |
+|                                                              |                                                              |                              |                                                              |
+|                                                              |                                                              |                              |                                                              |
+
+### 相关参考
+
+1. **[一款.NET开源免费的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503018&idx=3&sn=93b468d3e0baaa92f8b725b334dcaa4c&chksm=964b7216b55d3134182255240b91435a9ee7da0131f0f9631ce7b9b0c8502b494215b2c8b1e9&scene=126&sessionid=1721004385#rd)**
+2. **[一款.NET开源、跨平台的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=1&sn=81648ae23f5beab92da10249e09661f1&chksm=96f30235d0f6926354b217fb0a7a71dbc147bb493610ec039057daf33188bc4ccc05bfb456c1&scene=126&sessionid=1724806111#rd)**
 
 
 

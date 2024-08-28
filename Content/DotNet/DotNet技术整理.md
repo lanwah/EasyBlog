@@ -26,6 +26,12 @@
 
 
 
+## ASP.NET Core
+
+- **[简化ASP.NET Core API神器：用Gridify轻松实现过滤、排序和分页【Gridify】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=3&sn=381d436f87fe97084416e4c3918d76ae&chksm=967a9718d247b340a425bd227b6cda31edd04025914d0cfe648abb7336b59f1fb5690182a68a&scene=126&sessionid=1724806111#rd)**
+
+
+
 ## 反射
 
 - **[.NET中特性＋反射 实现数据校验](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504376&idx=2&sn=2fd96b56646f763d3c23e634762f78e9&chksm=961d2d935c66a4f7a753d320a71bf38450dd8c6141983cf7d7cb6775d4effbe49ec942cd7419&scene=126&sessionid=1724562956#rd)**
