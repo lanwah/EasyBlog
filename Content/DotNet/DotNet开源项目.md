@@ -402,6 +402,7 @@ D. 电子白板/大屏
 6. **[一个基于 .NET Core 的功能全面、易于使用权限管理系统【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504265&idx=3&sn=a63cadd9f74c97636e21b305c40b32bb&chksm=9666d8308a19932437be871e843184719fe049a76c7719a31e29d98e44b4ad0df90089cb71bf&scene=126&sessionid=1723984334#rd)**
 7. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 5. **[一款基于.NET8的权限管理及快速开发框架（前后端分离）【YuebonCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504018&idx=2&sn=0856e8bba2ab089168458b8f9744bda6&chksm=969914ac55a6033c71529b7c439973bb9dfa6bfa87e25dba8701c10144c93002bb26173f2f3b&scene=126&sessionid=1723423096#rd)**
+5. **[YuebonCore：基于.NET8开源、免费的权限管理及快速开发框架【YuebonNetCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504494&idx=1&sn=220e80fce5575ac0a4342900c6b27206&chksm=96799443c5f2541c59d09f3e0bbd1fb556dcbcbbe19d6fdf96f55c3cee56e0d53c47ff3db52b&scene=126&sessionid=1724893072#rd)**
 
 
 
