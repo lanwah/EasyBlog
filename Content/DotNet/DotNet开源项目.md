@@ -235,6 +235,20 @@ D. 电子白板/大屏
 
 
 
+## J. 检查与验证
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
+| **Git:[GuardClauses](https://github.com/ardalis/GuardClauses)** | [MIT license](https://github.com/ardalis/GuardClauses#MIT-1-ov-file) | 最后更新日期：2024年07月09日 |          |
+|                                                              |                                                              |                              |          |
+|                                                              |                                                              |                              |          |
+
+### 相关参考
+
+1. **[告别嵌套：保护性条件语句让你的C#代码更简洁 【Ardalis.GuardClauses】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=3&sn=1669efaed01f04d5f906475f7b27010e&chksm=961736cf7cb55bf56a05e084906347cedd80816ee5a60534bf92a1710af26234da61ace2e1f3&scene=126&sessionid=1724978463#rd)**
+
+
+
 ## K. 控制台
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -578,6 +592,20 @@ D. 电子白板/大屏
 
 1. **[一款.NET开源免费的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503018&idx=3&sn=93b468d3e0baaa92f8b725b334dcaa4c&chksm=964b7216b55d3134182255240b91435a9ee7da0131f0f9631ce7b9b0c8502b494215b2c8b1e9&scene=126&sessionid=1721004385#rd)**
 2. **[一款.NET开源、跨平台的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=1&sn=81648ae23f5beab92da10249e09661f1&chksm=96f30235d0f6926354b217fb0a7a71dbc147bb493610ec039057daf33188bc4ccc05bfb456c1&scene=126&sessionid=1724806111#rd)**
+
+
+
+## W. 文本编辑器
+
+| 项目名称                                               | 使用的协议                                                   | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
+| **Git:[Notepads](https://github.com/0x7c13/Notepads)** | [MIT license](https://github.com/0x7c13/Notepads#MIT-1-ov-file) | 最后更新日期：2024年07月20日 |          |
+|                                                        |                                                              |                              |          |
+|                                                        |                                                              |                              |          |
+
+### 相关参考
+
+1. **[一个.NET开源、现代、轻量级的文本编辑器 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504581&idx=1&sn=ce08ba10fe91e7cc9743476a6a5db340&chksm=967bb4be41ccd94b58fe8d4296629ad5952c24f405722b7feb4adacacca62283a83d57775e6b&scene=126&sessionid=1725109614#rd)**
 
 
 
