@@ -91,6 +91,23 @@
 
 
 
+## W. 微信小程序
+
+| 项目名称/地址                                                | 开源协议 | 功能介绍                                                     |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| **Gitee:[ddrun](https://gitee.com/landalfyao/ddrun)**        | MIT      | **项目介绍**<br />本项目后端采用 midway3.0，后台采用 nuxt2.x,小程序采用 uniapp 实现的一套跑腿下单接单系统。<br />**官网** [https://www.malimawai.com](https://gitee.com/link?target=https%3A%2F%2Fwww.malimawai.com)<br />**主要功能**<br />帮送服务、帮买服务、骑手注册、骑手接单、用户下单、提现、订单分配系统、优惠券、物品重量计算、距离计算等。 |
+| **Gitee:[yshop-drink](https://gitee.com/guchengwuyue/yshop-drink)** | MIT      | 意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，<br />SaaS多租户模式,基础技术Java17，springboot3、vue3、uniapp(vue3)（支持H5、微信小程序） <br />采用当前流行技术组合的前后端分离点餐系统：SpringBoot3、Spring Security OAuth2、<br />MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统， 包含外卖与自取、<br />商品管理(多规格sku)、店铺管理、云小票打印、图片素材库、订单管理、积分兑换(积分+金额)、<br />充值、优惠券、充值、多门店、微信公众号、商家中心、提前预约、桌面扫码点餐(单人或者多人协同)、<br />收银台、会员卡等功能，更适合企业或个人二次开发.<br />官网地址：[https://www.yixiang.co/](https://gitee.com/link?target=https%3A%2F%2Fwww.yixiang.co%2F) |
+| **Github:[ExamOnline](https://github.com/wulivictor/ExamOnline)** |          | 微信小程序，考试小程序，答题小程序，刷题小程序，考公小程序，考研小程序，毕业设计小程序，<br />有前后端完整源码和数据库，易于二次开发。还可用于考试预约，企业内部考核，内部培训等，<br />注册师刷题，基于云开发，部署简单，免服务器和域名备案。 |
+| **Gitee:[e家宜业](https://gitee.com/chowa/ejyy)**            | AGPL-3.0 | 「e家宜业」是一整套基于AGPL开源协议开源的智慧物业解决方案。实现了微信公众号、<br />小程序、PC、H5、智能硬件多端打通，旨在提升物业公司效率、规范物业服务流程、<br />提升物业服务满意度、加强小区智慧化建设、便捷业主服务。 <br />后端采用Koa + Typescript轻量级构建，支持分布式部署；前端使用vue + view-design开发。 |
+| **Gitee:[前端铺子-uniapp移动端](https://gitee.com/kevin_chou/qdpz)** | GPL-3.0  | 项目基于vue，使用colorUi与uView，完美支持微信小程序，包含功能：聊天室、金融量化、<br />抽奖、地图轨迹回放、电子签名、图片/海报编辑器、自定义相机/键盘、拍照图片水印、<br />智能抠图、照片墙、在线答题、证件识别、周边定位查询、文档预览、各种图表、<br />行政区域、海报生成器、视频播放、主题切换、时间轴、瀑布流、排行榜、课程表、<br />简历、商城、登录页、加载动画、请求封装等 |
+| **Gitee:[社交论坛linfeng-community](https://gitee.com/virus010101/linfeng-community)** | AGPL-3.0 | 林风社交论坛小程序/H5/app版本是基于SpringBoot，MybatisPlus，Shiro，jwt，<br />Redis，Vue，Uniapp的前后端分离的社交论坛问答发帖BBS论坛系统，<br />包括论坛系统图文帖，视频，圈子，私聊，微信支付，付费贴，积分签到，<br />钱包充值，积分余额兑换，点赞关注，抽奖大转盘，手机号邮箱登录，<br />机器人自动发帖等论坛系统功能，适配论坛小程序，论坛H5，论坛App多端 |
+
+### 相关参考
+
+1. **[这几个开源微信小程序，太有想法了（附源码） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=3&sn=051b6c9d74da9d14f4d2c74a596cac09&chksm=969bdcd95d173ac9bf94630ecee12ece31f9fdf62769c1def764103f9f1712d65e3083da8800&scene=126&sessionid=1725325808#rd)**
+
+
+
 ## Y. 运维工具/软件
 
 ### 1、[JumpServer](https://github.com/jumpserver/jumpserver)

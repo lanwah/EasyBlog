@@ -116,8 +116,8 @@
 ## Visual Studio 插件
 
 - [2024年最新最全Visual Studio实用插件推荐！ (qq.com)](https://mp.weixin.qq.com/s/A5mMJZkcUMdfkJFNG7sEWQ)
-
 - [开发效率提升利器：5款支持C#语言的AI辅助编程工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=1&sn=53da5ec1a1dd8cf6c325d062ad4e7f3d&chksm=96faa2572620b58390a2279a909aa2a06771ad74194d998fbf3f6257523ec04b5f2531569c49&scene=126&sessionid=1722213176#rd)
+- [一个.NET开源的 Git 图形用户界面（GUI）工具 【Git Extensions】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504786&idx=1&sn=2de96ff67d8ae52e321d8253dfc3313b&chksm=967394d5b92ba761cd9913eacf575433b0366eaeac410d959eae91cd59d45a50a35cde4d894a&scene=126&sessionid=1725842446#rd)
 
 
 

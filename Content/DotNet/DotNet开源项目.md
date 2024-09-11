@@ -96,15 +96,16 @@
 
 ## D. 定时任务
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                    | 帮助文档 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------- | -------- |
-| **Git:[FreeScheduler](https://github.com/2881099/FreeScheduler)** | [MIT](https://github.com/2881099/FreeScheduler/blob/master/LICENSE) | 最后更新日期：2024年3月26日 |          |
-|                                                              |                                                              |                             |          |
-|                                                              |                                                              |                             |          |
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[FreeScheduler](https://github.com/2881099/FreeScheduler)** | [MIT](https://github.com/2881099/FreeScheduler/blob/master/LICENSE) | 最后更新日期：2024年3月26日  |                                                              |
+| **Git:[Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI)** |                                                              | 最后更新日期：2024年07月15日 | 项目 Quartz.NetUI 是一个基于 Quartz.NET <br />的任务调度系统，它使用 .NET Core 3.1 开发，<br />提供了一套可视化的界面来管理和操作任务调度。 |
+|                                                              |                                                              | 最后更新日期：               |                                                              |
 
 ### 相关参考
 
 1. **[.NET开源轻量化的定时任务调度框架【FreeScheduler】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503534&idx=3&sn=478265bd63d3fe9944baede770d4aace&chksm=9690883c27c58b2de125181d36f6fd9bfbd188728019f56909755a4056f4ac8a2ad5306c87b0&scene=126&sessionid=1722302129#rd)**
+1. [基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI【Quartz.NetUI】](https://mp.weixin.qq.com/s/K0PiXf4oDM7HoTv74TRIVA)
 
 
 
@@ -150,17 +151,48 @@ D. 电子白板/大屏
 
 
 
+## D. 代码生成器
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
+| **Git:[Dorisoy.Rigger](https://github.com/dorisoy/Dorisoy.Rigger)** | [MIT license](https://github.com/dorisoy/Dorisoy.Rigger#MIT-1-ov-file) | 最后更新日期：2022年09月20日 |          |
+|                                                              |                                                              |                              |          |
+|                                                              |                                                              |                              |          |
+
+### 相关参考
+
+1. **[基于.NET实现的开发框架代码生成器（支持多数据库，自定义T4模板） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504625&idx=3&sn=ea7cb1d70c5abd69285d14e53ec1fef8&chksm=96cca3505e322c6236658e0b25ee6ad2d7f541c150c1744dc7f81685bc8c5c6f66cd9395c557&scene=126&sessionid=1725237952#rd)**
+
+
+
 ## G. 工作流
 
-| 项目名称 | 使用的协议 | 最新版本 | 帮助文档 |
-| -------- | ---------- | -------- | -------- |
-|          |            |          |          |
-|          |            |          |          |
-|          |            |          |          |
+| 项目名称                                            | 使用的协议 | 最新版本                     | 帮助文档                                                     |
+| --------------------------------------------------- | ---------- | ---------------------------- | ------------------------------------------------------------ |
+| **Gitee:[CCFlow](https://gitee.com/opencc/ccflow)** | GPL-3.0    | 最后更新日期：2024年09月05日 | ccflow包含表单引擎+流程引擎+权限控制，<br />方便集成，配置灵活，功能强大，<br />适合中国国情的工作流引擎, <br />点starred记住序号,加群：728422467,国外有activiti,国内有ccflow. |
+|                                                     |            |                              |                                                              |
+|                                                     |            |                              |                                                              |
 
 ### 相关参考
 
 1. [**C# .NET 6 使用WorkFlow Core 创建工作审批流**](https://www.cnblogs.com/BFMC/p/18233359)
+1. [一款.NET开源、功能强大的工作流引擎 【CCFlow】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=3&sn=32f21f3cb372da5c88d54c2ec9893536&chksm=9647e4e4abc1aca903085629164e54f3d20e960222f3745ca537e9ab23ab89754c5084027bd3&scene=126&sessionid=1726016076#rd)
+
+
+
+## G. 工具类
+
+| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
+| **Git:[Masuit.Tools](https://github.com/ldqk/Masuit.Tools)** | [MIT license](https://github.com/ldqk/Masuit.Tools#MIT-1-ov-file) | 最后更新日期：2024年07月08日 | [文章详细介绍](https://mp.weixin.qq.com/s/hpCFIUF0HMD5dcw8GRk_Bw) |
+| **Git:[Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)** | [MIT license](https://github.com/zzzprojects/Z.ExtensionMethods#MIT-1-ov-file) | 最后更新日期：2024年03月21日 | [文章详细介绍](https://mp.weixin.qq.com/s/KED89NcE3RumHdnU381wGQ) |
+| **Git:[Common.Utility](https://github.com/laochiangx/Common.Utility)** | 无                                                           | 最后更新日期：2020年06月08日 | [文章详细介绍](https://mp.weixin.qq.com/s/RNsZPTHIZviMKYz1Uc3Ssg) |
+
+### 相关参考
+
+1. **[3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)**
+1. **[效率提升利器：一个全龄段友好的C#/.NET万能工具库 【Masuit.Tools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504688&idx=2&sn=bbddbcf7674b7ac4f49921e032dc0da1&chksm=9676fb1687d5b33349ce5152f61b35b8e4f064cca7949def70e1e4d717a4ad5d244834d9475f&scene=126&sessionid=1725497837#rd)**
+
 
 
 
@@ -271,7 +303,8 @@ D. 电子白板/大屏
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Git:[Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)** | [MIT license](https://github.com/cq-panda/Vue.NetCore#MIT-1-ov-file) | 最后更新日期：2024年07月26日 | 一款基于Vue（提供Vue2/Vue3版本）<br />和.Net Core前后端分离、开源免费<br />（MIT License）、强大、跨平台的快速开发框架，<br />并且框架内置代码生成器（解决重复性工作，提高开发效率），<br />支持移动端(iOS/Android/H5/微信小程序）。 |
 | **Git:[WTM](https://github.com/dotnetcore/WTM)**             | [MIT license](https://github.com/dotnetcore/WTM#MIT-1-ov-file) | 最后更新日期：2024年07月15日 | WalkingTec.Mvvm框架（简称WTM）是基于.net core的快速开发框架。<br />支持Layui(前后端不分离), React(前后端分离),VUE(前后端分离)，<br />内置代码生成器，最大程度的提高开发效率，是一款高效开发的利器。 |
-| **Git:[Yi.Admin](https://gitee.com/ccnetcore/Yi)**           | MIT                                                          | 最后更新日期：2024年8月12日  | 后端.Net8，前端Vue3，框架三层架构\DDD领域驱动设计，<br />内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 <br />架构干净整洁、采用微软风格原生框架封装。 <br />适合小中大型项目上线、.Net8学习、Abp.vNext学习、<br />Sqlsugar学习 、项目二次开发。 |
+| **Git:[Yi.Admin](https://gitee.com/ccnetcore/Yi)**           | MIT                                                          | 最后更新日期：2024年08月12日 | 后端.Net8，前端Vue3，框架三层架构\DDD领域驱动设计，<br />内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 <br />架构干净整洁、采用微软风格原生框架封装。 <br />适合小中大型项目上线、.Net8学习、Abp.vNext学习、<br />Sqlsugar学习 、项目二次开发。 |
+| **Gitee:[Known](https://gitee.com/known/Known)**             | Apache-2.0                                                   | 最后更新日期：2024年08月30日 | Known是基于Blazor的企业级快速开发框架，<br />低代码，跨平台，开箱即用，一处代码，多处运行。 |
 
 ### 相关参考
 
@@ -280,6 +313,7 @@ D. 电子白板/大屏
 3. **[一款基于.NET Core的快速开发框架、支持多种前端UI、内置代码生成器【WalkingTec.Mvvm框架（简称WTM）】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495031&idx=1&sn=54cb0e07e0f22b4563b31b444a4034dc&scene=21#wechat_redirect)**
 4. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 3. **[一套以用户体验出发的.NET8 Web开源框架【YiFramework，Yi.Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504129&idx=2&sn=53a8c5ced48174365d33d569d1c00db3&chksm=96413c0a1b4eac6a1223eae128f8aa627b0f04a3e48bf6e8b82d5d14fdbc3b75ed84db99fab4&scene=126&sessionid=1723682105#rd)**，**[意框架在线Demo](https://ccnetcore.com:1000/index)**，**[意社区](https://ccnetcore.com/index)**
+3. **[基于Blazor开箱即用的企业级快速开发框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504595&idx=3&sn=c86706d92e12fc9be011115341a25cb0&chksm=96a974535ed1c558007f9f28e979b1f26481623782e24c35cd4186bc96c17998b1f03db19b45&scene=126&sessionid=1725190461#rd)**
 
 
 
@@ -293,12 +327,12 @@ D. 电子白板/大屏
 | **Git:[Autogen](https://github.com/microsoft/autogen)**      | CC-BY-4.0, MIT licenses found                                | 最后更新日期：2024年07月29日 | [在线文档](https://microsoft.github.io/autogen/)             |
 | **Git:[kernel-memory](https://github.com/microsoft/kernel-memory)** | [MIT license](https://github.com/microsoft/kernel-memory#MIT-1-ov-file) | 最后更新日期：2024年07月27日 | [在线文档](https://microsoft.github.io/kernel-memory/)       |
 | **Git:[LangChain](https://github.com/tryAGI/LangChain)**     | [MIT license](https://github.com/tryAGI/LangChain#MIT-1-ov-file) | 最后更新日期：2024年07月29日 | [在线文档](https://tryagi.gitbook.io/langchain)              |
-| Git:                                                         |                                                              | 最后更新日期：               |                                                              |
+| **Git:[ollama](https://github.com/ollama/ollama)**           | [MIT license](https://github.com/ollama/ollama#MIT-1-ov-file) | 最后更新日期：2024年09月11日 | [官网首页](https://ollama.com/)                              |
 
 ### 相关参考
 
 1. **[分享6个.NET开源的AI和LLM相关项目框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503450&idx=1&sn=f816eafc74b984e6e3b50f93ebeec5c6&chksm=96cddf12c6d21ee3b11fed6fbb4bbbedb6e4de04770a44f3836b28ffbc513d428784dbefa410&scene=126&sessionid=1722213176#rd)**
-1. 
+1. [C#整合Ollama实现本地LLMs调用【ollama】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=2&sn=fcc4d88a27d43935f57483f120b40ef6&chksm=96bca15ba65686a6b2b6e4004d5de5542568e47d325da8c800327dbb174ba18ca2492cda2338&scene=126&sessionid=1726016076#rd)
 
 
 
@@ -417,20 +451,7 @@ D. 电子白板/大屏
 7. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
 5. **[一款基于.NET8的权限管理及快速开发框架（前后端分离）【YuebonCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504018&idx=2&sn=0856e8bba2ab089168458b8f9744bda6&chksm=969914ac55a6033c71529b7c439973bb9dfa6bfa87e25dba8701c10144c93002bb26173f2f3b&scene=126&sessionid=1723423096#rd)**
 5. **[YuebonCore：基于.NET8开源、免费的权限管理及快速开发框架【YuebonNetCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504494&idx=1&sn=220e80fce5575ac0a4342900c6b27206&chksm=96799443c5f2541c59d09f3e0bbd1fb556dcbcbbe19d6fdf96f55c3cee56e0d53c47ff3db52b&scene=126&sessionid=1724893072#rd)**
-
-
-
-## Q. 其他工具类
-
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[Masuit.Tools](https://github.com/ldqk/Masuit.Tools)** | [MIT license](https://github.com/ldqk/Masuit.Tools#MIT-1-ov-file) | 最后更新日期：2024年07月08日 | [文章详细介绍](https://mp.weixin.qq.com/s/hpCFIUF0HMD5dcw8GRk_Bw) |
-| **Git:[Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)** | [MIT license](https://github.com/zzzprojects/Z.ExtensionMethods#MIT-1-ov-file) | 最后更新日期：2024年03月21日 | [文章详细介绍](https://mp.weixin.qq.com/s/KED89NcE3RumHdnU381wGQ) |
-| **Git:[Common.Utility](https://github.com/laochiangx/Common.Utility)** | 无                                                           | 最后更新日期：2020年06月08日 | [文章详细介绍](https://mp.weixin.qq.com/s/RNsZPTHIZviMKYz1Uc3Ssg) |
-
-### 相关参考
-
-1. **[3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)**
+5. [3款.NET开源、免费、功能全面的权限管理系统【OpenAuth.Net】【YiShaAdmin】【YuebonCore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504940&idx=2&sn=a2b8b28373e17567bb1a5808c294e466&chksm=96ae3d6098fcc26dc0dc38364a366a34224c8949a172fb9020c75da2cacc61e06ef49f419bd5&scene=126&sessionid=1725930428#rd)
 
 
 
@@ -488,15 +509,17 @@ D. 电子白板/大屏
 
 ## S. 数据库管理工具
 
-| 工具名称             | 官网                                                         | 下载地址                                                     | 介绍文档                                                     | 支持平台              |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| DBeaver              | [dbeaver.io](https://dbeaver.io/)                            | [下载](https://dbeaver.io/download)                          | [详细介绍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495950&idx=1&sn=a26fd06ddab528b5e5893aaaf535dd77&scene=21#wechat_redirect) | Windows、macOS、Linux |
-| Navicat Premium Lite | [navicat-premium-lite](https://www.navicat.com.cn/products#navicat-premium-lite) | [下载](https://www.navicat.com.cn/download/navicat-premium-lite) | [详细介绍](https://mp.weixin.qq.com/s/W65BzGtr1Ens4ykZzGjkyA) | Windows、macOS、Linux |
-| JookDB               | [JookDB](https://jookdb.com/)                                | [下载](https://jookdb.com/download.html)                     |                                                              | Windows、macOS、Linux |
+| 工具名称                                           | 官网                                                         | 下载地址                                                     | 介绍文档                                                     | 支持平台              |
+| -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
+| DBeaver                                            | [dbeaver.io](https://dbeaver.io/)                            | [下载](https://dbeaver.io/download)                          | [详细介绍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495950&idx=1&sn=a26fd06ddab528b5e5893aaaf535dd77&scene=21#wechat_redirect) | Windows、macOS、Linux |
+| Navicat Premium Lite                               | [navicat-premium-lite](https://www.navicat.com.cn/products#navicat-premium-lite) | [下载](https://www.navicat.com.cn/download/navicat-premium-lite) | [详细介绍](https://mp.weixin.qq.com/s/W65BzGtr1Ens4ykZzGjkyA) | Windows、macOS、Linux |
+| JookDB                                             | [JookDB](https://jookdb.com/)                                | [下载](https://jookdb.com/download.html)                     |                                                              | Windows、macOS、Linux |
+| **Git:[Archery](https://github.com/hhyo/Archery)** | [Apache-2.0 license](https://github.com/hhyo/Archery#Apache-2.0-1-ov-file) |                                                              | [在线文档](https://archerydms.com)                           | SQL审核查询平台       |
 
 ### 相关推荐
 
 1. **[推荐3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=1&sn=c59a76aa2bbb370809a17faaa511ecb4&chksm=9614b61a861a32b7323a3e6de7a7549bdb133ed6e08ab3e7657848c3e6f35e58eedc53affc24&scene=126&sessionid=1722818981#rd)**
+1. **[一个功能丰富的SQL审核查询平台 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504625&idx=2&sn=2e872d03bc0be3dca8f93347b66cdd2e&chksm=96a6d2846d474cbd489341415e31b541b7d83fe9bb5cda1d19c56c5a7c54b45fce6e8519fa30&scene=126&sessionid=1725237952#rd)**
 
 
 
@@ -614,12 +637,13 @@ D. 电子白板/大屏
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | **Git:[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)** | [MIT license](https://github.com/nilaoda/N_m3u8DL-RE#MIT-1-ov-file) | 最后更新日期：2024年07月25日 | 免费、跨平台的DASH/HLS/MSS下载工具，<br />并且支持点播和直播（DASH/HLS）的内容下载 |
-|                                                              |                                                              |                              |                                                              |
+| **Git:[srs](https://github.com/ossrs/srs)**                  | [MIT license](https://github.com/ossrs/srs#MIT-1-ov-file)    |                              | SRS是一个开源的（MIT协议）简单高效的<br />实时视频服务器，支持RTMP、WebRTC、<br />HLS、HTTP-FLV、SRT、MPEG-DASH和<br />GB28181等协议。SRS媒体服务器和FFmpeg、<br />OBS、VLC、 WebRTC等客户端配合使用，<br />提供流的接收和分发的能力，是一个典型的<br />发布 （推流）和订阅（播放）服务器模型。<br />SRS支持互联网广泛应用的音视频协议转换，<br />比如可以将RTMP或SRT， <br />转成HLS或HTTP-FLV或WebRTC等协议。 |
 |                                                              |                                                              |                              |                                                              |
 
 ### 相关参考
 
 1. **[一款.NET开源、跨平台的DASH/HLS/MSS下载工具【N_m3u8DL-RE】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=1&sn=06c95846c78c7710c599cf7c0499f915&chksm=968c3e69394cab31d03015486448fe60ba0ccfbff3d6454d113b653e5272ca2b5fde95863889&scene=126&sessionid=1722213176#rd)**
+1. **[使用asp.net core 8+vue3 实现高效音视频通话 (SRS)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=2&sn=6787755c36eab6115833dc2dc1df4e84&chksm=9659885b9b36ede96ab84461ab941be07fa50de463e67d8cec176ae531b1a3687a10d5bcac87&scene=126&sessionid=1725325808#rd)**
 
 
 
