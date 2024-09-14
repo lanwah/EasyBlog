@@ -192,6 +192,7 @@ D. 电子白板/大屏
 
 1. **[3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)**
 1. **[效率提升利器：一个全龄段友好的C#/.NET万能工具库 【Masuit.Tools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504688&idx=2&sn=bbddbcf7674b7ac4f49921e032dc0da1&chksm=9676fb1687d5b33349ce5152f61b35b8e4f064cca7949def70e1e4d717a4ad5d244834d9475f&scene=126&sessionid=1725497837#rd)**
+1. [一个全面且高效的C#帮助类库【Common.Utility】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505136&idx=2&sn=1a48a4eba65539805ae4933130c98e2f&chksm=9638828814c9415e1330cbe452e3943302641223458991c67797348ab3d97eba3686e2e5e703&scene=126&sessionid=1726103177#rd)
 
 
 
@@ -283,17 +284,21 @@ D. 电子白板/大屏
 
 ## K. 控制台
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)** | [MIT license](https://github.com/gui-cs/Terminal.Gui#MIT-1-ov-file) | 最后更新日期：2024年07月12日 | [API Documentation](https://gui-cs.github.io/Terminal.Gui/api/Terminal.Gui) |
-| **Git:[Spectre.Console](https://github.com/spectreconsole/spectre.console)** | [MIT license](https://github.com/spectreconsole/spectre.console#MIT-1-ov-file) | 最后更新日期：2024年08月01日 | [在线文档](https://spectreconsole.net/quick-start)           |
-|                                                              |                                                              |                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     | 功能说明                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)** | [MIT license](https://github.com/gui-cs/Terminal.Gui#MIT-1-ov-file) | [API Documentation](https://gui-cs.github.io/Terminal.Gui/api/Terminal.Gui) |                                                              |
+| **Git:[Spectre.Console](https://github.com/spectreconsole/spectre.console)** | [MIT license](https://github.com/spectreconsole/spectre.console#MIT-1-ov-file) | [在线文档](https://spectreconsole.net/quick-start)           |                                                              |
+| **Git:[Colorful.Console](https://github.com/tomakita/Colorful.Console)** | [MIT license](https://github.com/tomakita/Colorful.Console#MIT-1-ov-file) |                                                              | 它可以增强我们对控制台输出文字样式的控制。<br />我们可以使用`System.Drawing.Color`中定义<br />的颜色来定义控制台程序的配色方案。 |
+| **Git:[ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables)** | [MIT license](https://github.com/khalidabuhakmeh/ConsoleTables#MIT-1-ov-file) |                                                              | `ConsoleTables`包可以让开发人员很轻松的将<br />一组对象以表格的形式展示在控制台中。 |
+| **Git:[shellprogressbar](https://github.com/Mpdreamz/shellprogressbar)** | [MIT license](https://github.com/Mpdreamz/shellprogressbar#MIT-1-ov-file) |                                                              | 使用它，你可以在控制台输出一些非常惊艳的进度条。<br />而且，`ShellProgressBar`是可以实现进度条的嵌套使用。<br />例如，如下GIF动画中展示的效果。 |
+| **Git:[TerminalGuiDesigner](https://github.com/gui-cs/TerminalGuiDesigner)** | [MIT license](https://github.com/gui-cs/TerminalGuiDesigner#MIT-1-ov-file) |                                                              | 它提供了一个功能完善的工具箱，开发人员可以使用它<br />构建早期控制台常见的一种用户界面。 |
 
 ### 相关参考
 
 1. **[使用Terminal.Gui构建功能强大的.NET控制台应用【Terminal.Gui】](https://www.cnblogs.com/Can-daydayup/p/18282774)**
 2. **[一个库帮你轻松的创建漂亮的.NET控制台应用程序【Spectre.Console】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247499630&idx=1&sn=f23d18081290b96b4ae15a6910241625&scene=21#wechat_redirect)**
 1. **[增强用户体验：2个功能强大的.NET控制台应用帮助库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=1&sn=509f94d808c80b286b87d101a04279d5&chksm=96d6a4b284952ab582d15ba681a2557452500bad2c05d983f57b58034748e06caf4f682859bd&scene=126&sessionid=1722904874#rd)**
+1. [提升.NET控制台应用体验的工具包 (lanwah.github.io)](https://lanwah.github.io/EasyBlog/blogs/类库使用/提升.NET控制台应用体验的工具包.html)
 
 
 
@@ -401,16 +406,17 @@ D. 电子白板/大屏
 
 ## O. ORM
 
-| 项目名称                                                | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[NPoco](https://github.com/schotime/NPoco)**      | [Apache-2.0 license](https://github.com/schotime/NPoco#Apache-2.0-1-ov-file) | 最后更新日期：2023年12月20日 | [Wiki](https://github.com/schotime/NPoco/wiki)               |
-| **Git:[Dommel](https://github.com/henkmollema/Dommel)** | [MIT license](https://github.com/henkmollema/Dommel#MIT-1-ov-file) | 最后更新日期：2024年04月04日 | C#开源（MIT License）、免费、简单易用的Dapper扩展类库，<br />帮助.NET开发者使用Dapper的CRUD操作变得更简单：Dommel。 |
-|                                                         |                                                              |                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                       | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------ |
+| **Git:[NPoco](https://github.com/schotime/NPoco)**           | [Apache-2.0 license](https://github.com/schotime/NPoco#Apache-2.0-1-ov-file) | [Wiki](https://github.com/schotime/NPoco/wiki) |                                                              |
+| **Git:[Dommel](https://github.com/henkmollema/Dommel)**      | [MIT license](https://github.com/henkmollema/Dommel#MIT-1-ov-file) |                                                | C#开源（MIT License）、免费、简单易用的Dapper扩展类库，<br />帮助.NET开发者使用Dapper的CRUD操作变得更简单：Dommel。 |
+| **Git:[EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)** | [MIT license](https://github.com/zzzprojects/EntityFramework-Plus#MIT-1-ov-file) | [在线文档](https://entityframework-plus.net/)  | Entity Framework Plus是一个开源、免费（MIT License）、<br />功能强大的 Entity Framework（EF）和 <br />Entity Framework Core（EF Core） 扩展库，<br />旨在提升 Entity Framework 的性能和克服其局限性。<br />通过提供一系列实用的功能，如批量操作、查询缓存、<br />查询延迟、LINQ动态、审计跟踪等，<br />使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。 |
 
 ### 相关参考
 
 1. **[C# 轻量级 ORM 框架 NPoco 的简单应用【NPoco】](https://www.cnblogs.com/timefiles/p/18294967)**
 1. **[C#开源、简单易用的Dapper扩展类库 【Dommel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503284&idx=1&sn=466657f30b1e8c611bd6224e4e6f6655&chksm=9691d84b7fe416bd914ae798d63e80ac9704d37d1334a85cc84d08f1bddb361b2bbec2f6c6d4&scene=126&sessionid=1721608423#rd)**
+1. **[Entity Framework Plus: 让 EF Core 开发如虎添翼 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=1&sn=b3fc39535316088d5ebb46b82e3d717f&chksm=968c7b2d53e5c6251330cb3f8be1d5f1224546a759452de06d30e800a2372469b33d8143ec06&scene=126&sessionid=1726188991#rd)**
 
 
 
@@ -461,15 +467,16 @@ D. 电子白板/大屏
 
 ### 桌面启动器
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
-| **Git:[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** | [MIT license](https://github.com/Flow-Launcher/Flow.Launcher#MIT-1-ov-file) | 最后更新日期：2024年07月16日 |          |
-| **Git:[CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher)** | [MIT license](https://github.com/OrgEleCho/CurvaLauncher#MIT-1-ov-file) | 最后更新日期：2024年05月10日 |          |
-|                                                              |                                                              |                              |          |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档 | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ |
+| **Git:[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)** | [MIT license](https://github.com/Flow-Launcher/Flow.Launcher#MIT-1-ov-file) |          |                                                              |
+| **Git:[CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher)** | [MIT license](https://github.com/OrgEleCho/CurvaLauncher#MIT-1-ov-file) |          |                                                              |
+| **Git:[SophiApp](https://github.com/Sophia-Community/SophiApp)** | [MIT license](https://github.com/Sophia-Community/SophiApp#MIT-1-ov-file) |          | SophiApp是一个免费且开源的应用程序，<br />旨在为Windows 10和Windows 11用户提供精细的调整和优化功能。 |
 
 #### 相关参考
 
 1. **[推荐2款.NET开源、轻便、实用的Windows桌面启动器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=1&sn=39b1f51415ccc745ecf62cf27a1a36fe&chksm=96b0ee2f34b1d22b835354746c55d5984f627931fb1c19313d01fcab4cbd4cb97811b0590612&scene=126&sessionid=1721090926#rd)**
+1. **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
 
 
 
