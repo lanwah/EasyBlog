@@ -46,6 +46,24 @@
 
 
 
+### 3、 Geeker-Admin
+
+>Geeker-Admin 一款基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的后台管理框架，使用目前最新技术栈开发。项目提供强大的 ProTable 组件，在一定程度上提高您的开发效率。另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">项目名称：</span><b>Geeker-Admin</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开源地址：</span><b>https://github.com/HalseySpicy/Geeker-Admin</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">使用协议：</span><b>MIT license</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开发语言：</span><b>vue3.4 + TypeScript + SCSS + JavaScript</b></p>
+
+**相关参考**
+
+1. [Geeker-Admin：简单易用的中后台模版 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505340&idx=3&sn=525d7a47a84e5da3f610de1f5dc54554&chksm=966ee20ce8f770aee5ab736aa45f865bc79219454f5b0d5e1f5cae3b990539906397899b5f93&scene=126&sessionid=1726708247#rd)
+
+
+
 ## S. 数据同步
 
 ### 1、Syncthing

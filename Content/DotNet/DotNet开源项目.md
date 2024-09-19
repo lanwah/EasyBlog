@@ -341,6 +341,20 @@ D. 电子白板/大屏
 
 
 
+## L. Linux 服务器运维管理
+
+| 项目名称                                               | 使用的协议                                                   | 项目功能/介绍                  |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
+| **Git:[1Panel](https://github.com/1Panel-dev/1Panel)** | [GPL-3.0 license](https://github.com/1Panel-dev/1Panel#GPL-3.0-1-ov-file) | [在线文档](https://1panel.cn/) |
+|                                                        |                                                              |                                |
+|                                                        |                                                              |                                |
+
+### 相关参考
+
+1. [一个现代化、开源的 Linux 服务器运维管理面板【1Panel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=1&sn=9d462f67f5c09d71ae43841865eb114b&chksm=96f6217b4b05911dac502e241165de429e76e591f8be73a6f782d51e02fc408a4771d0bde913&scene=126&sessionid=1726414371#rd)
+
+
+
 ## M. 密码与安全
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -406,17 +420,36 @@ D. 电子白板/大屏
 
 ## O. ORM
 
-| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                       | 功能说明/介绍                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------ |
-| **Git:[NPoco](https://github.com/schotime/NPoco)**           | [Apache-2.0 license](https://github.com/schotime/NPoco#Apache-2.0-1-ov-file) | [Wiki](https://github.com/schotime/NPoco/wiki) |                                                              |
-| **Git:[Dommel](https://github.com/henkmollema/Dommel)**      | [MIT license](https://github.com/henkmollema/Dommel#MIT-1-ov-file) |                                                | C#开源（MIT License）、免费、简单易用的Dapper扩展类库，<br />帮助.NET开发者使用Dapper的CRUD操作变得更简单：Dommel。 |
-| **Git:[EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)** | [MIT license](https://github.com/zzzprojects/EntityFramework-Plus#MIT-1-ov-file) | [在线文档](https://entityframework-plus.net/)  | Entity Framework Plus是一个开源、免费（MIT License）、<br />功能强大的 Entity Framework（EF）和 <br />Entity Framework Core（EF Core） 扩展库，<br />旨在提升 Entity Framework 的性能和克服其局限性。<br />通过提供一系列实用的功能，如批量操作、查询缓存、<br />查询延迟、LINQ动态、审计跟踪等，<br />使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。 |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[NPoco](https://github.com/schotime/NPoco)**           | [Apache-2.0 license](https://github.com/schotime/NPoco#Apache-2.0-1-ov-file) | [Wiki](https://github.com/schotime/NPoco/wiki)               |
+| **Git:[Dommel](https://github.com/henkmollema/Dommel)**      | [MIT license](https://github.com/henkmollema/Dommel#MIT-1-ov-file) | C#开源（MIT License）、免费、简单易用的Dapper扩展类库，<br />帮助.NET开发者使用Dapper的CRUD操作变得更简单：Dommel。 |
+| **Git:[EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)** | [MIT license](https://github.com/zzzprojects/EntityFramework-Plus#MIT-1-ov-file) | Entity Framework Plus是一个开源、免费（MIT License）、<br />功能强大的 Entity Framework（EF）和 <br />Entity Framework Core（EF Core） 扩展库，<br />旨在提升 Entity Framework 的性能和克服其局限性。<br />通过提供一系列实用的功能，如批量操作、查询缓存、<br />查询延迟、LINQ动态、审计跟踪等，<br />使得使用 Entity Framework 进行数据库开发变得更加高效和灵活。<br />[在线文档](https://entityframework-plus.net/) |
+| **Git:[efcore](https://github.com/dotnet/efcore)**           | [MIT license](https://github.com/dotnet/efcore#MIT-1-ov-file) | [官方教程](https://docs.microsoft.com/zh-cn/ef/)             |
+| **Git:[Dapper](https://github.com/DapperLib/Dapper)**        | Apache 2.0                                                   | Dapper是一个简单的.NET对象映射器，在速度方面具有<br />"King of Micro ORM"的头衔，几乎与使用原始的ADO.NET<br />数据读取器一样快。ORM是一个对象关系映射器，<br />它负责数据库和编程语言之间的映射。Dapper通过扩展<br />IDbConnection提供一些有用的扩展方法去查询您的数据库。<br />[官方教程](https://www.learndapper.com/) |
+| **Git:[SqlSugar](https://github.com/DotNetNext/SqlSugar)**   | [MIT license](https://github.com/DotNetNext/SqlSugar#MIT-1-ov-file) | SqlSugar 是一款 老牌 .NET 开源多库架构ORM框架<br />（EF Core单库架构），由果糖大数据科技团队 维护和更新 ，<br />开箱即用最易上手的.NET ORM框架 。<br />[官网地址](http://www.donet5.com) |
+| **Git:[FreeSql](https://github.com/dotnetcore/FreeSql)**     | [MIT license](https://github.com/dotnetcore/FreeSql#MIT-1-ov-file) | FreeSql 是一款功能强大的对象关系映射（O/RM）组件，<br />支持 .NET Core 2.1+、.NET Framework 4.0+ 以及 Xamarin |
+| **Git:[Chloe](https://github.com/shuxinqin/Chloe)**          | [MIT license](https://github.com/shuxinqin/Chloe#MIT-1-ov-file) | Chloe.ORM 是一款国产十分稳定可靠的 ORM 框架。<br />除了常规增删查改外还支持连接查询、分组查询、<br />聚合查询、子查询，大部分操作可通过 lambda 完成。<br />还支持分库分表分页、聚合、分组聚合，并支持多个字段组合分片以及多字段路由。<br />[文档地址](https ://github.com/shuxinqin/Chloe/wiki) |
+| **Git:[nhibernate-core](https://github.com/nhibernate/nhibernate-core)** | [LGPL-2.1 license](https://github.com/nhibernate/nhibernate-core#LGPL-2.1-1-ov-file) | NHibernate是.NET框架的成熟、开源的对象关系映射工具。<br />它在积极开发中，功能齐全，并已成功应用于数千个项目中。<br />[社区网站](https://nhibernate.info) |
+| **Git:[SmartSql](https://github.com/dotnetcore/SmartSql)**   | [Apache-2.0 license](https://github.com/dotnetcore/SmartSql#Apache-2.0-1-ov-file) | SmartSql = C# 中的 MyBatis + .NET Core+ 缓存（内存/Redis）+ <br />R/W 拆分 + PropertyChangedTrack +动态存储库 + InvokeSync + 诊断。<br />SmartSql 借鉴了 MyBatis 的思想，使用 XML 来管理 SQL ，<br />并且提供了若干个筛选器标签来消除代码层面的各种 if/else 的判断分支。<br />SmartSql将管理你的 SQL ，并且通过筛选标签来维护本来你在代码层面的各种条件判断，<br />使你的代码更加优美。<br />[文档地址](https://smartsql.net/guide/) |
+| **Git:[PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)** | Apache 2.0                                                   | PetaPoco 是一个用于 .NET（4、4.5+、net standard 2.0+）<br />和 Mono 的微型、快速、易于使用的 micro-ORM。<br />由于 PetaPoco 所代表的简单性和易用性，它受到许多人的喜爱。<br />PetaPoco 是首选的微 ORM，也是任何体面的开发人员工具包中必不可少的实用程序。<br />[文档地址](https://discoverdot.net/projects/peta-poco) |
+| **Git:[linq2db](https://github.com/linq2db/linq2db)**        | [MIT license](https://github.com/linq2db/linq2db#MIT-1-ov-file) | LINQ to DB 是最快的LINQ数据库访问库，<br />在POCO对象和数据库之间提供了一个简单、轻量、快速且类型安全的层。<br />在架构上，它比 Dapper、Massive 或 PetaPoco 等微 ORM 高出一步，<br />因为您使用 LINQ 表达式，而不是魔术字符串，<br />同时在代码和数据库之间维护一个薄抽象层。<br />您的查询由 C# 编译器检查并允许轻松重构。但是，<br />它不像 LINQ to SQL 或实体框架那么重。没有更改跟踪，<br />因此您必须自己进行管理，但从积极的方面来说，<br />您可以获得更多控制权并更快地访问您的数据。<br />[文档地址](https://linq2db.github.io/) |
+| **Git:[RepoDB](https://github.com/mikependon/RepoDB)**       | [Apache-2.0 license](https://github.com/mikependon/RepoDB#Apache-2.0-1-ov-file) | RepoDB是一个开源的.NET ORM库，<br />它弥合了微ORM和完整ORM之间的差距。<br />它帮助您简化在开发过程中何时使用基本操作和高级操作的切换。 |
+| **Git:[ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)** |                                                              | OrmLite是一个快速、简单、类型化的.NET ORM，<br />OrmLite 的目标是提供一个方便、DRY、无配置、<br />与 RDBMS 无关的类型包装器，该包装器与 SQL 保持高度亲和性，<br />公开直观的 API，生成可预测的 SQL 并干净地映射到断开连接和<br />数据传输对象 (DTO) 友好、普通的旧C# 对象 (POCO)。这种方法<br />更容易推理您的数据访问，从而清楚地知道什么 SQL 在什么时间执行，<br />同时减轻意外行为、隐式 N+1 查询和重对象关系映射器 (ORM) <br />中普遍存在的泄漏数据访问。<br />[文档地址](https://docs.servicestack.net/ormlite/
+) |
+| **Git:[sqlite-net](https://github.com/praeclarum/sqlite-net)** | [MIT license](https://github.com/praeclarum/sqlite-net#MIT-1-ov-file) | 简单、强大、跨平台的 SQLite 客户端和 .NET 的 ORM。           |
+| **Git:[Insight.Database](https://github.com/jonwagner/Insight.Database)** | MS-PL                                                        | Insight.Database是一个用于 .NET 的快速、轻量级的 micro-orm。 |
+| **Git:[cyqdata](https://github.com/cyq1162/cyqdata)**        | [LGPL-3.0 license](https://github.com/cyq1162/cyqdata#LGPL-3.0-1-ov-file) | cyq.data is a high-performance and the most powerful orm.<br />（.NET 最好用的ORM数据层框架，木有之一！支持.NET所有版本、<br />支持.NET Core所有版本）Support：Mssql、Mysql、Oracle、<br />Sybase、Postgres、DB2、FireBird、Sqlite、DaMeng（达梦）、<br />KingBaseES（人大金仓）、Txt、Xml、Access、Excel、FoxPro、Redis、MemCache。 |
+| **Git:[querybuilder](https://github.com/sqlkata/querybuilder)** | [MIT license](https://github.com/sqlkata/querybuilder#MIT-1-ov-file) | SQL 查询构建器，用 c# 编写，帮助您轻松构建复杂的查询，<br />支持 SqlServer、MySql、PostgreSql、Oracle、Sqlite 和 Firebird。<br />[官网地址](https://sqlkata.com/) |
+| **Git:[SecurityDriven.TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM)** | [MS-PL license](https://github.com/sdrapkin/SecurityDriven.TinyORM#MS-PL-1-ov-file) | TinyORM是一个简单、快速且安全的微型.NET ORM。<br />[Wiki](https://github.com/sdrapkin/SecurityDriven.TinyORM/wiki) |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
 1. **[C# 轻量级 ORM 框架 NPoco 的简单应用【NPoco】](https://www.cnblogs.com/timefiles/p/18294967)**
 1. **[C#开源、简单易用的Dapper扩展类库 【Dommel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503284&idx=1&sn=466657f30b1e8c611bd6224e4e6f6655&chksm=9691d84b7fe416bd914ae798d63e80ac9704d37d1334a85cc84d08f1bddb361b2bbec2f6c6d4&scene=126&sessionid=1721608423#rd)**
 1. **[Entity Framework Plus: 让 EF Core 开发如虎添翼 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=1&sn=b3fc39535316088d5ebb46b82e3d717f&chksm=968c7b2d53e5c6251330cb3f8be1d5f1224546a759452de06d30e800a2372469b33d8143ec06&scene=126&sessionid=1726188991#rd)**
+1. [值得推荐的.NET ORM框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505340&idx=2&sn=aee44d7a53481996397480d17c502c7c&chksm=96816505db94c6154b107b8f027c62877e3a617ac0178b1764172f056826aeb2a15c9925d909&scene=126&sessionid=1726708247#rd)
 
 
 
@@ -544,6 +577,21 @@ D. 电子白板/大屏
 
 
 
+## S. 搜索组件库
+
+| 项目名称                                                     | 使用的协议                                                   | 项目介绍                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[elasticsearch-net](https://github.com/elastic/elasticsearch-net)** | [Apache-2.0 license](https://github.com/elastic/elasticsearch-net#Apache-2.0-1-ov-file) |                                                              |
+| **Git:[lucenenet](https://github.com/apache/lucenenet)**     | [Apache-2.0 license](https://github.com/apache/lucenenet#Apache-2.0-1-ov-file) | Lucene.NET 是一个用 C# 编写的开源全文搜索库，<br />它是流行的 Java Apache Lucene 项目的移植版本。<br />该库为 .NET 平台提供了强大的索引和搜索功能，<br />以及拼写检查、命中高亮和高级分析/分词能力。 |
+| **Git:[SolrNet](https://github.com/SolrNet/SolrNet)**        | [Apache-2.0 license](https://github.com/SolrNet/SolrNet#Apache-2.0-1-ov-file) | SolrNet 是一个针对 .NET 平台的 Apache Solr <br />和 SolrCloud 客户端库。SolrNet 并没有尝试对 <br />Solr 进行太多的抽象，而是假设您知道什么是 <br />Solr 以及如何使用它，就像您在使用 ORM 之前需要了解关系数据库一样。 |
+
+### 相关推荐
+
+1. [.Net使用ElasticSearch原理及入门 - 森嵛 - 博客园 (cnblogs.com)](https://www.cnblogs.com/axioslancer/p/18214093)
+2. [推荐3款卓越的 .NET 开源搜索组件库 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505177&idx=1&sn=0ad3230f3dba0c1b4dd1cf44e55d68ef&chksm=9644d60ebd2113bec88612b7ecc57391158c8c4c097d4115ce8c90f0ffdcb45da3ec62c33053&scene=126&sessionid=1726274465#rd)
+
+
+
 ## T. 通讯相关工具
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -656,17 +704,18 @@ D. 电子白板/大屏
 
 ## Y. 远程管理工具
 
-| 项目名称                                              | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ----------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[Quasar](https://github.com/quasar/Quasar)**    | MIT license                                                  | 最后更新日期：               | Quasar是一个免费（MIT License）、<br />开源的远程管理工具，专为Windows系统设计。<br />它使用C#语言编写，具有轻量级、高稳定性、易用性的特点。<br />Quasar为远程技术支持、<br />系统监控和员工监控等提供了强大的解决方案。 |
-| **Git:[1Remote](https://github.com/1Remote/1Remote)** | [GPL-3.0 license](https://github.com/1Remote/1Remote#GPL-3.0-1-ov-file) | 最后更新日期：2024年07月11日 | 1Remote是一款现代、功能丰富、易于使用的远程会话管理和启动器，<br />支持多种协议和定制选项，适合需要频繁管理远程会话的用户 |
-|                                                       |                                                              |                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[Quasar](https://github.com/quasar/Quasar)**           | MIT license                                                  | Quasar是一个免费（MIT License）、<br />开源的远程管理工具，专为Windows系统设计。<br />它使用C#语言编写，具有轻量级、高稳定性、易用性的特点。<br />Quasar为远程技术支持、<br />系统监控和员工监控等提供了强大的解决方案。 |
+| **Git:[1Remote](https://github.com/1Remote/1Remote)**        | [GPL-3.0 license](https://github.com/1Remote/1Remote#GPL-3.0-1-ov-file) | 1Remote是一款现代、功能丰富、易于使用的远程会话管理和启动器，<br />支持多种协议和定制选项，适合需要频繁管理远程会话的用户 |
+| **Gitee:[SiMayRemotelyOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS)** | AGPL-3.0                                                     | SiMayRemoteMonitorOS是一个基于Windows的远程控制系统，<br />完全采用C#.NET开发，遵循AGPL-3.0开源协议。 |
 
 ### 相关参考
 
 1. **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
 1. **[Windows 远程不要再用 mstsc 了，这款.NET开源工具更好用！【1Remote】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503805&idx=2&sn=ddbf05075b3d6715758456d6499a6208&chksm=96db395f69df2474ac59419f855682630adcd0cad201c465ab9b56c9df6b70c516b864e1ad12&scene=126&sessionid=1722990823#rd)**
 1. [1Remote官网](https://1remote.org/)， [1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)
+1. [一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)
 
 
 
