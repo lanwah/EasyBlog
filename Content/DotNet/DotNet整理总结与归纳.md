@@ -12,3 +12,9 @@
 
 - **堆栈**
   - [C# StackTrace & StackFrame (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505324&idx=3&sn=544a97d85ff3faaf7e3d573f17857fda&chksm=966995f2b66c273d692ffea36fd48b2824541025967e894bdfef63f5b208b099b22ed2021283&scene=126&sessionid=1726621538#rd)
+
+- **架构模式**
+  - [.NET常见的几种项目架构模式，你知道几种？（附带使用情况投票） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=1&sn=14c45604af61d7960342e2fedb5044fc&chksm=9653d018e868192eb310860b8f85d9ce5a4aa0e9bed723bcd02ba36336bc443b21d4c1b1c8b3&scene=126&sessionid=1726793679#rd)
+
+- **异步**
+  - [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)

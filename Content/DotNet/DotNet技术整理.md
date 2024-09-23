@@ -22,6 +22,12 @@
 
 
 
+## B. 并发迁移
+
+- [EntityFramework Core并发迁移解决方案 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=3&sn=9f6d974d52cf51600cd41fecda0e3d2d&chksm=968b84946255e140d2f3dea7d7c90f7364dbae537c37ff5beb8c448cbeb5dc09ad2d204b22fa&scene=126&sessionid=1727052024#rd)
+
+
+
 ## D. DotNet学习
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
@@ -109,6 +115,12 @@
 ## T. TCP/IP
 
 - **[上位机面试必备：TCP通信，这25题不可不知 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504376&idx=3&sn=3212da98c6028bd08bbffbfcd144885d&chksm=96d34db37079beb9dd094eafeab4c1b866a777b4cae4456f03a8cd3fc7226271bd688d3d85aa&scene=126&sessionid=1724562956#rd)**
+
+
+
+## T. 调试
+
+- [Windows 调试工具课程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=2&sn=623112d14fa55535d033780f825df4a2&chksm=96b041599f818e794d1ac575c137593e0c4826bfbd0f63f69dfce511d56d3f592f5f69de897a&scene=126&sessionid=1727052024#rd)
 
 
 

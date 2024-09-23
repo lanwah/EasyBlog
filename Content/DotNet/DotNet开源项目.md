@@ -196,6 +196,20 @@ D. 电子白板/大屏
 
 
 
+## G. 工控与工业
+
+| 项目名称                                                     | 使用的协议 | 项目功能/介绍                                                |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| **Gitee:[SharpSCADA](https://gitee.com/LaoHuaiMiao/SharpSCADA)** | LGPL-3.0   | SharpSCADA 是一个开源的轻量级工业控制网关和组态软件，<br />旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。<br />该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNet/IP、<br />施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。 |
+|                                                              |            |                                                              |
+|                                                              |            |                                                              |
+
+### 相关参考
+
+1. [基于C#开发的工控网关，轻量级组态软件【SharpSCADA】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=2&sn=e2c53fcf330c98b8a4a49b583316b635&chksm=96fa1800e807064621f78271e05448e4fe3a506aa4f9eda3752ab6b310e1f304a9965faa697d&scene=126&sessionid=1727052024#rd)
+
+
+
 
 ## H. Http客户端
 
@@ -279,6 +293,20 @@ D. 电子白板/大屏
 ### 相关参考
 
 1. **[告别嵌套：保护性条件语句让你的C#代码更简洁 【Ardalis.GuardClauses】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=3&sn=1669efaed01f04d5f906475f7b27010e&chksm=961736cf7cb55bf56a05e084906347cedd80816ee5a60534bf92a1710af26234da61ace2e1f3&scene=126&sessionid=1724978463#rd)**
+
+
+
+## J. JSON
+
+| 项目名称                                                     | 使用的协议                                                   | 功能介绍/说明                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[jsonhero-web](https://github.com/triggerdotdev/jsonhero-web)** | [Apache-2.0 license](https://github.com/triggerdotdev/jsonhero-web#Apache-2.0-1-ov-file) | JSON Hero 是一个由 Trigger.dev 团队创建和维护的项目，<br />旨在让阅读和理解 JSON 文件变得更加简单和直观。<br />它提供了一个清晰且美观的用户界面，并附带了多种额外功能，<br />让用户能够以自己喜欢的方式查看 JSON 数据。 |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+### 相关参考
+
+1. [发现一款JSON可视化工具神器，惊艳了！【JSON Hero】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=3&sn=3efbdc649f8f9d24243ae9b4193f3867&chksm=96544995787193e067f186ce7e07d5a3ab514db33a74502627f9c424724441a2bf23fce6a710&scene=126&sessionid=1727052024#rd)
 
 
 
@@ -385,6 +413,20 @@ D. 电子白板/大屏
 ### 相关参考
 
 1. **[命令行参数解析处理](https://lanwah.github.io/EasyBlog/blogs/DotNet/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0%E8%A7%A3%E6%9E%90%E5%A4%84%E7%90%86.html)**
+
+
+
+## M. MAUI 控件库
+
+| 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+| **Git:[AlohaKit.Controls](https://github.com/jsuarezruiz/AlohaKit.Controls)** | [MIT license](https://github.com/jsuarezruiz/AlohaKit.Controls#MIT-1-ov-file) |               |
+|                                                              |                                                              |               |
+|                                                              |                                                              |               |
+
+### 相关参考
+
+1. [一组.NET MAUI绘制的开源控件【AlohaKit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=1&sn=ca73420308e3d4968fda1bc0762d8da6&chksm=96bf9be4e40cc9f9176a8b501728f1c5e745cf2c04b294cec08f09be3e2238b21131f44969e2&scene=126&sessionid=1727052024#rd)
 
 
 
@@ -510,6 +552,20 @@ D. 电子白板/大屏
 
 1. **[推荐2款.NET开源、轻便、实用的Windows桌面启动器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=1&sn=39b1f51415ccc745ecf62cf27a1a36fe&chksm=96b0ee2f34b1d22b835354746c55d5984f627931fb1c19313d01fcab4cbd4cb97811b0590612&scene=126&sessionid=1721090926#rd)**
 1. **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
+
+
+
+## R. 人脸识别
+
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet)** | [MIT license](https://github.com/takuya-takeuchi/FaceRecognitionDotNet#MIT-1-ov-file) | FaceRecognitionDotNet 是一个为 .NET 平台设计的面部识别库，<br />它是 Python 的 face_recognition 库的 C# 端口。<br />该项目的主要目标是提供一个简单且跨平台的面部识别解决方案，<br />支持 Windows、Linux 和 MacOSX 系统。 |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+### 相关参考
+
+1. [一个功能强大且易于使用的.NET面部识别库，开源免费！【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=3&sn=cff8ab7335f5f3fae04b00bf114af51a&chksm=961b789144ffe6c81768246a46bea774bbdc15cb1024082b72856a81a8a759bead091a182db7&scene=126&sessionid=1727052024#rd)
 
 
 
@@ -687,6 +743,20 @@ D. 电子白板/大屏
 
 
 
+## W. 网络通信
+
+| 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[NetCoreServer](https://github.com/chronoxor/NetCoreServer)** | [MIT license](https://github.com/chronoxor/NetCoreServer#MIT-1-ov-file) | NetCoreServer是一个.NET开源、免费（MIT License）、快速、<br />低延迟的异步套接字服务器和客户端库。它支持多种协议，<br />包括 TCP、SSL、UDP、Unix Domain Socket、HTTP、HTTPS 和 WebSocket，<br />并且能够处理高达10K并发连接。通过提供对多种协议的支持和优化的网络 I/O 操作，<br />它使开发人员能够轻松创建响应迅速且可扩展的网络应用程序。 |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+### 相关参考
+
+1. [一个.NET开源、快速、低延迟的异步套接字服务器和客户端库【NetCoreServer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=1&sn=cc1addff19369c319c98b00d11076a21&chksm=96416b309058245b3b78ffc1889b18d5df0b4ab2fc5926d79bb3ed26f0e55c25dd72414b201b&scene=126&sessionid=1727052024#rd)
+
+
+
 ## Y. 音频/视频
 
 | 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
@@ -713,9 +783,24 @@ D. 电子白板/大屏
 ### 相关参考
 
 1. **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
+1. **[一个.NET开源、免费的Windows远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=2&sn=226bd341796686f4fa8748d8c89bf461&chksm=96ab8586bb7306020283b24304b9dbbd5d22cfa99ba19448fff3e67ab1f4a2b6c8b01f5f10ea&scene=126&sessionid=1726793679#rd)**
 1. **[Windows 远程不要再用 mstsc 了，这款.NET开源工具更好用！【1Remote】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503805&idx=2&sn=ddbf05075b3d6715758456d6499a6208&chksm=96db395f69df2474ac59419f855682630adcd0cad201c465ab9b56c9df6b70c516b864e1ad12&scene=126&sessionid=1722990823#rd)**
-1. [1Remote官网](https://1remote.org/)， [1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)
-1. [一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)
+1. **[1Remote官网](https://1remote.org/)**， **[1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)**
+1. **[一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)**
+
+
+
+## Y. 医疗信息管理系统
+
+| 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[HospitalManagementSystem-WPF](https://github.com/zjxi/HospitalManagementSystem-WPF)** | [Apache-2.0 license](https://github.com/zjxi/HospitalManagementSystem-WPF#Apache-2.0-1-ov-file) | 医疗信息管理系统，基于WPF (XAML前端+C#后台)，<br />内附SQL Server 2012数据库，界面友好，功能实用。 |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+### 相关参考
+
+1. [一个基于 WPF 开发的医院管理系统 【HospitalManagementSystem-WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=3&sn=f19512ed89460c9303c1770aaa167137&chksm=9649381d0a1e3a2d5bbf6a9db55c5216a196a55f06e47e602f4fc8061e96b266b85f43289b9c&scene=126&sessionid=1726793679#rd)
 
 
 
