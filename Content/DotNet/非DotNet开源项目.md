@@ -64,6 +64,28 @@
 
 
 
+## K. 快速开发框架
+### 1、 uiotos-community
+
+>一款支持**页面嵌套**的前端零代码工具，开箱即用，用户无需了解代码开发以及环境搭建，0基础可以搭建IoT、中后台管理、上位机、组态HMI等多类GUI界面应用，不止于可视化。
+>
+>前端开发语言JavaScript、C#、Qt等，UIOTOS用户不需要有任何基础。
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">项目名称：</span><b>Guiotos-community</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开源地址：</span><b>https://gitee.com/uiotos/uiotos-community</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">使用协议：</span><b>Apache-2.0</b></p>
+
+<p><span style="color:blue;font-weight:bold;font-size:18px;">开发语言：</span><b>JavaScript + CSS + HTML</b></p>
+
+**相关参考**
+
+1. [一款支持页面嵌套的前端零代码开发工具，支持开箱即用 【UIOTOS前端工具】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=3&sn=0b955ecb42f79eda1cdd5bc683a3c0a6&chksm=9619f94c26167d195404badae636e0d7a163549b2b2c464275b97fc7f87a5f00af1e51ff8fd1&scene=126&sessionid=1727138667#rd)
+
+
+
+
 ## S. 数据同步
 
 ### 1、Syncthing

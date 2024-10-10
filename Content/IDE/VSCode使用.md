@@ -1,4 +1,4 @@
-# VS Code 插件
+# VS Code 使用
 
 [TOC]
 

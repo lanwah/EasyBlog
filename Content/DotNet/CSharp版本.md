@@ -82,3 +82,4 @@
 - [**下载 .NET**](https://dotnet.microsoft.com/zh-cn/download/dotnet)
 - **[.NET Standard(.net standard 与Framework和.net core之间的关系)](https://dotnet.microsoft.com/en-us/platform/dotnet-standard)**
 - **[C# language versioning](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-versioning#defaults)**
+- **[Time.Graphics Embed Timeline](https://time.graphics/embed?v=1&id=593132)**

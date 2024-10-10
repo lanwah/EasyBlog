@@ -71,7 +71,7 @@
 
 如下图所示，HTTPS整个传输的加密过程都在新的安全层SSL/TLS中实现，而原来的HTTP层的传输流程保持不变，这样就很好地兼容了旧的HTTP协议，也沿袭了TCP/IP协议族的分层思想。
 
-HTTPS协议其实就是HTTP over TSL，TSL(Transport Layer Security) 传输层安全协议是HTTPS协议的核心。
+HTTPS协议其实就是HTTP over TLS，TLS(Transport Layer Security) 传输层安全协议是HTTPS协议的核心。
 
 ![这里写图片描述](../Images/Http与Https/v2-4424f9a1a2b6058c493e3d173a563c87_720w.webp?lastModify=1686051146)
 
