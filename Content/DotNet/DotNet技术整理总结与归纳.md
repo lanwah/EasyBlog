@@ -23,12 +23,20 @@
 ## A. ASP.NET Core
 
 - **[简化ASP.NET Core API神器：用Gridify轻松实现过滤、排序和分页【Gridify】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=3&sn=381d436f87fe97084416e4c3918d76ae&chksm=967a9718d247b340a425bd227b6cda31edd04025914d0cfe648abb7336b59f1fb5690182a68a&scene=126&sessionid=1724806111#rd)**
+- [ASP.NET Core OData 9的发布，放弃 .NET Framework (qq.com)](https://mp.weixin.qq.com/s/sKilIxCmP8OG7EccwXFTNA)
+- [ASP.NET Core Filter与IOC的羁绊 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=5&sn=0401e32e7e6e105b260f40745b948170&chksm=963084f5de0ffec3942c8176b20af6cfc4bb1d91b919bd912ab4d87ce55e90108bde0ada21eb&scene=126&sessionid=1729213064#rd)
 
 
 
 ## A. ASP.NET Core MVC
 
 - [模拟ASP.NET Core MVC设计与实现 (qq.com)](https://mp.weixin.qq.com/s/zd56b19MQg5PHF8Nf-T1eg)
+
+
+
+## A. AI
+
+- [Introducing Microsoft.Extensions.AI Preview - Unified AI Building Blocks for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
 
 
 
@@ -41,6 +49,12 @@
 ## B. 并发迁移
 
 - [EntityFramework Core并发迁移解决方案 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=3&sn=9f6d974d52cf51600cd41fecda0e3d2d&chksm=968b84946255e140d2f3dea7d7c90f7364dbae537c37ff5beb8c448cbeb5dc09ad2d204b22fa&scene=126&sessionid=1727052024#rd)
+
+
+
+## C. 程序交互
+
+- [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
 
 
 
@@ -70,9 +84,17 @@
 
 
 
+## D. 电子白板
+
+- [.NET 白板书写延迟-触摸屏报点率 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18453947)
+- [.NET 白板书写加速-曲线拟合预测 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18442316)
+
+
+
 ## E. EF Core
 
 - [EF Core性能优化技巧 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=2&sn=dc50a02eaf3ee079e36fcd0695f45967&chksm=96f1ea970730513276167a853948d633d7df39f1e58b62e006453a01f17e5096d071dc0e4c68&scene=126&sessionid=1727138667#rd)
+- [分享几个实用且高效的EF Core扩展类库，提高开发效率！ (qq.com)](https://mp.weixin.qq.com/s/ld_eQYPa7kitTak93QOjKA)
 
 
 
@@ -90,9 +112,29 @@
 
 
 
+## G. GC(垃圾回收)
+
+- [一幅漫画解释 .NET 垃圾收集（GC）原理 | Kit Lau's Blog](https://blog.kitlau.dev/posts/cartoon-dotnet-garbage-collection/)
+- [.NET 性能技巧：为什么你应该避免使用终结器 Finalizer？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=2&sn=c8cb88c8d9969e665fe3c5cfb78836a2&chksm=96e8c6c1d830a2a0b5b182b05659c7f2e6dab2844ab52b0a4caf8533bdace259bd0e04970687&scene=126&sessionid=1728867433#rd)
+- [一张图带你了解.NET终结(Finalize)流程 - 叫我安不理 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lmy5215006/p/18456380)
+
+
+
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
+
+
+
+## H. 绘图
+
+- [不可不知的WPF转换（Transform） (qq.com)](https://mp.weixin.qq.com/s/JnO75kpoPwpWuDmTtYQWCg)
+
+
+
+## I. IDE
+
+- [2024 年开发人员 13 款常用 IDE 合集 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=3&sn=5594c32e615e9bc6857ff44b28247de1&chksm=9619cf51152401be6ae00b3b8dd4d65de75bdb905ab398e0b4b43a43fc1db5d64df2c3b4b0ab&scene=126&sessionid=1728350900#rd)
 
 
 
@@ -138,6 +180,15 @@
 
 
 
+## L. 领域驱动设计
+
+- **[关于领域驱动设计，大家都理解错了](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504335&idx=2&sn=89582397a7fbe2899f5bd0d4501a3880&chksm=962fbd6a2ce8ed32d03b850efd2123b6282fcaeb1a2c22594ec07ef6111200e302733fa15846&scene=126&sessionid=1724028274#rd)**
+- **[学习真DDD的最佳路径 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504456&idx=2&sn=6d623fc83132a7d34ce6b7fc1f1de5f4&chksm=96433cbda9cb8470732b85b8bd3462969a930bd136cc6297780421f443fb78cee3c592255121&scene=126&sessionid=1724720195#rd)**
+- **[这是DDD建模最难的部分（其实很简单） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504581&idx=3&sn=14550521de2a00877f4cfdce0c211fca&chksm=96453ff6e7d6c9e810d660126abd0b1b878b8aca18a57be7ff9988f461a81489f3e175c8f75e&scene=126&sessionid=1725109614#rd)**
+- [.NET面试一上来就问DDD相关问题?直接崩溃 (qq.com)](https://mp.weixin.qq.com/s/oJ_xBW-ezEJGqm1nEnXAHw)
+
+
+
 ## O. ORM
 
 - [.NET使用EF批量插入数据，一行代码性能飙升！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=4&sn=0cab188b357b4b8128001df03fcc7ebc&chksm=965f9b55822ce4318fd4b1cbcf0ef2085c56866f6aa2c12c25587dd4c8c665f835e4c5651b2b&scene=126&sessionid=1726016076#rd)
@@ -147,6 +198,12 @@
 ## P. PDF处理
 
 - [用C#写个PDF批量合并工具简化日常工作 (qq.com)](https://mp.weixin.qq.com/s/MW5HFdu3jJTJ6TMpa36tXw)
+
+
+
+## Q. 启动程序
+
+- [基于DPAPI+RDP技术实现本地打开远程程序，并映射到本地机器桌面上 - WeskyNet - 博客园 (cnblogs.com)](https://www.cnblogs.com/weskynet/p/18445584)
 
 
 
@@ -168,6 +225,14 @@
 - **[C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504120&idx=1&sn=f6ec4f6aed0384c7e3c579055b03e373&chksm=96f5f8948099076cba2ad627440c18d8cd6edad150141489ce539824976feba23f79c3356e42&scene=126&sessionid=1723594895#rd)**
 - **[一个开源免费的数据结构与算法入门教程（支持C#，Python，Java,，C++，C，JS等多门语言）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504230&idx=2&sn=7914bc447cd6ebd2d3cf94cdfa38b677&chksm=96a2cdaad48264c3e99514304831b9c7718d7ef714849659664d4b0e76ad66612b9423dd52dc&scene=126&sessionid=1723899633#rd)**
 - **[C#二叉搜索树算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504335&idx=1&sn=1858eca8bbdcedfab5f79afaf97f3a23&chksm=96e823146a881baa312a1c7a9f319a78e6a23ab59fd5f60ceff451892ca1ec949fd8f051fc16&scene=126&sessionid=1724028274#rd)**
+- [C#二分查找算法 (qq.com)](https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ)
+
+
+
+## S. 数据库
+
+- [面试官：数据库的隔离是什么意思？ (qq.com)](https://mp.weixin.qq.com/s/lGCBVqLrn1gsih9PEOYbgg)
+- [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
 
 
 
@@ -180,6 +245,14 @@
 ## T. 调试
 
 - [Windows 调试工具课程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=2&sn=623112d14fa55535d033780f825df4a2&chksm=96b041599f818e794d1ac575c137593e0c4826bfbd0f63f69dfce511d56d3f592f5f69de897a&scene=126&sessionid=1727052024#rd)
+- [.NET开发必备技巧：使用Visual Studio分析.NET Dump，快速查找程序内存泄漏问题！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=1&sn=aa0780c9fd33e8d32601db2781cd4225&chksm=965ce7cf5f928550647ab8488e6f3dc088fea8d36ce935ed08d410bb49e0b6c77b86b2729275&scene=126&sessionid=1724978463#rd)
+- [如何用 PerfView 洞察 C# 中的慢速方法 (qq.com)](https://mp.weixin.qq.com/s/JiMclqMOT6IrVRwKqkMyVQ)
+- [PerfView 洞察那些 C# 代码中的短命线程 (qq.com)](https://mp.weixin.qq.com/s/iN4dnc2rGzbBtrJEwYNVSw)
+- [AOT漫谈(第一篇): 如何调试C# AOT程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=3&sn=7b4fef01fe328fbda5104608c84a8888&chksm=962b99541e9050d124f4d6853c6814db36ab567ee0a926fc3d94968670b89e38e6afa96a3a8c&scene=126&sessionid=1728867433#rd)
+- [AOT漫谈专题(第二篇): 如何对C# AOT轻量级APM监控 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=4&sn=81ad39fd848873be0d79636568cad429&chksm=962c985c2804a6b46483a0ddddf745776135bc9ee1cd01df9a619eaa91a885e1acc4145f7fda&scene=126&sessionid=1728867433#rd)
+
+- **WinDbg**
+  - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
 
 
 
@@ -196,9 +269,21 @@
 
 
 
+## T. 通信
+
+- [C#轻松实现Modbus通信 - 付工上位机 - 博客园 (cnblogs.com)](https://www.cnblogs.com/xiketangedu/p/18461727)
+
+
+
 ## V. Vue
 
 - [尤雨溪：Vite 和 JavaScript 工具的未来！ (qq.com)](https://mp.weixin.qq.com/s/n8qUCSt0Q9Y7rfdOafYtrA)
+
+
+
+## V. IValueConverter
+
+- [使用ValueConverters扩展实现枚举控制页面的显示 - 芝麻科技 - 博客园 (cnblogs.com)](https://www.cnblogs.com/sesametech-dotnet/p/18447676)
 
 
 
@@ -215,10 +300,22 @@
 
 
 
+## W. 微服务
+
+- [微服务如何相互协作？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=5&sn=2312e0b9a6916a98cf4b71a0eeac387c&chksm=96ca23870c132d9e5794ad9be2511294617a56836d219231b51161142953c2ba60787f30c3eb&scene=126&sessionid=1729127563#rd)
+
+
+
 ## X. 系统扩展
 
 1. **[一图看懂 8 大扩展系统的方法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=4&sn=3dc031b174f493ffce4abf1bffecfc52&chksm=96c4c8e5cc7e1f2e2cdc4a4ed7972d36d7ebe8f6a70c2735f284061dc3c07db1c91265303147&scene=126&sessionid=1721264675#rd)**
 1. [10 个系统设计中的取舍 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505925&idx=4&sn=2713fcd470d2bc1ec22b46bdfa17aec0&chksm=969f00ce7390cf1aaae46a13c0df2b7f9474a25ea13ed249a85cddf3156ff76949ce962b2ab2&scene=126&sessionid=1727398833#rd)
+
+
+
+## X. 消息队列
+
+- [系统设计中的消息队列 (qq.com)](https://mp.weixin.qq.com/s/rP3tbXFzSvLL92--Fo2_pw)
 
 
 
@@ -242,3 +339,8 @@
 - [.NET 压缩/解压文件 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18398891)
 - [.NET使用原生方法实现文件压缩和解压 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247501949&idx=1&sn=19c07f1b11e880898bd9457df492b618&scene=21#wechat_redirect)
 
+
+
+## Z. 字符串处理
+
+- [C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式 - IT规划师 - 博客园 (cnblogs.com)](https://www.cnblogs.com/hugogoos/p/18453906)

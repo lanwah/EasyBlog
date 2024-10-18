@@ -173,15 +173,16 @@ D. 电子白板/大屏
 
 ## D. 代理/反向代理
 
-| 项目名称                                                     | 使用的协议 | 最新版本 | 帮助文档     |
-| ------------------------------------------------------------ | ---------- | -------- | ------------ |
-| **Git:[Yarp](https://github.com/bingbing-gui/AspNetCore-Skill/tree/master/src/Yarp)** |            |          | Yarp使用示例 |
-|                                                              |            |          |              |
-|                                                              |            |          |              |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[Yarp](https://github.com/bingbing-gui/AspNetCore-Skill/tree/master/src/Yarp)** |                                                              | Yarp使用示例                                                 |
+| **Git:[nginx-ui](https://github.com/0xJacky/nginx-ui)**      | [AGPL-3.0 license](https://github.com/0xJacky/nginx-ui#AGPL-3.0-1-ov-file) | Nginx UI一个功能丰富、易于使用的 Nginx Web UI 工具，<br />它极大地简化了 Nginx 服务器的管理和配置过程。<br />[在线文档](https://nginxui.com/zh_CN/guide/about.html)<br />[在线演示](https://demo.nginxui.com/#/login)，（用户名：admin，密码：admin） |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
 1. **[提升ASP.NET Core应用性能：使用YARP反向代理的最佳实践](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=2&sn=eaeee8aef68bbc86c79561e3edfdf31d&chksm=96044355ee73df6c3a44a4f5a19403fa7b6c06c80f142eaf1eb8ce24d54ae7821fc77a4be9d3&scene=126&sessionid=1722904874#rd)**
+1. [Nginx UI：全新的 Nginx 在线管理平台【Nginx UI】](https://mp.weixin.qq.com/s/5drq-u0oaXbaXqh_vsjj8Q)
 
 
 
@@ -223,10 +224,13 @@ D. 电子白板/大屏
 | **Git:[Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)** | [MIT license](https://github.com/zzzprojects/Z.ExtensionMethods#MIT-1-ov-file) | [文章详细介绍](https://mp.weixin.qq.com/s/KED89NcE3RumHdnU381wGQ) |
 | **Git:[Common.Utility](https://github.com/laochiangx/Common.Utility)** | 无                                                           | [文章详细介绍](https://mp.weixin.qq.com/s/RNsZPTHIZviMKYz1Uc3Ssg) |
 | **Git:[Npoi.Mapper](https://github.com/donnytian/Npoi.Mapper)** | [MIT license](https://github.com/donnytian/Npoi.Mapper?tab=MIT-1-ov-file#MIT-1-ov-file) | Npoi.Mapper的主题内容包括两大块，一个是针对导入，一个是针对导出。 |
+| **Git:[Sylvan.Data.Excel](https://github.com/MarkPflug/Sylvan.Data.Excel)** | [MIT license](https://github.com/MarkPflug/Sylvan.Data.Excel?tab=MIT-1-ov-file#MIT-1-ov-file) | Sylvan.Data.Excel是一个开源、免费、跨平台的.NET库，<br />专注于读取和写入Excel数据文件。支持多种文件格式，<br />并提供高效的数据访问和数据绑定功能。 |
 | **Gitee:[TimeCrontab](https://gitee.com/dotnetchina/TimeCrontab)** | MIT                                                          | Cron表达式是一种用于配置定时任务的时间表达式。<br />它由一系列字段组成，每个字段代表任务在不同时间维度的调度规则。<br />Cron 表达式常用于各种系统中，如操作系统的定时任务、应用程序的定时调度、数据备份等。 |
 | **Git:[CsvHelper](https://github.com/JoshClose/CsvHelper)**  | MS-PL and Apache 2.0                                         | CsvHelper是一个.NET开源、快速、灵活、高度可配置、<br />易于使用的用于读取和写入CSV文件的类库。 |
 | **Git:[AutoMapper](https://github.com/AutoMapper/AutoMapper)** | [MIT license](https://github.com/AutoMapper/AutoMapper#MIT-1-ov-file) | AutoMapper是一个简单易用的.NET对象映射库，<br />用于快速、方便地进行对象之间的转换和映射，<br />极大的简化了开发人员在处理对象映射时的工作量。<br />[在线文档](https://docs.automapper.org/en/stable/Getting-started.html) |
-|                                                              |                                                              |                                                              |
+| **Gitee:[MinerU](https://gitee.com/ergmax/MinerU)**          | AGPL-3.0                                                     | MinerU是一款一站式、开源、高质量的数据提取工具，旨在提供从PDF文档、<br />网页及多种格式电子书中提取信息的全面解决方案。<br />[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF) |
+| **Git:[quicktype](https://github.com/glideapps/quicktype)**  | [Apache-2.0 license](https://github.com/glideapps/quicktype#Apache-2.0-1-ov-file) | quicktype 是一个用于从 JSON、JSON Schema、TypeScript 和 GraphQL <br />查询中生成强类型模型和序列化器。这使得在多种编程语言中以类型安全<br />的方式处理 JSON 变得轻而易举。quicktype 支持多种输入和输出语言，<br />并提供了灵活的使用方式，包括通过 Web 应用、命令行接口（CLI）<br />以及作为 JavaScript 函数集成到项目中。<br />[在线演示](https://app.quicktype.io/#l=cs) |
+| **Git:  [ FileConverter](https://github.com/Tichau/FileConverter)** | [GPL-3.0 license](https://github.com/Tichau/FileConverter#GPL-3.0-1-ov-file) | 简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单<br />来转换和压缩一个或多个文件<br />[下载地址](https://file-converter.io) |
 
 ### 相关参考
 
@@ -238,6 +242,11 @@ D. 电子白板/大屏
 1. [.NET 全能 Cron 表达式解析库（支持 Cron 所有特性）【TimeCrontab】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497075&idx=1&sn=822204f374177899a378a18e7514aa42&scene=21#wechat_redirect)
 1. [.NET使用CsvHelper快速读取和写入CSV文件【CsvHelper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502097&idx=1&sn=a8b64662ad0bdda4127a302547566d96&scene=21#wechat_redirect)
 1. [ASP.NET Core Web中使用AutoMapper进行对象映射 【AutoMapper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500520&idx=1&sn=0a6cc6e78f1658e1d38f67ce91e57390&scene=21#wechat_redirect)
+1. [一款将PDF转化为机器可读格式的工具（如markdown、json），可以很方便地抽取为任意格式！！【MinerU】](https://mp.weixin.qq.com/s/SS4g24vDYkTXNp9tzCL91g)
+1. [程序员必备的JSON到代码的快速转换神器，支持多种语言（C#、Go、Swift、C++、Java、TypeScript 等）【quicktype 】](https://mp.weixin.qq.com/s/Dq6beDULq_Q09UJSanPMtA)
+1. [一款基于.NET开发的简易高效的文件转换器【FileConverter】](https://mp.weixin.qq.com/s/4_DLJ-KzI413uDO4k4FLtw)
+1. [3款C#/.NET开源且免费的实用工具库，收藏使用！ (qq.com)](https://mp.weixin.qq.com/s/EblvFz_voTjBm8y-2kYPXA)
+1. [一个.NET开源、性能优异的Excel数据读取库【Sylvan.Data.Excel】](https://mp.weixin.qq.com/s/hgXUNvJANZ3KqDTLvOHApA)
 
 
 
@@ -261,11 +270,12 @@ D. 电子白板/大屏
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[gitextensions](https://github.com/gitextensions/gitextensions)** | GNU GENERAL PUBLIC LICENSE                                   | Git Extensions是一个.NET开源、免费的用于管理 Git 存储库的<br />独立图形用户界面（GUI）工具，它还与 Windows 资源管理器<br />和 Microsoft Visual Studio (2015/2017/2019/2022) 集成。<br />[详细介绍](https://mp.weixin.qq.com/s/M-Hhi6axkOuyDQKu-abq3w) |
 | **Git:[sourcegit](https://github.com/sourcegit-scm/sourcegit)** | [ MIT license](https://github.com/sourcegit-scm/sourcegit#MIT-1-ov-file) | SourceGit是一款.NET Avalonia开源、免费、跨平台、快速的Git可视化管理工具。<br />[详细介绍](https://mp.weixin.qq.com/s/uaEjj4kJ-xzeWt23AzzehQ) |
-|                                                              |                                                              |                                                              |
+| **UGit**                                                     | 软件/工具                                                    | UGit是一款腾讯自研的Git客户端，为了让每个人都可以轻松使用Git，<br />从而提高开发效率和团队协作的流畅性。支持工蜂MR/CR，<br />工蜂议题管理，另外对于Git的原生特性有着深度支持。<br />[下载地址](https://ugit.qq.com/zh/)<br />[在线文档](https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz) |
 
 ### 相关参考
 
 1. [2款.NET开源且免费的Git可视化管理工具 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505925&idx=1&sn=b75ba8cad96bdbe54ba05af67255fd68&chksm=967e86639a85b84fb6978631e36611a06131afc2853c199ad8584b1fbe20f2390ccee3440399&scene=126&sessionid=1727398833#rd)
+1. [腾讯自研Git客户端，助力每个人都可以轻松使用Git 【UGit】](https://mp.weixin.qq.com/s/oo3iDGUc1zXnilFoVa5zyg)
 
 
 
@@ -425,6 +435,9 @@ D. 电子白板/大屏
 | **Git:[Yi.Admin](https://gitee.com/ccnetcore/Yi)**           | MIT                                                          | 后端.Net8，前端Vue3，框架三层架构\DDD领域驱动设计，<br />内置Rbac权限管理、Bbs论坛社区系统 以用户体验出发。 <br />架构干净整洁、采用微软风格原生框架封装。 <br />适合小中大型项目上线、.Net8学习、Abp.vNext学习、<br />Sqlsugar学习 、项目二次开发。 |
 | **Gitee:[Known](https://gitee.com/known/Known)**             | Apache-2.0                                                   | Known是基于Blazor的企业级快速开发框架，<br />低代码，跨平台，开箱即用，一处代码，多处运行。 |
 | **Gitee:[WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud)** | MIT                                                          | WaterCloud是一套基于ASP.NET 8.0 MVC + API + SqlSugar + LayUI<br />的快速开发框架，源代码完全开源、免费（MIT License），<br />可以帮助你解决C#.NET项目的重复工作（内置代码生成器），<br />采用主流架构思想，容易上手，简单易学，学习成本低。 |
+| **Git:[MicroOA](https://github.com/HalngYao/MicroOA)**       |                                                              | **MicroOA是一款不需要专业的开发知识或开发经验，<br />通过页面交互式即可实现动态搭建表单的微型办公自动化系统。**<br/>在日常工作当中，我们面临着各种各样的表单，在开发系统时，<br />若我们采用每个录入界面设计一个输入表单页面, 这样有多少个录入界面,<br /> 就要设计多少个输入表单页面, 因此需要进行大量的表单设计, 而这些表单<br />往往又是类似的, 大多应用文本框、列表框、单选按钮、复选框等等表单录入元素, <br />为了减少重复开发的工作量、提高程序的通用性和工作效率, 因此需要一种动态的、<br />灵活的、安全性高的、快速有效的动态设计方法以方便系统管理和维护。 |
+| **Gitee:[TopskyHotelManagerSystem](https://gitee.com/java-and-net/TopskyHotelManagerSystem)** | MIT                                                          | TopskyHotelManagerSystem是一款基于.NET8开源、免费（MIT License）<br />的中小型酒店管理系统，为中小型酒店提供全面的酒店管理系统解决方案，<br />帮助酒店提高运营效率，优化客户体验。 |
+| **Gitee:[Admin.Core.ZR](https://gitee.com/izory/ZrAdminNetCore)** | MIT                                                          | ZR.Admin.NET是一款基于.NET平台开发的、前后端分离的<br />通用权限管理后台系统。它采用了多种先进技术和框架，旨在提高开发效率，<br />降低开发成本，并提供一个稳定、可扩展的后台管理系统解决方案。 |
 
 ### 相关参考
 
@@ -435,6 +448,9 @@ D. 电子白板/大屏
 3. **[一套以用户体验出发的.NET8 Web开源框架【YiFramework，Yi.Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504129&idx=2&sn=53a8c5ced48174365d33d569d1c00db3&chksm=96413c0a1b4eac6a1223eae128f8aa627b0f04a3e48bf6e8b82d5d14fdbc3b75ed84db99fab4&scene=126&sessionid=1723682105#rd)**，**[意框架在线Demo](https://ccnetcore.com:1000/index)**，**[意社区](https://ccnetcore.com/index)**
 3. **[基于Blazor开箱即用的企业级快速开发框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504595&idx=3&sn=c86706d92e12fc9be011115341a25cb0&chksm=96a974535ed1c558007f9f28e979b1f26481623782e24c35cd4186bc96c17998b1f03db19b45&scene=126&sessionid=1725190461#rd)**
 3. [一套基于.NET 8.0 + LayUI的快速开发框架，完全开源免费！【WaterCloud】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=1&sn=c70037468950b5c666abb4d99e1a2894&chksm=96f069d172bd4e4e52558da7e0a87d17783036b453f9ecf9826b9a0bbd5fb67d836bc53a0a51&scene=126&sessionid=1727311494#rd)
+3. [一款基于C#编写的OA系统 【MicroOA】](https://mp.weixin.qq.com/s/QLEHcqwnEYkRXyJA1uqmOA)
+3. [一款基于.NET8开源且免费的中小型酒店管理系统【TopskyHotelManagerSystem】](https://mp.weixin.qq.com/s/LSXKG_X-2PguMQ2bDEEtBg)
+3. [基于.NET8 + Vue/UniApp前后端分离的快速开发框架，开箱即用！【ZR.Admin.NET】](https://mp.weixin.qq.com/s/oIBGLsrjoehrWJ5W0-MlIQ)
 
 
 
@@ -444,12 +460,17 @@ D. 电子白板/大屏
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[Avalonia](https://github.com/AvaloniaUI/Avalonia)**   | [MIT license](https://github.com/AvaloniaUI/Avalonia#MIT-1-ov-file) | Avalonia是一个强大的框架，使开发人员能够使用.NET创建跨平台应用程序。<br />它使用自己的渲染引擎绘制UI控件，确保在Windows、macOS、Linux、<br />Android、iOS和WebAssembly等不同平台上具有一致的外观和行为。<br />这意味着开发人员可以共享他们的UI代码，并在不同的目标平台上保持统一的外观和感觉。<br />[详细介绍](https://mp.weixin.qq.com/s/_JE8G68qdSuxv-dKRRymyQ) |
 | **Git:[Material.Avalonia](https://github.com/AvaloniaCommunity/Material.Avalonia)** | [MIT license](https://github.com/AvaloniaCommunity/Material.Avalonia#MIT-1-ov-file) | [使用文档](https://github.com/AvaloniaCommunity/Material.Avalonia/wiki/Getting-started) |
+| **Git:[SukiUI](https://github.com/kikipoulet/SukiUI)**       | [MIT license](https://github.com/kikipoulet/SukiUI#MIT-1-ov-file) | SukiUI 是一个为 AvaloniaUI 设计的桌面用户界面（UI）库，<br />它提供了丰富的功能和定制选项，旨在帮助开发者高效构建美观且功能强大的桌面应用程序。 |
 | **Git:[maui](https://github.com/dotnet/maui)**               | [MIT license](https://github.com/dotnet/maui#MIT-1-ov-file)  | .NET 多平台应用 UI (.NET MAUI) 是一个跨平台框架，<br />用于使用 C# 和 XAML 创建本机移动和桌面应用。使用 .NET MAUI，<br />可从单个共享代码库开发可在 Android、iOS、macOS 和 Windows 上运行的应用。 |
+| **Git:[Eto](https://github.com/picoe/Eto)**                  | BSD-3 License                                                | Eto.Forms是一个.NET开源、跨平台的桌面和移动应用的统一框架，<br />该框架允许开发者使用单一的UI代码库构建在多个平台上运行的应用程序，<br />并利用各自平台的原生工具包，从而使应用程序在所有平台上看起来和<br />工作都像原生应用一样。<br />[示例代码](https://github.com/YSGStudyHards/DotNetExercises/tree/master/EtoFormsExercise) |
 
 ### 相关参考
 
 1. **[基于Material Design风格开源的Avalonia UI控件库【Material.Avalonia】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504425&idx=2&sn=f168ef8e769266317c627e9fcf01aa6c&chksm=96ae2db6db690c50582868c906086fc65414e20fe5864234a12b09d6b00265cf52fb26f757cb&scene=126&sessionid=1724633234#rd)**
+1. [.NET Avalonia开源、免费的桌面UI库 - SukiUI【SukiUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=2&sn=55b8865598960dfa3433e1a9e7903186&chksm=96fdf41aeb5cf951a10a1e1f1a27775fdc0464c25b8118c09cb840206cb5f8da7ee3c1479cd8&scene=126&sessionid=1729127563#rd)
 1. [2款.NET开源、免费、跨平台的UI框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505977&idx=1&sn=1c255aa6dd312942223f5e9162ab715d&chksm=96dd82677d73be54c46a1ce00b2437f4e5e701d42362be229f50b15071ff822994bfd3d89c92&scene=126&sessionid=1728350900#rd)
+1. [.NET开源跨平台桌面和移动应用的统一框架【Eto.Forms】](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
+1. **[2024年全面的多端统一开发解决方案推荐！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=1&sn=9243715f092baece4c875ff5b4b04206&chksm=963b7d591b1ddeca0f8e6ba1dd6b37f144d80f4a57d1a19f35adea7941ee1a94a6b1e5f63461&scene=126&sessionid=1729213064#rd)**
 
 
 
@@ -580,14 +601,15 @@ D. 电子白板/大屏
 | **Git:[PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)** | Apache 2.0                                                   | PetaPoco 是一个用于 .NET（4、4.5+、net standard 2.0+）<br />和 Mono 的微型、快速、易于使用的 micro-ORM。<br />由于 PetaPoco 所代表的简单性和易用性，它受到许多人的喜爱。<br />PetaPoco 是首选的微 ORM，也是任何体面的开发人员工具包中必不可少的实用程序。<br />[文档地址](https://discoverdot.net/projects/peta-poco) |
 | **Git:[linq2db](https://github.com/linq2db/linq2db)**        | [MIT license](https://github.com/linq2db/linq2db#MIT-1-ov-file) | LINQ to DB 是最快的LINQ数据库访问库，<br />在POCO对象和数据库之间提供了一个简单、轻量、快速且类型安全的层。<br />在架构上，它比 Dapper、Massive 或 PetaPoco 等微 ORM 高出一步，<br />因为您使用 LINQ 表达式，而不是魔术字符串，<br />同时在代码和数据库之间维护一个薄抽象层。<br />您的查询由 C# 编译器检查并允许轻松重构。但是，<br />它不像 LINQ to SQL 或实体框架那么重。没有更改跟踪，<br />因此您必须自己进行管理，但从积极的方面来说，<br />您可以获得更多控制权并更快地访问您的数据。<br />[文档地址](https://linq2db.github.io/) |
 | **Git:[RepoDB](https://github.com/mikependon/RepoDB)**       | [Apache-2.0 license](https://github.com/mikependon/RepoDB#Apache-2.0-1-ov-file) | RepoDB是一个开源的.NET ORM库，<br />它弥合了微ORM和完整ORM之间的差距。<br />它帮助您简化在开发过程中何时使用基本操作和高级操作的切换。 |
-| **Git:[ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)** |                                                              | OrmLite是一个快速、简单、类型化的.NET ORM，<br />OrmLite 的目标是提供一个方便、DRY、无配置、<br />与 RDBMS 无关的类型包装器，该包装器与 SQL 保持高度亲和性，<br />公开直观的 API，生成可预测的 SQL 并干净地映射到断开连接和<br />数据传输对象 (DTO) 友好、普通的旧C# 对象 (POCO)。这种方法<br />更容易推理您的数据访问，从而清楚地知道什么 SQL 在什么时间执行，<br />同时减轻意外行为、隐式 N+1 查询和重对象关系映射器 (ORM) <br />中普遍存在的泄漏数据访问。<br />[文档地址](https://docs.servicestack.net/ormlite/ |
-| )                                                            |                                                              |                                                              |
+| **Git:[ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite)** |                                                              | OrmLite是一个快速、简单、类型化的.NET ORM，<br />OrmLite 的目标是提供一个方便、DRY、无配置、<br />与 RDBMS 无关的类型包装器，该包装器与 SQL 保持高度亲和性，<br />公开直观的 API，生成可预测的 SQL 并干净地映射到断开连接和<br />数据传输对象 (DTO) 友好、普通的旧C# 对象 (POCO)。这种方法<br />更容易推理您的数据访问，从而清楚地知道什么 SQL 在什么时间执行，<br />同时减轻意外行为、隐式 N+1 查询和重对象关系映射器 (ORM) <br />中普遍存在的泄漏数据访问。<br />[文档地址](https://docs.servicestack.net/ormlite/) |
 | **Git:[sqlite-net](https://github.com/praeclarum/sqlite-net)** | [MIT license](https://github.com/praeclarum/sqlite-net#MIT-1-ov-file) | 简单、强大、跨平台的 SQLite 客户端和 .NET 的 ORM。           |
 | **Git:[Insight.Database](https://github.com/jonwagner/Insight.Database)** | MS-PL                                                        | Insight.Database是一个用于 .NET 的快速、轻量级的 micro-orm。 |
 | **Git:[cyqdata](https://github.com/cyq1162/cyqdata)**        | [LGPL-3.0 license](https://github.com/cyq1162/cyqdata#LGPL-3.0-1-ov-file) | cyq.data is a high-performance and the most powerful orm.<br />（.NET 最好用的ORM数据层框架，木有之一！支持.NET所有版本、<br />支持.NET Core所有版本）Support：Mssql、Mysql、Oracle、<br />Sybase、Postgres、DB2、FireBird、Sqlite、DaMeng（达梦）、<br />KingBaseES（人大金仓）、Txt、Xml、Access、Excel、FoxPro、Redis、MemCache。 |
 | **Git:[querybuilder](https://github.com/sqlkata/querybuilder)** | [MIT license](https://github.com/sqlkata/querybuilder#MIT-1-ov-file) | SQL 查询构建器，用 c# 编写，帮助您轻松构建复杂的查询，<br />支持 SqlServer、MySql、PostgreSql、Oracle、Sqlite 和 Firebird。<br />[官网地址](https://sqlkata.com/) |
 | **Git:[SecurityDriven.TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM)** | [MS-PL license](https://github.com/sdrapkin/SecurityDriven.TinyORM#MS-PL-1-ov-file) | TinyORM是一个简单、快速且安全的微型.NET ORM。<br />[Wiki](https://github.com/sdrapkin/SecurityDriven.TinyORM/wiki) |
 | **Git:[EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository)** | [MIT license](https://github.com/TanvirArjel/EFCore.GenericRepository#MIT-1-ov-file) | 该库是EF Core ORM的通用仓储库实现，<br />旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。<br />通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。<br /> |
+| **Git:[EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer)** | [GPL-3.0 license](https://github.com/Giorgi/EFCore.Visualizer#GPL-3.0-1-ov-file) | C#开源的一款EF Core查询计划调试器可视化工具。                |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
@@ -596,20 +618,24 @@ D. 电子白板/大屏
 1. **[Entity Framework Plus: 让 EF Core 开发如虎添翼 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=1&sn=b3fc39535316088d5ebb46b82e3d717f&chksm=968c7b2d53e5c6251330cb3f8be1d5f1224546a759452de06d30e800a2372469b33d8143ec06&scene=126&sessionid=1726188991#rd)**
 1. [值得推荐的.NET ORM框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505340&idx=2&sn=aee44d7a53481996397480d17c502c7c&chksm=96816505db94c6154b107b8f027c62877e3a617ac0178b1764172f056826aeb2a15c9925d909&scene=126&sessionid=1726708247#rd)
 1. [一个库帮你快速实现EF Core数据仓储模式 【EFCore.GenericRepository】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498166&idx=1&sn=59593649989ed0d5d76b5e0a7ad7d108&scene=21#wechat_redirect)
+1. [在Visual Studio中查看EF Core查询计划【EFCore.Visualizer】](https://mp.weixin.qq.com/s/SwAgFg8FbPsBnYsWKEqgRg)
+1. [分享几个实用且高效的EF Core扩展类库，提高开发效率！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505976&idx=1&sn=898b8cc5b54c4baf31646939f03ff1f4&scene=21#wechat_redirect)
 
  
 
 ## P. PDF
 
-| 项目名称                                                 | 使用的协议                                                   | 功能说明/介绍                                                |
-| -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Git:[QuestPDF](https://github.com/QuestPDF/QuestPDF)** | [QuestPDF License](https://github.com/QuestPDF/QuestPDF?tab=License-1-ov-file#readme) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。<br />QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。<br />轻松生成 PDF 报告、发票、导出等。QuestPDF它提供了一个布局引擎，<br />在设计时考虑了完整的分页支持。与其他库不同，它不依赖于 HTML 到 PDF 的转换，<br />这在许多情况下是不可靠的。相反，它实现了自己的布局引擎，该引擎经过优化，<br />可以满足所有与分页相关的要求。 |
-|                                                          |                                                              |                                                              |
-|                                                          |                                                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[QuestPDF](https://github.com/QuestPDF/QuestPDF)**     | [QuestPDF License](https://github.com/QuestPDF/QuestPDF?tab=License-1-ov-file#readme) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。<br />QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。<br />轻松生成 PDF 报告、发票、导出等。QuestPDF它提供了一个布局引擎，<br />在设计时考虑了完整的分页支持。与其他库不同，它不依赖于 HTML 到 PDF 的转换，<br />这在许多情况下是不可靠的。相反，它实现了自己的布局引擎，该引擎经过优化，<br />可以满足所有与分页相关的要求。 |
+| **Git:[sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)** | GPL-3.0, Unknown licenses found                              | SumatraPDF是一个功能强大、易于使用的多格式文档阅读器，<br />适合在Windows平台上阅读各种类型的文档。 |
+| **Git:[PDFPatcher](https://github.com/wmjordan/PDFPatcher)** |                                                              | PDF 补丁丁（PDFPatcher）是一个.NET开源、功能强大的 PDF 处理工具，<br />旨在为用户提供便捷、高效的 PDF 编辑和管理体验。该项目不仅支持对 <br />PDF 文档进行多种修改和定制操作，还包含了书签编辑、PDF 制作、<br />文件拆分与合并、图片导出、字体替换等实用功能。 |
 
 ### 相关参考
 
 - [.NET使用QuestPDF高效地生成PDF文档 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495837&idx=1&sn=94418ee2b681bfff6de59fece9446f0f&scene=21#wechat_redirect)
+- [SumatraPDF：一款轻量级、开源、免费的PDF阅读器 【SumatraPDF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=4&sn=350ef79b1b9002ffdd89c68ceb41246c&chksm=96d5d7d905aaee8a39a71d45bfdf1bc48642007efee193f0e74ff7b06435e49e3cd3200b1e36&scene=126&sessionid=1729127563#rd)
+- [一个.NET开源、功能强大的 PDF 处理工具【PDFPatcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=3&sn=8dde60c794127e94e0c909fce8cc26fc&chksm=9672d66ab58fc2a16481034e15cb0913c4f3ff58d10a40b4b0ad2a97bcf7434cbc4322cd49d8&scene=126&sessionid=1729127563#rd)
 
 
 
@@ -837,6 +863,7 @@ D. 电子白板/大屏
 1. [精选6款.NET开源图表库：免费、高效且功能强大！](https://mp.weixin.qq.com/s/nohV4mO1rmkFkK1HglXzvg)
 1. **[LiveCharts2：一个.NET开源、美观、功能强大的.NET图表库【LiveCharts2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=2&sn=ae85d302de7455cfacfb3d02b4626df8&chksm=967c22f1fa95b9356205d80d435824c2aa04a65cc920c51d954f7f5116e83497fef2005682bf&scene=126&sessionid=1721867131#rd)**
 1. [推荐7款.NET开源且功能强大图表库，效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/V1pewGJmnygq8ig2Zo_cVQ)
+1. [ScottPlot：一个开源且免费的 .NET 绘图库 【ScottPlot】](https://mp.weixin.qq.com/s/G8DeUNu0mw9_HXQXdw80-Q)
 
 
 
@@ -850,7 +877,7 @@ D. 电子白板/大屏
 | **Git:  [Magick.NET](https://github.com/dlemstra/Magick.NET)** | [Apache-2.0 license](https://github.com/dlemstra/Magick.NET#Apache-2.0-1-ov-file) | ImageMagick is a powerful image manipulation library <br />that  supports over [100 major file formats](https://imagemagick.org/script/formats.php) <br />(not including sub-formats). <br />With Magick.NET you can use ImageMagick in your <br />C#/VB.NET/.NET Core application without having to <br />install ImageMagick on your server or desktop. |
 | **Git:[AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)** | [GPL-3.0 license](https://github.com/X-Lucifer/AI-Lossless-Zoomer#GPL-3.0-1-ov-file) |                                                              |
 | **Git:[DIS](https://github.com/xuebinqin/DIS)**              | [Apache-2.0 license](https://github.com/xuebinqin/DIS#Apache-2.0-1-ov-file) | OnnxRuntime DIS高精度图像二类分割                            |
-|                                                              |                                                              |                                                              |
+| **Git:[YoloDotNet](https://github.com/NickSwardh/YoloDotNet)** | [GPL-3.0 license](https://github.com/NickSwardh/YoloDotNet#GPL-3.0-1-ov-file) | YoloDotNet v2.1 是一个基于 C# 和 .NET 8 的实时物体检测框架，<br />专为图像和视频中的物体检测而设计。它集成了 Yolov8 ~ Yolov11 模型，<br />通过 ML.NET 和 ONNX 运行时实现高效的物体检测，<br />并支持 GPU 加速（使用 CUDA）。YoloDotNet 不仅支持传统的物体检测，<br />还涵盖了分类、OBB 检测、分割和姿态估计等多种功能，适用于各种复杂的视觉任务。 |
 
 ### 相关参考
 
@@ -862,7 +889,12 @@ D. 电子白板/大屏
    - [图像分割基本概念看这篇就行 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/624568476#:~:text=我们知道一张图片是由一堆像素构成的，那么图像分割 (Image Segmentation)可以理解成对每一个像素进行分类的任务。 有两种最常见的图像分割技术：语义分割 (Semantic,Segmentation) 和实例分割 (Instance Segmentation)。 语义分割时，在一张图片中有多个同一类物体的时候，这两个物体不用被明确的区分开，他们的像素标签都会是同一类别。 而实例分割时，当一张图片中有多个同一类物体时，不仅需要识别出物体的类别，还需要把两个同类物体给区分开。)
 
 
-6. 2
+6. [YoloDotNet v2.1：实时物体检测的利器【YoloDotNet 】](https://mp.weixin.qq.com/s/kx6bzmHkfGVY6E6PFZJLMg)
+   - [YoloDotNet v2.1：实时物体检测的利器 - 张善友 - 博客园 (cnblogs.com)](https://www.cnblogs.com/shanyou/p/18457208)
+
+
+
+7. 1
 
 
 
@@ -978,12 +1010,20 @@ D. 电子白板/大屏
 | **Git:[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)** | [MIT license](https://github.com/nilaoda/N_m3u8DL-RE#MIT-1-ov-file) | 免费、跨平台的DASH/HLS/MSS下载工具，并且支持点播和直播（DASH/HLS）的内容下载 |
 | **Git:[srs](https://github.com/ossrs/srs)**                  | [MIT license](https://github.com/ossrs/srs#MIT-1-ov-file)    | SRS是一个开源的（MIT协议）简单高效的实时视频服务器，支持RTMP、WebRTC、<br />HLS、HTTP-FLV、SRT、MPEG-DASH和GB28181等协议。SRS媒体服务器和FFmpeg、<br />OBS、VLC、 WebRTC等客户端配合使用，提供流的接收和分发的能力，是一个典型的<br />发布 （推流）和订阅（播放）服务器模型。SRS支持互联网广泛应用的音视频协议转换，<br />比如可以将RTMP或SRT， 转成HLS或HTTP-FLV或WebRTC等协议。 |
 | **Git:[FFmpeg](https://github.com/FFmpeg/FFmpeg)**           | GPL，LGPL                                                    | FFmpeg是一个开源、功能强大、跨平台、灵活且广泛应用的多媒体处理工具，<br />可用于录制、转换和流式传输音频和视频。它提供了一组强大的工具和库，<br />可以处理各种多媒体格式，包括视频（如MPEG、AVI、WMV、MOV等）<br />和音频（如MP3、WAV、AAC等），以及图像文件。 |
+| **Git:[clipify](https://github.com/Deali-Axy/clipify)**      | [GPL-3.0 license](https://github.com/Deali-Axy/clipify#GPL-3.0-1-ov-file) | 基于 Blazor Hybrid 技术开发的简单流畅的视频编辑工具，<br />专为提供快速、轻松的视频剪辑体验而设计。 |
+| **Gitee:[AKStream](https://gitee.com/chatop2020/AKStream)**  | MIT                                                          | AKStream是一个基于C#开发的一套全功能的流媒体管理控制接口平台，<br />集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、<br />音视频文件录制管理、音视频文件裁剪合并等功能。 |
+| **Git:[Bili.Copilot](https://github.com/Richasy/Bili.Copilot)** | [GPL-3.0 license](https://github.com/Richasy/Bili.Copilot/tree/master#GPL-3.0-1-ov-file) | Bili.Copilot是B站第三方 Windows 桌面客户端，专为Windows 11用户设计。<br />该项目基于Windows App SDK进行了重构，旨在以更开放的态度进行开发，<br />并借助社区的力量，共同构建一个有趣且高质量的用户生成内容（UGC）客户端。 |
 
 ### 相关参考
 
 1. **[一款.NET开源、跨平台的DASH/HLS/MSS下载工具【N_m3u8DL-RE】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=1&sn=06c95846c78c7710c599cf7c0499f915&chksm=968c3e69394cab31d03015486448fe60ba0ccfbff3d6454d113b653e5272ca2b5fde95863889&scene=126&sessionid=1722213176#rd)**
-1. **[使用asp.net core 8+vue3 实现高效音视频通话 (SRS)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=2&sn=6787755c36eab6115833dc2dc1df4e84&chksm=9659885b9b36ede96ab84461ab941be07fa50de463e67d8cec176ae531b1a3687a10d5bcac87&scene=126&sessionid=1725325808#rd)**
-1. [C#进程调用FFmpeg操作音视频 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247501553&idx=1&sn=dea318b23ca55757a7040097ac5b3f33&scene=21#wechat_redirect)
+2. **[使用asp.net core 8+vue3 实现高效音视频通话 (SRS)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=2&sn=6787755c36eab6115833dc2dc1df4e84&chksm=9659885b9b36ede96ab84461ab941be07fa50de463e67d8cec176ae531b1a3687a10d5bcac87&scene=126&sessionid=1725325808#rd)**
+3. [C#进程调用FFmpeg操作音视频 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247501553&idx=1&sn=dea318b23ca55757a7040097ac5b3f33&scene=21#wechat_redirect)
+4. [桌面软件开发新体验！用 Blazor Hybrid 打造简洁高效的视频处理工具【Clipify】](https://mp.weixin.qq.com/s/96RllhIASAglO3yXZqErmw)
+   - [Blazor Hybrid 实战体验：那些你可能没预料到的坑 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=3&sn=5f8a0e6bdf5f55ba5fdab5f6ef7d3903&chksm=96f9194408d04b9d14e81086423b283c202ec25ac501b7465e64f297ac6c1be6e6bfde64a45c&scene=126&sessionid=1728867433#rd)
+5. [基于C#开发的一套全功能的流媒体管理控制接口平台【AKStream】](https://mp.weixin.qq.com/s/WC9G0CxqQhUI53YbKiSwmQ)
+5. [基于C#开发的一套全功能的流媒体管理控制接口平台 【AKStream】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=2&sn=8a339ee27984cd6c92691e43414775b7&chksm=96e19091168573cb077333973c1a48a78a070df97d439b891c0013cd5d3c60347da30bb5f1fc&scene=126&sessionid=1729213064#rd)
+5. [B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用【Bili.Copilot】](https://mp.weixin.qq.com/s/DJBp4ytV8wvshgTCsdwyFg)
 
 
 
@@ -1021,15 +1061,17 @@ D. 电子白板/大屏
 
 ## Z. 桌面工具
 
-| 项目名称                                                  | 使用的协议         | 最新版本       | 帮助文档                                                     |
-| --------------------------------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ |
-| **Git:[GeekDesk](https://github.com/BookerLiu/GeekDesk)** | Apache-2.0 license | 最后更新日期： | [中文文档](https://github.com/BookerLiu/GeekDesk/blob/master/README-zh.md)<br />GeekDesk（极客桌面）是一款C#构建的免费、小巧、美观、<br />高度自定义的桌面快速启动管理工具，集成了Everything搜索功能，<br />不仅能帮我们整理桌面，还能快速启动应用程序、管理文件夹。 |
-|                                                           |                    |                |                                                              |
-|                                                           |                    |                |                                                              |
+| 项目名称                                                  | 使用的协议                                                   | 帮助文档                                                     |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[GeekDesk](https://github.com/BookerLiu/GeekDesk)** | Apache-2.0 license                                           | [中文文档](https://github.com/BookerLiu/GeekDesk/blob/master/README-zh.md)<br />GeekDesk（极客桌面）是一款C#构建的免费、小巧、美观、<br />高度自定义的桌面快速启动管理工具，集成了Everything搜索功能，<br />不仅能帮我们整理桌面，还能快速启动应用程序、管理文件夹。 |
+| Listary                                                   | 软件/工具                                                    | Listary作为一款功能强大、操作简便的Windows本地搜索与管理工具，<br />凭借其快速搜索、智能命令、网络搜索等核心功能以及丰富的个性化设置选项，<br />能够显著提升用户在文件查找和管理方面的效率。对于职场办公人员来说，<br />Listary是提高工作效率的必备工具之一。<br />[下载地址](https://www.listary.com/download) |
+| **Git:[Files](https://github.com/files-community/Files)** | [MIT license](https://github.com/files-community/Files#MIT-1-ov-file) | Files 是一个现代文件管理器，可帮助用户组织他们的文件和文件夹。<br />Files 的使命是构建适用于 Windows 的最佳文件管理器，我们很自豪<br />能够在公开场合构建它，以便每个人都可以参与其中。用户反馈有助于塑造我们开发的功能，<br />而GitHub上的错误报告有助于使文件更可靠。Files 由开源社区构建和维护，<br />具有强大的多任务处理体验、文件标签、深度集成和直观的设计。 |
 
 ### 相关参考
 
 1. **[C#开源、美观、小巧的桌面快速启动管理神器！【GeekDesk】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503576&idx=3&sn=c308d814ac80499cb810649934cdc50a&chksm=96cd1df6baefc271098a1e2e8cd605e217798720456ce503e6974f26176ba8d4738604a2770b&scene=126&sessionid=1722386747#rd)**
+1. [Listary：一款功能强大的Windows本地搜索工具【Listary】](https://mp.weixin.qq.com/s/nyhIrwnlbcA1rhu8JKl9Kw)
+1. [每天认识一款工具：Files，一个开源的文件管理器，可以让你轻松管理电脑上的内容，提高工作效率！！【Files 】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=3&sn=1badff807d16952b9173f1a54e2e9a4c&chksm=96c67f9526733e8fcd2a1866ccbccfaa8bd6a3a61b3e50a11bd990b6d6cdd5dfb454f7adb72e&scene=126&sessionid=1729213064#rd)
 
 
 

@@ -127,3 +127,8 @@
 
 - [编程技巧 --- VS远程调试](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=3&sn=b6faeeec08ba9125fd11d3f867601aac&chksm=96467c32caa9c460f5d03a7286c36d1943649345bf5e6245c35c0bb2c1e82c7f3e558e7f8ddb&scene=126&sessionid=1723511292#rd)
 
+
+
+## Visual Studio 技巧
+
+- [Visual Studio提高效率的三个小技巧? (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=4&sn=133f42ea0405698f6512f7e2597365e6&chksm=96747c9c1a4963d451ddcf7bf38f5c371db01393b0b184da8dd0c5ca2ff281caaf589346b7a2&scene=126&sessionid=1728867433#rd)
