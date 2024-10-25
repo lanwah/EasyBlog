@@ -37,6 +37,9 @@
 ## A. AI
 
 - [Introducing Microsoft.Extensions.AI Preview - Unified AI Building Blocks for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
+- [适用于 .NET 稳定的官方OpenAI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=1&sn=7016d47686d100aab997bfb11a62563c&chksm=9623badd164d3ad0665805fdcb55009d09871c6cac03bfb010d6aaa53ae6a5f4e57cf3571203&scene=126&sessionid=1729426307#rd)
+- [在C#中基于Semantic Kernel的检索增强生成（RAG）实践 - dax.net - 博客园](https://www.cnblogs.com/daxnet/p/18475095)
+- [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
 
 
 
@@ -55,6 +58,12 @@
 ## C. 程序交互
 
 - [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
+
+
+
+## C. 处理器
+
+- [盘点.NET支持的 处理器架构 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18471374)
 
 
 
@@ -117,6 +126,12 @@
 - [一幅漫画解释 .NET 垃圾收集（GC）原理 | Kit Lau's Blog](https://blog.kitlau.dev/posts/cartoon-dotnet-garbage-collection/)
 - [.NET 性能技巧：为什么你应该避免使用终结器 Finalizer？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=2&sn=c8cb88c8d9969e665fe3c5cfb78836a2&chksm=96e8c6c1d830a2a0b5b182b05659c7f2e6dab2844ab52b0a4caf8533bdace259bd0e04970687&scene=126&sessionid=1728867433#rd)
 - [一张图带你了解.NET终结(Finalize)流程 - 叫我安不理 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lmy5215006/p/18456380)
+
+
+
+## G. Graphql
+
+- [.NET使用Graphql的演示——新一代的API交互 - WeskyNet - 博客园](https://www.cnblogs.com/weskynet/p/18471829)
 
 
 
@@ -192,6 +207,7 @@
 ## O. ORM
 
 - [.NET使用EF批量插入数据，一行代码性能飙升！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=4&sn=0cab188b357b4b8128001df03fcc7ebc&chksm=965f9b55822ce4318fd4b1cbcf0ef2085c56866f6aa2c12c25587dd4c8c665f835e4c5651b2b&scene=126&sessionid=1726016076#rd)
+- [C# Winform使用SqlSugar操作数据库?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=3&sn=0753b2089b4ffcea93748bcea8a56ddf&chksm=9688e655f6fc8c7449c2478f15226ea8a18f8065671fe8315197484b03b41e9db938aadd6dac&scene=126&sessionid=1729645767#rd)
 
 
 
@@ -213,6 +229,13 @@
 
 
 
+## R. [容器](https://link.zhihu.com/?target=https%3A//www.redhat.com/en/containers/whats-a-linux-container)自动化运维平台
+
+- [C#使用Kubernetes (k8s) - Flamesky - 博客园](https://www.cnblogs.com/flamesky/p/18472463)
+- [虚拟化和容器化有哪些区别？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=4&sn=3d867ee1bcfee36707f6898263b63171&chksm=96902cea3dadffd63cb3a29356dc79127de808028a9a9816394479faf53f1dde5eefb0b574e5&scene=126&sessionid=1729645767#rd)
+
+
+
 ## S. 设计模式
 
 - **[C#设计模式入门实战教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=1&sn=b3863c36fb24a122ff940c29fbadef3f&chksm=96cda7694782eb203a0c8106c853382ce18bd4a278f0cab9f783b43de86e881cab0a03e75194&scene=126&sessionid=1725325808#rd)**
@@ -220,12 +243,14 @@
 
 
 
-### S. 算法
+## S. 算法
 
 - **[C#数据结构与算法实战入门指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504120&idx=1&sn=f6ec4f6aed0384c7e3c579055b03e373&chksm=96f5f8948099076cba2ad627440c18d8cd6edad150141489ce539824976feba23f79c3356e42&scene=126&sessionid=1723594895#rd)**
 - **[一个开源免费的数据结构与算法入门教程（支持C#，Python，Java,，C++，C，JS等多门语言）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504230&idx=2&sn=7914bc447cd6ebd2d3cf94cdfa38b677&chksm=96a2cdaad48264c3e99514304831b9c7718d7ef714849659664d4b0e76ad66612b9423dd52dc&scene=126&sessionid=1723899633#rd)**
 - **[C#二叉搜索树算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504335&idx=1&sn=1858eca8bbdcedfab5f79afaf97f3a23&chksm=96e823146a881baa312a1c7a9f319a78e6a23ab59fd5f60ceff451892ca1ec949fd8f051fc16&scene=126&sessionid=1724028274#rd)**
 - [C#二分查找算法 (qq.com)](https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ)
+- [C#线性查找算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506400&idx=1&sn=86b6d62d8a5e5dd7d471c9fed09f4ec7&chksm=966f80281d1a62e91fa852b80f9a5d19da12b4c2ae8e90200f6900bb25ed03e252bb5ff8ed52&scene=126&sessionid=1729472376#rd)
+- [C#常见的四种经典查找算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506487&idx=1&sn=1634458d183be227654041955650f589&chksm=963e5ef24916873fe3c280b7d0d2ebfcfb2a9eee677477d3370a2b8b6685376053cf5625372c&scene=126&sessionid=1729731769#rd)
 
 
 
