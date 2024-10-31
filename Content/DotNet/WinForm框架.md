@@ -36,6 +36,7 @@
 4. [**AntdUI项目介绍**](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497234&idx=1&sn=9a8c9024c5af339102f19bc71a4a4e32&scene=21#wechat_redirect)
 5. **[一款基于 Ant Design 设计语言的 Winform 界面库 【AntdUI】](https://mp.weixin.qq.com/s?__biz=MzU2MDY4ODkyNg==&mid=2247484610&idx=1&sn=ca18cf3ad5c873ffeb97b010cd224a5f&scene=21#wechat_redirect)**
 6. [**推荐2款开源、美观的WinForm UI控件库**](https://www.cnblogs.com/Can-daydayup/p/18211642)
+6. [基于Material Design风格开源、免费的WinForms UI控件库【MaterialSkin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=1&sn=94baf8f9a53644f3fd79ba90ff0dcf93&chksm=96613c6b8c9f601a88a456266ae88ee11d91d7d9eef6528c1309594c572f446b61762dc92256&scene=126&sessionid=1730163511#rd)
 7. [**Winform 开源控件库 MaterialSkin.2 使用教程（鸿蒙字体版）**](https://www.cnblogs.com/PixelKiwi/p/17897133.html)
 8. [**Winform 好看控件库推荐：MaterialSkin.2**](https://www.cnblogs.com/kanoakliu/p/17512479.html)
 9. [**CPF C#跨平台UI框架开源了**](https://www.cnblogs.com/dskin/p/17849896.html)

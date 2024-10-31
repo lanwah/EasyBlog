@@ -6,7 +6,6 @@
 
 本文用于记录 .NET 整理，归纳，总结性文章。
 
-- [.NET 中有多少种定时器？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=2&sn=fd00632b7fc64ae982c74990b4c4a438&chksm=969ff1f636d9f542d499971c43f22c9cad937a2331b178d8dcfd235e4d8064dcc2bf583104c1&scene=126&sessionid=1722818981#rd)
 - [C# 枚举器（enumerator） - 小林野夫 - 博客园 (cnblogs.com)](https://www.cnblogs.com/cdaniu/p/15856321.html)
 - [一文讲清 C#的委托有什么实质性用途? (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=3&sn=e6a2425c905c09fd4d8f832691f01ec3&chksm=96ee351c279f2ba661b0169fd583dfc1e120de32dc8a87758dc674f56f35bd1245e3f9b9ebb1&scene=126&sessionid=1726414371#rd)
 - [C# Assembly (qq.com)](https://mp.weixin.qq.com/s/HXNDLrAbleMXdam8lvRbMg)
@@ -90,6 +89,7 @@
 ## D. 堆栈
 
   - [C# StackTrace & StackFrame (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505324&idx=3&sn=544a97d85ff3faaf7e3d573f17857fda&chksm=966995f2b66c273d692ffea36fd48b2824541025967e894bdfef63f5b208b099b22ed2021283&scene=126&sessionid=1726621538#rd)
+  - [.NET 中有多少种定时器？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=2&sn=fd00632b7fc64ae982c74990b4c4a438&chksm=969ff1f636d9f542d499971c43f22c9cad937a2331b178d8dcfd235e4d8064dcc2bf583104c1&scene=126&sessionid=1722818981#rd)
 
 
 
@@ -97,6 +97,13 @@
 
 - [.NET 白板书写延迟-触摸屏报点率 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18453947)
 - [.NET 白板书写加速-曲线拟合预测 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18442316)
+
+
+
+## D. 定时器
+
+- [PeriodicTimer](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506539&idx=3&sn=16a6cb3b9320982aacced43fb08115c8&chksm=967cdea0a8c27347dded6ca5255d719f375691dbbe32b41bc6ff7c95e932851394717d06f1e6&scene=126&sessionid=1730033816#rd)
+- 
 
 
 
@@ -363,6 +370,12 @@
 
 - [.NET 压缩/解压文件 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18398891)
 - [.NET使用原生方法实现文件压缩和解压 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247501949&idx=1&sn=19c07f1b11e880898bd9457df492b618&scene=21#wechat_redirect)
+
+
+
+## Y. 远程控制
+
+- [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
 
 
 

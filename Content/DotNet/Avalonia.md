@@ -4,7 +4,13 @@
 
 ---
 
+## [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+
+ 
+
 ## Avalonia UI
+
+[App Showcase](https://avaloniaui.net/showcase)
 
 - [Avalonia UI Doc 官网](https://docs.avaloniaui.net/zh-Hans/docs/welcome)
   - [如何使用实时预览](https://docs.avaloniaui.net/zh-Hans/docs/guides/implementation-guides/ide-support)

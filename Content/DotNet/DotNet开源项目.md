@@ -85,15 +85,29 @@
 
 ## C. 仓库管理系统
 
-| 项目名称                                                     | 使用的协议     | 最新版本   | 帮助文档                                                     |
-| ------------------------------------------------------------ | -------------- | ---------- | ------------------------------------------------------------ |
-| **Gitee:[ModernWMS](https://gitee.com/modernwms/ModernWMS)** | **Apache-2.0** | Apache-2.0 | 该库存管理系统是，我们从多年ERP系统研发中<br />总结出来的一套针对小型物流仓储供应链流程。<br /> 在工作过程中我们很多的中小企业，由于IT预算有限，<br />所以无法用上适合他们的系统，<br />却又实实在在存在仓储管理方面的需求，<br />以此我们开始了这个项目。 为了帮助一些有需要的用户。 |
-|                                                              |                |            |                                                              |
-|                                                              |                |            |                                                              |
+| 项目名称                                                     | 使用的协议     | 帮助文档                                                     |
+| ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
+| **Gitee:[ModernWMS](https://gitee.com/modernwms/ModernWMS)** | **Apache-2.0** | 该库存管理系统是，我们从多年ERP系统研发中<br />总结出来的一套针对小型物流仓储供应链流程。<br /> 在工作过程中我们很多的中小企业，由于IT预算有限，<br />所以无法用上适合他们的系统，<br />却又实实在在存在仓储管理方面的需求，<br />以此我们开始了这个项目。 为了帮助一些有需要的用户。 |
+|                                                              |                |                                                              |
+|                                                              |                |                                                              |
 
 ### 相关参考
 
 1. **[一个.NET开源的简易完整的仓库管理系统 【ModernWMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503057&idx=2&sn=54f6a82fe68f361dfd2283de90c4f274&chksm=960352e80bdb9baf01cb06f7c3da9ea778e04cdde006280e495d3bd2f41ec013b681131d7789&scene=126&sessionid=1721004385#rd)**
+
+
+
+## C. 测试/软件测试
+
+| 项目名称                                | 使用的协议   | 帮助文档                                                     |
+| --------------------------------------- | ------------ | ------------------------------------------------------------ |
+| [moq](https://github.com/devlooped/moq) | BSD-3-Clause | Moq是一个.NET开源、流行、使用简单的 .NET 模拟库，<br />充分利用了.NET 的 Linq 表达式树和 lambda 表达式。这使得 Moq 成为最具生产力、<br />类型安全且支持重构的模拟库。它不仅支持模拟接口，还支持模拟类。其 API 非常简单直观，<br />不需要任何关于模拟概念的事先知识或经验。从而简化单元测试中的依赖管理和验证过程，<br />提高代码的可测试性和可维护性。 |
+|                                         |              |                                                              |
+|                                         |              |                                                              |
+
+### 相关参考
+
+- [.NET使用Moq开源模拟库简化单元测试【Moq】](https://mp.weixin.qq.com/s/lJMf3UP1TQHAdE1gi9DWQw)
 
 
 
@@ -190,15 +204,29 @@ D. 电子白板/大屏
 
 ## D. 代码生成器
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
-| **Git:[Dorisoy.Rigger](https://github.com/dorisoy/Dorisoy.Rigger)** | [MIT license](https://github.com/dorisoy/Dorisoy.Rigger#MIT-1-ov-file) | 最后更新日期：2022年09月20日 |          |
-|                                                              |                                                              |                              |          |
-|                                                              |                                                              |                              |          |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| **Git:[Dorisoy.Rigger](https://github.com/dorisoy/Dorisoy.Rigger)** | [MIT license](https://github.com/dorisoy/Dorisoy.Rigger#MIT-1-ov-file) |          |
+|                                                              |                                                              |          |
+|                                                              |                                                              |          |
 
 ### 相关参考
 
 1. **[基于.NET实现的开发框架代码生成器（支持多数据库，自定义T4模板） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504625&idx=3&sn=ea7cb1d70c5abd69285d14e53ec1fef8&chksm=96cca3505e322c6236658e0b25ee6ad2d7f541c150c1744dc7f81685bc8c5c6f66cd9395c557&scene=126&sessionid=1725237952#rd)**
+
+
+
+## D. 打包工具
+
+| 项目名称                               | 使用的协议                                                  | 帮助文档                                                     |
+| -------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| [tsup](https://github.com/egoist/tsup) | [MIT license](https://github.com/egoist/tsup#MIT-1-ov-file) | tsup 是一个简单高效的 TypeScript 库打包工具，它基于 esbuild 构建，<br />提供了零配置的使用体验。该工具旨在简化 TypeScript 库的打包流程，提高开发效率，<br />适用于任何被 Node.js 原生支持的文件类型，包括 JavaScript、JSON、TypeScript 等。<br /> |
+|                                        |                                                             |                                                              |
+|                                        |                                                             |                                                              |
+
+### 相关参考
+
+- [一款基于ESBuild，0配置，快速打包TypeScript库的打包工具【tsup】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506522&idx=3&sn=0270d88a75ed3f1e906cf1f3e68382e4&chksm=9605f3fc6dcf40a642269a4ecf01860edaaf852faba41f0820778f5c0f183cf1b3048665cbfc&scene=126&sessionid=1730033816#rd)
 
 
 
@@ -233,6 +261,7 @@ D. 电子白板/大屏
 | **Gitee:[MinerU](https://gitee.com/ergmax/MinerU)**          | AGPL-3.0                                                     | MinerU是一款一站式、开源、高质量的数据提取工具，旨在提供从PDF文档、<br />网页及多种格式电子书中提取信息的全面解决方案。<br />[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF) |
 | **Git:[quicktype](https://github.com/glideapps/quicktype)**  | [Apache-2.0 license](https://github.com/glideapps/quicktype#Apache-2.0-1-ov-file) | quicktype 是一个用于从 JSON、JSON Schema、TypeScript 和 GraphQL <br />查询中生成强类型模型和序列化器。这使得在多种编程语言中以类型安全<br />的方式处理 JSON 变得轻而易举。quicktype 支持多种输入和输出语言，<br />并提供了灵活的使用方式，包括通过 Web 应用、命令行接口（CLI）<br />以及作为 JavaScript 函数集成到项目中。<br />[在线演示](https://app.quicktype.io/#l=cs) |
 | **Git:  [ FileConverter](https://github.com/Tichau/FileConverter)** | [GPL-3.0 license](https://github.com/Tichau/FileConverter#GPL-3.0-1-ov-file) | 简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单<br />来转换和压缩一个或多个文件<br />[下载地址](https://file-converter.io) |
+| **Git:[MethodTimer](https://github.com/Fody/MethodTimer)**   | [MIT license](https://github.com/Fody/MethodTimer#MIT-1-ov-file) | MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，<br />用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。 |
 
 ### 相关参考
 
@@ -249,6 +278,7 @@ D. 电子白板/大屏
 1. [一款基于.NET开发的简易高效的文件转换器【FileConverter】](https://mp.weixin.qq.com/s/4_DLJ-KzI413uDO4k4FLtw)
 1. [3款C#/.NET开源且免费的实用工具库，收藏使用！ (qq.com)](https://mp.weixin.qq.com/s/EblvFz_voTjBm8y-2kYPXA)
 1. [一个.NET开源、性能优异的Excel数据读取库【Sylvan.Data.Excel】](https://mp.weixin.qq.com/s/hgXUNvJANZ3KqDTLvOHApA)
+1. [一个.NET开源、轻量级的运行耗时统计库【MethodTimer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=1&sn=6e2fc9e9e3239ad7f85a5cf508b45d35&chksm=96c69b8faed7d3aa29c15a7034ac61de2d46ac4e8985215925a97a4ffaa0bd7fcced370c6735&scene=126&sessionid=1730335988#rd)
 
 
 
@@ -282,19 +312,20 @@ D. 电子白板/大屏
 
 
 
-## H. Http客户端
+## H. Http/HTTPS客户端
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[Flurl](https://github.com/tmenier/Flurl)**            | [MIT license](https://github.com/tmenier/Flurl#MIT-1-ov-file) | 最后更新日期：2024年01月18日 |                                                              |
-| **Git:[SuperShortLink](https://github.com/Bryan-Cyf/SuperShortLink)** | MIT license                                                  | 最后更新日期：               | SuperShortLink是一个基于.NET开源（MIT License）、<br />免费、强大易用的短链生成及监控系统，包含了短URL的生成、<br />短URL跳转长URL、短URL访问统计以及Web后台监控页面，<br />可以帮助我们更容易地生成短链、监控短链。 |
-|                                                              |                                                              |                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[Flurl](https://github.com/tmenier/Flurl)**            | [MIT license](https://github.com/tmenier/Flurl#MIT-1-ov-file) |                                                              |
+| **Git:[SuperShortLink](https://github.com/Bryan-Cyf/SuperShortLink)** | MIT license                                                  | SuperShortLink是一个基于.NET开源（MIT License）、<br />免费、强大易用的短链生成及监控系统，包含了短URL的生成、<br />短URL跳转长URL、短URL访问统计以及Web后台监控页面，<br />可以帮助我们更容易地生成短链、监控短链。 |
+| FinalShell                                                   | [下载地址](https://finalshell.net/)                          | FinalShell是一款功能强大的SSH客户端、服务器管理、远程桌面加速软件，支持Windows,macOS,Linux，<br />专为系统管理员、开发人员和网络工程师设计，以满足他们在远程服务器和网络设备管理上的多样化需求。 |
 
 ### 相关参考
 
 1. **[适用于 .NET 的现代化、流畅、可测试的HTTP客户端库【Flurl】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=1&sn=86e602ca0b1e93d791343670e1420bd7&chksm=96d43af3f65850c5ad0525bbcc54a0a35c02f8cb12b7f61cc40ce27da9be312e03317a2acc20&scene=126&sessionid=1721264675#rd)**
 1. **[短链的基本工作原理描述与实现方案【SuperShortLink】](https://blog.csdn.net/zhuqiang12/article/details/106587896)**
 1. **[基于.NET开源、强大易用的短链生成及监控系统【SuperShortLink】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503308&idx=1&sn=364aa77a9bb5eaae652adbb46395a284&chksm=96d6db2e4708a8daa0a463ee7b8f3041a3af835d08e8660f1d017cd75cfa8757234328681305&scene=126&sessionid=1721695050#rd)**
+1. [一款国人开发的功能强大SSH客户端工具【FinalShell】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506522&idx=4&sn=b5c93850666630281e015e269c7fe633&chksm=96d29b34beb4e18c49267a13de21b4b9ce00d931b6c48f8d883182ab1863084d0040e1519234&scene=126&sessionid=1730033816#rd)
 
 
 
@@ -332,6 +363,20 @@ D. 电子白板/大屏
 ### 相关参考
 
 - [.NET开源强大、易于使用的缓存框架【FusionCache】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247499194&idx=1&sn=9ce83f74f36d43b14bb25ba0d7f9713d&scene=21#wechat_redirect)
+
+
+
+## H. 绘图
+
+| 项目名称               | 使用的协议 | 项目介绍/说明                                                |
+| ---------------------- | ---------- | ------------------------------------------------------------ |
+| 在线画图(Low Code)工具 |            | PDDON是一个免费多功能专业在线画图工具，支持用户零基础快速绘制线框图、<br />流程图、架构图、思维导图、UML系列图、网络拓扑图、白板作图、图文混排、<br />日常ppt插图、ER图、数据库模型图、韦恩图、鱼骨图等等，<br />一软搞定，适用于各行各业的从业人员。并且还为科技企业的软件研发人员提供了设计、<br />绘图、代码/脚本生成一体化的设计平台。除了支持在线画图，<br />还提供了一些主流操作系统（Windows/Mac/Linux）的桌面版本支持。<br />[在线地址](https://www.pddon.com/) |
+|                        |            |                                                              |
+|                        |            |                                                              |
+
+### 相关参考
+
+- [PDDON：一个免费多功能专业在线画图工具【PDDON】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506666&idx=4&sn=109eff1dcb3cb919db625c8f9f389511&chksm=9663f94d391e3e9a87baf718fa473ed50bd59acd298b62cf95bcee6bc441afd76c8ba71312bd&scene=126&sessionid=1730251771#rd)
 
 
 
@@ -444,6 +489,7 @@ D. 电子白板/大屏
 | **Gitee:[TopskyHotelManagerSystem](https://gitee.com/java-and-net/TopskyHotelManagerSystem)** | MIT                                                          | TopskyHotelManagerSystem是一款基于.NET8开源、免费（MIT License）<br />的中小型酒店管理系统，为中小型酒店提供全面的酒店管理系统解决方案，<br />帮助酒店提高运营效率，优化客户体验。 |
 | **Gitee:[Admin.Core.ZR](https://gitee.com/izory/ZrAdminNetCore)** | MIT                                                          | ZR.Admin.NET是一款基于.NET平台开发的、前后端分离的<br />通用权限管理后台系统。它采用了多种先进技术和框架，旨在提高开发效率，<br />降低开发成本，并提供一个稳定、可扩展的后台管理系统解决方案。 |
 | TDesign Starter                                              |                                                              | TDesign Starter是一个基于TDesign设计体系的快速启动模板，<br />旨在帮助开发者高效构建具有良好开发体验和设计感的桌面端与移动端产品。<br />该模板提供了预配置的目录结构、代码规范以及一系列实用的基础组件，<br />大大降低了开发成本，提高了开发效率。<br />[官网地址](https://tdesign.tencent.com/starter) |
+| [nova-admin](https://github.com/chansee97/nova-admin)        | [MIT license](https://github.com/chansee97/nova-admin#MIT-1-ov-file) | Nova-admin是一个基于Vue3、Vite5、Typescript、Naive UI, 简洁干净后台管理模板，<br />用简单的方式实现完整功能，并尽可能的考虑代码规范，易读易理解无过度封装，<br />方便二次开发。 |
 
 ### 相关参考
 
@@ -454,10 +500,12 @@ D. 电子白板/大屏
 3. **[一套以用户体验出发的.NET8 Web开源框架【YiFramework，Yi.Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504129&idx=2&sn=53a8c5ced48174365d33d569d1c00db3&chksm=96413c0a1b4eac6a1223eae128f8aa627b0f04a3e48bf6e8b82d5d14fdbc3b75ed84db99fab4&scene=126&sessionid=1723682105#rd)**，**[意框架在线Demo](https://ccnetcore.com:1000/index)**，**[意社区](https://ccnetcore.com/index)**
 3. **[基于Blazor开箱即用的企业级快速开发框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504595&idx=3&sn=c86706d92e12fc9be011115341a25cb0&chksm=96a974535ed1c558007f9f28e979b1f26481623782e24c35cd4186bc96c17998b1f03db19b45&scene=126&sessionid=1725190461#rd)**
 3. [一套基于.NET 8.0 + LayUI的快速开发框架，完全开源免费！【WaterCloud】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=1&sn=c70037468950b5c666abb4d99e1a2894&chksm=96f069d172bd4e4e52558da7e0a87d17783036b453f9ecf9826b9a0bbd5fb67d836bc53a0a51&scene=126&sessionid=1727311494#rd)
+3. [一款基于 .NET 8 + SqlSugar + LayUI 实现的高效敏捷开发框架，源代码完全开源【WaterCloud】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506522&idx=2&sn=2b73a4c78000bc61ee014397e62315ce&chksm=96964bcebb9e6b367f12b8dbe6c1b489c16c763a2a1dc332160551a7a0125ed40e84925d846e&scene=126&sessionid=1730033816#rd)
 3. [一款基于C#编写的OA系统 【MicroOA】](https://mp.weixin.qq.com/s/QLEHcqwnEYkRXyJA1uqmOA)
 3. [一款基于.NET8开源且免费的中小型酒店管理系统【TopskyHotelManagerSystem】](https://mp.weixin.qq.com/s/LSXKG_X-2PguMQ2bDEEtBg)
 3. [基于.NET8 + Vue/UniApp前后端分离的快速开发框架，开箱即用！【ZR.Admin.NET】](https://mp.weixin.qq.com/s/oIBGLsrjoehrWJ5W0-MlIQ)
 3. [基于腾讯TDesign开源、免费、开箱即用的中后台项目模板【TDesign Starter】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506507&idx=2&sn=c81c77ba589953312c6ffaf636e88ee8&chksm=96b895adf406529e4da82932ab60d8da3678eab347ba8c3da09e7019f5ac0269d7b60934520c&scene=126&sessionid=1729816926#rd)
+3. [一个颜值在线，风格清新、简洁干净后台管理模板【Nova-admin】](https://mp.weixin.qq.com/s/b3sT9Lfw-c5xGIkpnEmdgw)
 
 
 
@@ -478,6 +526,20 @@ D. 电子白板/大屏
 1. [2款.NET开源、免费、跨平台的UI框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505977&idx=1&sn=1c255aa6dd312942223f5e9162ab715d&chksm=96dd82677d73be54c46a1ce00b2437f4e5e701d42362be229f50b15071ff822994bfd3d89c92&scene=126&sessionid=1728350900#rd)
 1. [.NET开源跨平台桌面和移动应用的统一框架【Eto.Forms】](https://mp.weixin.qq.com/s/rknEF3jT568LbMsnCs3zqA)
 1. **[2024年全面的多端统一开发解决方案推荐！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=1&sn=9243715f092baece4c875ff5b4b04206&chksm=963b7d591b1ddeca0f8e6ba1dd6b37f144d80f4a57d1a19f35adea7941ee1a94a6b1e5f63461&scene=126&sessionid=1729213064#rd)**
+
+
+
+## K. 考试系统
+
+| 项目名称                                                     | 使用的协议 | 项目功能/介绍                                                |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| **Gitee:[考试君 - 在线考试系统](https://gitee.com/pig0224/ExamKing)** | MIT        | 考试君是一款基于.NET开源、免费、功能丰富、易于部署和扩展的在线考试系统。 |
+|                                                              |            |                                                              |
+|                                                              |            |                                                              |
+
+### 相关参考
+
+- [一款基于.NET开源且免费的在线考试系统【ExamKing】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506666&idx=3&sn=515c6643f1edb2a052b59e861b9fe790&chksm=96b4827f4ee5747b7bf219c72e46b44b0fc18996c9dca74ba659df1fa0532411214138ddc7a0&scene=126&sessionid=1730251771#rd)
 
 
 
@@ -743,8 +805,10 @@ D. 电子白板/大屏
 | **Git:[SophiApp](https://github.com/Sophia-Community/SophiApp)** | [MIT license](https://github.com/Sophia-Community/SophiApp#MIT-1-ov-file) | SophiApp是一个免费且开源的应用程序，<br />旨在为Windows 10和Windows 11用户提供精细的调整和优化功能。 |
 | **Git:[llcom](https://github.com/chenxuuu/llcom)**           | [Apache-2.0 license](https://github.com/chenxuuu/llcom#Apache-2.0-1-ov-file) | LLCOM是一个.NET开源、功能强大、高自由度的串口调试工具，<br />它允许用户运行Lua脚本来提前处理待发送的数据，<br />同时还集成了多种通信协议（如TCP、UDP、SSL、MQTT）的测试服务端/客户端功能，<br />以及串口监听、编码互转、乱码恢复等特色功能。 |
 | **Git:[QuickLook](https://github.com/QL-Win/QuickLook)**     | [GPL-3.0 license](https://github.com/QL-Win/QuickLook#GPL-3.0-1-ov-file) | QuickLook 是一个旨在为 Windows 用户提供类似于 macOS 中 Quick Look 功能的<br />应用程序。Quick Look 允许用户仅通过按下空格键快速预览文件内容，<br />而 Windows 原生并不具备这一便捷功能。该项目通过开发一个第三方应用程序，<br />为 Windows 用户带来了这一实用的预览体验。 |
-| Ditto                                                        | [下载地址](https://ditto-cp.sourceforge.io/)                 | Ditto作为一款开源、免费且功能强大的剪贴板增强工具，凭借其丰富的功能和<br />高度的可定制性，成为了众多用户提升工作效率和创作体验的得力助手。<br />无论是办公人士还是写作爱好者，都可以通过Ditto来更好地管理自己的剪贴板内容，<br />提高工作效率和创作质量。 |
+| **Ditto**                                                    | [下载地址](https://ditto-cp.sourceforge.io/)                 | Ditto作为一款开源、免费且功能强大的剪贴板增强工具，凭借其丰富的功能和<br />高度的可定制性，成为了众多用户提升工作效率和创作体验的得力助手。<br />无论是办公人士还是写作爱好者，都可以通过Ditto来更好地管理自己的剪贴板内容，<br />提高工作效率和创作质量。 |
 | **Gitee:[ModengTerm](https://gitee.com/zyfalreadyexsit/terminal)** | GPL-3.0                                                      | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，<br />并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，<br />让你拥有一个免费，安全，放心使用的虚拟终端软件。 |
+| **DevHub**                                                   |                                                              | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)，经过精心打造，<br />旨在支持开发人员的日常任务，并确保其数据的最高安全性。<br />应用场景非常广泛，重点是可以离线使用。 |
+| **ScreenToGif**                                              | [下载地址](https://www.screentogif.com/downloads)            | ScreenToGif 是一款免费的屏幕录制工具，可以让你录制屏幕上选定区域、<br />网络摄像头直播或板书画图。录制后，你可以对输出进行编辑并保存为 gif、视频或其他格式。<br />该应用程序是由 Nicke S. Manarin 开发的，适用于 Windows 操作系统。 |
 
 ### 相关参考
 
@@ -753,6 +817,8 @@ D. 电子白板/大屏
 1. [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
 1. [摆脱低效复制粘贴，使用 Ditto 提高效率！！【Ditto】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=3&sn=eccc49bdb632904825a8487c40a97676&chksm=9639d31dcf59aeaf90640d14ece2ba15e293461c72fd0a61a7ebb5dcd915b4f9d7a8a3fba875&scene=126&sessionid=1729426307#rd)
 1. [一个 WPF 开发的简约，功能强大的终端模拟器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
+1. [DevHub：一款免费的 macOS 离线开发者工具箱合集软件【DevHub】](https://mp.weixin.qq.com/s/HQjCvDJAMzaubD1rRYlS0Q)
+1. [一款免费且易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=3&sn=2ba4d536ef511dda3b03f9d93e5bdae4&chksm=966bcf4ad7a8bd6216b3fd3aca547c09aa407212da927e75435ddaeb9d28a5324c9ca459cfc6&scene=126&sessionid=1730163511#rd)
 
 
 
@@ -772,11 +838,11 @@ D. 电子白板/大屏
 
 ## S. 数据处理
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[ToolGood.Words](https://github.com/toolgood/ToolGood.Words)** | [ToolGood.Words](https://github.com/toolgood/ToolGood.Words) | 最后更新日期：2024年02月23日 | 一款高性能非法词(敏感词)检测组件，<br />附带繁体简体互换，支持全角半角互换，获取拼音首字母，<br />获取拼音字母，拼音模糊搜索等功能。 |
-|                                                              |                                                              |                              |                                                              |
-|                                                              |                                                              |                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[ToolGood.Words](https://github.com/toolgood/ToolGood.Words)** | [ToolGood.Words](https://github.com/toolgood/ToolGood.Words) | 一款高性能非法词(敏感词)检测组件，<br />附带繁体简体互换，支持全角半角互换，获取拼音首字母，<br />获取拼音字母，拼音模糊搜索等功能。 |
+| **Vue Data UI**                                              | [官方文档](https://vue-data-ui.graphieros.com/examples)      | Vue Data UI是一个用户友好的数据可视化Vue 3组件库，它旨在通过优雅的数据<br />讲述方式增强用户体验。该库提供了多种图表和数据展示组件，如柱状图、饼图、<br />热力图、雷达图等，能够满足各种数据可视化需求。Vue Data UI不仅具备丰富的组件库，<br />还提供了高度的可定制性和易用性，支持全局和局部组件声明，以及TypeScript类型定义，<br />方便开发者在不同项目中灵活使用。 |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
@@ -813,7 +879,7 @@ D. 电子白板/大屏
 
 | 工具名称                                                   | 官网                                                         | 下载地址                                                     | 介绍文档                                                     | 支持平台              |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
-| DBeaver                                                    | [dbeaver.io](https://dbeaver.io/)                            | [下载](https://dbeaver.io/download)                          | [详细介绍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495950&idx=1&sn=a26fd06ddab528b5e5893aaaf535dd77&scene=21#wechat_redirect) | Windows、macOS、Linux |
+| DBeaver                                                    | [dbeaver.io](https://dbeaver.io/)                            | [下载](https://dbeaver.io/download)<br />[Github](https://github.com/dbeaver/dbeaver/releases) | [详细介绍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495950&idx=1&sn=a26fd06ddab528b5e5893aaaf535dd77&scene=21#wechat_redirect) | Windows、macOS、Linux |
 | Navicat Premium Lite                                       | [navicat-premium-lite](https://www.navicat.com.cn/products#navicat-premium-lite) | [下载](https://www.navicat.com.cn/download/navicat-premium-lite) | [详细介绍](https://mp.weixin.qq.com/s/W65BzGtr1Ens4ykZzGjkyA) | Windows、macOS、Linux |
 | JookDB                                                     | [JookDB](https://jookdb.com/)                                | [下载](https://jookdb.com/download.html)                     |                                                              | Windows、macOS、Linux |
 | **Git:[Archery](https://github.com/hhyo/Archery)**         | [Apache-2.0 license](https://github.com/hhyo/Archery#Apache-2.0-1-ov-file) |                                                              | [在线文档](https://archerydms.com)                           | SQL审核查询平台       |
@@ -825,6 +891,7 @@ D. 电子白板/大屏
 1. **[一个功能丰富的SQL审核查询平台 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504625&idx=2&sn=2e872d03bc0be3dca8f93347b66cdd2e&chksm=96a6d2846d474cbd489341415e31b541b7d83fe9bb5cda1d19c56c5a7c54b45fce6e8519fa30&scene=126&sessionid=1725237952#rd)**
 1. [一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux 【Tiny RDM】](https://mp.weixin.qq.com/s/3uKaOKARtzcDFdf0URAsQw)
 1. [官方宣布Navicat免费使用！【Navicat Premium Lite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505972&idx=3&sn=37877ee7e045ca2547fbb334feead418&chksm=96a3f66becc48f62487f5b06c182f944b1cc540fbdb9b1088a16b830414f3c08ba70314ef6a9&scene=126&sessionid=1728350900#rd)
+1. [DBeaver：一款开源、免费的数据库管理工具，支持多种数据库平台！【DBeaver Community】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506539&idx=2&sn=9bd3a7af25791b3a058ecdfe1f6600fa&chksm=969510c58ba8b74c968b020410f69885da87947b2e6f200187d66dd10d4756812304c3472580&scene=126&sessionid=1730033816#rd)
 
 
 
@@ -1034,12 +1101,13 @@ D. 电子白板/大屏
 | 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[NetCoreServer](https://github.com/chronoxor/NetCoreServer)** | [MIT license](https://github.com/chronoxor/NetCoreServer#MIT-1-ov-file) | NetCoreServer是一个.NET开源、免费（MIT License）、快速、<br />低延迟的异步套接字服务器和客户端库。它支持多种协议，<br />包括 TCP、SSL、UDP、Unix Domain Socket、HTTP、HTTPS 和 WebSocket，<br />并且能够处理高达10K并发连接。通过提供对多种协议的支持和优化的网络 I/O 操作，<br />它使开发人员能够轻松创建响应迅速且可扩展的网络应用程序。 |
-|                                                              |                                                              |                                                              |
+| **Gitee:[TouchSocket](https://gitee.com/RRQM_Home/TouchSocket)** | Apache-2.0                                                   | 一键解决TCP黏分包问题，提供协议模板，支持快速实现固定包头、固定长度、<br />区间字符等数据报文解析。<br />集成了socket、TCP、UDP、SSL、namedPipe、HTTP、WebSocket、RPC、JsonRPC、<br />WebAPI、XMLRPC、Modbus等多种通信模块。 |
 |                                                              |                                                              |                                                              |
 
 ### 相关参考
 
 1. [一个.NET开源、快速、低延迟的异步套接字服务器和客户端库【NetCoreServer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=1&sn=cc1addff19369c319c98b00d11076a21&chksm=96416b309058245b3b78ffc1889b18d5df0b4ab2fc5926d79bb3ed26f0e55c25dd72414b201b&scene=126&sessionid=1727052024#rd)
+1. [一个整合性、功能丰富的.NET网络通信框架【TouchSocket】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506522&idx=1&sn=da9a18b31dd442f8883c6d7312620d0f&chksm=96ef64a8847c7fb32dc86eb865bafaa626f42eae8fa25383b1f666fde9ba01b3cfa62d9fbcad&scene=126&sessionid=1730033816#rd)
 
 
 
@@ -1098,6 +1166,7 @@ D. 电子白板/大屏
 1. **[1Remote官网](https://1remote.org/)**， **[1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)**
 1. **[一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)**
 1. [TeamViewer 的替代品，一个开源免费的远程桌面软件，开箱即用，无需任何配置！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=4&sn=d7c2c114af277855a597b7ee2a875046&chksm=9685861241d9c829a8190d879917547babeddaffa7a592cfff18c7f59b8885b561843e9642be&scene=126&sessionid=1729559301#rd)
+1. [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
 
 
 
