@@ -16,6 +16,7 @@
 ## A. AOT
 
 - **[好消息：NET 9 X86 AOT的突破 - 支持老旧Win7与XP环境](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=3&sn=102e2675b0ceb557c671e3d1e22bba63&chksm=96052420047bd104e5578c1ee641b0d42d4b160d0ffb7ef7be9705e3b0220d3fa2004801aeda&scene=126&sessionid=1721264675#rd)**
+- [AOT使用经验总结 - 沙漠尽头的狼-Dotnet9 - 博客园](https://www.cnblogs.com/Dotnet9-com/p/18529239)
 
 
 
@@ -39,6 +40,7 @@
 - [适用于 .NET 稳定的官方OpenAI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=1&sn=7016d47686d100aab997bfb11a62563c&chksm=9623badd164d3ad0665805fdcb55009d09871c6cac03bfb010d6aaa53ae6a5f4e57cf3571203&scene=126&sessionid=1729426307#rd)
 - [在C#中基于Semantic Kernel的检索增强生成（RAG）实践 - dax.net - 博客园](https://www.cnblogs.com/daxnet/p/18475095)
 - [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
+- [使用Microsoft.Extensions.AI简化.NET中的AI集成](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=1&sn=d4d7a11a9a310f195beb445a18c7637c&chksm=96c25d9e38701da2295f38de7ab28db742d09c1591a365d5438bee3cad6d998419fe961bbd3e&scene=126&sessionid=1731890970#rd)
 
 
 
@@ -63,6 +65,12 @@
 ## C. 处理器
 
 - [盘点.NET支持的 处理器架构 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18471374)
+
+
+
+## C. Cache
+
+- [.NET8 使用缓存的几种方法，你都用过吗？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=2&sn=c941bddf0487e2a907ab74905ecfe985&chksm=965a2b444962e5e9176ebd898c2295ddae9f3feda792725b7f0edb98b04f1a26851a7bd41829&scene=126&sessionid=1730941884#rd)
 
 
 
@@ -107,6 +115,24 @@
 
 
 
+## D. Docker
+
+- [制作一个龙芯旧世界的 dotnet sdk docker 镜像](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507032&idx=2&sn=e9328e342ac2ec008ea487e0121f230e&chksm=964cb28543e36b499e93f23379aa75ccf0d0ec015c5cd71de75e42ff715337c99238ca44acde&scene=126&sessionid=1730854499#rd)
+
+
+
+## D. .NET Aspire
+
+- [将 .NET Aspire 添加到您现有的 .NET 应用程序中](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507122&idx=2&sn=27e7af6744daf6d91dd82613e2d7bf3b&chksm=96cc11a5f95519fbbb385369a1766da516095d1c8f049c663d27d718cd16dd26ac40f15d8d5a&scene=126&sessionid=1731206998#rd)
+
+
+
+## D. .NET Roslyn
+
+- [.NET Roslyn快速上手指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507619&idx=2&sn=eb2891f7a532af40b54a3b490d2a6ec5&chksm=96cbde3ca6f9e7ec67723537a20e9724151fb43cf98224d2e67c09ea63a8f2480b80e16a2e82&scene=126&sessionid=1731977097#rd)
+
+
+
 ## E. EF Core
 
 - [EF Core性能优化技巧 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=2&sn=dc50a02eaf3ee079e36fcd0695f45967&chksm=96f1ea970730513276167a853948d633d7df39f1e58b62e006453a01f17e5096d071dc0e4c68&scene=126&sessionid=1727138667#rd)
@@ -142,6 +168,12 @@
 
 
 
+## G. 公众号
+
+- [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507304&idx=1&sn=3bf84be622317afa9aa6dd46939ff3af&chksm=967cd2d285573937abccf1871bdc731f5bf75cf5061e330f58d14fd03b8ecc4c721d685c3ed6&scene=126&sessionid=1731633519#rd)
+
+
+
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
@@ -157,6 +189,9 @@
 ## I. IDE
 
 - [2024 年开发人员 13 款常用 IDE 合集 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=3&sn=5594c32e615e9bc6857ff44b28247de1&chksm=9619cf51152401be6ae00b3b8dd4d65de75bdb905ab398e0b4b43a43fc1db5d64df2c3b4b0ab&scene=126&sessionid=1728350900#rd)
+- [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
+- [.NET开发者福音：JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=1&sn=ffed439630d58f7313433659beb98851&chksm=965e8c15b0953e31d36f4daa5dd0ead5c76646c20b817a83315087f21f50a2dd93574c8a7c58&scene=126&sessionid=1730641491#rd)
+- [WebStorm：一款专为Web应用程序开发而设计功能强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507021&idx=3&sn=dcaede3cd92887e36223274f028b1a9e&chksm=969390cc0b79c67b078347b62fce76ed0d7524e11d8d9ac6dd9c47cf3d9923c6e46f2b78d5d4&scene=126&sessionid=1730681837#rd)
 
 
 
@@ -202,6 +237,12 @@
 
 
 
+## K. 跨平台
+
+- [基于XAML框架和跨平台项目架构设计的深入技术分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507161&idx=2&sn=7c9f9999d90464daeb54a5b278cc7bb4&chksm=966085546f6c6421766cbe5ce0d8b45840e1a66cafdbe11553ee10f88b3110400f292d6a0944&scene=126&sessionid=1731206998#rd)
+
+
+
 ## L. 领域驱动设计
 
 - **[关于领域驱动设计，大家都理解错了](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504335&idx=2&sn=89582397a7fbe2899f5bd0d4501a3880&chksm=962fbd6a2ce8ed32d03b850efd2123b6282fcaeb1a2c22594ec07ef6111200e302733fa15846&scene=126&sessionid=1724028274#rd)**
@@ -227,6 +268,13 @@
 ## Q. 启动程序
 
 - [基于DPAPI+RDP技术实现本地打开远程程序，并映射到本地机器桌面上 - WeskyNet - 博客园 (cnblogs.com)](https://www.cnblogs.com/weskynet/p/18445584)
+- [在网页上调起本机C#程序](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=2&sn=6e931e94367b8fdfeb735197540a433b&chksm=9670ab38a1658f4faea387452f12871c27c5d73a956a97e60241c54a98b3bfd8529fb1040ca2&scene=126&sessionid=1732151313#rd)
+
+
+
+## Q. 权限
+
+- [一文搞懂4种用户权限模型](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=3&sn=938c243e7eda860125dcdfcb65d795d6&chksm=9690f46d3e88d271b8be36b779dc1cdd6144c631ac560f9ea55413469dcf8db9eb99d43f5d4d&scene=126&sessionid=1730941884&poc_token=HNITLGej3yrEkoK4xFi6Fd0Aaf6XFpgcz-6X_-Cb)
 
 
 
@@ -247,6 +295,7 @@
 
 - **[C#设计模式入门实战教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=1&sn=b3863c36fb24a122ff940c29fbadef3f&chksm=96cda7694782eb203a0c8106c853382ce18bd4a278f0cab9f783b43de86e881cab0a03e75194&scene=126&sessionid=1725325808#rd)**
 - **[Design-Pattern](https://github.com/sheng-jie/Design-Pattern)**
+- [C# 单例模式的多种实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=1&sn=1d41b78f1a1fd2fba366b431f5bf7554&chksm=964eed429a18bfa8d4c1448a7f1e732ce9fe18d19cb6775c8ce289fc308e5703f15444961c33&scene=126&sessionid=1730854499#rd)
 
 
 
@@ -265,6 +314,16 @@
 
 - [面试官：数据库的隔离是什么意思？ (qq.com)](https://mp.weixin.qq.com/s/lGCBVqLrn1gsih9PEOYbgg)
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
+  - MySQL
+    - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
+- 
+
+
+
+## S. 设计方案/架构
+
+- [全网最全商品模型设计方案，不接受反驳！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507620&idx=3&sn=86a9c83d099bd355882d3e80e1e5d70b&chksm=96bcb2981364f77c12df105317adbb4cbf4f96b181169476c0e964145a0137627697d166e1d9&scene=126&sessionid=1732063903#rd)
+- [如何设计一个可扩展的系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=3&sn=981e9058437854420dccd62bc913f04d&chksm=96476e1a50363e91aee88876337b832fcb918d8fcd1f895cdad616438378315b2fef9948fb95&scene=126&sessionid=1732151313#rd)
 
 
 
@@ -278,11 +337,11 @@
 
 - [Windows 调试工具课程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=2&sn=623112d14fa55535d033780f825df4a2&chksm=96b041599f818e794d1ac575c137593e0c4826bfbd0f63f69dfce511d56d3f592f5f69de897a&scene=126&sessionid=1727052024#rd)
 - [.NET开发必备技巧：使用Visual Studio分析.NET Dump，快速查找程序内存泄漏问题！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=1&sn=aa0780c9fd33e8d32601db2781cd4225&chksm=965ce7cf5f928550647ab8488e6f3dc088fea8d36ce935ed08d410bb49e0b6c77b86b2729275&scene=126&sessionid=1724978463#rd)
+- [使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=1&sn=4e1ea321ea7bb0625df3b4096bdfa5f0&chksm=96d1669d120b169df8689bd1148063e2769206a4b539cd97b054002d2b2b27d04647013368fc&scene=126&sessionid=1732151313#rd)
 - [如何用 PerfView 洞察 C# 中的慢速方法 (qq.com)](https://mp.weixin.qq.com/s/JiMclqMOT6IrVRwKqkMyVQ)
 - [PerfView 洞察那些 C# 代码中的短命线程 (qq.com)](https://mp.weixin.qq.com/s/iN4dnc2rGzbBtrJEwYNVSw)
 - [AOT漫谈(第一篇): 如何调试C# AOT程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=3&sn=7b4fef01fe328fbda5104608c84a8888&chksm=962b99541e9050d124f4d6853c6814db36ab567ee0a926fc3d94968670b89e38e6afa96a3a8c&scene=126&sessionid=1728867433#rd)
 - [AOT漫谈专题(第二篇): 如何对C# AOT轻量级APM监控 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=4&sn=81ad39fd848873be0d79636568cad429&chksm=962c985c2804a6b46483a0ddddf745776135bc9ee1cd01df9a619eaa91a885e1acc4145f7fda&scene=126&sessionid=1728867433#rd)
-
 - **WinDbg**
   - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
 
@@ -376,6 +435,12 @@
 ## Y. 远程控制
 
 - [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
+
+
+
+## Y. 依赖注入
+
+- [理解和使用 .NET Core中依赖注入的作用域](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=3&sn=5f3c95b74a4cef7dbc4ffb386de431f0&chksm=963ec5ce8ccb80cecd3353b2d2bb9a5dae130e85a5a020b9670cd4649670bb993e08233bab3c&scene=126&sessionid=1731206998#rd)
 
 
 

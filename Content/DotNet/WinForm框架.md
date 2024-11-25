@@ -42,6 +42,8 @@
 9. [**CPF C#跨平台UI框架开源了**](https://www.cnblogs.com/dskin/p/17849896.html)
 10. [**ApeForms系列① 快速上手**](https://www.cnblogs.com/landriesnidis/p/16317260.html)
 10. **[精选3款开源、实用且美观的WinForm UI控件库 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504375&idx=2&sn=f9890547a33fb38e4febb7da057ad441&chksm=96e5733a997f06a4f992ae3715cff66c9863a14360c717c4496172e180397b789f195015d12e&scene=126&sessionid=1724562956#rd)**
+10. [精选4款开源WinForms UI控件库，实用美观！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=3&sn=b3e20687ffe4afb47ad74fd693cbf223&chksm=96445c9adaf8265c87f10ad30d7dddf86a503f06c90866583b4dbc774703a9a006bd5ce170c0&scene=126&sessionid=1730641491#rd)
+10. [推荐3款开源、美观且免费的WinForm UI控件库【AntdUI】【ReaLTaiizor】【MaterialSkin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507377&idx=1&sn=7c905ab6e9a33829391092b376183de6&chksm=96e094a3cc8c446844fdec84a97539c40204e1f475df79d214cd5eed90b2dfcf70badc1ce7bc&scene=126&sessionid=1731890970#rd)
 
 
 
