@@ -17,6 +17,7 @@
 
 - **[好消息：NET 9 X86 AOT的突破 - 支持老旧Win7与XP环境](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=3&sn=102e2675b0ceb557c671e3d1e22bba63&chksm=96052420047bd104e5578c1ee641b0d42d4b160d0ffb7ef7be9705e3b0220d3fa2004801aeda&scene=126&sessionid=1721264675#rd)**
 - [AOT使用经验总结 - 沙漠尽头的狼-Dotnet9 - 博客园](https://www.cnblogs.com/Dotnet9-com/p/18529239)
+- [.NET9 Linux AOT Json序列化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507960&idx=2&sn=63273b74059112b39a7e6b217f5c717d&chksm=96d77c460f32dd5159df25b41f8de7b74b0619db38c3c73c379d4a8b69cbbbb59d79064d0470&scene=126&sessionid=1733275028#rd)
 
 
 
@@ -25,6 +26,7 @@
 - **[简化ASP.NET Core API神器：用Gridify轻松实现过滤、排序和分页【Gridify】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=3&sn=381d436f87fe97084416e4c3918d76ae&chksm=967a9718d247b340a425bd227b6cda31edd04025914d0cfe648abb7336b59f1fb5690182a68a&scene=126&sessionid=1724806111#rd)**
 - [ASP.NET Core OData 9的发布，放弃 .NET Framework (qq.com)](https://mp.weixin.qq.com/s/sKilIxCmP8OG7EccwXFTNA)
 - [ASP.NET Core Filter与IOC的羁绊 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=5&sn=0401e32e7e6e105b260f40745b948170&chksm=963084f5de0ffec3942c8176b20af6cfc4bb1d91b919bd912ab4d87ce55e90108bde0ada21eb&scene=126&sessionid=1729213064#rd)
+- [将ASP.NET Core Web API和Blazor Wasm发布到 IIS](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508114&idx=1&sn=f387e548a304d88696475d6bba74fd56&chksm=96ffc2c0355bdcce1a9064e70be405a5fb23992abede404f50f5a7d5fe2925c4598962f0a18f&scene=126&sessionid=1733706081#rd)
 
 
 
@@ -78,6 +80,9 @@
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
 - **[C#筑基之解密委托与事件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=2&sn=4a44d7d209a84030ae68d83521d2741e&chksm=9641c13569cd48d5c6e4299307865ff5ac6f0f42d69a6849ff62f4535bc7a48b148c7f9e8dc1&scene=126&sessionid=1723383964#rd)**
+- [.NET Core 特性(Attribute)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18551715)
+- [什么是.NET的强类型字符串(Strongly typed string)？ - czwy - 博客园](https://www.cnblogs.com/czwy/p/18576931)
+- [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
 
 
 
@@ -91,6 +96,7 @@
 
 - [提升.NET性能：深入理解.NET中的Span与Substring (qq.com)](https://mp.weixin.qq.com/s/zufKoMoo-Z41W6wAR9nklw)
 - [.NET掌握 LINQ 神器：揭秘 AsEnumerable、DefaultIfEmpty 和 Empty 的真正用法 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504940&idx=3&sn=9d80e7ac52959dddd3ff8d9620a7bb48&chksm=9621db62ce5d56498e0eabb91db24dcfe25baf9bafdb80d602c1a3fd1ecd115942f7ec6a69e3&scene=126&sessionid=1725930428#rd)
+- [2024年各编程语言运行100万个并发任务需要多少内存？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=3&sn=f4ea3d7d4896ca06c11996116c9cdd88&chksm=96a3c34dedb89d53b0df04751dc66a39e65d0f7e6f5c5cba2734ca4ff5fb7f5e14c633b8e7f9&scene=126&sessionid=1733100642#rd)
 
 
 
@@ -174,6 +180,12 @@
 
 
 
+## G. 故障处理
+
+- [在 .NET 8中使用 Polly 处理瞬态故障](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=2&sn=0471a81431a65b626e1c2018daf7f543&chksm=96c8bb05262a12956b3179b37968e12c57882070448d4d76f7e63da20872a923b0f96e39b733&scene=126&sessionid=1732495973#rd)
+
+
+
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
@@ -192,6 +204,7 @@
 - [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
 - [.NET开发者福音：JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=1&sn=ffed439630d58f7313433659beb98851&chksm=965e8c15b0953e31d36f4daa5dd0ead5c76646c20b817a83315087f21f50a2dd93574c8a7c58&scene=126&sessionid=1730641491#rd)
 - [WebStorm：一款专为Web应用程序开发而设计功能强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507021&idx=3&sn=dcaede3cd92887e36223274f028b1a9e&chksm=969390cc0b79c67b078347b62fce76ed0d7524e11d8d9ac6dd9c47cf3d9923c6e46f2b78d5d4&scene=126&sessionid=1730681837#rd)
+- [基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=1&sn=2b93845e99c0943b6e9451dfde463bb1&chksm=9693ad2f6af9208cdcdf45422fe56fdd1242cf6929cb726801a729c2651067512ae95a04df16&scene=126&sessionid=1733445770#rd)
 
 
 
@@ -252,6 +265,18 @@
 
 
 
+## L. 类库推荐
+
+- [精选10款C#/.NET开发必备类库（含使用教程），工作效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507960&idx=1&sn=58aad693c96948548681175bcb06064f&chksm=96bc77fc24687ebde647aa9ec32b0f6ae52e6c26534751cbc0d26df0f0ba1a9af481c91634e4&scene=126&sessionid=1733275028#rd)
+
+
+
+## M. MAC工具
+
+- [一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=4&sn=7a9d3559adc2cb50ab47e721e8666ac3&chksm=965fe6fc5123a49e501dd9e5f4545a3f39bb8988ff1c4b23bea6e0295f22bcc8d94f56c76d68&scene=126&sessionid=1733100642#rd)
+
+
+
 ## O. ORM
 
 - [.NET使用EF批量插入数据，一行代码性能飙升！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=4&sn=0cab188b357b4b8128001df03fcc7ebc&chksm=965f9b55822ce4318fd4b1cbcf0ef2085c56866f6aa2c12c25587dd4c8c665f835e4c5651b2b&scene=126&sessionid=1726016076#rd)
@@ -275,6 +300,16 @@
 ## Q. 权限
 
 - [一文搞懂4种用户权限模型](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=3&sn=938c243e7eda860125dcdfcb65d795d6&chksm=9690f46d3e88d271b8be36b779dc1cdd6144c631ac560f9ea55413469dcf8db9eb99d43f5d4d&scene=126&sessionid=1730941884&poc_token=HNITLGej3yrEkoK4xFi6Fd0Aaf6XFpgcz-6X_-Cb)
+
+
+
+## Q. 前端开发
+
+### C/S
+
+### B/S
+
+- [10s 搭建一个前端新项目，就这么简单！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=2&sn=b73a20aa72a813139b86b287cce83462&chksm=9617240011f23aa02d361a27bbdb325ba71d75643e61d1ffb6fc19bc3d7d62b450a02b87472d&scene=126&sessionid=1733445770#rd)
 
 
 
@@ -307,6 +342,7 @@
 - [C#二分查找算法 (qq.com)](https://mp.weixin.qq.com/s/uCuqv0zOI0ZsF48Q1LoCsQ)
 - [C#线性查找算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506400&idx=1&sn=86b6d62d8a5e5dd7d471c9fed09f4ec7&chksm=966f80281d1a62e91fa852b80f9a5d19da12b4c2ae8e90200f6900bb25ed03e252bb5ff8ed52&scene=126&sessionid=1729472376#rd)
 - [C#常见的四种经典查找算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506487&idx=1&sn=1634458d183be227654041955650f589&chksm=963e5ef24916873fe3c280b7d0d2ebfcfb2a9eee677477d3370a2b8b6685376053cf5625372c&scene=126&sessionid=1729731769#rd)
+- [C# 入门深度学习：万字长文讲解微积分和梯度下降 - 痴者工良 - 博客园](https://www.cnblogs.com/whuanle/p/18551532)
 
 
 
@@ -316,7 +352,7 @@
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
   - MySQL
     - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
-- 
+- [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
 
 
 
@@ -350,9 +386,10 @@
 ## T. Thread(线程)
 
 - [C# ThreadLocal (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505970&idx=4&sn=ae7c25e55789bdc044588cc03c5b7f87&chksm=969c42e7ecd48edbd9697dc707cb35552edfb9a8ae7d1a471ef2e4d0ac1d0d6878a2a31cb791&scene=126&sessionid=1728380451#rd)
+- [.NET Core 线程(Thread)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18556052)
+- [.NET Core 线程池(ThreadPool)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18566995)
 - **多线程**
   - [C#实现多线程的几种方式 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500224&idx=1&sn=a5d21a0b42e61f317fc8eaa4168a0ac2&scene=21#wechat_redirect)
-
 - **线程锁**
   - **[探索C#中的多线程神器Monitor和Lock](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=2&sn=49befd777d9818ff124db42ebe7e1fac&chksm=96338dd7700e9bf2c00c4baee847b07f9855d33dd075bf1b49f64463396ac472940d5a014fac&scene=126&sessionid=1723768329#rd)**
 - **线程同步**
@@ -407,6 +444,12 @@
 ## X. 消息队列
 
 - [系统设计中的消息队列 (qq.com)](https://mp.weixin.qq.com/s/rP3tbXFzSvLL92--Fo2_pw)
+
+
+
+## X. 性能测试与对比
+
+- [C#集合数据去重的5种方式及其性能对比测试分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507797&idx=1&sn=dae1b96e3b9c0a675ecb8739da389183&chksm=96331b1022ed6028ddbc564f9d8810d7cdb80080ad7f4be39206042c3edb40769bb3c3392a64&scene=126&sessionid=1732840859#rd)
 
 
 

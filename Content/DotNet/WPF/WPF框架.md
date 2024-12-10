@@ -21,6 +21,7 @@
 | **Git:[AduSkin](https://github.com/aduskin/AduSkin)**        | [GPL-3.0 license](https://github.com/aduskin/AduSkin#GPL-3.0-1-ov-file) | AduSkin一款简单漂亮的WPF UI，<br />融合多个开源框架组件，为个人定制的UI，<br />可供学者参考和使用。 |
 | **Git:[Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF)** |                                                              | LayUI-WPF是一个WPF版的Layui前端UI<br />样式库，<br />该控件库参考了Web版本的LayUI风格，<br />利用该控件库可以完成现代化UI客户端程序，<br />让你的客户端看起来更加简洁丰富又不失美感。 |
 | **Git:[WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)** | [MIT license](https://github.com/WPFDevelopersOrg/WPFDevelopers#MIT-1-ov-file) |                                                              |
+| **Gitee:[CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI)** | MIT                                                          | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，<br />提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，<br />以简化WPF应用程序的开发过程。 |
 
 ### 相关参考
 
@@ -35,6 +36,7 @@
 1. **[一个WPF版的Layui前端UI库【Layui-WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495286&idx=1&sn=ce9669c68d0a7a7a4c5ef00f17d89a96&scene=21#wechat_redirect)**
 1. **[推荐7款美观且功能强大的WPF UI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504372&idx=1&sn=5d9d5939253d71d5c88dc5e60d7fff35&chksm=96ae5c94c475565ce828cb1e926f5028fe56d9d676a3252d1d0853c96836297ca74b64397878&scene=126&sessionid=1724373028#rd)**
 1. [WPF 实现饼状统计图【WPFDevelopers】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=2&sn=5982a6199b9abbedcc26002e3a6749e1&chksm=96c507559109e62a789e4f5774f68e5ac6b1a8940f33213951deb84c5c2b5147f9101a008501&scene=126&sessionid=1728350900#rd)
+1. [一款流行且丰富的WPF控件库，提供了100多款控件！【CookPopularUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=2&sn=999dbf9f54f280dd1f554fd5c1187908&chksm=961a78b7776c49904b5ea8abf86d5c1de3563732de689caadb074ec9d2b8cf0ce874593c7561&scene=126&sessionid=1732668893#rd)
 
 
 

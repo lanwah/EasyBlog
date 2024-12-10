@@ -21,6 +21,11 @@
 14. [What's new in System.Text.Json in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/)
 14. [.NET 9 中 System.Text.Json 的新增功能](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=2&sn=1beee12fc7290dd256808b7d80ec8fc4&chksm=96ad86a77da631a0a65631109f2351e7bb548984fcdc040aba3431c31ff42312adabf72ae96b&scene=126&sessionid=1730854499#rd)
 14. [.NET 9正式发布，亮点是.NET Aspire和AI](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507241&idx=2&sn=cf6174782ae4832c87bd1f226c36fb35&chksm=966178d463f23741aa4e1e67915f6dc88df9219448bb3e9d88190d4d15436c7513df691d9dea&scene=126&sessionid=1731546158#rd)
+14. [.NET 9新特性：Task.WhenEach](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507675&idx=2&sn=ca746f92e00ef0aa5290e2e8a5d87115&chksm=9663abf91b33cb600910d17eff26bc0bbb672adefff968998a700cfc7198b636d5d7770738cb&scene=126&sessionid=1732495973#rd)
+14. [C#13和 .NET9高级功能解析：.NET高手必备技能](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507867&idx=2&sn=c9aae37edb793ee2ca0792728cd604a3&chksm=9647b638e34fe2d30171a827ac68054bfdf05c973fcac9c515d9e30079d0f3fe2657bc00f8fd&scene=126&sessionid=1733100642#rd)
+14. [.NET9 EFCore支持早期MSSQL数据库 ROW_NUMBER()分页 - 万雅虎 - 博客园](https://www.cnblogs.com/vipwan/p/18570225)
+14. [.NET9 - 新功能体验（三） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18565448)
+14. [.NET9 - Swagger平替Scalar详解（四） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18571088)
 
 
 
