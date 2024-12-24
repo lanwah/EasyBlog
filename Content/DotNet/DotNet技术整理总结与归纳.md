@@ -61,6 +61,7 @@
 ## C. 程序交互
 
 - [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
+- [在网页上调起本机C#程序 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18546412)
 
 
 
@@ -83,6 +84,7 @@
 - [.NET Core 特性(Attribute)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18551715)
 - [什么是.NET的强类型字符串(Strongly typed string)？ - czwy - 博客园](https://www.cnblogs.com/czwy/p/18576931)
 - [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
+- [dotnet scaffold – .NET 的下一代内容创建](https://mp.weixin.qq.com/s/fXVEINNyCio7rAsTTy3OdA)
 
 
 
@@ -97,6 +99,7 @@
 - [提升.NET性能：深入理解.NET中的Span与Substring (qq.com)](https://mp.weixin.qq.com/s/zufKoMoo-Z41W6wAR9nklw)
 - [.NET掌握 LINQ 神器：揭秘 AsEnumerable、DefaultIfEmpty 和 Empty 的真正用法 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504940&idx=3&sn=9d80e7ac52959dddd3ff8d9620a7bb48&chksm=9621db62ce5d56498e0eabb91db24dcfe25baf9bafdb80d602c1a3fd1ecd115942f7ec6a69e3&scene=126&sessionid=1725930428#rd)
 - [2024年各编程语言运行100万个并发任务需要多少内存？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=3&sn=f4ea3d7d4896ca06c11996116c9cdd88&chksm=96a3c34dedb89d53b0df04751dc66a39e65d0f7e6f5c5cba2734ca4ff5fb7f5e14c633b8e7f9&scene=126&sessionid=1733100642#rd)
+- [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18594690)
 
 
 
@@ -131,11 +134,21 @@
 
 - [将 .NET Aspire 添加到您现有的 .NET 应用程序中](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507122&idx=2&sn=27e7af6744daf6d91dd82613e2d7bf3b&chksm=96cc11a5f95519fbbb385369a1766da516095d1c8f049c663d27d718cd16dd26ac40f15d8d5a&scene=126&sessionid=1731206998#rd)
 
+- [将本地 AI 模型与 .NET Aspire 结合使用](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/)
+
+  > 使用本地 AI 模型是在您自己的计算机上进行实验的好方法，而无需将资源部署到云中。在本文中，我们将了解如何将 .NET Aspire 与 Ollama 结合使用在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。
+
 
 
 ## D. .NET Roslyn
 
 - [.NET Roslyn快速上手指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507619&idx=2&sn=eb2891f7a532af40b54a3b490d2a6ec5&chksm=96cbde3ca6f9e7ec67723537a20e9724151fb43cf98224d2e67c09ea63a8f2480b80e16a2e82&scene=126&sessionid=1731977097#rd)
+
+
+
+## D. 动态方法及热执行
+
+- [.NET 创建动态方法方案及 Natasha V9 - AzulX - 博客园](https://www.cnblogs.com/NMSLanX/p/18299481)
 
 
 
@@ -150,6 +163,7 @@
 
 - **[.NET中特性＋反射 实现数据校验](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504376&idx=2&sn=2fd96b56646f763d3c23e634762f78e9&chksm=961d2d935c66a4f7a753d320a71bf38450dd8c6141983cf7d7cb6775d4effbe49ec942cd7419&scene=126&sessionid=1724562956#rd)**
 - **[在.NET Core中灵活使用反射 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504595&idx=1&sn=7eaa644bfb9320ddcc13898c7eb3eabb&chksm=965956bbbe49a0254597c018d36abf0d307cc5bd11951cc9bfd80d682e314976ddfca337a31d&scene=126&sessionid=1725237952#rd)**
+- [.NET Core 反射(Reflection)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18545334)
 
 
 
@@ -183,6 +197,12 @@
 ## G. 故障处理
 
 - [在 .NET 8中使用 Polly 处理瞬态故障](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=2&sn=0471a81431a65b626e1c2018daf7f543&chksm=96c8bb05262a12956b3179b37968e12c57882070448d4d76f7e63da20872a923b0f96e39b733&scene=126&sessionid=1732495973#rd)
+
+
+
+## G. 国际化
+
+- [Avalonia 国际化之路：Resx 资源文件的深度应用与探索](https://mp.weixin.qq.com/s/BW3UfTcjsUi3Sj55pFrGyw)
 
 
 
@@ -277,10 +297,23 @@
 
 
 
+## N. NuGet
+
+- [Dramatically faster package restores with .NET 9's new NuGet resolver - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/)
+
+
+
 ## O. ORM
 
 - [.NET使用EF批量插入数据，一行代码性能飙升！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=4&sn=0cab188b357b4b8128001df03fcc7ebc&chksm=965f9b55822ce4318fd4b1cbcf0ef2085c56866f6aa2c12c25587dd4c8c665f835e4c5651b2b&scene=126&sessionid=1726016076#rd)
 - [C# Winform使用SqlSugar操作数据库?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=3&sn=0753b2089b4ffcea93748bcea8a56ddf&chksm=9688e655f6fc8c7449c2478f15226ea8a18f8065671fe8315197484b03b41e9db938aadd6dac&scene=126&sessionid=1729645767#rd)
+
+
+
+## O. OpenAPI 文档
+
+- [OpenAPI document generation in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/)
+- [.NET9 - Swagger平替Scalar详解（四） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18571088)
 
 
 
@@ -353,6 +386,7 @@
   - MySQL
     - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
 - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
+- [.NET MongoDB数据仓储和工作单元模式封装](https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw)
 
 
 
@@ -360,6 +394,12 @@
 
 - [全网最全商品模型设计方案，不接受反驳！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507620&idx=3&sn=86a9c83d099bd355882d3e80e1e5d70b&chksm=96bcb2981364f77c12df105317adbb4cbf4f96b181169476c0e964145a0137627697d166e1d9&scene=126&sessionid=1732063903#rd)
 - [如何设计一个可扩展的系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=3&sn=981e9058437854420dccd62bc913f04d&chksm=96476e1a50363e91aee88876337b832fcb918d8fcd1f895cdad616438378315b2fef9948fb95&scene=126&sessionid=1732151313#rd)
+
+
+
+## S. 上位机开发
+
+- [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18411953)
 
 
 
@@ -380,6 +420,7 @@
 - [AOT漫谈专题(第二篇): 如何对C# AOT轻量级APM监控 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=4&sn=81ad39fd848873be0d79636568cad429&chksm=962c985c2804a6b46483a0ddddf745776135bc9ee1cd01df9a619eaa91a885e1acc4145f7fda&scene=126&sessionid=1728867433#rd)
 - **WinDbg**
   - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
+  - [聊一聊坑人的 C# MySql.Data SDK](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508735&idx=2&sn=e6ee65ae3cfd5047e13de82921893864&chksm=96ca138cf796af2d74368f9c76b2d4f1643f32bce38be8869604dfe9dc3167a16778c88ae1ee&scene=126&sessionid=1734914402#rd)
 
 
 
@@ -490,3 +531,10 @@
 ## Z. 字符串处理
 
 - [C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式 - IT规划师 - 博客园 (cnblogs.com)](https://www.cnblogs.com/hugogoos/p/18453906)
+- [C#字符串拼接的几种方式及其性能分析对比](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508765&idx=1&sn=4910c75d0822866c4b5406bdbf827256&chksm=96672245fa47c4820549ca1158ac7119af72d2fd06c1322340b26e28ad69f489635ce491f03a&scene=126&sessionid=1734914402#rd)
+
+
+
+## Z. 正则表达式
+
+- [C#正则表达式快速入门](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508453&idx=1&sn=20bc9b8c80a0ffa746e3a768372fbf4f&chksm=9628e8fef5db0afacb3a3ac03fdbfafc3654e013e2b216ec33b41fec5b9bb97d8fcb621a0c64&scene=126&sessionid=1734311217#rd)

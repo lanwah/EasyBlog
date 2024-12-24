@@ -424,7 +424,7 @@ git reset --hard HEAD^
 保留所作的代码修改，修改的代码在本地工作区（未 add 的状态）。
 
 ```bash
-git reset HDAD^
+git reset HEAD^
 ```
 
 同

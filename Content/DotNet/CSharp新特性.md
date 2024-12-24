@@ -26,6 +26,7 @@
 14. [.NET9 EFCore支持早期MSSQL数据库 ROW_NUMBER()分页 - 万雅虎 - 博客园](https://www.cnblogs.com/vipwan/p/18570225)
 14. [.NET9 - 新功能体验（三） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18565448)
 14. [.NET9 - Swagger平替Scalar详解（四） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18571088)
+14. [Calling methods is easier and faster with C# 13 params collections - .NET Blog](https://devblogs.microsoft.com/dotnet/csharp13-calling-methods-is-easier-and-faster/)
 
 
 

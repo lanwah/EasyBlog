@@ -224,6 +224,41 @@
 > Uninstall-Package Elmah -Force
 > ```
 
+### 6. 单项目操作
+
+```shell
+# 查找项目中安装的所有包
+# 格式： Get-Package -ProjectName 项目名称
+# 例如：其中 HCView 为项目的名称
+Get-Package -ProjectName HCView
+
+# 给某个项目重新安装包
+# 例如：
+Update-Package RestSharp -Reinstall -ProjectName HCView
+
+# 把某个项目的特定包升级到特定的版本
+# 例如：
+Update-Package Newtonsoft.Json -Version 8.0.3 -ProjectName HCView
+
+# 给某个项目安装特定版本的包
+# 例如：
+Install-Package ICSharpCode.TextEditor -Version 4.0.0.3 -ProjectName HCView
+```
+
+### 7. 解决方案操作
+
+```shell
+# 查找解决方案中所安装的特定包
+# 例如：查找安装了 ICSharpCode.TextEditor 包的项目和安装的包版本
+Get-Package ICSharpCode.TextEditor
+
+# 把解决方案中的某个包升级到特定的版本
+# 例如：把解决方案中安装了 ICSharpCode.TextEditor 包的项目中的此包升级到 4.0.0.3
+Update-Package ICSharpCode.TextEditor -Version 4.0.0.3
+```
+
+
+
 ## NuGet包服务器
 
 ### NuGet.Server
