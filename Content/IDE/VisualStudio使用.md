@@ -133,3 +133,5 @@
 ## Visual Studio 技巧
 
 - [Visual Studio提高效率的三个小技巧? (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=4&sn=133f42ea0405698f6512f7e2597365e6&chksm=96747c9c1a4963d451ddcf7bf38f5c371db01393b0b184da8dd0c5ca2ff281caaf589346b7a2&scene=126&sessionid=1728867433#rd)
+- [.NET 在 Visual Studio 中的高效编程技巧集](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508804&idx=1&sn=ae9d4a9d9695be1a315a5d5809d43823&chksm=96683bee7eee064a02c90f3e7a39c8686b58fdf95571b2aeebfb781c067f5779fe830ed1c4b1&scene=126&sessionid=1735173789#rd)
+- 

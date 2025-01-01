@@ -613,6 +613,7 @@
 | **Git:[maui](https://github.com/dotnet/maui)**               | [MIT license](https://github.com/dotnet/maui#MIT-1-ov-file)  | .NET 多平台应用 UI (.NET MAUI) 是一个跨平台框架，<br />用于使用 C# 和 XAML 创建本机移动和桌面应用。使用 .NET MAUI，<br />可从单个共享代码库开发可在 Android、iOS、macOS 和 Windows 上运行的应用。 |
 | **Git:[Eto](https://github.com/picoe/Eto)**                  | BSD-3 License                                                | Eto.Forms是一个.NET开源、跨平台的桌面和移动应用的统一框架，<br />该框架允许开发者使用单一的UI代码库构建在多个平台上运行的应用程序，<br />并利用各自平台的原生工具包，从而使应用程序在所有平台上看起来和<br />工作都像原生应用一样。<br />[示例代码](https://github.com/YSGStudyHards/DotNetExercises/tree/master/EtoFormsExercise) |
 | **Git:[uno](https://github.com/unoplatform/uno)**            | [Apache-2.0 license](https://github.com/unoplatform/uno#Apache-2.0-1-ov-file) | Uno Platform是一个基于C#开源、功能强大、灵活的跨平台开发框架，<br />用于快速构建单一代码库原生移动、Web、桌面和嵌入式应用程序。<br />它允许 C# 和 WinUI XAML 和/或 C# 代码在所有目标平台上运行，<br />同时允许你控制每个像素。它支持开箱即用的 Fluent、Material 和 Cupertino 主题样式风格。<br />Uno Platform实现了越来越多的 WinRT 和 WinUI API，例如 Microsoft.UI.Xaml，<br />使 WinUI 应用程序能够以本机性能在所有平台上运行。 |
+| **Git:[gtksystem-windows-forms](https://github.com/easywebfactory/gtksystem-windows-forms)** | [LGPL-3.0 license](https://github.com/easywebfactory/gtksystem-windows-forms#LGPL-3.0-1-ov-file) | GTKSystem.Windows.Forms是一个C#桌面应用程序跨平台（Windows、Linux、macOS）<br />开发框架，基于GTK组件开发。使用该框架开发项目时，<br />Visual Studio可以使用C#的原生WinForms表单窗体设计器，<br />保持与原生WinForms相同的属性、方法和事件，无需额外学习。通过一次编译，<br />可以实现跨平台运行，便于开发跨平台WinForms软件，<br />以及将现有的C# WinForms软件升级为跨平台软件。 |
 
 ### 相关参考
 
@@ -623,6 +624,7 @@
 1. **[2024年全面的多端统一开发解决方案推荐！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=1&sn=9243715f092baece4c875ff5b4b04206&chksm=963b7d591b1ddeca0f8e6ba1dd6b37f144d80f4a57d1a19f35adea7941ee1a94a6b1e5f63461&scene=126&sessionid=1729213064#rd)**
 1. [基于C#开源、功能强大、灵活的跨平台开发框架【Uno Platform】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507241&idx=1&sn=9dfa92969880a2646b996c5ce07eb321&chksm=963cabbc98b55e15c00c0cc93e49bde23fc0277be5c60067dfb06ce284847d00736e9c842727&scene=126&sessionid=1731547197#rd)
 1. [一款开源、免费、美观的 Avalonia UI 原生控件库【Semi Avalonia】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507770&idx=1&sn=518bbaa353704423b3be3ce0a53c7818&chksm=9603d57a5fbadf4be4da8fb4e869467b762d031494de188f705a5c8d032d806d5e0f3cae4a6f&scene=126&sessionid=1732756371#rd)
+1. [开源GTKSystem.Windows.Forms框架让C# Winform支持跨平台运行【GTKSystem.Windows.Forms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508805&idx=1&sn=182f305945693da08ac0cf8a918a02f0&chksm=96292749d0c469f29013c296e2284f1fda1aa5767876d1b44863e451685cc14041768305b9b2&scene=126&sessionid=1735260973#rd)
 
 
 
@@ -664,16 +666,17 @@
 
 ## L. Linux 服务器运维管理
 
-| 项目名称                                               | 使用的协议                                                   | 项目功能/介绍                  |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
-| **Git:[1Panel](https://github.com/1Panel-dev/1Panel)** | [GPL-3.0 license](https://github.com/1Panel-dev/1Panel#GPL-3.0-1-ov-file) | [在线文档](https://1panel.cn/) |
-|                                                        |                                                              |                                |
-|                                                        |                                                              |                                |
+| 项目名称                                               | 使用的协议                                                   | 项目功能/介绍                                                |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[1Panel](https://github.com/1Panel-dev/1Panel)** | [GPL-3.0 license](https://github.com/1Panel-dev/1Panel#GPL-3.0-1-ov-file) | [在线文档](https://1panel.cn/)                               |
+| 宝塔Linux面板                                          |                                                              | 宝塔Linux面板是提升运维效率的服务器管理软件，<br />支持一键LAMP/LNMP/集群/监控/网站/FTP/数据库/JAVA等100多项服务器管理功能。<br />[下载地址](https://www.bt.cn/new/download.html) |
+| WDCP                                                   |                                                              | WDCP是一款可通过WEB方式轻松管理Linux服务器的程序，<br />可一键快速部署lnamp,lamp,lnmp,tomcat,nodejs等WEB应用环境，支持N+A组合模式，<br />支持多PHP版本共存和切换等。可轻松创建与发布网站，管理mysql数据库和用户，<br />创建与管理FTP服务。 可查看系统资源，IP设置，进程管理，服务管理，安全设置，<br />端口设置等系统功能。<br />[WDCP - 下载安装](https://wdcp.net/download.html) |
 
 ### 相关参考
 
 1. [一个现代化、开源的 Linux 服务器运维管理面板【1Panel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=1&sn=9d462f67f5c09d71ae43841865eb114b&chksm=96f6217b4b05911dac502e241165de429e76e591f8be73a6f782d51e02fc408a4771d0bde913&scene=126&sessionid=1726414371#rd)
 1. [宝塔替代工具，一款现代化、免费且开源的Linux服务器运维管理面板【1Panel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507696&idx=3&sn=423cd371f40fd49601e249f70775936c&chksm=960eca9218ad18388db1c64015f1649a6d325f5dba39de96dc9e0f43c95ce96bf46eb0c5c80a&scene=126&sessionid=1732495973#rd)
+1. [推荐几个不错的 Linux 服务器管理工具【1Panel】【宝塔Linux面板】【WDCP】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508891&idx=1&sn=68c739a70fcb021134ba8cb8d6a336fa&chksm=9624312cc3489fb89c82bf8d5eac4ba39047b069d02f0c6516e07ab700a080ca127a93624640&scene=126&sessionid=1735476661#rd)
 
 
 
@@ -822,6 +825,17 @@
 
 
 
+## O. OCR(光学字符识别)
+
+| 项目名称                                                    | 使用的协议                                                   | 功能说明/介绍                                                |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| GitL[tesseract](https://github.com/tesseract-ocr/tesseract) | [Apache-2.0 license](https://github.com/tesseract-ocr/tesseract#Apache-2.0-1-ov-file) | Tesseract 是一个开源的光学字符识别（OCR）引擎，最初由 Hewlett-Packard（惠普）<br />实验室开发，后来由 Google 收购并继续维护和开源贡献。<br />Tesseract 可以识别多种语言的文字，广泛应用于将图片或扫描文档中的文本内容转<br />换成可编辑的文本格式。随着深度学习技术的发展，<br />Tesseract 也整合了基于深度神经网络的 OCR 模型，提升其识别准确率，<br />特别是对于复杂排版和手写体的识别效果有所改善。<br />Tesseract 适合开发人员和研究人员使用，可以嵌入到各种应用中，比如文档数字化、<br />图像处理软件、内容管理系统等。它支持命令行操作，<br />也提供了丰富的 API 接口，支持 C++、Python、Java、Node.js 等多种编程语言，<br />便于集成和调用。Tesseract 的核心功能包括文本检测、字符识别和后处理纠错，<br />能够处理多种图像输入格式，输出包括纯文本、HOCR（HTML + OCR）格式、<br />PDF 等多种格式。Tesseract 的高灵活性和强大的识别能力使其成为 <br />OCR 领域中非常受欢迎的工具之一。 |
+|                                                             |                                                              |                                                              |
+
+- [C#使用Tesseract C++ API过程记录 - mingupupup - 博客园【Tesseract 】](https://www.cnblogs.com/mingupupu/p/18636610)
+
+
+
 ## P. PDF
 
 | 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
@@ -936,19 +950,38 @@
 | **DevHub**                                                   |                                                              | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)，经过精心打造，<br />旨在支持开发人员的日常任务，并确保其数据的最高安全性。<br />应用场景非常广泛，重点是可以离线使用。 |
 | **ScreenToGif**                                              | [下载地址](https://www.screentogif.com/downloads)            | ScreenToGif 是一款免费的屏幕录制工具，可以让你录制屏幕上选定区域、<br />网络摄像头直播或板书画图。录制后，你可以对输出进行编辑并保存为 gif、视频或其他格式。<br />该应用程序是由 Nicke S. Manarin 开发的，适用于 Windows 操作系统。 |
 | **Git:[Captura](https://github.com/MathewSachin/Captura)**   | [MIT license](https://github.com/MathewSachin/Captura#MIT-1-ov-file) | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，<br />允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动<br />（尽管该项目已被归档，但仍然可以下载和使用它） |
+| Git:[ShareX](https://github.com/ShareX/ShareX)               | [GPL-3.0 license](https://github.com/ShareX/ShareX#GPL-3.0-1-ov-file) | ShareX是一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、<br />录屏、Gif动图制作神器。 |
 | [Dots](https://github.com/nor0x/Dots)                        |                                                              | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。<br />它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。<br />它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 |
 
-### 相关参考
+#### 相关参考
 
 1. **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
 1. [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
 1. [摆脱低效复制粘贴，使用 Ditto 提高效率！！【Ditto】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=3&sn=eccc49bdb632904825a8487c40a97676&chksm=9639d31dcf59aeaf90640d14ece2ba15e293461c72fd0a61a7ebb5dcd915b4f9d7a8a3fba875&scene=126&sessionid=1729426307#rd)
-1. [一个 WPF 开发的简约，功能强大的终端模拟器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
+1. [一个 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
+1. [基于 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508806&idx=1&sn=988fd980c41c8952cd915d8976f2a8b7&chksm=964bf48177ec51b4e4423dea841e70d864d84b78ae752726f7836298d1f2969a984926079ebd&scene=126&sessionid=1735476661#rd)
 1. [DevHub：一款免费的 macOS 离线开发者工具箱合集软件【DevHub】](https://mp.weixin.qq.com/s/HQjCvDJAMzaubD1rRYlS0Q)
 1. [一款免费且易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=3&sn=2ba4d536ef511dda3b03f9d93e5bdae4&chksm=966bcf4ad7a8bd6216b3fd3aca547c09aa407212da927e75435ddaeb9d28a5324c9ca459cfc6&scene=126&sessionid=1730163511#rd)
 1. [一款.NET开源、免费、易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508560&idx=3&sn=add338dd5102248ecc0776576da6b0e0&chksm=96da88a21ce895ee527897f58fae19b9ea2fa3d9586d2598d5f538c67889be961eaf6aeb1cd8&scene=126&sessionid=1734484256#rd)
 1. [一个.NET开源、易于使用的屏幕录制工具【Captura】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=1&sn=39fe476367d561a4c91379819a80a4da&chksm=96ab7326754d7ddc172c6a14e61e420f529da59561834e9fe9f46636cbbcb9777534baf6c4e6&scene=126&sessionid=1734914402#rd)
 1. [一款轻量且友好的 .NET SDK 管理器【Dots】](https://mp.weixin.qq.com/s/D-oA9qjRPdR3mKznE1n__w)
+1. [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
+1. [3款.NET开源、功能强大的屏幕录制工具【ScreenToGif】【Captura】【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=1&sn=6df82c91eb760da293bb5ea4f3cbdc16&chksm=9605beab97859b5bcb97b66c09be0b8f517a0bfc9a47463c3caba99fee43bb265e05eeda1aea&scene=126&sessionid=1735740851#rd)
+
+
+
+### 在线文档工具
+
+| 项目名称       | 使用的协议 | 功能说明/介绍                                                |
+| -------------- | ---------- | ------------------------------------------------------------ |
+| **语雀**       | 有免费版   | 语雀是一款免费的在线文档神器，用于做笔记，编写技术文档非常的好用，<br />简洁舒适&方便实用，最关键的是支持Markdown语法，非常适合极简主义者。<br />注册后在会员信息页填写邀请码 `TBEPM8` 即可免费领取 30 天语雀会员。<br />[语雀，官网](https://www.yuque.com/)<br />[定价](https://www.yuque.com/about/price) |
+| **飞书文档**   | 有免费版   | 飞书文档作为新一代高效协作工具，融合了在线文档和协同文档的所有功能，<br />不仅能插入在线表格，将数据表转换成看板，还能用思维笔记，<br />将思考路径可视化，更有丰富模板满足多场景创作需求。<br />[飞书，官网](https://docs.feishu.cn/)<br />[定价](https://www.feishu.cn/service?from=feishu_website_header) |
+| **有道云笔记** | 有免费版   | 有道云笔记是一款多平台记录工具，支持扫描、语音、Markdown、收藏等多种记录方式，<br />内容多端实时同步。强大的AI工具带来全方位赋能，帮你提效减负；微信、<br />微博等优质内容一键收藏到笔记，全面助力高效学习和工作。<br />[有道云笔记｜官网](https://note.youdao.com/)<br />[定价](https://note.youdao.com/vip-charge/) |
+| **ShowDoc**    | 有免费版   | ShowDoc 是一款开源的在线文档工具，它以轻量化设计、<br />操作简便以及强大的功能深受开发者和团队的喜爱。是一个非常适合IT团队的在线API文档、<br />技术文档工具。你可以使用 ShowDoc 来编写在线API文档、<br />技术文档、数据字典、在线手册等。<br />[ShowDoc，官网](https://www.showdoc.com.cn/)<br />[定价](https://www.showdoc.com.cn/prices) |
+
+#### 相关参考
+
+- [2024年值得推荐的4款免费且功能强大的在线文档工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508735&idx=1&sn=f0850820f96fc78cafbb2066b3e21cb5&chksm=96baa6705fd544a8e9679d3f989176bc910c60af520643b2fd2c821f3fe9b8c5cae1dfba7729&scene=126&sessionid=1734914402#rd)
 
 
 
@@ -1162,6 +1195,7 @@
 | **Git:[excalidraw](https://github.com/excalidraw/excalidraw)** | [MIT license](https://github.com/excalidraw/excalidraw#MIT-1-ov-file) | Excalidraw是一款卓越的开源，<br />且免费（遵循MIT license开源协议）的在线白板工具，<br />其核心理念在于打造手绘风格的图形设计体验。<br />它旨在为用户提供一个快速、便捷且富有创意的平台，<br />让绘制图形、流程图及草图变得轻松自如。<br />无论是技术开发者、专业设计师，还是教育领域的工作者，<br />Excalidraw都能成为你工作流程中不可或缺的得力助手。<br />[在线访问地址](https://excalidraw.com) |
 | **Git:[SkiaSharp](https://github.com/mono/SkiaSharp)**       | [MIT license](https://github.com/mono/SkiaSharp/blob/main/LICENSE.md) | SkiaSharp is a cross-platform 2D graphics API for .NET <br />platforms based on Google's Skia Graphics Library. It <br />provides a  comprehensive 2D API that can be used <br />across mobile,  server and desktop models to render images. |
 | **Git:  [Magick.NET](https://github.com/dlemstra/Magick.NET)** | [Apache-2.0 license](https://github.com/dlemstra/Magick.NET#Apache-2.0-1-ov-file) | ImageMagick is a powerful image manipulation library <br />that  supports over [100 major file formats](https://imagemagick.org/script/formats.php) <br />(not including sub-formats). <br />With Magick.NET you can use ImageMagick in your <br />C#/VB.NET/.NET Core application without having to <br />install ImageMagick on your server or desktop. |
+| **Git:[VectSharp](https://github.com/arklumpus/VectSharp)**  | LGPL-3.0, GPL-3.0 licenses found                             | VectSharp 是一个功能强大的 C# 库，专门用于创建矢量图形，包括文本，<br />不依赖任何第三方，支持跨平台运行，包括 Mac、Windows 和 Linux。<br />使得开发者可以更容易地在他们的项目中集成矢量图形的生成和处理。 |
 | **Git:[AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)** | [GPL-3.0 license](https://github.com/X-Lucifer/AI-Lossless-Zoomer#GPL-3.0-1-ov-file) |                                                              |
 | **Git:[DIS](https://github.com/xuebinqin/DIS)**              | [Apache-2.0 license](https://github.com/xuebinqin/DIS#Apache-2.0-1-ov-file) | OnnxRuntime DIS高精度图像二类分割                            |
 | **Git:[YoloDotNet](https://github.com/NickSwardh/YoloDotNet)** | [GPL-3.0 license](https://github.com/NickSwardh/YoloDotNet#GPL-3.0-1-ov-file) | YoloDotNet v2.1 是一个基于 C# 和 .NET 8 的实时物体检测框架，<br />专为图像和视频中的物体检测而设计。它集成了 Yolov8 ~ Yolov11 模型，<br />通过 ML.NET 和 ONNX 运行时实现高效的物体检测，<br />并支持 GPU 加速（使用 CUDA）。YoloDotNet 不仅支持传统的物体检测，<br />还涵盖了分类、OBB 检测、分割和姿态估计等多种功能，适用于各种复杂的视觉任务。 |
@@ -1188,6 +1222,7 @@
 
 7. [推荐5款程序员必备的画图工具，效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=1&sn=8600e8e1476d65e5afd2957871786e70&chksm=96ff67dfc6af3a5017b09ba575b7f544831a4ea001378be65af83591a7a76e4cf4661a6d3b21&scene=126&sessionid=1732495973#rd)
 7. [一款开源免费、功能强大的AI换脸神器【FaceFusion】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507946&idx=3&sn=2bf7fde9ea3387eb48c11815d257adf2&chksm=96901322ec27066ac1d1f0427825d9074a3eea72772876f125f3990bf5d592c65926c20f96cd&scene=126&sessionid=1733186985#rd)
+7. [推荐一个C#轻量级矢量图形库 - chingho - 博客园【VectSharp】](https://www.cnblogs.com/chingho/p/18629448)
 
 
 
@@ -1331,6 +1366,7 @@
 | **Git:[1Remote](https://github.com/1Remote/1Remote)**        | [GPL-3.0 license](https://github.com/1Remote/1Remote#GPL-3.0-1-ov-file) | 1Remote是一款现代、功能丰富、易于使用的远程会话管理和启动器，<br />支持多种协议和定制选项，适合需要频繁管理远程会话的用户 |
 | **Gitee:[SiMayRemotelyOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS)** | AGPL-3.0                                                     | SiMayRemoteMonitorOS是一个基于Windows的远程控制系统，<br />完全采用C#.NET开发，遵循AGPL-3.0开源协议。 |
 | **Git:[rustdesk](https://github.com/rustdesk/rustdesk)**     | [AGPL-3.0 license](https://github.com/rustdesk/rustdesk#AGPL-3.0-1-ov-file) | 常见的远程桌面软件有TeamViewer、AnyDesk、ToDesk等。使用这些软件时，<br />通常需要在远程计算机上安装相应的客户端软件，并在本地计算机上使用相应的<br />服务器端或客户端软件来建立连接。今天咱们分享一款TeamViewer的替代品，<br />一个开源免费的远程桌面软件，开箱即用，无需任何配置：RustDesk。 |
+| 网易UU远程                                                   | 原GameViewer远程                                             | 网易UU远程（原GameViewer远程），是一款由网易出品的专业游戏串流远程控制软件，<br />支持手机、平板、电脑、Mac、掌机远程控制电脑，<br />不仅能满足你远程办公、远程协助等需求，超低延迟、高清高帧、操控自如、<br />轻松拓展副屏、一键公网串流等特色功能更能给你带来极致的游戏串流体验！<br />[下载地址](https://uuyc.163.com/download) |
 
 ### 相关参考
 
@@ -1341,6 +1377,7 @@
 1. **[一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)**
 1. [TeamViewer 的替代品，一个开源免费的远程桌面软件，开箱即用，无需任何配置！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=4&sn=d7c2c114af277855a597b7ee2a875046&chksm=9685861241d9c829a8190d879917547babeddaffa7a592cfff18c7f59b8885b561843e9642be&scene=126&sessionid=1729559301#rd)
 1. [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
+1. [一款免费、低延迟、强大的远程控制软件，满足用户远程办公、远程协助等日常需求，提高工作效率！【网易UU远程】【GameViewer远程】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=2&sn=bb46cace5fc5849e13307ff04a4fa4bd&chksm=96aaea705afcf7cc69aca8f508318aff469626b9be1ccd069ba278e50364da774bab956bc4a1&scene=126&sessionid=1735740851#rd)
 
 
 

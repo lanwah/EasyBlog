@@ -27,6 +27,7 @@
 - [ASP.NET Core OData 9的发布，放弃 .NET Framework (qq.com)](https://mp.weixin.qq.com/s/sKilIxCmP8OG7EccwXFTNA)
 - [ASP.NET Core Filter与IOC的羁绊 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=5&sn=0401e32e7e6e105b260f40745b948170&chksm=963084f5de0ffec3942c8176b20af6cfc4bb1d91b919bd912ab4d87ce55e90108bde0ada21eb&scene=126&sessionid=1729213064#rd)
 - [将ASP.NET Core Web API和Blazor Wasm发布到 IIS](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508114&idx=1&sn=f387e548a304d88696475d6bba74fd56&chksm=96ffc2c0355bdcce1a9064e70be405a5fb23992abede404f50f5a7d5fe2925c4598962f0a18f&scene=126&sessionid=1733706081#rd)
+- [在Asp.netCore中使用Attribute来描述限流 - jiulang - 博客园](https://www.cnblogs.com/kewei/p/18630545)
 
 
 
@@ -77,6 +78,12 @@
 
 
 
+## C. 操作系统
+
+- [.NET Bios相关数据读写 - 唐宋元明清2188 - 博客园](https://www.cnblogs.com/kybs0/p/18613343)
+
+
+
 ## D. DotNet学习
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
@@ -100,6 +107,12 @@
 - [.NET掌握 LINQ 神器：揭秘 AsEnumerable、DefaultIfEmpty 和 Empty 的真正用法 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504940&idx=3&sn=9d80e7ac52959dddd3ff8d9620a7bb48&chksm=9621db62ce5d56498e0eabb91db24dcfe25baf9bafdb80d602c1a3fd1ecd115942f7ec6a69e3&scene=126&sessionid=1725930428#rd)
 - [2024年各编程语言运行100万个并发任务需要多少内存？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=3&sn=f4ea3d7d4896ca06c11996116c9cdd88&chksm=96a3c34dedb89d53b0df04751dc66a39e65d0f7e6f5c5cba2734ca4ff5fb7f5e14c633b8e7f9&scene=126&sessionid=1733100642#rd)
 - [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18594690)
+
+
+
+## D. .NET 线程安全
+
+- [.NET 中的线程安全数据结构 - 贾光辉 - 博客园](https://www.cnblogs.com/Tangtang1997/p/18629960)
 
 
 
@@ -191,6 +204,7 @@
 ## G. 公众号
 
 - [利用腾讯元器，将公众号变身为强大的.NET AI智能体](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507304&idx=1&sn=3bf84be622317afa9aa6dd46939ff3af&chksm=967cd2d285573937abccf1871bdc731f5bf75cf5061e330f58d14fd03b8ecc4c721d685c3ed6&scene=126&sessionid=1731633519#rd)
+- [分享一个免费且强大的.NET AI智能体](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508803&idx=1&sn=0f6b1f85a8c337d28ea837c50461f7f6&chksm=96664b9cc699716e137428be496eb9a699e2f96254bc8276ed31761420581c95c7b258c387cb&scene=126&sessionid=1735088201#rd)
 
 
 
@@ -421,6 +435,7 @@
 - **WinDbg**
   - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
   - [聊一聊坑人的 C# MySql.Data SDK](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508735&idx=2&sn=e6ee65ae3cfd5047e13de82921893864&chksm=96ca138cf796af2d74368f9c76b2d4f1643f32bce38be8869604dfe9dc3167a16778c88ae1ee&scene=126&sessionid=1734914402#rd)
+  - [聊一聊 C#前台线程 如何阻塞程序退出 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18622015)
 
 
 
@@ -494,6 +509,21 @@
 
 
 
+## X. 虚拟打印机
+
+- [如何添加Microsoft Print To PDF 打印机 - 知乎](https://zhuanlan.zhihu.com/p/105366547)
+- [Spire.Pdf 的各种操作总结 - E-iceblue - 博客园](https://www.cnblogs.com/Yesi/p/4289981.html)
+- [CutePDF :: Product :: CutePDF Writer](https://cutepdf.com/Products/CutePDF/writer.asp)
+- [ps2pdf: PostScript-to-PDF converter](https://web.mit.edu/ghostscript/www/Ps2pdf.htm)
+
+
+
+## X. 序列化/反序列化
+
+- [.NET 9 New features-JSON序列化 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18622226)
+
+
+
 ## Y. 音频/视频
 
 - [【音视频通话】使用asp.net core 8+vue3 实现高效音视频通话 - 四处观察 - 博客园 (cnblogs.com)](https://www.cnblogs.com/1996-Chinese-Chen/p/18384394)
@@ -538,3 +568,4 @@
 ## Z. 正则表达式
 
 - [C#正则表达式快速入门](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508453&idx=1&sn=20bc9b8c80a0ffa746e3a768372fbf4f&chksm=9628e8fef5db0afacb3a3ac03fdbfafc3654e013e2b216ec33b41fec5b9bb97d8fcb621a0c64&scene=126&sessionid=1734311217#rd)
+
