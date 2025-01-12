@@ -34,7 +34,7 @@ public class DocsBuilder(WebInfo webInfo) : BaseBuilder(webInfo)
         foreach (var docInfo in DocInfos)
         {
             var docPath = Path.Combine(docRootPath, docInfo.Name);
-            if(!Directory.Exists(docPath))
+            if (!Directory.Exists(docPath))
             {
                 Command.LogWarning($"Not found doc: {docPath}");
                 continue;
@@ -130,7 +130,7 @@ public class DocsBuilder(WebInfo webInfo) : BaseBuilder(webInfo)
                         var extension = Path.GetExtension(file);
                         if (!extensions.Contains(extension)) { continue; }
 
-                        string relativePath = file.Replace(ContentPath, Path.Combine(Output, versionPath));
+                        string relativePath = file.Replace(ContentPath, Output);
                         string? dir = Path.GetDirectoryName(relativePath);
 
                         if (!Directory.Exists(dir))

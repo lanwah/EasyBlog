@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@{Title}</title>
     <meta name="description" content="@{Description}" />
-    <base href="/" />
     <link rel="stylesheet" href="@{BaseUrl}css/app.css" />
     <link rel="stylesheet" href="@{BaseUrl}css/docs.css" />
     <link rel="stylesheet" href="@{BaseUrl}css/markdown.css" />
