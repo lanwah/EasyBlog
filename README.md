@@ -1,4 +1,4 @@
-# Blog
+# EasyDoc
 
 📘[Englisth](./README.md)   📘[中文](./README_cn.md)
 
