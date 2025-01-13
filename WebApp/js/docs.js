@@ -54,8 +54,9 @@ class Docs {
 
     document.getElementById('versionSelect')?.addEventListener('change', function () {
       const selectedValue = this.value;
-      if (selectedValue != this.version) {
-        self.redirectToVersion(selectedValue);
+      const url = this.options[this.selectedIndex].getAttribute('data-url');
+      if (selectedValue != self.version) {
+        self.redirectToVersion(selectedValue, url);
       }
     });
 
@@ -91,18 +92,19 @@ class Docs {
       });
   }
 
-  redirectToVersion(version) {
+  redirectToVersion(version, versionUrl) {
     var url = new URL(window.location.href);
     var path = url.pathname;
     var htmlName = path.split('/').pop();
     url.pathname = `/docs/${this.docName}/${this.language}/${version}/${htmlName}`;
 
+    
     // 判断新的url是否返回404
     fetch(url.href)
       .then(response => {
         if (response.status === 404) {
-          alert(`The version ${version} is not available for this document.`);
-          return;
+          url.pathname = `/docs/${versionUrl}`;
+          window.location.href = url.href;
         } else {
           window.location.href = url.href;
         }

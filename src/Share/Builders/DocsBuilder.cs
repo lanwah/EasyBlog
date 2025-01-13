@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System;
+using System.Runtime.ExceptionServices;
+using System.Text;
 using Markdig;
 using Share.MarkdownExtension;
 
@@ -57,7 +59,7 @@ public class DocsBuilder(WebInfo webInfo) : BaseBuilder(webInfo)
 
                 Command.LogInfo($"match versions: {string.Join(",", matchVersions)} ");
 
-                var versionSelect = BuildVersionSelect(matchVersions);
+                var versionSelect = BuildVersionSelect(matchVersions, languagePath, docsCatalog);
 
                 foreach (var version in matchVersions)
                 {
@@ -213,7 +215,7 @@ public class DocsBuilder(WebInfo webInfo) : BaseBuilder(webInfo)
     /// </summary>
     /// <param name="docInfo"></param>
     /// <returns></returns>
-    public string BuildVersionSelect(List<string> versions)
+    public string BuildVersionSelect(List<string> versions, string languagePath, Catalog docsCatalog)
     {
         var sb = new StringBuilder();
         // version select
@@ -224,7 +226,15 @@ public class DocsBuilder(WebInfo webInfo) : BaseBuilder(webInfo)
             """);
         foreach (var version in versions)
         {
-            sb.AppendLine($"<option value='{version}'>{version}</option>");
+            var versionPath = Path.Combine(languagePath, version);
+            var versionCatalog = docsCatalog.FindCatalog(versionPath);
+            string? url = "";
+            if (versionCatalog != null)
+            {
+                var firstDoc = versionCatalog.GetAllDocs().FirstOrDefault();
+                url = firstDoc?.HtmlPath;
+            }
+            sb.AppendLine($"<option data-url='{url}' value='{version}'>{version}</option>");
         }
 
         sb.AppendLine("</select>");
