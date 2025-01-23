@@ -22,6 +22,7 @@
 | **Git:[Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF)** |                                                              | LayUI-WPF是一个WPF版的Layui前端UI<br />样式库，<br />该控件库参考了Web版本的LayUI风格，<br />利用该控件库可以完成现代化UI客户端程序，<br />让你的客户端看起来更加简洁丰富又不失美感。 |
 | **Git:[WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)** | [MIT license](https://github.com/WPFDevelopersOrg/WPFDevelopers#MIT-1-ov-file) |                                                              |
 | **Gitee:[CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI)** | MIT                                                          | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，<br />提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，<br />以简化WPF应用程序的开发过程。 |
+| Git:[MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | [MIT license](https://github.com/MahApps/MahApps.Metro#MIT-1-ov-file) | MahApps.Metro 是一个开源、免费、Metro风格的 WPF UI 控件库，<br />提供了现代化、平滑和美观的控件和样式，<br />帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。<br />[在线文档](https://mahapps.com/docs/controls) |
 
 ### 相关参考
 
@@ -37,6 +38,7 @@
 1. **[推荐7款美观且功能强大的WPF UI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504372&idx=1&sn=5d9d5939253d71d5c88dc5e60d7fff35&chksm=96ae5c94c475565ce828cb1e926f5028fe56d9d676a3252d1d0853c96836297ca74b64397878&scene=126&sessionid=1724373028#rd)**
 1. [WPF 实现饼状统计图【WPFDevelopers】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=2&sn=5982a6199b9abbedcc26002e3a6749e1&chksm=96c507559109e62a789e4f5774f68e5ac6b1a8940f33213951deb84c5c2b5147f9101a008501&scene=126&sessionid=1728350900#rd)
 1. [一款流行且丰富的WPF控件库，提供了100多款控件！【CookPopularUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=2&sn=999dbf9f54f280dd1f554fd5c1187908&chksm=961a78b7776c49904b5ea8abf86d5c1de3563732de689caadb074ec9d2b8cf0ce874593c7561&scene=126&sessionid=1732668893#rd)
+1. [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
 
 
 

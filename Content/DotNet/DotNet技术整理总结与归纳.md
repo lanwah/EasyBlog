@@ -18,16 +18,23 @@
 - **[好消息：NET 9 X86 AOT的突破 - 支持老旧Win7与XP环境](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=3&sn=102e2675b0ceb557c671e3d1e22bba63&chksm=96052420047bd104e5578c1ee641b0d42d4b160d0ffb7ef7be9705e3b0220d3fa2004801aeda&scene=126&sessionid=1721264675#rd)**
 - [AOT使用经验总结 - 沙漠尽头的狼-Dotnet9 - 博客园](https://www.cnblogs.com/Dotnet9-com/p/18529239)
 - [.NET9 Linux AOT Json序列化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507960&idx=2&sn=63273b74059112b39a7e6b217f5c717d&chksm=96d77c460f32dd5159df25b41f8de7b74b0619db38c3c73c379d4a8b69cbbbb59d79064d0470&scene=126&sessionid=1733275028#rd)
+- [跨平台交叉编译 Native AOT - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18618066)
 
 
 
 ## A. ASP.NET Core
 
+- [.NET Core：架构、特性和优势详解 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18662074)
 - **[简化ASP.NET Core API神器：用Gridify轻松实现过滤、排序和分页【Gridify】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=3&sn=381d436f87fe97084416e4c3918d76ae&chksm=967a9718d247b340a425bd227b6cda31edd04025914d0cfe648abb7336b59f1fb5690182a68a&scene=126&sessionid=1724806111#rd)**
 - [ASP.NET Core OData 9的发布，放弃 .NET Framework (qq.com)](https://mp.weixin.qq.com/s/sKilIxCmP8OG7EccwXFTNA)
 - [ASP.NET Core Filter与IOC的羁绊 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=5&sn=0401e32e7e6e105b260f40745b948170&chksm=963084f5de0ffec3942c8176b20af6cfc4bb1d91b919bd912ab4d87ce55e90108bde0ada21eb&scene=126&sessionid=1729213064#rd)
 - [将ASP.NET Core Web API和Blazor Wasm发布到 IIS](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508114&idx=1&sn=f387e548a304d88696475d6bba74fd56&chksm=96ffc2c0355bdcce1a9064e70be405a5fb23992abede404f50f5a7d5fe2925c4598962f0a18f&scene=126&sessionid=1733706081#rd)
 - [在Asp.netCore中使用Attribute来描述限流 - jiulang - 博客园](https://www.cnblogs.com/kewei/p/18630545)
+- [ASP.NET Core 中的速率限制中间件的使用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=2&sn=a9d7828a444f8b9c7006089043fe422e&chksm=96eaf02cbd9142560d75a45acfc2c58c71d2a1322d45049ecb2b44eee7baf01050ebb968c809&scene=126&sessionid=1736604622#rd)
+- **身份鉴权/身份认证**
+  - [ASP.NET Core 中基于 Cookie 的身份鉴权实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=3&sn=435086131053de1e1e57d5800f4b3c26&chksm=966dd908d5f29a93b287606a92c47e4a79f265c6dd419e917db94c8fce2cc5da900af34c9001&scene=126&sessionid=1737334659#rd)
+- [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
+
 
 
 
@@ -44,6 +51,7 @@
 - [在C#中基于Semantic Kernel的检索增强生成（RAG）实践 - dax.net - 博客园](https://www.cnblogs.com/daxnet/p/18475095)
 - [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
 - [使用Microsoft.Extensions.AI简化.NET中的AI集成](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=1&sn=d4d7a11a9a310f195beb445a18c7637c&chksm=96c25d9e38701da2295f38de7ab28db742d09c1591a365d5438bee3cad6d998419fe961bbd3e&scene=126&sessionid=1731890970#rd)
+- [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
 
 
 
@@ -84,6 +92,13 @@
 
 
 
+## C. 程序处理
+
+- [.NET 单文件执行程序拆解器 SingleFileExtractor - 冠军 - 博客园](https://www.cnblogs.com/haogj/p/18618295)
+- [C# 使用Costura.Fody插件将自己写的程序打包成一个可以独立运行的EXE文件 - 多见多闻 - 博客园](https://www.cnblogs.com/guangzhiruijie/p/17143563.html)
+
+
+
 ## D. DotNet学习
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
@@ -92,12 +107,19 @@
 - [什么是.NET的强类型字符串(Strongly typed string)？ - czwy - 博客园](https://www.cnblogs.com/czwy/p/18576931)
 - [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
 - [dotnet scaffold – .NET 的下一代内容创建](https://mp.weixin.qq.com/s/fXVEINNyCio7rAsTTy3OdA)
+- **关键字**
+  - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
+  - **yield**
+    - [yield 语句 - 在迭代器中提供下一个元素 - C# reference | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/statements/yield)
+    - [C#使用yield关键字提升迭代性能与效率](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509674&idx=1&sn=a8937987adadf6542a1397ac0839dfc2&chksm=96921ecd6c8e491b48bc41d5650fa34aee43d05535e81d8a77a1b59b71ddb4d709e568c3fbce&scene=126&sessionid=1737511894#rd)
+
 
 
 
 ## D. DotNet相关书籍
 
-**[C#/.NET/.NET Core推荐学习书籍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=1&sn=4edf28a7e525e77ff6f785ede7e25fc0&chksm=96ca7c9e4e99ef9d52acf599be40c5f36bbba002536879f01a1dc8204f2152d4424877093c03&scene=126&sessionid=1722818981#rd)**
+- **[C#/.NET/.NET Core推荐学习书籍](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=1&sn=4edf28a7e525e77ff6f785ede7e25fc0&chksm=96ca7c9e4e99ef9d52acf599be40c5f36bbba002536879f01a1dc8204f2152d4424877093c03&scene=126&sessionid=1722818981#rd)**
+- [C#/.NET/.NET Core推荐学习书籍（25年1月更新）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509208&idx=1&sn=f9ae4917a366f00cf56f93e46b138285&chksm=96aca5713a19e1a1f73830bdf44fba275d9ee3c2eea8ea3f7245d5488a714866a17a24fe5f2b&scene=126&sessionid=1736902610#rd)
 
 
 
@@ -151,6 +173,10 @@
 
   > 使用本地 AI 模型是在您自己的计算机上进行实验的好方法，而无需将资源部署到云中。在本文中，我们将了解如何将 .NET Aspire 与 Ollama 结合使用在本地运行 AI 模型，同时使用 Microsoft.Extensions.AI 抽象使其在部署时过渡到云托管模型。
 
+- [.NET Aspire Quick Tip - Managing Container & Data Lifetime - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime/)
+
+  > .NET Aspire 通过其强大的应用程序组合编排功能增强了本地开发过程。在 .NET Aspire App Host 中，您可以在一个集中位置为应用程序指定所有项目、可执行文件、云资源和容器。当您运行 App Host 项目时，.NET Aspire 将自动运行您的项目和可执行文件，根据需要提供云资源，并下载和运行作为应用程序依赖项的容器。.NET Aspire 9 添加了新功能，让您可以更好地控制在本地计算机上管理容器生命周期的方式，从而在使用容器时加快开发速度。
+
 
 
 ## D. .NET Roslyn
@@ -192,6 +218,8 @@
 - [一幅漫画解释 .NET 垃圾收集（GC）原理 | Kit Lau's Blog](https://blog.kitlau.dev/posts/cartoon-dotnet-garbage-collection/)
 - [.NET 性能技巧：为什么你应该避免使用终结器 Finalizer？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=2&sn=c8cb88c8d9969e665fe3c5cfb78836a2&chksm=96e8c6c1d830a2a0b5b182b05659c7f2e6dab2844ab52b0a4caf8533bdace259bd0e04970687&scene=126&sessionid=1728867433#rd)
 - [一张图带你了解.NET终结(Finalize)流程 - 叫我安不理 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lmy5215006/p/18456380)
+- [.NET Core GC计划阶段(plan_phase)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18668721)
+- [C#中CLR核心机制解析：垃圾回收与标准Dispose模式_c# clr-CSDN博客](https://blog.csdn.net/2301_79251107/article/details/132113846)
 
 
 
@@ -232,6 +260,12 @@
 
 
 
+## H. 缓存
+
+- [如何用 Redis 构建一个简单的聊天应用？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=2&sn=c134137263824c9f648815b76c51768e&chksm=965cc2c30db1505be25e0a0fb1e6d5f5ff49c26b0f31524898ed07dcca9a79c2354a9bfef48e&scene=126&sessionid=1736503976#rd)
+
+
+
 ## I. IDE
 
 - [2024 年开发人员 13 款常用 IDE 合集 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=3&sn=5594c32e615e9bc6857ff44b28247de1&chksm=9619cf51152401be6ae00b3b8dd4d65de75bdb905ab398e0b4b43a43fc1db5d64df2c3b4b0ab&scene=126&sessionid=1728350900#rd)
@@ -242,11 +276,24 @@
 
 
 
+## I. IoT
+
+- [用纯.NET开发并制作一个智能桌面机器人（一）：从.NET IoT入门开始](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509201&idx=2&sn=13350fb3111413fb74075085d5f30baf&chksm=96c64a7ad436070bc9e93592318df9b4d6ea561e100f28b1659ac08554a7a250f592212796d3&scene=126&sessionid=1736817137#rd)
+- [用纯.NET开发并制作一个智能桌面机器人（二）：用.NET IoT库编写驱动控制两个屏幕](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=2&sn=1cf2374ba0ff0888a5c142f42d910bd2&chksm=96edee3537b01043660d600fa22a38ddf847ae3f61ea0d98ead82f03ebeb2726956dbc561997&scene=126&sessionid=1736991133#rd)
+
+
+
 ## J. 集成JavaScript
 
 .NET 应用集成 JavaScript
 
 - [在 .NET 应用程序中运行 JavaScript (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504786&idx=3&sn=2df895dc80f29ccc174eb198a8d58c77&chksm=960753bf29a448d2cb287ddd6cf6accded7a47b645ffc58db129ddf0fcd74a01b8d8d5cb1410&scene=126&sessionid=1725842446#rd)
+
+
+
+## J. JavaScript
+
+- [2024年前端明星项目出炉，又是它！](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247531750&idx=1&sn=b33a1833b38bb4667d8033a1ecd65f46&chksm=fc7e32bdcb09bbab4e50565de898002ea1c982fbc2d3da4a0ca03b2d45adba444092047d7615#rd)
 
 
 
@@ -311,6 +358,12 @@
 
 
 
+## M. MQ
+
+- [基于.NET8.0实现RabbitMQ的Publish/Subscribe发布订阅以及死信队列 - sq1201 - 博客园](https://www.cnblogs.com/sq1201/p/18661294)
+
+
+
 ## N. NuGet
 
 - [Dramatically faster package restores with .NET 9's new NuGet resolver - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/)
@@ -328,6 +381,7 @@
 
 - [OpenAPI document generation in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/)
 - [.NET9 - Swagger平替Scalar详解（四） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18571088)
+- [在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=1&sn=0c8a8a84fe1c1e6bb81f4965f89b5561&chksm=9658299e4b41db48949c3406c88ec364cfb3366fad437401718182f0ef07b6a4b91d8a162558&scene=126&sessionid=1736503976#rd)
 
 
 
@@ -390,11 +444,13 @@
 - [C#线性查找算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506400&idx=1&sn=86b6d62d8a5e5dd7d471c9fed09f4ec7&chksm=966f80281d1a62e91fa852b80f9a5d19da12b4c2ae8e90200f6900bb25ed03e252bb5ff8ed52&scene=126&sessionid=1729472376#rd)
 - [C#常见的四种经典查找算法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506487&idx=1&sn=1634458d183be227654041955650f589&chksm=963e5ef24916873fe3c280b7d0d2ebfcfb2a9eee677477d3370a2b8b6685376053cf5625372c&scene=126&sessionid=1729731769#rd)
 - [C# 入门深度学习：万字长文讲解微积分和梯度下降 - 痴者工良 - 博客园](https://www.cnblogs.com/whuanle/p/18551532)
+- [C#数据结构与算法入门实战指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509250&idx=1&sn=cb8731ebdaa58bd8c4f806f98f54095e&chksm=963084919c7a803862e1742186164f928784b339fdd0fd75a23ccc9cc3a634240c4052cab510&scene=126&sessionid=1737075474#rd)
 
 
 
 ## S. 数据库
 
+- [SQL 语句是怎么执行的？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509250&idx=2&sn=ce8452644560fe8cb6e06d37ec0fa542&chksm=9696f9c5eae9ef7808109b08ec747104a11e4db6994893c38ad5d8e48de5d76b5833ff467c2b&scene=126&sessionid=1737075474#rd)
 - [面试官：数据库的隔离是什么意思？ (qq.com)](https://mp.weixin.qq.com/s/lGCBVqLrn1gsih9PEOYbgg)
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
   - MySQL
@@ -450,6 +506,13 @@
   - **[探索C#中的多线程神器Monitor和Lock](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=2&sn=49befd777d9818ff124db42ebe7e1fac&chksm=96338dd7700e9bf2c00c4baee847b07f9855d33dd075bf1b49f64463396ac472940d5a014fac&scene=126&sessionid=1723768329#rd)**
 - **线程同步**
   - [C# Barrier进行多线程同步](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504737&idx=3&sn=d33d01d45e30fae85a0b4d6cf1b65b0e&chksm=9699f872d98ed7d09a6c2b0c7bd87bc64180cdf54950e6f0ca1a9b851a7d9c15ae4fd1ea2a8b&scene=126&sessionid=1725718515#rd)
+- **异步**
+  - [聊一聊 C#异步 任务延续的三种底层玩法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=2&sn=64514f54589397a27a9c95a9e78cde16&chksm=9644e747e4c46599bad92880716fbf8b6f15809c94000de722730b42fdaa210398d06bd028b7&scene=126&sessionid=1736503976#rd)
+  - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
+  - [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)
+  - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
+  - [C#中 Task 结合 CancellationTokenSource的妙用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18620273)
+
 
 
 
@@ -531,14 +594,6 @@
 
 
 
-## Y. 异步
-
-- [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
-- [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)
-- [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
-
-
-
 ## Y. 压缩/解压
 
 - [.NET 压缩/解压文件 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18398891)
@@ -555,6 +610,7 @@
 ## Y. 依赖注入
 
 - [理解和使用 .NET Core中依赖注入的作用域](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=3&sn=5f3c95b74a4cef7dbc4ffb386de431f0&chksm=963ec5ce8ccb80cecd3353b2d2bb9a5dae130e85a5a020b9670cd4649670bb993e08233bab3c&scene=126&sessionid=1731206998#rd)
+- [.NET 依赖注入中的 Captive Dependency - Agile.Zhou - 博客园](https://www.cnblogs.com/kklldog/p/18663148/captive-dependency)
 
 
 
