@@ -141,3 +141,5 @@
 ## Visual Studio 更新日志
 
 - [Visual Studio 2022 Release Notes | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.12.3)
+- [【译】我们最喜欢的2024年的 Visual Studio 新功能 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18687409)
+- 

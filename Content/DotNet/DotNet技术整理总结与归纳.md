@@ -52,6 +52,11 @@
 - [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
 - [使用Microsoft.Extensions.AI简化.NET中的AI集成](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=1&sn=d4d7a11a9a310f195beb445a18c7637c&chksm=96c25d9e38701da2295f38de7ab28db742d09c1591a365d5438bee3cad6d998419fe961bbd3e&scene=126&sessionid=1731890970#rd)
 - [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
+- **小型语言模型 (SLM)**
+  - [2024 年 5 种领先的小语言模型：Phi 3、Llama 3 等-CSDN博客](https://blog.csdn.net/weixin_47567401/article/details/139176010)
+  - [Phi小模型开发教程：用C#开发本地部署AI聊天工具，只需CPU，不需要GPU，3G内存就可以运行，不输GPT-3.5 - chingho - 博客园](https://www.cnblogs.com/chingho/p/18681020)
+  - 
+
 
 
 
@@ -64,13 +69,6 @@
 ## B. 并发迁移
 
 - [EntityFramework Core并发迁移解决方案 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=3&sn=9f6d974d52cf51600cd41fecda0e3d2d&chksm=968b84946255e140d2f3dea7d7c90f7364dbae537c37ff5beb8c448cbeb5dc09ad2d204b22fa&scene=126&sessionid=1727052024#rd)
-
-
-
-## C. 程序交互
-
-- [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
-- [在网页上调起本机C#程序 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18546412)
 
 
 
@@ -99,19 +97,35 @@
 
 
 
+## C. 程序交互
+
+- [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
+- [在网页上调起本机C#程序 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18546412)
+- [C#调用Python脚本的方式（一），以PaddleOCR-GUI为例 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18605737)
+
+
+
+## C. CDN
+
+- [CDN 是怎么工作的？](https://mp.weixin.qq.com/s/AljFWnZZP6P7HDP1B1mSlQ)
+
+
+
 ## D. DotNet学习
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
 - **[C#筑基之解密委托与事件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=2&sn=4a44d7d209a84030ae68d83521d2741e&chksm=9641c13569cd48d5c6e4299307865ff5ac6f0f42d69a6849ff62f4535bc7a48b148c7f9e8dc1&scene=126&sessionid=1723383964#rd)**
 - [.NET Core 特性(Attribute)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18551715)
 - [什么是.NET的强类型字符串(Strongly typed string)？ - czwy - 博客园](https://www.cnblogs.com/czwy/p/18576931)
-- [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
 - [dotnet scaffold – .NET 的下一代内容创建](https://mp.weixin.qq.com/s/fXVEINNyCio7rAsTTy3OdA)
 - **关键字**
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
   - **yield**
     - [yield 语句 - 在迭代器中提供下一个元素 - C# reference | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/statements/yield)
     - [C#使用yield关键字提升迭代性能与效率](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509674&idx=1&sn=a8937987adadf6542a1397ac0839dfc2&chksm=96921ecd6c8e491b48bc41d5650fa34aee43d05535e81d8a77a1b59b71ddb4d709e568c3fbce&scene=126&sessionid=1737511894#rd)
+  - **as/is**
+    - [C# as 和 is 运算符区别和用法](https://mp.weixin.qq.com/s/s880U7ea-N2Xl_3krgyjxA)
+    - [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
 
 
 
@@ -334,6 +348,15 @@
 ## K. 跨平台
 
 - [基于XAML框架和跨平台项目架构设计的深入技术分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507161&idx=2&sn=7c9f9999d90464daeb54a5b278cc7bb4&chksm=966085546f6c6421766cbe5ce0d8b45840e1a66cafdbe11553ee10f88b3110400f292d6a0944&scene=126&sessionid=1731206998#rd)
+- **Avalonia**
+  - [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
+
+
+
+## K. 开发者社区
+
+- [推荐一些程序员常逛的开发者社区](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509965&idx=1&sn=8189e0b4581d8688ac75742ec6ea8c31&chksm=9652f402587252860fb0aabb8ffdef0b247935928505796eb5d22a3b072e50b1414d2407bc85&scene=126&sessionid=1738974305#rd)
+
 
 
 
@@ -367,6 +390,9 @@
 ## N. NuGet
 
 - [Dramatically faster package restores with .NET 9's new NuGet resolver - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/)
+- [GitHub - NMSAzulX/Jester.Tools.Nuget: NUGET 发布工具](https://github.com/NMSAzulX/Jester.Tools.Nuget)
+  - [基于 .NET 的 Nuget 发版工具 - AzulX - 博客园](https://www.cnblogs.com/NMSLanX/p/18596061)
+
 
 
 
@@ -411,6 +437,7 @@
 ### B/S
 
 - [10s 搭建一个前端新项目，就这么简单！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=2&sn=b73a20aa72a813139b86b287cce83462&chksm=9617240011f23aa02d361a27bbdb325ba71d75643e61d1ffb6fc19bc3d7d62b450a02b87472d&scene=126&sessionid=1733445770#rd)
+- [10s 搭建一个前端新项目，就这么简单！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509904&idx=2&sn=689ff7d808cabb792739701b95c2d52f&chksm=96263fbd0eb4bef55594518c5da54872f90f07525d69fae4b4d265bac1a36c7c1e7b29e81ca2&scene=126&sessionid=1738804025#rd)
 
 
 
@@ -424,6 +451,12 @@
 
 - [C#使用Kubernetes (k8s) - Flamesky - 博客园](https://www.cnblogs.com/flamesky/p/18472463)
 - [虚拟化和容器化有哪些区别？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=4&sn=3d867ee1bcfee36707f6898263b63171&chksm=96902cea3dadffd63cb3a29356dc79127de808028a9a9816394479faf53f1dde5eefb0b574e5&scene=126&sessionid=1729645767#rd)
+
+
+
+## R. 日志
+
+- [.NET 中 Logger 常被忽视的方法 BeginScope - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18682492)
 
 
 
@@ -482,8 +515,6 @@
 ## T. 调试
 
 - [Windows 调试工具课程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=2&sn=623112d14fa55535d033780f825df4a2&chksm=96b041599f818e794d1ac575c137593e0c4826bfbd0f63f69dfce511d56d3f592f5f69de897a&scene=126&sessionid=1727052024#rd)
-- [.NET开发必备技巧：使用Visual Studio分析.NET Dump，快速查找程序内存泄漏问题！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=1&sn=aa0780c9fd33e8d32601db2781cd4225&chksm=965ce7cf5f928550647ab8488e6f3dc088fea8d36ce935ed08d410bb49e0b6c77b86b2729275&scene=126&sessionid=1724978463#rd)
-- [使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=1&sn=4e1ea321ea7bb0625df3b4096bdfa5f0&chksm=96d1669d120b169df8689bd1148063e2769206a4b539cd97b054002d2b2b27d04647013368fc&scene=126&sessionid=1732151313#rd)
 - [如何用 PerfView 洞察 C# 中的慢速方法 (qq.com)](https://mp.weixin.qq.com/s/JiMclqMOT6IrVRwKqkMyVQ)
 - [PerfView 洞察那些 C# 代码中的短命线程 (qq.com)](https://mp.weixin.qq.com/s/iN4dnc2rGzbBtrJEwYNVSw)
 - [AOT漫谈(第一篇): 如何调试C# AOT程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=3&sn=7b4fef01fe328fbda5104608c84a8888&chksm=962b99541e9050d124f4d6853c6814db36ab567ee0a926fc3d94968670b89e38e6afa96a3a8c&scene=126&sessionid=1728867433#rd)
@@ -492,6 +523,12 @@
   - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
   - [聊一聊坑人的 C# MySql.Data SDK](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508735&idx=2&sn=e6ee65ae3cfd5047e13de82921893864&chksm=96ca138cf796af2d74368f9c76b2d4f1643f32bce38be8869604dfe9dc3167a16778c88ae1ee&scene=126&sessionid=1734914402#rd)
   - [聊一聊 C#前台线程 如何阻塞程序退出 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18622015)
+  - **内存暴涨问题分析**
+    - [使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=1&sn=4e1ea321ea7bb0625df3b4096bdfa5f0&chksm=96d1669d120b169df8689bd1148063e2769206a4b539cd97b054002d2b2b27d04647013368fc&scene=126&sessionid=1732151313#rd)
+    - [.NET开发必备技巧：使用Visual Studio分析.NET Dump，快速查找程序内存泄漏问题！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=1&sn=aa0780c9fd33e8d32601db2781cd4225&chksm=965ce7cf5f928550647ab8488e6f3dc088fea8d36ce935ed08d410bb49e0b6c77b86b2729275&scene=126&sessionid=1724978463#rd)
+    - [记一次 .NET某数字化协同管理系统 内存暴涨分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18681199)
+  - **程序卡死问题分析**
+    - [一个超经典WinForm,WPF卡死问题的终极反思](https://mp.weixin.qq.com/s/OFhf0rtbo9XdbcesD67j_Q)
 
 
 
@@ -518,7 +555,17 @@
 
 ## T. 通信
 
-- [C#轻松实现Modbus通信 - 付工上位机 - 博客园 (cnblogs.com)](https://www.cnblogs.com/xiketangedu/p/18461727)
+- **ModBus**
+  - [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18411953)
+  - [C#轻松实现Modbus通信 - 付工上位机 - 博客园 (cnblogs.com)](https://www.cnblogs.com/xiketangedu/p/18461727)
+  - [ModbusRTU通信协议报文剖析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18430033)
+
+
+
+
+## T. 图像识别
+
+- [C#使用PaddleOCR进行图片文字识别](https://mp.weixin.qq.com/s/ULf3ZY6x8KgaOFkd2oBYKA)
 
 
 
@@ -538,6 +585,7 @@
 ## W. WebAPI
 
 - [细聊ASP.NET Core WebAPI格式化程序 (qq.com)](https://mp.weixin.qq.com/s/_fGnrUd-fNGdU6CUbj4uVQ)
+- [C# WebAPI 插件热插拔 - 黄金程序员 - 博客园](https://www.cnblogs.com/BFMC/p/18687474)
 
 
 
@@ -550,6 +598,12 @@
 ## W. 微服务
 
 - [微服务如何相互协作？ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=5&sn=2312e0b9a6916a98cf4b71a0eeac387c&chksm=96ca23870c132d9e5794ad9be2511294617a56836d219231b51161142953c2ba60787f30c3eb&scene=126&sessionid=1729127563#rd)
+
+
+
+## W. 委托
+
+- [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18594690)
 
 
 

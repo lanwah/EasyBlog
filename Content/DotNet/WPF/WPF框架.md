@@ -39,6 +39,7 @@
 1. [WPF 实现饼状统计图【WPFDevelopers】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=2&sn=5982a6199b9abbedcc26002e3a6749e1&chksm=96c507559109e62a789e4f5774f68e5ac6b1a8940f33213951deb84c5c2b5147f9101a008501&scene=126&sessionid=1728350900#rd)
 1. [一款流行且丰富的WPF控件库，提供了100多款控件！【CookPopularUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=2&sn=999dbf9f54f280dd1f554fd5c1187908&chksm=961a78b7776c49904b5ea8abf86d5c1de3563732de689caadb074ec9d2b8cf0ce874593c7561&scene=126&sessionid=1732668893#rd)
 1. [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
+1. [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
 
 
 

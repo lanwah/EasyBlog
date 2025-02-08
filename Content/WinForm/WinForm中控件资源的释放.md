@@ -6,6 +6,8 @@
         <div>一、控件资源释放相关的代码</div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
 </div>
+
+
 [Dispose](https://source.dot.net/#System.ComponentModel.Primitives/System/ComponentModel/Component.cs,ec402748f4bd1220,references)
 
 
@@ -75,6 +77,7 @@ namespace System.ComponentModel
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
 </div>
 
+
 下面罗列了几个让人困惑的点进行逐个的解答。
 
 <div>
@@ -118,6 +121,7 @@ namespace System.ComponentModel
 	<div style="background-color:#2196F3;height:3px;width:100%;"/>
 </div>
 
+
 ```C#
 // 析构函数，用于释放非托管资源
 ~Component() => Dispose(false);
@@ -137,6 +141,7 @@ namespace System.ComponentModel
 	</div>
 	<div style="background-color:#2196F3;height:3px;width:100%;"/>
 </div>
+
 
 [GC.SuppressFinalize(Object) 方法 (System) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.gc.suppressfinalize?view=net-9.0)
 
@@ -197,5 +202,7 @@ public void Dispose()
         <div>三、相关参考</div>
         <div style="width:0px;height:0px;position: absolute;border:5px solid transparent;border-top:5px solid #1a76c0;            border-right:5px solid #1a76c0;left: 0px;bottom: -10px;"></div>
 </div>
+
+
 
 - [改善C#程序的建议4：C#中标准Dispose模式的实现 - 陆敏技 - 博客园](https://www.cnblogs.com/luminji/archive/2011/03/29/1997812.html)

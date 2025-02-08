@@ -39,6 +39,7 @@
 - [Awesome Tools，豆包 MarsCode 强大的AI编程助手](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506400&idx=3&sn=6cfe25d9e8555dad57a9e71e3829726a&chksm=96025d7551ae5eda30a773f8e0febd99b52b761d5b846487bcb2505d5680321176d207aa4f4f&scene=126&sessionid=1729472376#rd)
 - [一款支持C#语言，免费且功能强大的智能AI编程助手，开发效率提升利器！【豆包MarsCode】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=2&sn=5a8679680b38c6e50420919c01bc0d0f&chksm=96d372894dfcd5f8645645adf51e83ef40512cbf2c30f5bc5e1ac4a13945b34423c54084ce44&scene=126&sessionid=1730641491#rd)
 - [好消息，在 Visual Studio 中可以免费使用 GitHub Copilot 了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508650&idx=1&sn=94bf5d51db25746b0e7d34c20c6c66ad&chksm=968d71b48d47932cc6b36649de5e365f8dd15b65dbe14c05b02ee2b20d82203a931321f2587a&scene=126&sessionid=1734694164#rd)
+- [Visual Studio使用GitHub Copilot提高.NET开发工作效率【GitHub Copilot】](https://mp.weixin.qq.com/s/C9Cp_dl2-3bm5aPw3o1TFQ)
 
 
 
@@ -96,16 +97,19 @@
 
 ## B. 编辑器/IDE
 
-| 项目名称                                                | 使用的协议                                                   | 项目介绍/说明                                                |
-| ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Git:[md](https://github.com/doocs/md)**               | [WTFPL license](https://github.com/doocs/md#WTFPL-1-ov-file) | WeChat Markdown Editor - 一款高度简洁的微信 Markdown 编辑器。<br />这款编辑器支持多种特性，包括但不限于 Markdown 语法、色盘取色、<br />多图上传、一键下载文档、自定义 CSS 样式以及一键重置等。<br />它专为在微信等平台上编辑 Markdown 文档而设计，提供了便捷和高效的编辑体验。<br />[在线预览](https://doocs.github.io/md/) |
-| Git:[roslynpad](https://github.com/roslynpad/roslynpad) | [MIT license](https://github.com/roslynpad/roslynpad#MIT-1-ov-file) | Roslyn是一个强大的.NET编译器实现，为C#和Visual Basic开发者提供了<br />丰富的代码分析API。它不仅是一个编译工具，<br />还是一个支持构建高级代码分析工具的平台。 |
-|                                                         |                                                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[md](https://github.com/doocs/md)**                    | [WTFPL license](https://github.com/doocs/md#WTFPL-1-ov-file) | WeChat Markdown Editor - 一款高度简洁的微信 Markdown 编辑器。<br />这款编辑器支持多种特性，包括但不限于 Markdown 语法、色盘取色、<br />多图上传、一键下载文档、自定义 CSS 样式以及一键重置等。<br />它专为在微信等平台上编辑 Markdown 文档而设计，提供了便捷和高效的编辑体验。<br />[在线预览](https://doocs.github.io/md/) |
+| Git:[roslynpad](https://github.com/roslynpad/roslynpad)      | [MIT license](https://github.com/roslynpad/roslynpad#MIT-1-ov-file) | Roslyn是一个强大的.NET编译器实现，为C#和Visual Basic开发者提供了<br />丰富的代码分析API。它不仅是一个编译工具，<br />还是一个支持构建高级代码分析工具的平台。 |
+| **Git:[Notepads](https://github.com/0x7c13/Notepads)**       | [MIT license](https://github.com/0x7c13/Notepads#MIT-1-ov-file) | Notepads是一个.NET开源、免费（MIT License）、现代、轻量级、<br />具有极简主义设计的文本编辑器。 |
+| Git:[DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | [MS-PL license](https://github.com/Code52/DownmarkerWPF#MS-PL-1-ov-file) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。<br />功能丰富，可直接打开并保存到您的博客、GitHub等平台，<br />支持从剪贴板粘贴图片到Markdown、Jekyll网站，支持从文件夹打开，以及更多功能！ |
 
 ### 相关参考
 
 1. [微信公众号作者必备的一款高度简洁的微信 Markdown 编辑器，功能又多又实用！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505925&idx=2&sn=f00796c68f7af0e6fdcdb3a9a3d73453&chksm=962ccc55b52d4642ab7d561fb6dbbe87766f652f5fa1f4b5d61197e246e9b8ea868db1550655&scene=126&sessionid=1727398833#rd)
 1. [一个基于 Roslyn 和 AvalonEdit 的跨平台 C# 编辑器【RoslynPad】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509270&idx=1&sn=bb38ead945d3fc6be30fd8a95e0968dc&chksm=96bbf6100ea54fdeb5bcd2bcc519ee52b0263d54ada6df600235f4ffd2eb4e2edf6aaef5a20a&scene=126&sessionid=1737334659#rd)
+1. **[一个.NET开源、现代、轻量级的文本编辑器 【Notepads】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504581&idx=1&sn=ce08ba10fe91e7cc9743476a6a5db340&chksm=967bb4be41ccd94b58fe8d4296629ad5952c24f405722b7feb4adacacca62283a83d57775e6b&scene=126&sessionid=1725109614#rd)**
+1. [3款 .NET 开源的编辑器，包含代码、文本和Markdown编辑功能！【roslynpad】【Notepads】【DownmarkerWPF】](https://mp.weixin.qq.com/s/UWBWbBeAw88HNIpGzPdsvA)
 
 
 
@@ -152,7 +156,7 @@
 
 ## C. 测试/软件测试
 
-| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [moq](https://github.com/devlooped/moq)                      | BSD-3-Clause                                                 | Moq是一个.NET开源、流行、使用简单的 .NET 模拟库，<br />充分利用了.NET 的 Linq 表达式树和 lambda 表达式。这使得 Moq 成为最具生产力、<br />类型安全且支持重构的模拟库。它不仅支持模拟接口，还支持模拟类。其 API 非常简单直观，<br />不需要任何关于模拟概念的事先知识或经验。从而简化单元测试中的依赖管理和验证过程，<br />提高代码的可测试性和可维护性。 |
 | **Git:[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)** | [MIT license](https://github.com/dotnet/BenchmarkDotNet#MIT-1-ov-file) | BenchmarkDotNet是一个基于.NET开源、功能全面、易于使用的性能基准测试框架，<br />它为.NET开发者提供了强大的性能评估和优化能力。通过自动化测试、多平台支持、<br />高级统计分析和自定义配置等特性，<br />BenchmarkDotNet帮助开发者更好地理解和优化软件系统的性能表现。 |
@@ -167,11 +171,22 @@
 
 
 
+## C. 餐饮管理系统
+
+| 项目名称                                                     | 使用的协议 | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| **Gitee:[科讯餐饮管理系统](https://gitee.com/gdianqimeng/RMS)** | MIT        | 科讯餐饮管理系统是一款基于 .NET 开源、功能齐全的商用餐饮管理系统。<br />系统旨在帮助餐饮企业实现业务流程的自动化和规范化，提高工作效率，<br />降低运营成本，并提供决策支持。 |
+|                                                              |            |                                                              |
+
+- [一款基于 .NET 开源、功能齐全的商用餐饮管理系统【RMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509965&idx=2&sn=2ff13122d6addb914103f79a8d21e274&chksm=96c6bc81f647e937eba7251a3fc982a279dc2cc970ef6d5cbf706bfe31119565fdaaba4a4879&scene=126&sessionid=1738974305#rd)
+
+
+
 ## D. 代码混淆工具类
 
 
 
-| 项目名称                                                   | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
+| 项目名称                                                   | 使用的协议                                                   | 最新版本                     | 功能说明/介绍                                                |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | [**JIEJIE.NET**](https://github.com/dcsoft-yyf/JIEJIE.NET) | [GPL-2.0 license](https://github.com/dcsoft-yyf/JIEJIE.NET#GPL-2.0-1-ov-file) | 最后更新日期：2024年02月01日 | [**一个开源的.NET程序集混淆工具 - JIEJIE.NET**](https://mp.weixin.qq.com/s/sf-m4qyhkdflaYFEG76SAA) |
 |                                                            |                                                              |                              |                                                              |
@@ -187,22 +202,22 @@
 
 ## D. 第三方登录
 
-| 项目名称                                                     | 使用的协议 | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------------ | ---------- | ---------------------------- | -------- |
-| **Gitee:[CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)** | AGPL-3.0   | 最后更新日期：2023年10月10日 |          |
-|                                                              |            |                              |          |
-|                                                              |            |                              |          |
+| 项目名称                                                     | 使用的协议 | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
+| **Gitee:[CollectiveOAuth](https://gitee.com/rthinking/CollectiveOAuth)** | AGPL-3.0   |                                                              |
+| **Gitee:[Netnr.Login](https://gitee.com/netnr/Netnr.Login)** | MIT        | Netnr.Login是一个基于 C# 开源（MIT License）的第三方 OAuth2 授权登录整合库，<br />集成了QQ、微信开放平台（Weixin）、微信公众平台（WeixinMP）、<br />微博（Weibo）、淘宝（Taobao）、支付宝（Alipay）、钉钉（DingTalk）、<br />飞书（Feishu）、华为（Huawei）、小米（Xiaomi）、AtomGit、<br />码云（Gitee）、GitHub、GitLab、微软（Microsoft ）、<br />StackOverflow等授权登录功能，<br />可以帮助大家快速完成常见的第三方平台的登录授权功能。 |
+|                                                              |            |                                                              |
 
 ### 相关参考
 
-1. **[.NET平台史上最全的第三方登录开源整合库（包含钉钉、百度、支付宝、微信、企业微信等各大平台【CollectiveOAuth】）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502956&idx=2&sn=e709af54b7d976f1daa751cd0544eba0&chksm=96463d9074778865002fd77cbea379b413c05dcc284fb0b8660ff01c2e398a467476a0093080&scene=126&sessionid=1720695115#rd)**
-1. 
+- **[.NET平台史上最全的第三方登录开源整合库（包含钉钉、百度、支付宝、微信、企业微信等各大平台【CollectiveOAuth】）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502956&idx=2&sn=e709af54b7d976f1daa751cd0544eba0&chksm=96463d9074778865002fd77cbea379b413c05dcc284fb0b8660ff01c2e398a467476a0093080&scene=126&sessionid=1720695115#rd)**
+- [一个基于 C# 开源的第三方 OAuth2 授权登录整合库【OAuth2】【Netnr.Login】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509904&idx=1&sn=2cb7332b0a00e005f988e94b82f9875d&chksm=961e0aa093c492bf41427c04cf5c18983fa0f6b3fe37cc7dc2a763042687b4b71e06ee29bdb1&scene=126&sessionid=1738804025#rd)
 
 
 
 ## D. 定时任务
 
-| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[FreeScheduler](https://github.com/2881099/FreeScheduler)** | [MIT](https://github.com/2881099/FreeScheduler/blob/master/LICENSE) |                                                              |
 | **Git:[Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI)** |                                                              | 项目 Quartz.NetUI 是一个基于 Quartz.NET <br />的任务调度系统，它使用 .NET Core 3.1 开发，<br />提供了一套可视化的界面来管理和操作任务调度。 |
@@ -218,11 +233,11 @@
 
 ## D. 电子白板/大屏
 
-| 项目名称                                                     | 使用的协议 | 帮助文档 |
-| ------------------------------------------------------------ | ---------- | -------- |
-| **Gitee:[大屏数据展示模板](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi)** | MIT        |          |
-| **Gitee:[BigDataView](https://gitee.com/iGaoWei/big-data-view)** |            |          |
-|                                                              |            |          |
+| 项目名称                                                     | 使用的协议 | 功能说明/介绍 |
+| ------------------------------------------------------------ | ---------- | ------------- |
+| **Gitee:[大屏数据展示模板](https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi)** | MIT        |               |
+| **Gitee:[BigDataView](https://gitee.com/iGaoWei/big-data-view)** |            |               |
+|                                                              |            |               |
 
 ### 相关参考
 
@@ -233,11 +248,11 @@
 
 ## D. 电子邮件
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Git:[MailKit](https://github.com/jstedfast/MailKit)**      | [MIT license](https://github.com/jstedfast/MailKit#MIT-1-ov-file) | 最后更新日期：2024年08月03日 | MailKit是一个跨平台、开源（MIT License）、<br />免费的.NET邮件处理库，提供强大的 API，<br />用于发送、接收和处理电子邮件，并且它还提供了对SMTP、<br />POP3和IMAP协议的全面支持。 |
-| **Git:[FluentEmail](https://github.com/lukencode/FluentEmail)** | [MIT license](https://github.com/lukencode/FluentEmail#MIT-1-ov-file) | 最后更新日期：2022年03月03日 | FluentEmail 是一个用于 .NET 和 .NET Core 的<br />电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。<br />该项目支持使用 Razor 模板来创建电子邮件内容，<br />并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 |
-| Git:                                                         |                                                              | 最后更新日期                 |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[MailKit](https://github.com/jstedfast/MailKit)**      | [MIT license](https://github.com/jstedfast/MailKit#MIT-1-ov-file) | MailKit是一个跨平台、开源（MIT License）、<br />免费的.NET邮件处理库，提供强大的 API，<br />用于发送、接收和处理电子邮件，并且它还提供了对SMTP、<br />POP3和IMAP协议的全面支持。 |
+| **Git:[FluentEmail](https://github.com/lukencode/FluentEmail)** | [MIT license](https://github.com/lukencode/FluentEmail#MIT-1-ov-file) | FluentEmail 是一个用于 .NET 和 .NET Core 的<br />电子邮件发送库，它提供了简单易用的 API 来发送电子邮件。<br />该项目支持使用 Razor 模板来创建电子邮件内容，<br />并可以通过 SendGrid、MailGun、SMTP 等多种方式进行发送。 |
+| Git:                                                         |                                                              |                                                              |
 
 ### 相关参考
 
@@ -247,7 +262,7 @@
 
 ## D. 代理/反向代理
 
-| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[Yarp](https://github.com/bingbing-gui/AspNetCore-Skill/tree/master/src/Yarp)** |                                                              | Yarp使用示例                                                 |
 | **Git:[nginx-ui](https://github.com/0xJacky/nginx-ui)**      | [AGPL-3.0 license](https://github.com/0xJacky/nginx-ui#AGPL-3.0-1-ov-file) | Nginx UI一个功能丰富、易于使用的 Nginx Web UI 工具，<br />它极大地简化了 Nginx 服务器的管理和配置过程。<br />[在线文档](https://nginxui.com/zh_CN/guide/about.html)<br />[在线演示](https://demo.nginxui.com/#/login)，（用户名：admin，密码：admin） |
@@ -263,11 +278,11 @@
 
 ## D. 代码生成器
 
-| 项目名称                                                     | 使用的协议                                                   | 帮助文档 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| **Git:[Dorisoy.Rigger](https://github.com/dorisoy/Dorisoy.Rigger)** | [MIT license](https://github.com/dorisoy/Dorisoy.Rigger#MIT-1-ov-file) |          |
-|                                                              |                                                              |          |
-|                                                              |                                                              |          |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+| **Git:[Dorisoy.Rigger](https://github.com/dorisoy/Dorisoy.Rigger)** | [MIT license](https://github.com/dorisoy/Dorisoy.Rigger#MIT-1-ov-file) |               |
+|                                                              |                                                              |               |
+|                                                              |                                                              |               |
 
 ### 相关参考
 
@@ -277,7 +292,7 @@
 
 ## D. 打包工具
 
-| 项目名称                               | 使用的协议                                                  | 帮助文档                                                     |
+| 项目名称                               | 使用的协议                                                  | 功能说明/介绍                                                |
 | -------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | [tsup](https://github.com/egoist/tsup) | [MIT license](https://github.com/egoist/tsup#MIT-1-ov-file) | tsup 是一个简单高效的 TypeScript 库打包工具，它基于 esbuild 构建，<br />提供了零配置的使用体验。该工具旨在简化 TypeScript 库的打包流程，提高开发效率，<br />适用于任何被 Node.js 原生支持的文件类型，包括 JavaScript、JSON、TypeScript 等。<br /> |
 |                                        |                                                             |                                                              |
@@ -291,7 +306,7 @@
 
 ## E. ERP
 
-| 项目名称                                                | 使用的协议 | 帮助文档                                                     |
+| 项目名称                                                | 使用的协议 | 功能说明/介绍                                                |
 | ------------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | **[Apollo-ERP](https://gitee.com/aerphouse/ApolloERP)** | MIT        | Apollo ERP是一款基于O2O新零售的互联网养车连锁平台开发框架，<br />类似于途虎养车、车享家等平台，适合各类汽修、保养、美容、<br />洗车等汽车后市场连锁企业。 |
 |                                                         |            |                                                              |
@@ -302,7 +317,7 @@
 
 ## G. 工作流
 
-| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Gitee:[CCFlow](https://gitee.com/opencc/ccflow)**          | GPL-3.0                                                      | ccflow包含表单引擎+流程引擎+权限控制，<br />方便集成，配置灵活，功能强大，<br />适合中国国情的工作流引擎, <br />点starred记住序号,加群：728422467,国外有activiti,国内有ccflow. |
 | **Gitee:[AIStudio.Wpf.AClient](https://gitee.com/akwkevin/aistudio.-wpf.-aclient)** | LGPL-3.0                                                     | AIStudio.Wpf.AClient 是一个基于 WPF (Windows Presentation Foundation) <br />构建的客户端框架，专为开发企业级应用而设计。该项目目前版本为 6.0，<br />进行了全面优化和升级，提供了丰富的功能和模块，以满足不同场景下的开发需求。 |
@@ -570,7 +585,7 @@
 1. **[使用Terminal.Gui构建功能强大的.NET控制台应用【Terminal.Gui】](https://www.cnblogs.com/Can-daydayup/p/18282774)**
 2. **[一个库帮你轻松的创建漂亮的.NET控制台应用程序【Spectre.Console】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247499630&idx=1&sn=f23d18081290b96b4ae15a6910241625&scene=21#wechat_redirect)**
 1. **[增强用户体验：2个功能强大的.NET控制台应用帮助库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=1&sn=509f94d808c80b286b87d101a04279d5&chksm=96d6a4b284952ab582d15ba681a2557452500bad2c05d983f57b58034748e06caf4f682859bd&scene=126&sessionid=1722904874#rd)**
-1. [提升.NET控制台应用体验的工具包 (lanwah.github.io)](https://lanwah.github.io/EasyBlog/blogs/类库使用/提升.NET控制台应用体验的工具包.html)
+1. [提升.NET控制台应用体验的工具包 (lanwah.github.io)【Colorful.Console】【ConsoleTables】【ShellProgressBar】【GUI.CS】](https://lanwah.github.io/EasyBlog/blogs/类库使用/提升.NET控制台应用体验的工具包.html)
 
 
 
@@ -647,6 +662,7 @@
 1. [开源GTKSystem.Windows.Forms框架让C# Winform支持跨平台运行【GTKSystem.Windows.Forms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508805&idx=1&sn=182f305945693da08ac0cf8a918a02f0&chksm=96292749d0c469f29013c296e2284f1fda1aa5767876d1b44863e451685cc14041768305b9b2&scene=126&sessionid=1735260973#rd)
 1. [2025年全面的.NET跨平台应用框架推荐【Avalonia】【MAUI】【Uno Platform】【Eto.Forms】【GTKSystem.Windows.Forms】【Xamarin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=1&sn=ec41f62901024d979fdd18440d9bcdef&chksm=96b1786aae72235ccdf938c5f751a363f601fa6bc9d167dd374f743c2583dbc371ae7e7a0bda&scene=126&sessionid=1736503976#rd)
 1. [Avalonia UI 中的 Markdown 渲染【Markdown.AIRender】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=2&sn=0a215fa803d3b00fa43826faffc213d1&chksm=96e1783ddabf3147bfbe6db924fb8c61cd01a2482c6d02b33708bda60f3652947b0e1af5bea0&scene=126&sessionid=1737334659#rd)
+1. [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
 
 
 
@@ -996,6 +1012,7 @@
 | **Git:[Captura](https://github.com/MathewSachin/Captura)**   | [MIT license](https://github.com/MathewSachin/Captura#MIT-1-ov-file) | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，<br />允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动<br />（尽管该项目已被归档，但仍然可以下载和使用它） |
 | Git:[ShareX](https://github.com/ShareX/ShareX)               | [GPL-3.0 license](https://github.com/ShareX/ShareX#GPL-3.0-1-ov-file) | ShareX是一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、<br />录屏、Gif动图制作神器。 |
 | [Dots](https://github.com/nor0x/Dots)                        |                                                              | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。<br />它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。<br />它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 |
+| Git:[Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | [Apache-2.0 license](https://github.com/Klocman/Bulk-Crap-Uninstaller#Apache-2.0-1-ov-file) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、<br />功能强大的Windows应用卸载工具，<br />旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。<br />支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。<br />虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 |
 
 #### 相关参考
 
@@ -1012,6 +1029,7 @@
 1. [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
 1. [3款.NET开源、功能强大的屏幕录制工具【ScreenToGif】【Captura】【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=1&sn=6df82c91eb760da293bb5ea4f3cbdc16&chksm=9605beab97859b5bcb97b66c09be0b8f517a0bfc9a47463c3caba99fee43bb265e05eeda1aea&scene=126&sessionid=1735740851#rd)
 1. [一款开源免费、功能齐全的 macOS 离线开发者工具箱，已集成超过 100 多种实用功能！【DevHub】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509132&idx=2&sn=2269cf116896ebe8525eeffeddf2f3d8&chksm=9604039e6635272bd4bc325b071489477980a0d66ec55e2c0ca8bc282878357d9a8172e45e68&scene=126&sessionid=1736679948#rd)
+1. [一个 .NET 开源、免费、功能强大的Windows应用卸载神器【Bulk Crap Uninstaller】](https://mp.weixin.qq.com/s/jZCDMcjnpj-_N52jxHgxKw)
 
 
 
@@ -1040,7 +1058,8 @@
 
 ### 相关参考
 
-1. [一个功能强大且易于使用的.NET面部识别库，开源免费！【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=3&sn=cff8ab7335f5f3fae04b00bf114af51a&chksm=961b789144ffe6c81768246a46bea774bbdc15cb1024082b72856a81a8a759bead091a182db7&scene=126&sessionid=1727052024#rd)
+- [一个功能强大且易于使用的.NET面部识别库，开源免费！【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=3&sn=cff8ab7335f5f3fae04b00bf114af51a&chksm=961b789144ffe6c81768246a46bea774bbdc15cb1024082b72856a81a8a759bead091a182db7&scene=126&sessionid=1727052024#rd)
+- [C# OpenCvSharp 部署3D人脸重建3DDFA-V3【OpenCvSharp】](https://mp.weixin.qq.com/s/h8dKMN2sCAy-BwO7wK2BvA)
 
 
 
@@ -1173,14 +1192,15 @@
 
 ## S. 商城系统
 
-| 项目名称                                                 | 使用的协议                                                   | 项目介绍/说明                                          |
-| -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
-| [module-shop](https://github.com/trueai-org/module-shop) | [MIT license](https://github.com/trueai-org/module-shop#MIT-1-ov-file) | 一个基于 .NET 8.0 构建的简单、跨平台、模块化的商城系统 |
-|                                                          |                                                              |                                                        |
+| 项目名称                                                 | 使用的协议                                                   | 项目介绍/说明                                                |
+| -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [module-shop](https://github.com/trueai-org/module-shop) | [MIT license](https://github.com/trueai-org/module-shop#MIT-1-ov-file) | 一个基于 .NET 8.0 构建的简单、跨平台、模块化的商城系统       |
+| Git:[eShop](https://github.com/dotnet/eShop)             | [MIT license](https://github.com/dotnet/eShop#MIT-1-ov-file) | eShop基于.NET 9构建，并集成了.NET Aspire、Blazor、Azure OpenAI等先进技术，<br />数据库采用 PostgreSQL，缓存采用 Redis，客户端支持网页版本、iOS 版本和安卓版本，<br />为开发者提供了一个学习和实践的平台。此外，项目还提供了详细的运行和部署指南，<br />以及示例产品数据和AI集成，帮助开发者更好地理解和应用这些技术。 |
 
 ### 相关参考
 
 - [一个基于 .NET 8.0 构建的简单、跨平台、模块化商城系统【Module Shop】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507619&idx=1&sn=0cc8eb5cdc4c2a63087f3ffb7eb648cb&chksm=9634d4a7c018cb8d357e264110548ca2464894a21ff4d7f41a61395f91dcd336528ef2e18a12&scene=126&sessionid=1731977097#rd)
+- [一款由 .NET 官方团队开源的电子商务系统 【eShop】](https://mp.weixin.qq.com/s/ufxiFkdNbW6UaufvlHE2FQ)
 
 
 
@@ -1216,6 +1236,7 @@
 | **Git:[Wu.CommTool](https://github.com/Monika1313/Wu.CommTool)** | [ Apache-2.0 license](https://github.com/Monika1313/Wu.CommTool#Apache-2.0-1-ov-file) | [基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具，支持Modbus Rtu调试、Mqtt调试](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502754&idx=2&sn=bc38c2ca90e009c6f54f3827527f3fcc&chksm=96a4d3aae3df4a76a229a8acaf9bb2a69ed948edbfbd3b1b28d352aaf2a4b250331a6a9874b7&scene=126&sessionid=1720525422#rd) |
 | **Git:[localsend](https://github.com/localsend/localsend)**  | [Apache-2.0 license](https://github.com/localsend/localsend#Apache-2.0-1-ov-file) | LocalSend是一款功能强大、易于使用的局域网文件传输工具。<br />它以其独特的设计理念和技术优势，在众多同类产品中脱颖而出，<br />成为现代人生活中不可或缺的一部分。无论是个人用户还是企业客户，<br />都可以通过LocalSend实现高效、便捷和安全的文件传输。<br />[下载地址](https://localsend.org/zh-CN/download?os=windows) |
 | **Git:[PLC-CommunTools](https://github.com/SmallRob/PLC-CommunTools)** |                                                              | PLC-CommunTools是一款基于.NET WinForm开发的一款硬件及协议通讯工具，<br />包含各类厂商的PLC协议及基础的TCP、串口通讯、IO口通讯等协议通讯功能的实现整合，<br />注意还有一部分功能作者还在努力完善中。 |
+| **Gitee:[BYSerial](https://gitee.com/LvYiWuHen/byserial)**   | MIT                                                          | BYSerial是一款基于 WPF 开源（MIT License）、免费、功能全面的串口调试工具，<br />支持中英文双语切换，具有通用串口调试工具的一般功能，如串口通讯调试、<br />TCP通讯调试、支持串口接收数据曲线显示等。 |
 | **Git:[llcom](https://github.com/chenxuuu/llcom)**           | [Apache-2.0 license](https://github.com/chenxuuu/llcom#Apache-2.0-1-ov-file) | LLCOM是一个.NET开源、功能强大、高自由度的串口调试工具，<br />它允许用户运行Lua脚本来提前处理待发送的数据，<br />同时还集成了多种通信协议（如TCP、UDP、SSL、MQTT）的测试服务端/客户端功能，<br />以及串口监听、编码互转、乱码恢复等特色功能。 |
 | 升讯威在线客服与营销系统                                     |                                                              | [升讯威在线客服与营销系统 - 曹旭升（sheng.c）](https://kf.shengxunwei.com/) |
 
@@ -1227,9 +1248,9 @@
 - [基于.NET WinForm开发的一款硬件及协议通讯工具【PLC-CommunTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508560&idx=1&sn=56dc8f3eadc40a85b80aee1afe217e60&chksm=9649424189e689182efc01421346d7c12919867735fe78d264e08c972509bffb4928588b3245&scene=126&sessionid=1734484256#rd)
 - [LLCOM：一个.NET开源且功能强大的串口调试工具 【LLCOM】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505971&idx=2&sn=28f7a8c66244a9d45aa752c418442636&chksm=96e84468cd3cb0115ba18d0ad1779954f0aeb5fbe45ccfb3bc1bc1c9cac8eb6f408cbbd4b90a&scene=126&sessionid=1728380448#rd)
 - [3款.NET开源、功能强大的通讯调试工具，效率提升利器！【LLCOM】【Wu.CommTool】【PLC-CommunTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508766&idx=1&sn=68bbf42905c592105f07ab657fafe518&chksm=9628bba8f2fe10af609d760e0ebfbbb1adc687780a5d624d4ef16731c33355cce1c92bb25ea2&scene=126&sessionid=1735001978#rd)
+- [一款基于 WPF 开源、功能全面的串口调试工具【BYSerial】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509905&idx=1&sn=31dd11ca76b549ca5e191da34903b252&chksm=9683009c0093042f8044d896994d7b554e222f868ac64b58b7228c5e2a6f8c1cc4716dbbae9d&scene=126&sessionid=1738888564#rd)
 - [在线客服系统 QPS 突破 240/秒，连接数突破 4000，日请求数接近1000万次，.NET 多线程技术的高性能实践 - 升讯威在线客服系统 - 博客园](https://www.cnblogs.com/sheng_chao/p/18676420)
   - [预知访客输入内容 - 升讯威在线客服与营销系统 - 曹旭升（sheng.c）](https://kf.shengxunwei.com/Introduction/ca3c5e86-70a3-42e3-7250-08dcd971bdfa)
-
 
 
 
@@ -1366,20 +1387,6 @@
 
 
 
-## W. 文本编辑器
-
-| 项目名称                                               | 使用的协议                                                   | 最新版本                     | 帮助文档 |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | -------- |
-| **Git:[Notepads](https://github.com/0x7c13/Notepads)** | [MIT license](https://github.com/0x7c13/Notepads#MIT-1-ov-file) | 最后更新日期：2024年07月20日 |          |
-|                                                        |                                                              |                              |          |
-|                                                        |                                                              |                              |          |
-
-### 相关参考
-
-1. **[一个.NET开源、现代、轻量级的文本编辑器 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504581&idx=1&sn=ce08ba10fe91e7cc9743476a6a5db340&chksm=967bb4be41ccd94b58fe8d4296629ad5952c24f405722b7feb4adacacca62283a83d57775e6b&scene=126&sessionid=1725109614#rd)**
-
-
-
 ## W. 网络通信
 
 | 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
@@ -1495,25 +1502,27 @@
 | 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[HospitalManagementSystem-WPF](https://github.com/zjxi/HospitalManagementSystem-WPF)** | [Apache-2.0 license](https://github.com/zjxi/HospitalManagementSystem-WPF#Apache-2.0-1-ov-file) | 医疗信息管理系统，基于WPF (XAML前端+C#后台)，<br />内附SQL Server 2012数据库，界面友好，功能实用。 |
-|                                                              |                                                              |                                                              |
+| **Gitee:[DicomSCP](https://gitee.com/fightroad/DicomSCP)**   | MIT                                                          | DicomSCP是一款开源（MIT License开源协议）、免费、完善、<br />轻量级的医疗影像PACS系统，<br />基于.NET Core 的 DICOM SCP（Service Class Provider）服务器，<br />提供 DICOM 存储、工作列表、查询检索服务，打印服务，<br />WADO/DicomWeb服务，集成了功能强大的DICOM 桌面和Web查看器。 |
 |                                                              |                                                              |                                                              |
 
 ### 相关参考
 
 1. [一个基于 WPF 开发的医院管理系统 【HospitalManagementSystem-WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=3&sn=f19512ed89460c9303c1770aaa167137&chksm=9649381d0a1e3a2d5bbf6a9db55c5216a196a55f06e47e602f4fc8061e96b266b85f43289b9c&scene=126&sessionid=1726793679#rd)
+1. [一款 .NET 开源、完善、轻量级的医疗影像PACS系统【DicomSCP】](https://mp.weixin.qq.com/s/G8XvIOLJjL-_jecfMQh6VA)
 
 
 
 ## Y. 语言/翻译
 
-| 项目名称                                           | 使用的协议                                                   | 项目功能/介绍                                                |
-| -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Translumo](https://github.com/Danily07/Translumo) | [Apache-2.0 license](https://github.com/Danily07/Translumo#Apache-2.0-1-ov-file) | Translumo是一个.NET开源的高级屏幕翻译工具，能够实时检测和翻译选定区域内的文本<br />（如字幕）。Translumo 允许同时组合使用多个 OCR 引擎。<br />它使用机器学习训练模型通过 OCR 对每个识别的结果进行评分，并选择最佳结果。 |
-|                                                    |                                                              |                                                              |
+| 项目名称                                               | 使用的协议                                                   | 项目功能/介绍                                                |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Translumo](https://github.com/Danily07/Translumo)     | [Apache-2.0 license](https://github.com/Danily07/Translumo#Apache-2.0-1-ov-file) | Translumo是一个.NET开源的高级屏幕翻译工具，能够实时检测和翻译选定区域内的文本<br />（如字幕）。Translumo 允许同时组合使用多个 OCR 引擎。<br />它使用机器学习训练模型通过 OCR 对每个识别的结果进行评分，并选择最佳结果。 |
+| Git:[Translumo](https://github.com/Danily07/Translumo) | [Apache-2.0 license](https://github.com/Danily07/Translumo#Apache-2.0-1-ov-file) | STranslate是一款由WPF开源的、免费的（MIT License）、即开即用、<br />即用即走的翻译、OCR工具。 |
 
 ### 相关参考
 
 - [一款.NET开源的屏幕实时翻译工具【Translumo】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=1&sn=8cda3e07c48c2ad04834fdac34ae286b&chksm=9699e9265d6424165aecd51ee0aa56b56834dd9d4218f402a3a2d1524f9e1a87de99185850e8&scene=126&sessionid=1730941884#rd)
+- [分享2款 .NET 开源且强大的翻译工具【STranslate】【Translumo】](https://mp.weixin.qq.com/s/DWAGJGvE5QlZCnlAglKV-g)
 
 
 
