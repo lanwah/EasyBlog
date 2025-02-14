@@ -44,7 +44,7 @@
 
 
 
-## A. AI
+## A. AI/AIGC
 
 - [Introducing Microsoft.Extensions.AI Preview - Unified AI Building Blocks for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
 - [适用于 .NET 稳定的官方OpenAI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=1&sn=7016d47686d100aab997bfb11a62563c&chksm=9623badd164d3ad0665805fdcb55009d09871c6cac03bfb010d6aaa53ae6a5f4e57cf3571203&scene=126&sessionid=1729426307#rd)
@@ -52,10 +52,17 @@
 - [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
 - [使用Microsoft.Extensions.AI简化.NET中的AI集成](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=1&sn=d4d7a11a9a310f195beb445a18c7637c&chksm=96c25d9e38701da2295f38de7ab28db742d09c1591a365d5438bee3cad6d998419fe961bbd3e&scene=126&sessionid=1731890970#rd)
 - [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
+- [【译】轻松评估 AI 应用程序的质量](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654101082&idx=1&sn=35d033a9105e6620c3d3ce6a0d9edd36&scene=21#wechat_redirect)
+- [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索，好用不卡机！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510356&idx=2&sn=ac1c8629a560967670627c75693568b7&chksm=96e98f5ab4ca6a83130d4db5fbbfed117fb661defed7353669c46d584abb4df585839b538517&scene=126&sessionid=1739495349#rd)
 - **小型语言模型 (SLM)**
   - [2024 年 5 种领先的小语言模型：Phi 3、Llama 3 等-CSDN博客](https://blog.csdn.net/weixin_47567401/article/details/139176010)
   - [Phi小模型开发教程：用C#开发本地部署AI聊天工具，只需CPU，不需要GPU，3G内存就可以运行，不输GPT-3.5 - chingho - 博客园](https://www.cnblogs.com/chingho/p/18681020)
-  - 
+- **DeepSeek**
+  - [清华大学推出的 DeepSeek 从入门到精通（104页）免费教程！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510076&idx=2&sn=aeebf5e150abb989e1c273d5bf5e0f82&chksm=9635785c46b25950b2025bd97092ad8f194f6090edbe2fabc157a2d5b154e80f5c2a982f625a&scene=126&sessionid=1739149606#rd)
+  - [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510105&idx=1&sn=eb1cbbe9a4e0446a26d35111da93f6b8&chksm=96922070776c46623a722150f29f718b73e0dc2843c6e2ce7436b1c57fe9047183cb41b120b9&scene=126&sessionid=1739234801#rd)
+  - [20个很强的DeepSeek提问公式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510143&idx=3&sn=28531e11714e91ea60be4971c327bdbf&chksm=9683470283891d5f6ea6b4034850da1aec6ecd9cf2ad5c8c62ec16411757d887b3c9d55f2528&scene=126&sessionid=1739322503#rd)
+- **AI编程助手**
+  - [Visual Studio使用GitHub Copilot提高.NET开发工作效率](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509901&idx=1&sn=dbe05f2b4bdae0b03c20e45de3340412&scene=21#wechat_redirect)
 
 
 
@@ -118,6 +125,7 @@
 - [.NET Core 特性(Attribute)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18551715)
 - [什么是.NET的强类型字符串(Strongly typed string)？ - czwy - 博客园](https://www.cnblogs.com/czwy/p/18576931)
 - [dotnet scaffold – .NET 的下一代内容创建](https://mp.weixin.qq.com/s/fXVEINNyCio7rAsTTy3OdA)
+- [【译】.NET 升级助手现在支持升级到集中式包管理](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654101088&idx=3&sn=478ef086a896019c0bef3f5897ca9b29&scene=21#wechat_redirect)
 - **关键字**
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
   - **yield**
@@ -126,6 +134,12 @@
   - **as/is**
     - [C# as 和 is 运算符区别和用法](https://mp.weixin.qq.com/s/s880U7ea-N2Xl_3krgyjxA)
     - [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
+- **值类型**
+  - **值类型 ToString**
+    - [Int32.ToString 方法 (System) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.int32.tostring?view=net-9.0#system-int32-tostring(system-string))
+    - [标准数字格式字符串 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/standard-numeric-format-strings)
+    - [自定义数字格式字符串 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/custom-numeric-format-strings)
+    - [概述：如何在 .NET 中设置数字、日期、枚举和其他类型的格式 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/formatting-types)
 
 
 
@@ -262,6 +276,12 @@
 
 
 
+## G. 国产化适配
+
+- [.NET适配HarmonyOS进展](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510105&idx=2&sn=41ef49228c1f5dc9063c5037792f8b8f&chksm=96da2fba6247cedfeccad475ef29164a979a9e14ed93b0e3cc56eb8bf3a0f146ffd8e83a46ed&scene=126&sessionid=1739234801#rd)
+
+
+
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
@@ -294,6 +314,7 @@
 
 - [用纯.NET开发并制作一个智能桌面机器人（一）：从.NET IoT入门开始](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509201&idx=2&sn=13350fb3111413fb74075085d5f30baf&chksm=96c64a7ad436070bc9e93592318df9b4d6ea561e100f28b1659ac08554a7a250f592212796d3&scene=126&sessionid=1736817137#rd)
 - [用纯.NET开发并制作一个智能桌面机器人（二）：用.NET IoT库编写驱动控制两个屏幕](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=2&sn=1cf2374ba0ff0888a5c142f42d910bd2&chksm=96edee3537b01043660d600fa22a38ddf847ae3f61ea0d98ead82f03ebeb2726956dbc561997&scene=126&sessionid=1736991133#rd)
+- [用.NET IoT库控制舵机并多方法播放表情](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510211&idx=3&sn=8426bea5d858d360612a2b8e637cb17a&chksm=9665939efc81c9282e061f50614860298651c4c7c227a406078c1a117fa1f0c2028bfdf36604&scene=126&sessionid=1739414680#rd)
 
 
 
@@ -671,7 +692,8 @@
 ## Z. 字符串处理
 
 - [C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式 - IT规划师 - 博客园 (cnblogs.com)](https://www.cnblogs.com/hugogoos/p/18453906)
-- [C#字符串拼接的几种方式及其性能分析对比](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508765&idx=1&sn=4910c75d0822866c4b5406bdbf827256&chksm=96672245fa47c4820549ca1158ac7119af72d2fd06c1322340b26e28ad69f489635ce491f03a&scene=126&sessionid=1734914402#rd)
+- [C#字符串拼接的6种方式及其性能分析对比](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510211&idx=1&sn=7a74eccdac26ddfe5b2d6730982097b6&chksm=96d566ef30cf03b40df87189e17e0905e9863a271ca8bbdd78e00f7aecdce5057de485dd84bb&scene=126&sessionid=1739414680#rd)
+- [C# 字符串拼接的 7 种方式及性能对比 - 唐青枫 - SegmentFault 思否](https://segmentfault.com/a/1190000045650291)
 
 
 

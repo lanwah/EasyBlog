@@ -31,10 +31,12 @@
 | **CodeWhisperer（免费）**  | [官网](https://aws.amazon.com/cn/codewhisperer)              | CodeWhisperer是亚⻢逊出品的一款基于机器学习的通用代码生成器，<br />可实时提供代码建议。在编写代码时，它会自动根据我们现有的代码<br />和注释生成建议。从单行代码建议到完整的函数，它可为我们提供<br />各种大小和范围的个性化建议。 |
 | **GitHub Copilot（付费）** | [官网](https://github.com/features/copilot)                  | GitHub Copilot 是一款 AI 编码助手，可帮助你更快、更省力地编写代码，<br />从而将更多精力集中在问题解决和协作上。GitHub Copilot 会在你编码<br />时提供建议：有时是当前行的补全，有时是全新的代码块。<br />可以接受全部或部分建议，也可以忽略建议并继续键入。 |
 | **MarsCode（免费）**       | [官网](https://www.marscode.cn/events/2024-copartner/invitees?utm_source=event_invite_code&invite_code=se3E64QCzjvcaiwK59mHE6ZphvkcsRyw&event_id=2024_copartner) | 基于豆包大模型，提供智能 AI IDE 和 AI 编程助手，带给你全新的编码体验。<br />AI IDE 提供开箱即用的开发环境，AI 编程助手提供代码生成、代码解释、<br />单测生成和问题修复等功能，支持上百种编程语言和主流开发环境。 |
+| **代码小浣熊**             | [官网](https://xiaohuanxiong.com/code)                       | 代码小浣熊是基于商汤大语言模型的软件智能研发助手，覆盖软件需求分析、<br />架构设计、代码编写、软件测试等环节，满足用户代码编写、编程学习等各类需求。 |
 
 ### 相关参考
 
 - [6款支持C#语言的AI辅助编程工具，开发效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/09B6fKbGgQU90VNK74uPCg)
+- [8款支持 C# 语言的 AI 辅助编程神器，高效编程利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510356&idx=1&sn=893eac8b78700140b7480b3efa1614bf&chksm=969cb187ecf7a6f497be8b9817a4c3098ca8b47b15746e720ebbea9903812018186865295615&scene=126&sessionid=1739495349#rd)
 - [开发效率提升利器：5款支持C#语言的AI辅助编程工具 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=1&sn=53da5ec1a1dd8cf6c325d062ad4e7f3d&chksm=96faa2572620b58390a2279a909aa2a06771ad74194d998fbf3f6257523ec04b5f2531569c49&scene=126&sessionid=1722213176#rd)
 - [Awesome Tools，豆包 MarsCode 强大的AI编程助手](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506400&idx=3&sn=6cfe25d9e8555dad57a9e71e3829726a&chksm=96025d7551ae5eda30a773f8e0febd99b52b761d5b846487bcb2505d5680321176d207aa4f4f&scene=126&sessionid=1729472376#rd)
 - [一款支持C#语言，免费且功能强大的智能AI编程助手，开发效率提升利器！【豆包MarsCode】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=2&sn=5a8679680b38c6e50420919c01bc0d0f&chksm=96d372894dfcd5f8645645adf51e83ef40512cbf2c30f5bc5e1ac4a13945b34423c54084ce44&scene=126&sessionid=1730641491#rd)
@@ -151,6 +153,19 @@
 
 - [基于.NET8+Vue3开发的权限管理&个人博客系统【Easy.Admin】](https://mp.weixin.qq.com/s/CdHbePejyzXMoHXG03kocQ)
 - [精选2款.NET开源的博客系统【StarBlog】、【Easy.Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508559&idx=1&sn=d52a75de88f37ff9af473be328e02091&chksm=969772f3046290ec3edc5bd0752740851e454330e70d813e96a1ef6875507bcf92e1595d81c2&scene=126&sessionid=1734398043#rd)
+
+
+
+## B. BI 工具(商业智能工具)
+
+| 项目名称                                             | 使用的协议                                                   | 项目介绍/说明                                                |
+| ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[dataease](https://github.com/dataease/dataease) | [GPL-3.0 license](https://github.com/dataease/dataease#GPL-3.0-1-ov-file) | DataEase是一个开源的数据可视化分析工具，<br />可以帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。<br />DataEase 支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，<br />并可以方便地与他人分享。<br />[DataEase - 人人可用的开源 BI 工具 - 官网](https://dataease.io/index.html) |
+|                                                      |                                                              |                                                              |
+
+### 相关参考
+
+- [推荐一款人人可用的开源 BI 工具，更符合国人使用习惯的数据可视化分析工具，数据大屏开发神器！【DataEase】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=1&sn=785c9fdaf1fcbfdc61c576cd887bf9bf&chksm=9661e16ad684b513e574158c369eaec620620c64b1829cc197d47a2bd5f9d8a97516adc46be3&scene=126&sessionid=1739148346#rd)
 
 
 
@@ -662,6 +677,7 @@
 1. [开源GTKSystem.Windows.Forms框架让C# Winform支持跨平台运行【GTKSystem.Windows.Forms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508805&idx=1&sn=182f305945693da08ac0cf8a918a02f0&chksm=96292749d0c469f29013c296e2284f1fda1aa5767876d1b44863e451685cc14041768305b9b2&scene=126&sessionid=1735260973#rd)
 1. [2025年全面的.NET跨平台应用框架推荐【Avalonia】【MAUI】【Uno Platform】【Eto.Forms】【GTKSystem.Windows.Forms】【Xamarin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=1&sn=ec41f62901024d979fdd18440d9bcdef&chksm=96b1786aae72235ccdf938c5f751a363f601fa6bc9d167dd374f743c2583dbc371ae7e7a0bda&scene=126&sessionid=1736503976#rd)
 1. [Avalonia UI 中的 Markdown 渲染【Markdown.AIRender】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=2&sn=0a215fa803d3b00fa43826faffc213d1&chksm=96e1783ddabf3147bfbe6db924fb8c61cd01a2482c6d02b33708bda60f3652947b0e1af5bea0&scene=126&sessionid=1737334659#rd)
+1. [Avalonia 国际化之路：Resx 资源文件的深度应用与探索](https://mp.weixin.qq.com/s?__biz=MzkxMjIwODA3Mw==&mid=2247504858&idx=1&sn=a9afb654bd1cb0e14d9166df15a1904c&scene=21#wechat_redirect)
 1. [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
 
 
@@ -1060,6 +1076,7 @@
 
 - [一个功能强大且易于使用的.NET面部识别库，开源免费！【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=3&sn=cff8ab7335f5f3fae04b00bf114af51a&chksm=961b789144ffe6c81768246a46bea774bbdc15cb1024082b72856a81a8a759bead091a182db7&scene=126&sessionid=1727052024#rd)
 - [C# OpenCvSharp 部署3D人脸重建3DDFA-V3【OpenCvSharp】](https://mp.weixin.qq.com/s/h8dKMN2sCAy-BwO7wK2BvA)
+- [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&scene=21#wechat_redirect)
 
 
 
@@ -1295,28 +1312,32 @@
 | **VisionOn**                                                 |                                                              | VisionOn是一个轻量在线图形工具，实现了Visio的大部分功能，满足流程图、<br />电路图、平面制图、软件设计、工程管理、思维导图、结构化分析等各种图形绘制。<br />[在线访问地址](https://pub.visionon.cn) |
 | **Git:[facefusion](https://github.com/facefusion/facefusion)** | MIT                                                          | FaceFusion是一款开源、免费、功能强大的AI换脸和增强工具，<br />它集成了最新的深度学习技术，专注于为用户提供高质量的图像和视频处理功能。<br />通过FaceFusion，用户可以轻松实现人脸替换、人脸增强、唇形同步等多种操作，<br />满足个人创作、娱乐、广告、教育等多个领域的需求。 |
 | Git:[VulkanSamples](https://github.com/qian-o/VulkanSamples) |                                                              | 在学习 Vulkan 的过程中，我主要参考 veldrid，它是一个基于 .NET <br />的跨平台图形库，支持 OpenGL、Vulkan、Direct3D 11 等图形 API。<br />该项目光线追踪部分的封装参考的 Evergine, 它有着非常全面的图形接口抽象，<br />其结构与 veldrid 十分相似，目前该平台对个人免费，大家如有兴趣可以尝试。 |
+| Git:[cv_resnet18_card_correction-opencv-dnn](https://github.com/hpc203/cv_resnet18_card_correction-opencv-dnn) |                                                              | 使用opencv部署读光-票证检测矫正模型，<br />包含C++和Python两个版本的程序，只依赖opencv库就能运行 |
 
 ### 相关参考
 
-1. **[C# OnnxRuntime 轻量实时的M-LSD直线检测](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=3&sn=fd83d708e218ecb2ee96fa8276261b67&chksm=96f4439a38b6ad7b2ba6cedbd17bb13b292edc3718996116488d31f08ed33cc6521f08cd00a7&scene=126&sessionid=1722818981#rd)**
-2. **[78k+ Star 免费且强大的绘图神器，手绘风格，泰酷辣！【excalidraw】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503770&idx=2&sn=1e9af008ff89a6897d061c950ea16d51&chksm=967e0cfecabab7853eb01fce5da02045d981d062c6f1ddfca939bcca44ee46d189251a24c207&scene=126&sessionid=1722818981#rd)**
-3. **[告别加载等待：.NET图片秒转WebP的黑科技！【ImageMagick】【SkiaSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=3&sn=0579b4cfd22d32ccb83c390c57c1049f&chksm=9636331b7e239bd6460d7f6949d9f8f3c998e51be9235bb2dcad778266d7c282a9ea487b8a2b&scene=126&sessionid=1722818981#rd)**
-4. **[一款.NET开发的AI无损放大工具【AI-Lossless-Zoomer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503897&idx=1&sn=8109b1fe27f45e983f2f495c039a5fcb&chksm=9668287ba6c322e9386ce4cdb1af24a4ea491ce6ffe6ea8de6e7d38bc35d0b5ead0f71546778&scene=126&sessionid=1723163189#rd)**
-5. [C# OnnxRuntime DIS高精度图像二类分割 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505971&idx=3&sn=b68319b4950810e959a46f56d3ed78a6&chksm=96b1e6b6325b17ed91c5abe17715cc68913f7acf14f242178fc10b25bfbe9c3b1bded8e9ccb0&scene=126&sessionid=1728380448#rd)
+- **[C# OnnxRuntime 轻量实时的M-LSD直线检测](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=3&sn=fd83d708e218ecb2ee96fa8276261b67&chksm=96f4439a38b6ad7b2ba6cedbd17bb13b292edc3718996116488d31f08ed33cc6521f08cd00a7&scene=126&sessionid=1722818981#rd)**
+
+- **[78k+ Star 免费且强大的绘图神器，手绘风格，泰酷辣！【excalidraw】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503770&idx=2&sn=1e9af008ff89a6897d061c950ea16d51&chksm=967e0cfecabab7853eb01fce5da02045d981d062c6f1ddfca939bcca44ee46d189251a24c207&scene=126&sessionid=1722818981#rd)**
+- **[告别加载等待：.NET图片秒转WebP的黑科技！【ImageMagick】【SkiaSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=3&sn=0579b4cfd22d32ccb83c390c57c1049f&chksm=9636331b7e239bd6460d7f6949d9f8f3c998e51be9235bb2dcad778266d7c282a9ea487b8a2b&scene=126&sessionid=1722818981#rd)**
+- **[一款.NET开发的AI无损放大工具【AI-Lossless-Zoomer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503897&idx=1&sn=8109b1fe27f45e983f2f495c039a5fcb&chksm=9668287ba6c322e9386ce4cdb1af24a4ea491ce6ffe6ea8de6e7d38bc35d0b5ead0f71546778&scene=126&sessionid=1723163189#rd)**
+- [C# OnnxRuntime DIS高精度图像二类分割 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505971&idx=3&sn=b68319b4950810e959a46f56d3ed78a6&chksm=96b1e6b6325b17ed91c5abe17715cc68913f7acf14f242178fc10b25bfbe9c3b1bded8e9ccb0&scene=126&sessionid=1728380448#rd)
    - [图像分割基本概念看这篇就行 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/624568476#:~:text=我们知道一张图片是由一堆像素构成的，那么图像分割 (Image Segmentation)可以理解成对每一个像素进行分类的任务。 有两种最常见的图像分割技术：语义分割 (Semantic,Segmentation) 和实例分割 (Instance Segmentation)。 语义分割时，在一张图片中有多个同一类物体的时候，这两个物体不用被明确的区分开，他们的像素标签都会是同一类别。 而实例分割时，当一张图片中有多个同一类物体时，不仅需要识别出物体的类别，还需要把两个同类物体给区分开。)
 
 
-6. [YoloDotNet v2.1：实时物体检测的利器【YoloDotNet 】](https://mp.weixin.qq.com/s/kx6bzmHkfGVY6E6PFZJLMg)
+- [YoloDotNet v2.1：实时物体检测的利器【YoloDotNet 】](https://mp.weixin.qq.com/s/kx6bzmHkfGVY6E6PFZJLMg)
    - [YoloDotNet v2.1：实时物体检测的利器 - 张善友 - 博客园 (cnblogs.com)](https://www.cnblogs.com/shanyou/p/18457208)
-
-7. [推荐5款程序员必备的画图工具，效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=1&sn=8600e8e1476d65e5afd2957871786e70&chksm=96ff67dfc6af3a5017b09ba575b7f544831a4ea001378be65af83591a7a76e4cf4661a6d3b21&scene=126&sessionid=1732495973#rd)
-7. [一款开源免费、功能强大的AI换脸神器【FaceFusion】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507946&idx=3&sn=2bf7fde9ea3387eb48c11815d257adf2&chksm=96901322ec27066ac1d1f0427825d9074a3eea72772876f125f3990bf5d592c65926c20f96cd&scene=126&sessionid=1733186985#rd)
-7. [推荐一个C#轻量级矢量图形库 - chingho - 博客园【VectSharp】](https://www.cnblogs.com/chingho/p/18629448)
-7. [.NET 9.0 使用 Vulkan API 编写跨平台图形应用【VulkanSamples】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509168&idx=2&sn=bd27ef7d7d65d02e47b2baf62afa37f6&chksm=961e0a74c2a1ae516b048cb059526cc67093b9fcdeb090b5d12910e573bfb488b262a5d943b1&scene=126&sessionid=1736730186#rd)
+- [推荐5款程序员必备的画图工具，效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=1&sn=8600e8e1476d65e5afd2957871786e70&chksm=96ff67dfc6af3a5017b09ba575b7f544831a4ea001378be65af83591a7a76e4cf4661a6d3b21&scene=126&sessionid=1732495973#rd)
+- [一款开源免费、功能强大的AI换脸神器【FaceFusion】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507946&idx=3&sn=2bf7fde9ea3387eb48c11815d257adf2&chksm=96901322ec27066ac1d1f0427825d9074a3eea72772876f125f3990bf5d592c65926c20f96cd&scene=126&sessionid=1733186985#rd)
+- [推荐一个C#轻量级矢量图形库 - chingho - 博客园【VectSharp】](https://www.cnblogs.com/chingho/p/18629448)
+- [.NET 9.0 使用 Vulkan API 编写跨平台图形应用【VulkanSamples】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509168&idx=2&sn=bd27ef7d7d65d02e47b2baf62afa37f6&chksm=961e0a74c2a1ae516b048cb059526cc67093b9fcdeb090b5d12910e573bfb488b262a5d943b1&scene=126&sessionid=1736730186#rd)
    - [Vulkan_百度百科](https://baike.baidu.com/item/Vulkan/17543632)
    - [Home | Vulkan | Cross platform 3D Graphics](https://www.vulkan.org/)
    - [.NET 9.0 使用 Vulkan API 编写跨平台图形应用 - o王先生o - 博客园](https://www.cnblogs.com/xymfblogs/p/18664113)
-7. 1
+- **图像处理**
+
+   - [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）【OpenCvSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&chksm=968d680b30460591cc5419e03f964c27a1ec56387009327fe4020bf883bf279ed65f74c9b9de&scene=126&sessionid=1739148312#rd)
+
 
 
 
@@ -1514,14 +1535,15 @@
 
 ## Y. 语言/翻译
 
-| 项目名称                                               | 使用的协议                                                   | 项目功能/介绍                                                |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Translumo](https://github.com/Danily07/Translumo)     | [Apache-2.0 license](https://github.com/Danily07/Translumo#Apache-2.0-1-ov-file) | Translumo是一个.NET开源的高级屏幕翻译工具，能够实时检测和翻译选定区域内的文本<br />（如字幕）。Translumo 允许同时组合使用多个 OCR 引擎。<br />它使用机器学习训练模型通过 OCR 对每个识别的结果进行评分，并选择最佳结果。 |
-| Git:[Translumo](https://github.com/Danily07/Translumo) | [Apache-2.0 license](https://github.com/Danily07/Translumo#Apache-2.0-1-ov-file) | STranslate是一款由WPF开源的、免费的（MIT License）、即开即用、<br />即用即走的翻译、OCR工具。 |
+| 项目名称                                                 | 使用的协议                                                   | 项目功能/介绍                                                |
+| -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[Translumo](https://github.com/Danily07/Translumo)   | [Apache-2.0 license](https://github.com/Danily07/Translumo#Apache-2.0-1-ov-file) | Translumo是一个.NET开源的高级屏幕翻译工具，能够实时检测和翻译选定区域内的文本<br />（如字幕）。Translumo 允许同时组合使用多个 OCR 引擎。<br />它使用机器学习训练模型通过 OCR 对每个识别的结果进行评分，并选择最佳结果。 |
+| Git:[STranslate](https://github.com/ZGGSONG/STranslate/) | [MIT license](https://github.com/ZGGSONG/STranslate/#MIT-1-ov-file) | STranslate是一款由WPF开源的、免费的（MIT License）、即开即用、<br />即用即走的翻译、OCR工具。 |
 
 ### 相关参考
 
 - [一款.NET开源的屏幕实时翻译工具【Translumo】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=1&sn=8cda3e07c48c2ad04834fdac34ae286b&chksm=9699e9265d6424165aecd51ee0aa56b56834dd9d4218f402a3a2d1524f9e1a87de99185850e8&scene=126&sessionid=1730941884#rd)
+- [WPF开源的一款免费、开箱即用的翻译、OCR工具【STranslate】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497324&idx=1&sn=a1e104d5c1f6a612e51e2eabce6e0199&scene=21#wechat_redirect)
 - [分享2款 .NET 开源且强大的翻译工具【STranslate】【Translumo】](https://mp.weixin.qq.com/s/DWAGJGvE5QlZCnlAglKV-g)
 
 
