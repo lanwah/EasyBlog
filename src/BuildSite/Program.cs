@@ -54,7 +54,7 @@ static void ShowHelp()
 static void ShowLogo()
 {
     var logo = """
-            EasyBlog : The Static Web Builder!
+            EasyDocs : The Static Web Builder!
                —→ for freedom 🗽 ←—
 
             """;
