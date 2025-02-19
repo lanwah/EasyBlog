@@ -290,8 +290,8 @@ public class HtmlBuilder : BaseBuilder
         {
             var navigations = BuildNavigations(ContentPath);
             var blogHtml = GenBlogListHtml(rootCatalog, WebInfo);
-            // TODO: 生成最新的博客列表以及 文档列表(如果有)
-            var latestBlogs = Blogs.Take(4).ToList();
+            // 生成最新的博客列表以及 文档列表(如果有)
+            var latestBlogs = Blogs.OrderByDescending(b => b.PublishTime).Take(4).ToList();
             var blogSb = new StringBuilder();
             if (latestBlogs.Count > 0)
             {
