@@ -54,9 +54,8 @@ class Docs {
 
     document.getElementById('versionSelect')?.addEventListener('change', function () {
       const selectedValue = this.value;
-      const url = this.options[this.selectedIndex].getAttribute('data-url');
-      if (selectedValue != self.version) {
-        self.redirectToVersion(selectedValue, url);
+      if (selectedValue != this.version) {
+        self.redirectToVersion(selectedValue);
       }
     });
 
@@ -69,53 +68,77 @@ class Docs {
     }
   }
 
-  selectLanguage(language) {
+  async selectLanguage(language) {
     if (language === this.language) {
       window.location.reload();
       return;
     }
+    let data = await this.getData(language, null);
 
-    var url = new URL(window.location.href);
-    var path = url.pathname;
-    var htmlName = path.split('/').pop();
-    url.pathname = `/docs/${this.docName}/${language}/${this.version}/${htmlName}`;
+    if (data) {
+      let notNullFirst = data.filter(item => item.Docs.length > 0);
+      let first = notNullFirst[0].Docs[0];
 
-    // 判断新的url是否返回404
-    fetch(url.href)
-      .then(response => {
-        if (response.status === 404) {
-          alert(`The language ${language} is not available for this document.`);
-          return;
-        } else {
-          window.location.href = url.href;
-        }
-      });
+      if (first.HtmlPath) {
+        var url = new URL(window.location.href);
+        let relativePath = first.HtmlPath.replace(this.docName, '');
+        url.pathname = `/docs/${this.docName}/${language}/${this.version}${relativePath}`;
+
+        fetch(url.href)
+          .then(response => {
+            if (response.status === 404) {
+              alert(`The language ${language} is not available for this document.`);
+              return;
+            } else {
+              window.location.href = url.href;
+            }
+          });
+      }
+    } else {
+      alert(`The language ${language} is not available for this document.`);
+    }
   }
 
-  redirectToVersion(version, versionUrl) {
-    var url = new URL(window.location.href);
-    var path = url.pathname;
-    var htmlName = path.split('/').pop();
-    url.pathname = `/docs/${this.docName}/${this.language}/${version}/${htmlName}`;
+  async redirectToVersion(version) {
+    let data = await this.getData(null, version);
 
-    
-    // 判断新的url是否返回404
-    fetch(url.href)
-      .then(response => {
-        if (response.status === 404) {
-          url.pathname = `/docs/${versionUrl}`;
-          window.location.href = url.href;
-        } else {
-          window.location.href = url.href;
-        }
-      });
+    if (data) {
+      let notNullFirst = data.filter(item => item.Docs.length > 0);
+      let first = notNullFirst[0].Docs[0];
+
+      if (first.HtmlPath) {
+        var url = new URL(window.location.href);
+        let relativePath = first.HtmlPath.replace(this.docName, '');
+        url.pathname = `/docs/${this.docName}/${this.language}/${version}${relativePath}`;
+
+        fetch(url.href)
+          .then(response => {
+            if (response.status === 404) {
+              alert(`The version ${version} is not available for this document.`);
+              return;
+            } else {
+              window.location.href = url.href;
+            }
+          });
+      }
+    } else {
+      alert(`The version ${version} is not available for this document.`);
+    }
+  }
+
+  async getData(language, version) {
+    language = language || this.language;
+    version = version || this.version;
+    const url = `/data/${this.docName}/${language}-${version}.json`;
+
+    let res = await fetch(url);
+    if (!res.ok) {
+      console.log('Error:', res.status);
+      return null;
+    }
+    const data = await res.json();
+    return data.Children;
   }
 
 }
 const doc = new Docs();
-
-
-// interface UrlInfo {
-//   url: string;
-//   title: string;
-// }

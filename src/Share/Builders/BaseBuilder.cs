@@ -164,6 +164,8 @@ public partial class BaseBuilder
             };
 
             doc.HtmlPath = Path.Combine(GetFullPath(parentCatalog), doc.FileName.Replace(".md", ".html"));
+
+            doc.HtmlPath = doc.HtmlPath.Replace('\\', '/');
             parentCatalog.Docs.Add(doc);
         }
     }
