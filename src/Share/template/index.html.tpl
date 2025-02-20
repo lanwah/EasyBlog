@@ -6,7 +6,6 @@
     <title>@{Name}</title>
     <meta name="description" content="@{Description}" />
     <base href="/" />
-    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="stylesheet" href="@{BaseUrl}css/app.css" />
     <link rel="icon" type="image/png" href="@{BaseUrl}favicon.ico" />
     <script>const baseUrl = '@{BaseUrl}';</script>
@@ -39,7 +38,7 @@
     <div class="container mx-auto text-center">
         <p class="text-neutral-600 dark:text-neutral-300">
         @{Name}
-        <a class="text-blue-600" target="_blank" href="https://github.com/AterDev/EasyBlog">Powered by Ater Blog</a>
+        <a class="text-blue-600" target="_blank" href="https://github.com/AterDev/EasyBlog">Powered by EasyDocs</a>
         </p>
     </div>
     </div>

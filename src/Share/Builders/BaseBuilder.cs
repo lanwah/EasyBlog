@@ -1,6 +1,8 @@
-﻿using System.Security.Cryptography;
+﻿using System.IO.Compression;
+using System.Security.Cryptography;
 using System.Text;
 using System.Text.RegularExpressions;
+using Models;
 
 namespace Share.Builders;
 public partial class BaseBuilder
@@ -129,46 +131,86 @@ public partial class BaseBuilder
     /// <param name="parentCatalog"></param>
     protected void TraverseDirectory(string directoryPath, Catalog parentCatalog)
     {
-        foreach (string subDirectoryPath in Directory.GetDirectories(directoryPath))
+        // 排序数据
+        var orderFile = Path.Combine(directoryPath, ".order");
+        string[] orderData = [];
+        if (File.Exists(orderFile))
         {
-            var existMd = Directory.GetFiles(subDirectoryPath, "*.md").Length > 0;
-            var existDir = Directory.GetDirectories(subDirectoryPath).Length > 0;
-            if (existMd || existDir)
+            orderData = File.ReadAllLines(orderFile).Where(l => !string.IsNullOrWhiteSpace(l))
+                .ToArray();
+        }
+
+        // 目录及文件
+        var dirsPath = Directory.GetDirectories(directoryPath);
+        var filesPath = Directory.GetFiles(directoryPath, "*.md");
+        var allPath = dirsPath.Concat(filesPath).ToArray();
+
+        if (allPath.Length > 0)
+        {
+            var orderedPaths = new List<string>();
+            if (orderData.Length > 0)
             {
-                var catalog = new Catalog
+                foreach (var file in orderData)
                 {
-                    Name = Path.GetFileName(subDirectoryPath),
-                    Parent = parentCatalog,
-                    Path = subDirectoryPath
-                };
-                parentCatalog.Children.Add(catalog);
-                TraverseDirectory(subDirectoryPath, catalog);
+                    var path = allPath.FirstOrDefault(p => Path.GetFileNameWithoutExtension(p) == file);
+                    if (path != null)
+                    {
+                        orderedPaths.Add(path);
+                    }
+                }
+                var unorderedFiles = allPath.Except(orderedPaths);
+                orderedPaths.AddRange(unorderedFiles);
+            }
+            else
+            {
+                orderedPaths = allPath.ToList();
+            }
+
+            foreach (string itemPath in orderedPaths)
+            {
+                if (File.Exists(itemPath))
+                {
+                    var fileInfo = new FileInfo(itemPath);
+                    var fileName = Path.GetFileName(itemPath);
+                    var gitAddTime = GetCreatedTime(itemPath);
+                    var gitUpdateTime = GetUpdatedTime(itemPath);
+                    var doc = new Doc
+                    {
+                        Title = Path.GetFileNameWithoutExtension(itemPath),
+                        FileName = fileName,
+                        Path = itemPath,
+                        PublishTime = gitUpdateTime ?? gitAddTime ?? fileInfo.LastWriteTime,
+                        CreatedTime = gitAddTime ?? fileInfo.CreationTime,
+                        UpdatedTime = gitUpdateTime ?? fileInfo.LastWriteTime,
+                        Catalog = parentCatalog
+                    };
+
+                    doc.HtmlPath = Path.Combine(GetFullPath(parentCatalog), doc.FileName.Replace(".md", ".html"));
+
+                    doc.HtmlPath = doc.HtmlPath.Replace('\\', '/');
+                    parentCatalog.Docs.Add(doc);
+                }
+                else if (Directory.Exists(itemPath))
+                {
+                    var existMd = Directory.GetFiles(itemPath, "*.md").Length > 0;
+                    var existDir = Directory.GetDirectories(itemPath).Length > 0;
+                    var name = Path.GetFileName(itemPath);
+                    if (existMd || existDir && name != "_images")
+                    {
+                        var catalog = new Catalog
+                        {
+                            Name = name,
+                            Parent = parentCatalog,
+                            Path = itemPath
+                        };
+                        parentCatalog.Children.Add(catalog);
+                        TraverseDirectory(itemPath, catalog);
+                    }
+                }
             }
         }
-
-        foreach (string filePath in Directory.GetFiles(directoryPath, "*.md"))
-        {
-            var fileInfo = new FileInfo(filePath);
-            var fileName = Path.GetFileName(filePath);
-            var gitAddTime = GetCreatedTime(filePath);
-            var gitUpdateTime = GetUpdatedTime(filePath);
-            var doc = new Doc
-            {
-                Title = Path.GetFileNameWithoutExtension(filePath),
-                FileName = fileName,
-                Path = filePath,
-                PublishTime = gitUpdateTime ?? gitAddTime ?? fileInfo.LastWriteTime,
-                CreatedTime = gitAddTime ?? fileInfo.CreationTime,
-                UpdatedTime = gitUpdateTime ?? fileInfo.LastWriteTime,
-                Catalog = parentCatalog
-            };
-
-            doc.HtmlPath = Path.Combine(GetFullPath(parentCatalog), doc.FileName.Replace(".md", ".html"));
-
-            doc.HtmlPath = doc.HtmlPath.Replace('\\', '/');
-            parentCatalog.Docs.Add(doc);
-        }
     }
+
     /// <summary>
     /// 菜单导航
     /// </summary>

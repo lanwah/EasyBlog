@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="@{Title}" />
     <link rel="stylesheet" href="@{BaseUrl}css/app.css">
     <link rel="stylesheet" href="@{BaseUrl}css/markdown.css">
     <link rel="icon" type="image/png" href="@{BaseUrl}favicon.ico" />
     <script src="@{BaseUrl}js/markdown.js"></script>
-    <title>@{Title}</title>
+    <title>@{Title}-@{Name}</title>
     @{ExtensionHead}
 </head>
 <body class="px-4 sm:px-6 lg:px-8 dark:bg-neutral-900 pb-4">
@@ -23,7 +24,7 @@
       <div class="container mx-auto text-center">
         <p class="text-neutral-600 dark:text-neutral-300 mb-0">
         @{Name}
-        <a class="text-blue-600" target="_blank" href="https://github.com/AterDev/EasyBlog">Powered by Ater Blog</a>
+        <a class="text-blue-600" target="_blank" href="https://github.com/AterDev/EasyBlog">Powered by EasyDocs</a>
         </p>
       </div>
     </div>

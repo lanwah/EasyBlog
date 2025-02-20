@@ -51,7 +51,7 @@
     <div class="container mx-auto text-center">
         <p class="text-neutral-600 dark:text-neutral-300 mb-0">
         @{Name}
-        <a class="text-blue-600" target="_blank" href="https://github.com/AterDev/EasyBlog">Powered by Ater Blog</a>
+        <a class="text-blue-600" target="_blank" href="https://github.com/AterDev/EasyBlog">Powered by EasyDocs</a>
         </p>
     </div>
   </div>

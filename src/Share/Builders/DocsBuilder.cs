@@ -300,19 +300,19 @@ public class DocsBuilder(WebInfo webInfo) : BaseBuilder(webInfo)
             }
         }
 
-        if (orderData.Length > 0)
-        {
-            var orderedItems = new List<TreeNodeItem>();
-            foreach (var order in orderData)
-            {
-                var item = nodeItems.FirstOrDefault(i => Path.GetFileNameWithoutExtension(i.DisplayName) == order);
-                if (item != null)
-                {
-                    orderedItems.Add(item);
-                }
-            }
-            nodeItems = orderedItems;
-        }
+        //if (orderData.Length > 0)
+        //{
+        //    var orderedItems = new List<TreeNodeItem>();
+        //    foreach (var order in orderData)
+        //    {
+        //        var item = nodeItems.FirstOrDefault(i => Path.GetFileNameWithoutExtension(i.DisplayName) == order);
+        //        if (item != null)
+        //        {
+        //            orderedItems.Add(item);
+        //        }
+        //    }
+        //    nodeItems = orderedItems;
+        //}
 
         foreach (var item in nodeItems)
         {

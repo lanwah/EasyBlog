@@ -106,6 +106,7 @@ public class HtmlBuilder : BaseBuilder
 
             var tplContent = TemplateHelper.GetTplContent("blogContent.html");
             tplContent = tplContent.Replace("@{Title}", title)
+                .Replace("@{Description}", WebInfo.Description)
                 .Replace("@{BaseUrl}", BaseUrl)
                 .Replace("@{Name}", WebInfo.Name)
                 .Replace("@{ExtensionHead}", extensionHead)
@@ -317,6 +318,7 @@ public class HtmlBuilder : BaseBuilder
             }
 
             indexHtml = indexHtml.Replace("@{Name}", WebInfo.Name)
+                .Replace("@{Description}", WebInfo.Description)
                 .Replace("@{navigations}", navigations)
                 .Replace("@{blogs}", blogSb.ToString())
                 .Replace("@{BaseUrl}", BaseUrl);
@@ -343,6 +345,7 @@ public class HtmlBuilder : BaseBuilder
             var siderBarHtml = GenSiderBar(rootCatalog);
 
             indexHtml = indexHtml.Replace("@{Name}", WebInfo.Name)
+                .Replace("@{Description}", WebInfo.Description)
                 .Replace("@{navigations}", navigations)
                 .Replace("@{BaseUrl}", BaseUrl)
                 .Replace("@{blogList}", blogHtml)

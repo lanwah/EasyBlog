@@ -73,15 +73,12 @@ class Docs {
       window.location.reload();
       return;
     }
-    let data = await this.getData(language, null);
+    let doc = await this.getFirstDoc(language, null);
 
-    if (data) {
-      let notNullFirst = data.filter(item => item.Docs.length > 0);
-      let first = notNullFirst[0].Docs[0];
-
-      if (first.HtmlPath) {
+    if (doc) {
+      if (doc.HtmlPath) {
         var url = new URL(window.location.href);
-        let relativePath = first.HtmlPath.replace(this.docName, '');
+        let relativePath = doc.HtmlPath.replace(this.docName, '');
         url.pathname = `/docs/${this.docName}/${language}/${this.version}${relativePath}`;
 
         fetch(url.href)
@@ -100,15 +97,11 @@ class Docs {
   }
 
   async redirectToVersion(version) {
-    let data = await this.getData(null, version);
-
-    if (data) {
-      let notNullFirst = data.filter(item => item.Docs.length > 0);
-      let first = notNullFirst[0].Docs[0];
-
-      if (first.HtmlPath) {
+    let doc = await this.getFirstDoc(null, version);
+    if (doc) {
+      if (doc.HtmlPath) {
         var url = new URL(window.location.href);
-        let relativePath = first.HtmlPath.replace(this.docName, '');
+        let relativePath = doc.HtmlPath.replace(this.docName, '');
         url.pathname = `/docs/${this.docName}/${this.language}/${version}${relativePath}`;
 
         fetch(url.href)
@@ -137,7 +130,22 @@ class Docs {
       return null;
     }
     const data = await res.json();
-    return data.Children;
+    return data;
+  }
+
+  async getFirstDoc(language, version) {
+    let data = await this.getData(language, version);
+    if (data) {
+      if (data.Docs.length > 0) {
+        return data.Docs[0];
+      } else {
+        let notNullFirst = data.Children.filter(item => item.Docs.length > 0);
+        if (notNullFirst.length === 0) {
+          return null;
+        }
+        return notNullFirst[0].Docs[0];
+      }
+    }
   }
 
 }
