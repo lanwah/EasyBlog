@@ -310,7 +310,7 @@ public class HtmlBuilder : BaseBuilder
                       <a class="title" href="{BuildBlogPath(blog.HtmlPath)}" target="_blank">
                         <p>{blog.Title}</p>
                       </a>
-                      <p class="sub-title">👨‍💻 {WebInfo.AuthorName} &nbsp;&nbsp;📅 {date}</p>
+                      <p class="sub-title">👨‍💻 {WebInfo.AuthorName} &nbsp;&nbsp;📆 {date}</p>
                     </div>
                     """);
                 }
@@ -401,15 +401,15 @@ public class HtmlBuilder : BaseBuilder
         foreach (var blog in blogs)
         {
             var html = $"""
-                   <div class="w-100 rounded overflow-hidden shadow-lg dark:bg-neutral-800 my-2">
+                   <div class="w-100 bg-card my-2">
                        <div class="px-6 py-3">
                            <div class="font-bold text-xl mb-2">
-                               <a href = "{BuildBlogPath(blog.HtmlPath)}" target="_blank" class="block text-lg py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">📑 {blog.Title}</a>
+                               <a href = "{BuildBlogPath(blog.HtmlPath)}" target="_blank" class="block text-xl py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">📑 {blog.Title}</a>
                            </div>
                            <p class="text-neutral-700 text-base dark:text-neutral-300">
                                👨‍💻 {webInfo?.AuthorName}
                                &nbsp;&nbsp;
-                               ⏱️ <span class="publish-time" data-time="{blog.PublishTime:yyyy-MM-ddTHH:mm:sszzz}"></span> 
+                               📆 <span class="publish-time" data-time="{blog.PublishTime:yyyy-MM-ddTHH:mm:sszzz}"></span> 
                            </p>
                        </div>
                    </div>
@@ -433,7 +433,7 @@ public class HtmlBuilder : BaseBuilder
             .DistinctBy(b => b.ToString("yyyy-MM"))
             .ToList();
 
-        sb.AppendLine("<div id=\"catalog-list\" class=\"rounded-lg shadow-md p-4 dark:bg-neutral-800\">");
+        sb.AppendLine("""<div id="catalog-list" class="bg-card rounded-lg shadow-md p-4 dark:bg-neutral-800">""");
         sb.AppendLine("<div class=\"text-xl font-semibold dark:text-neutral-300\">分类</div>");
         sb.AppendLine($"""
             <span data-catalog="all" class="filter-item text-lg block py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">
@@ -452,7 +452,7 @@ public class HtmlBuilder : BaseBuilder
         }
         sb.AppendLine("</div>");
 
-        sb.AppendLine("<div id=\"date-list\" class=\"rounded-lg shadow-md p-4 dark:bg-neutral-800 mt-2\">");
+        sb.AppendLine("""<div id="date-list" class="bg-card rounded-lg shadow-md p-4 dark:bg-neutral-800 mt-2">""");
         sb.AppendLine("<div class=\"text-xl font-semibold dark:text-neutral-300\">存档</div>");
         sb.AppendLine($"""
             <span data-date="all" class="filter-item text-lg block py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">

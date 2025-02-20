@@ -40,7 +40,7 @@
     <div class="flex">
         <div class="sm:w-3/4 sm:pr-4 w-full">
         <!-- 博客卡片列表 -->
-        <div class="px-3 bg-white dark:bg-neutral-900" id="blogList">
+        <div class="px-3 dark:bg-neutral-900" id="blogList">
             <!-- 博客卡片内容 -->
             @{blogList}
         </div>

@@ -36,7 +36,7 @@ body {
   @apply p-3 rounded-lg max-w-sm min-w-72 bg-white shadow-sm shadow-gray-200 border border-slate-100 dark:bg-neutral-800 dark:shadow-sm dark:shadow-slate-800 dark:border-neutral-700 cursor-pointer;
 
   &>.title {
-    @apply text-2xl font-medium text-neutral-900 dark:text-neutral-100;
+    @apply text-xl font-medium text-neutral-900 dark:text-neutral-100;
 
   }
 
