@@ -173,7 +173,7 @@ public class HtmlBuilder : BaseBuilder
                 var extension = Path.GetExtension(file);
                 if (!extensions.Contains(extension)) { continue; }
 
-                string relativePath = file.Replace(ContentPath, Path.Combine(Output, dirName));
+                string relativePath = file.Replace(dirPath, Path.Combine(Output, dirName));
                 string? dir = Path.GetDirectoryName(relativePath);
 
                 if (!Directory.Exists(dir))
@@ -355,8 +355,6 @@ public class HtmlBuilder : BaseBuilder
             Command.LogSuccess("update blogs.html");
         }
     }
-
-
 
     /// <summary>
     /// 创建sitemap.xml

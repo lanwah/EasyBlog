@@ -9,7 +9,7 @@
         <PackageOutputPath>./nupkg</PackageOutputPath>
         <AssemblyVersion>2.0.0</AssemblyVersion>
         <PackageId>Ater.EasyDocs</PackageId>
-        <Version>2.0.0-rc1.1</Version>
+        <Version>2.0.0-rc2</Version>
         <Description>Fast and lightweight static website generation tool!</Description>
         <Authors>NilTor</Authors>
         <Company>Atersoft</Company>
@@ -20,7 +20,7 @@
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/AterDev/easyblog.git</RepositoryUrl>
         <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-        <PackageReleaseNotes>Add support for documentation sites</PackageReleaseNotes>
+        <PackageReleaseNotes>blogs images</PackageReleaseNotes>
         <PackageIcon>logo.jpg</PackageIcon>
         <ImplicitUsings>enable</ImplicitUsings>
         <AssemblyName>$(MSBuildProjectName)</AssemblyName>
