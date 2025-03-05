@@ -19,7 +19,7 @@
   <div class="text-white py-2 bg-block">
     <div class="container mx-auto flex items-center space-x-4">
       <div class="flex-none">
-        <a href="/" class="text-2xl font-semibold hidden sm:block">@{Name}</a>
+        <a href="/" class="text-2xl font-semibold max-sm:hidden sm:block">@{Name}</a>
       </div>
       <div class="flex-grow text-left flex space-x-4 items-center">
          @{NavMenus}
@@ -33,7 +33,7 @@
     <div class="container mx-auto" style="margin-bottom: 48px;">
       <div id="docData" data-id="@{DocId}" class="hidden" data-docName="@{DocName}" data-language="@{Language}" data-version="@{Version}"></div>
       <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-3 mt-2 pt-2">
-        <div class="hidden md:block lg:col-span-1 sticky pe-4 top-0 h-fit">
+        <div class="max-md:hidden md:block lg:col-span-1 sticky pe-4 top-0 h-fit">
         <div>
           <strong>Version</strong>
         </div>
@@ -42,7 +42,7 @@
         <div class="col-span-1 md:col-span-2 lg:col-span-2 markdown-content">
         @{DocContent}
         </div>
-        <div class="hidden lg:block lg:col-span-1">
+        <div class="max-lg:hidden lg:block lg:col-span-1">
         @{TOC}
         </div>
       </div>

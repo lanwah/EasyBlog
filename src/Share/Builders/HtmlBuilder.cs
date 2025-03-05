@@ -145,6 +145,7 @@ public class HtmlBuilder : BaseBuilder
 
                     var tplContent = TemplateHelper.GetTplContent("blogContent.html");
                     tplContent = tplContent.Replace("@{Title}", title)
+                        .Replace("@{Description}", WebInfo.Description)
                         .Replace("@{BaseUrl}", BaseUrl)
                         .Replace("@{Name}", WebInfo.Name)
                         .Replace("@{ExtensionHead}", extensionHead)
@@ -399,7 +400,7 @@ public class HtmlBuilder : BaseBuilder
         foreach (var blog in blogs)
         {
             var html = $"""
-                   <div class="w-100 bg-card my-2">
+                   <div class="w-full card-border rounded-md my-2">
                        <div class="px-6 py-3">
                            <div class="font-bold text-xl mb-2">
                                <a href = "{BuildBlogPath(blog.HtmlPath)}" target="_blank" class="block text-xl py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">📑 {blog.Title}</a>
@@ -431,7 +432,7 @@ public class HtmlBuilder : BaseBuilder
             .DistinctBy(b => b.ToString("yyyy-MM"))
             .ToList();
 
-        sb.AppendLine("""<div id="catalog-list" class="bg-card rounded-lg shadow-md p-4 dark:bg-neutral-800">""");
+        sb.AppendLine("""<div id="catalog-list" class="card-border rounded-lg shadow-md p-4 dark:bg-neutral-800">""");
         sb.AppendLine("<div class=\"text-xl font-semibold dark:text-neutral-300\">分类</div>");
         sb.AppendLine($"""
             <span data-catalog="all" class="filter-item text-lg block py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">
@@ -450,7 +451,7 @@ public class HtmlBuilder : BaseBuilder
         }
         sb.AppendLine("</div>");
 
-        sb.AppendLine("""<div id="date-list" class="bg-card rounded-lg shadow-md p-4 dark:bg-neutral-800 mt-2">""");
+        sb.AppendLine("""<div id="date-list" class="card-border rounded-lg shadow-md p-4 dark:bg-neutral-800 mt-3">""");
         sb.AppendLine("<div class=\"text-xl font-semibold dark:text-neutral-300\">存档</div>");
         sb.AppendLine($"""
             <span data-date="all" class="filter-item text-lg block py-2 text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">

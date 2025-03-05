@@ -16,7 +16,7 @@
         <div class="sm:w-3/4 sm:pr-4 w-full markdown-content">
         @{content}
         </div>
-        <div class="w-1/4 mt-1 hidden sm:flex">
+        <div class="w-1/4 mt-1 max-sm:hidden sm:flex">
             @{toc}
         </div>
     </div>

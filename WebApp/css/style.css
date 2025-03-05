@@ -27,8 +27,25 @@ body {
 
 .bg-card {
   @apply bg-white shadow-sm shadow-gray-200 border border-slate-100 dark:bg-neutral-800 dark:shadow-sm dark:shadow-slate-800 dark:border-neutral-700;
-
 }
+
+.card-border {
+  position: relative;
+  @apply bg-white shadow-sm shadow-gray-200 border border-slate-100 dark:bg-neutral-800 dark:shadow-sm dark:shadow-slate-800 dark:border-neutral-700;
+}
+
+.card-border::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  bottom: -2px;
+  left: -2px;
+  background: linear-gradient(to right, #8f41e9, #578aef);
+  z-index: -1;
+  border-radius: inherit;
+}
+
 
 .blog-card {
   position: relative;
@@ -53,7 +70,7 @@ body {
   left: -2px;
   background: linear-gradient(to right, #8f41e9, #578aef);
   z-index: -1;
-  border-radius: inherit; /* 匹配父元素的圆角 */
+  border-radius: inherit;
 }
 
 li.active {

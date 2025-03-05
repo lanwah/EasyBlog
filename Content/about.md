@@ -19,7 +19,7 @@ What I have:
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltor&show_icons=true&theme=dark" alt="niltor" />
-<div/>
+</div>
   
 ## What I believe
 
@@ -29,7 +29,7 @@ What I have:
 - 💪 I believe in justice
 - 💪 I believe in kindness
 
-## What I don't believe
+## What I do not believe
 
 - 👎 Create something out of nothing
 - 👎 Dictatorship

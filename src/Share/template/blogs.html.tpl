@@ -21,7 +21,7 @@
     <div class="text-white py-2 bg-block">
     <div class="container mx-auto flex items-center space-x-4">
       <div class="flex-none">
-        <a href="/" class="text-2xl font-semibold hidden sm:block text-blue-600">@{Name}</a>
+        <a href="/" class="text-2xl font-semibold max-sm:hidden sm:block text-blue-600">@{Name}</a>
       </div>
       <div class="flex-grow text-left flex space-x-4 items-center">
          @{navigations}
@@ -40,13 +40,13 @@
     <div class="flex">
         <div class="sm:w-3/4 sm:pr-4 w-full">
         <!-- 博客卡片列表 -->
-        <div class="px-3 dark:bg-neutral-900" id="blogList">
+        <div class="px-3" id="blogList">
             <!-- 博客卡片内容 -->
             @{blogList}
         </div>
     </div>
 
-    <div class="w-1/4 mt-1 hidden sm:block">
+    <div class="w-1/4 mt-1 max-sm:hidden sm:block">
         <!-- 分类 -->
         @{siderbar}
     </div>
