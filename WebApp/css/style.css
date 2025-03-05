@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 html,
 body {
@@ -33,6 +31,7 @@ body {
 }
 
 .blog-card {
+  position: relative;
   @apply p-3 rounded-lg max-w-sm min-w-72 bg-white shadow-sm shadow-gray-200 border border-slate-100 dark:bg-neutral-800 dark:shadow-sm dark:shadow-slate-800 dark:border-neutral-700 cursor-pointer;
 
   &>.title {
@@ -43,6 +42,18 @@ body {
   &>.sub-title {
     @apply mt-2 text-sm text-neutral-900 dark:text-neutral-100;
   }
+}
+
+.blog-card::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  bottom: -2px;
+  left: -2px;
+  background: linear-gradient(to right, #8f41e9, #578aef);
+  z-index: -1;
+  border-radius: inherit; /* 匹配父元素的圆角 */
 }
 
 li.active {
