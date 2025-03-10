@@ -52,7 +52,7 @@ public partial class BaseBuilder
         {
             var tocBuilder = new StringBuilder();
             tocBuilder.AppendLine("<div class=\"toc-block sticky top-2\">");
-            tocBuilder.AppendLine(" <p class=\"text-lg\">导航</p>");
+            tocBuilder.AppendLine(" <p class=\"text-lg\">内容大纲</p>");
             tocBuilder.AppendLine(@"<ul class=""toc"">");
 
             foreach (Match match in matches)
