@@ -1,4 +1,5 @@
-﻿using System.IO.Compression;
+﻿using System.Drawing;
+using System.IO.Compression;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json.Serialization;
@@ -14,10 +15,6 @@ public class HtmlBuilder : BaseBuilder
     /// 博客列表
     /// </summary>
     public List<Doc> Blogs { get; set; } = [];
-    /// <summary>
-    /// 文档列表
-    /// </summary>
-    public List<Doc> Docs { get; set; } = [];
 
     private readonly JsonSerializerOptions _jsonSerializerOptions = new()
     {
@@ -95,24 +92,8 @@ public class HtmlBuilder : BaseBuilder
         // 如果是文件存在
         if (File.Exists(dirPath))
         {
-            string markdown = File.ReadAllText(dirPath);
-            string html = Markdown.ToHtml(markdown, pipeline);
+            string tplContent = ConvertMarkdownToHtml(dirPath, pipeline);
             string relativePath = dirPath.Replace(dirPath, Path.Combine(Output, dirName)).Replace(".md", ".html");
-
-            var title = GetTitleFromMarkdown(markdown);
-            var toc = GetContentTOC(markdown) ?? "";
-
-            string extensionHead = GetExtensionScript(html);
-
-            var tplContent = TemplateHelper.GetTplContent("blogContent.html");
-            tplContent = tplContent.Replace("@{Title}", title)
-                .Replace("@{Description}", WebInfo.Description)
-                .Replace("@{BaseUrl}", BaseUrl)
-                .Replace("@{Name}", WebInfo.Name)
-                .Replace("@{ExtensionHead}", extensionHead)
-                .Replace("@{toc}", toc)
-                .Replace("@{content}", html);
-
             string? dir = Path.GetDirectoryName(relativePath);
 
             File.WriteAllText(relativePath, tplContent, Encoding.UTF8);
@@ -134,24 +115,9 @@ public class HtmlBuilder : BaseBuilder
             {
                 try
                 {
-                    string markdown = File.ReadAllText(file);
-                    string html = Markdown.ToHtml(markdown, pipeline);
+                    string tplContent = ConvertMarkdownToHtml(file, pipeline);
+
                     string relativePath = file.Replace(dirPath, Path.Combine(Output, dirName)).Replace(".md", ".html");
-
-                    var title = GetTitleFromMarkdown(markdown);
-                    var toc = GetContentTOC(markdown) ?? "";
-
-                    string extensionHead = GetExtensionScript(html);
-
-                    var tplContent = TemplateHelper.GetTplContent("blogContent.html");
-                    tplContent = tplContent.Replace("@{Title}", title)
-                        .Replace("@{Description}", WebInfo.Description)
-                        .Replace("@{BaseUrl}", BaseUrl)
-                        .Replace("@{Name}", WebInfo.Name)
-                        .Replace("@{ExtensionHead}", extensionHead)
-                        .Replace("@{toc}", toc)
-                        .Replace("@{content}", html);
-
                     string? dir = Path.GetDirectoryName(relativePath);
 
                     if (!Directory.Exists(dir))
@@ -186,6 +152,73 @@ public class HtmlBuilder : BaseBuilder
             }
             Command.LogSuccess("copy other files!");
         }
+    }
+
+    /// <summary>
+    /// markdown to html
+    /// </summary>
+    /// <param name="dirPath"></param>
+    /// <param name="pipeline"></param>
+    /// <returns></returns>
+    private string ConvertMarkdownToHtml(string dirPath, MarkdownPipeline pipeline)
+    {
+        string markdown = File.ReadAllText(dirPath);
+        string html = Markdown.ToHtml(markdown, pipeline);
+
+        var title = GetTitleFromMarkdown(markdown);
+        var toc = GetContentTOC(markdown) ?? "";
+        var side = GetBlogSide(title);
+        string extensionHead = GetExtensionScript(html);
+
+        var tplContent = TemplateHelper.GetTplContent("blogContent.html");
+        tplContent = tplContent.Replace("@{Title}", title)
+            .Replace("@{Description}", WebInfo.Description)
+            .Replace("@{BaseUrl}", BaseUrl)
+            .Replace("@{Name}", WebInfo.Name)
+            .Replace("@{ExtensionHead}", extensionHead)
+            .Replace("@{toc}", toc)
+            .Replace("@{side}", side)
+            .Replace("@{content}", html);
+        return tplContent;
+    }
+
+    private string GetBlogSide(string title)
+    {
+        var blog = Blogs.Where(b => b.Title == title).FirstOrDefault();
+        if (blog != null)
+        {
+            var updatedTime = blog.PublishTime.ToString("yyyy-MM-dd HH:mm");
+            var catalog = blog.Catalog?.Name;
+
+            catalog = catalog == "Root" ? "" : catalog;
+            var otherBlogs = Blogs.Where(b => b.Catalog?.Name == catalog && b.Title != title)
+                .Take(5).ToList();
+
+            var otherBlogHtml = "<div class=\"p-2 mt-2\">";
+            otherBlogs.ForEach(b =>
+            {
+                otherBlogHtml += $"""
+                    <a href="{BuildBlogPath(b.HtmlPath)}" class="text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">
+                      {b.Title}
+                    </a>
+                    """;
+            });
+            otherBlogHtml += "</div>";
+
+            var side = $"""
+                <div class="mt-1 sticky top-2">
+                  <span class="text">
+                    last update 
+                  </span>
+                  <br>
+                  <small>{updatedTime}</small>
+                  <div class="text-xl mt-3">{catalog}</div>
+                  {otherBlogHtml}
+                </div>
+                """;
+            return side;
+        }
+        return "";
     }
 
     /// <summary>
