@@ -167,7 +167,8 @@ public class HtmlBuilder : BaseBuilder
 
         var title = GetTitleFromMarkdown(markdown);
         var toc = GetContentTOC(markdown) ?? "";
-        var side = GetBlogSide(title);
+        var fileName = Path.GetFileName(dirPath);
+        var side = GetBlogSide(fileName);
         string extensionHead = GetExtensionScript(html);
 
         var tplContent = TemplateHelper.GetTplContent("blogContent.html");
@@ -182,29 +183,12 @@ public class HtmlBuilder : BaseBuilder
         return tplContent;
     }
 
-    private string GetBlogSide(string title)
+    private string GetBlogSide(string fileName)
     {
-        var blog = Blogs.Where(b => b.Title == title).FirstOrDefault();
+        var blog = Blogs.Where(b => b.FileName == fileName).FirstOrDefault();
         if (blog != null)
         {
             var updatedTime = blog.PublishTime.ToString("yyyy-MM-dd HH:mm");
-            var catalog = blog.Catalog?.Name;
-
-            catalog = catalog == "Root" ? "" : catalog;
-            var otherBlogs = Blogs.Where(b => b.Catalog?.Name == catalog && b.Title != title)
-                .Take(5).ToList();
-
-            var otherBlogHtml = "<div class=\"p-2 mt-2\">";
-            otherBlogs.ForEach(b =>
-            {
-                otherBlogHtml += $"""
-                    <a href="{BuildBlogPath(b.HtmlPath)}" class="text-neutral-600 hover:text-neutral-800 dark:text-neutral-300 dark:hover:text-neutral-100">
-                      {b.Title}
-                    </a>
-                    """;
-            });
-            otherBlogHtml += "</div>";
-
             var side = $"""
                 <div class="mt-1 sticky top-2">
                   <span class="text">
@@ -212,8 +196,6 @@ public class HtmlBuilder : BaseBuilder
                   </span>
                   <br>
                   <small>{updatedTime}</small>
-                  <div class="text-xl mt-3">{catalog}</div>
-                  {otherBlogHtml}
                 </div>
                 """;
             return side;
