@@ -34,6 +34,9 @@
 - **身份鉴权/身份认证**
   - [ASP.NET Core 中基于 Cookie 的身份鉴权实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=3&sn=435086131053de1e1e57d5800f4b3c26&chksm=966dd908d5f29a93b287606a92c47e4a79f265c6dd419e917db94c8fce2cc5da900af34c9001&scene=126&sessionid=1737334659#rd)
 - [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
+- **StarBlog**
+  - [基于.NetCore开发 StarBlog 番外篇 (1) 全新的访问统计功能，异步队列，分库存储 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18731660)
+
 
 
 
@@ -47,23 +50,118 @@
 ## A. AI/AIGC
 
 - [Introducing Microsoft.Extensions.AI Preview - Unified AI Building Blocks for .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
+
 - [适用于 .NET 稳定的官方OpenAI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=1&sn=7016d47686d100aab997bfb11a62563c&chksm=9623badd164d3ad0665805fdcb55009d09871c6cac03bfb010d6aaa53ae6a5f4e57cf3571203&scene=126&sessionid=1729426307#rd)
+
 - [在C#中基于Semantic Kernel的检索增强生成（RAG）实践 - dax.net - 博客园](https://www.cnblogs.com/daxnet/p/18475095)
+
 - [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
+
 - [使用Microsoft.Extensions.AI简化.NET中的AI集成](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=1&sn=d4d7a11a9a310f195beb445a18c7637c&chksm=96c25d9e38701da2295f38de7ab28db742d09c1591a365d5438bee3cad6d998419fe961bbd3e&scene=126&sessionid=1731890970#rd)
+
 - [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
+
 - [【译】轻松评估 AI 应用程序的质量](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654101082&idx=1&sn=35d033a9105e6620c3d3ce6a0d9edd36&scene=21#wechat_redirect)
+
 - [腾讯元宝接入 DeepSeek R1 模型，支持深度思考 + 联网搜索，好用不卡机！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510356&idx=2&sn=ac1c8629a560967670627c75693568b7&chksm=96e98f5ab4ca6a83130d4db5fbbfed117fb661defed7353669c46d584abb4df585839b538517&scene=126&sessionid=1739495349#rd)
+
+- [全面系统的AI学习路径，帮助普通人也能玩转AI](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510404&idx=2&sn=cb91d06f4e46fef27d1a7aa82e8d2eaf&chksm=96f4dde43bee3e36189e94539013917595a9a1bd62bdc8b809b3e8ee52dc77dc967e26fb39da&scene=126&sessionid=1739617181#rd)
+
+- [WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站](https://www.waytoagi.com/zh)
+
+- [宣布推出面向初学者的生成式 AI – .NET - .NET 博客](https://devblogs.microsoft.com/dotnet/announcing-generative-ai-for-beginners-dotnet/)
+
+  > 今天，我们很高兴地推出一门新的动手实践课程，该课程专为想要探索生成式 AI 世界的 .NET 开发人员而设计。
+
+- [基于Microsoft.Extensions.VectorData实现语义搜索 - EdisonZhou - 博客园](https://www.cnblogs.com/edisonchou/p/-/introduction-to-vector-query-demo)
+
+- [AI与.NET技术实操系列 - 开篇 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18744841)
+
+- [技术速递｜立即使用 .NET 和 DeepSeek R1 构建智能应用程序！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511324&idx=2&sn=41fe0a26767a18490741068833571dc8&chksm=9606ef28956ef6510adf0941cb787af8c0a6b06e8676fad1dcd87f2c46ede382f665b3a3802f&scene=126&sessionid=1742038870#rd)
+
+- **Ollama**
+
+  - [GitHub - ollama/ollama: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.](https://github.com/ollama/ollama)
+    - [Ollama API](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-completion)
+    - [Ollama OpenAI API](https://github.com/ollama/ollama/blob/main/docs/openai.md)
+  - [GitHub - awaescher/OllamaSharp: The easiest way to use the Ollama API in .NET](https://github.com/awaescher/OllamaSharp)
+  - [Ollama API Reference - Ollama English Documentation](https://ollama.readthedocs.io/en/api/#generate-a-completion)
+  - [ollama+deepseek本地部署，安装卸载模型及使用方法](https://baijiahao.baidu.com/s?id=1823397045890181844)
+
+- **OpenAI**
+
+  - [快速入门 Quickstart – OpenAI接口文档中文版](https://www.openaidoc.com.cn/docs/quickstart)
+    - [对话Chat – OpenAI接口文档中文版](https://www.openaidoc.com.cn/api-reference/chat)
+
+  - [API Platform | OpenAI](https://openai.com/api/)
+
 - **小型语言模型 (SLM)**
+
   - [2024 年 5 种领先的小语言模型：Phi 3、Llama 3 等-CSDN博客](https://blog.csdn.net/weixin_47567401/article/details/139176010)
   - [Phi小模型开发教程：用C#开发本地部署AI聊天工具，只需CPU，不需要GPU，3G内存就可以运行，不输GPT-3.5 - chingho - 博客园](https://www.cnblogs.com/chingho/p/18681020)
+
 - **DeepSeek**
+
+  - [GitHub - deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1?tab=readme-ov-file#usage-recommendations)
+
+  - [首次调用 API | DeepSeek API Docs](https://api-docs.deepseek.com/zh-cn/)
+
+  - [对话补全 | DeepSeek API Docs](https://api-docs.deepseek.com/zh-cn/api/create-chat-completion)
+
+  - [在 VSCode 中使用 - AI 智算产品文档](https://docs.coreshub.cn/console/big_model_server/call_scenario/vscode/)
+
   - [清华大学推出的 DeepSeek 从入门到精通（104页）免费教程！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510076&idx=2&sn=aeebf5e150abb989e1c273d5bf5e0f82&chksm=9635785c46b25950b2025bd97092ad8f194f6090edbe2fabc157a2d5b154e80f5c2a982f625a&scene=126&sessionid=1739149606#rd)
+
   - [告别 DeepSeek 系统繁忙，七个 DeepSeek 曲线救国平替入口，官网崩溃也能用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510105&idx=1&sn=eb1cbbe9a4e0446a26d35111da93f6b8&chksm=96922070776c46623a722150f29f718b73e0dc2843c6e2ce7436b1c57fe9047183cb41b120b9&scene=126&sessionid=1739234801#rd)
+
+  - [清华大学推出第二讲 DeepSeek 如何赋能职场应用？从提示语技巧到多场景应用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510482&idx=1&sn=38779c751a3d66d40b9159b03af4ea40&chksm=96fda3eb315e8f7386ab2c709051ac023a5857f25193a2b9fb5dcadd137c0e987fc6834c4b40&scene=126&sessionid=1739703172#rd)
+
   - [20个很强的DeepSeek提问公式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510143&idx=3&sn=28531e11714e91ea60be4971c327bdbf&chksm=9683470283891d5f6ea6b4034850da1aec6ecd9cf2ad5c8c62ec16411757d887b3c9d55f2528&scene=126&sessionid=1739322503#rd)
+
+  - [DeepSeek缝合Claude，比单用R1/o1效果都好！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510701&idx=2&sn=34491ba1926d823264d59d553e9ad46a&chksm=96c004cc7b7e58429fedc38317a6ead8249d946c282feecfadda794e110419d0aebadc5ecd35&scene=126&sessionid=1740099959#rd)
+
+  - [清华大学推出第四讲使用 DeepSeek + DeepResearch 让科研像聊天一样简单！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510760&idx=2&sn=cea35f9b31c939b41697bf7756fca61d&chksm=96395a1abed2163eae2cd2594875cabdca12985aa8bbf761f96e39ced28b2e6fb72262d34619&scene=126&sessionid=1740209460#rd)
+
+  - [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510880&idx=1&sn=50fa193ece9f8aaf5bf9e064dc152f7f&chksm=965c9e6eca80865ae15eeb606308abd71423850997952dfa5c2cad7cf03dd40d051aa853aff9&scene=126&sessionid=1740824346#rd)
+
+  - [清华大学《AIGC发展研究报告3.0版》](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510865&idx=2&sn=e121e13c5c31bbc1f9e86a56b7974076&chksm=96950d5d4039fb7cb616798ca5f5e24716ab9c572e3b899409724e25bd67cdf5163bca1f9aef&scene=126&sessionid=1740703118#rd)
+
+  - [清华大学推出第六讲：使用DeepSeek赋能家庭教育，开启智能育儿新时代！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511134&idx=2&sn=eae717595c9a2f16f7fdd35bb5c880a3&chksm=965526788ca2138a445bd4ef7e7b04bb9b91a757861bac6b23661c14a2d0e5f04716c8204ac9&scene=126&sessionid=1741568037#rd)
+
+  - [一文掌握DeepSeek本地部署+Page Assist浏览器插件+C#接口调用+局域网访问！全攻略来了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510781&idx=2&sn=f9317dc2cd672310c65287892e944929&chksm=96661614534efbe1a680c851306c46ad98a5fb6cb645321b90ed4855627fce2042f157be63fa&scene=126&sessionid=1740314463#rd)
+
+  - [【.NET】调用本地 Deepseek 模型 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/18731997)
+
+    > 本篇咱们来聊一聊怎么在 .NET 代码中使用本地部署的 Deepseek 语言模型。大伙伴们不必要紧张，很简单的，你不需要学习新知识，只要你知道 .NET 如何访问 HTTP 和 JSON 的序列化相关就够了。
+
+  - [.NET 使用 DeepSeek R1 开发智能 AI 客户端 - 小码编匠 - 博客园](https://www.cnblogs.com/1312mn/p/18715438)
+
+    > deepseek-dotnet 项目不仅包含了如何在 .NET 中集成和使用 DeepSeek 模型的详细示例，还展示了如何通过 Microsoft.Extensions.AI (MEAI) 库来简化与 DeepSeek R1 模型的交互。
+
+  - [C# 集成 DeepSeek 模型实现 AI 私有化（本地部署与 API 调用教程） - 小码编匠 - 博客园](https://www.cnblogs.com/1312mn/p/18729302)
+
+    > 自从 DeepSeek 大模型火了以来，网络上出现了许多关于本地部署的教程和方法。然而，要真正深入了解其功能和应用，还是需要自己动手进行一次本地部署。
+    >
+    > DeepSeek 作为一个高效的自然语言处理模型，其本地部署能力为大家提供了灵活的应用场景。不管是开发私有化的 AI 应用，还是集成到现有的系统中，DeepSeek 都能提供强大的支持。
+    >
+    > 本文将详细介绍如何快速部署 DeepSeek 模型，并通过 C# 调用其 API 接口，从而搭建高效的私有 AI 服务。我们将从环境准备、本地部署、API 客户端配置到实际调用接口，完成整个过程。
+
+  - **DeepSeek 平替版本**
+
+    - [分享一个免费、快速、无限量使用的满血 DeepSeek R1 模型，支持深度思考和联网搜索！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511324&idx=1&sn=518b6da23bf7b78197fb53fa1effddcf&chksm=96e1a2bc746d323cb875a8477a95428bc22108de8ce1b174165677244388b347d3a57cae83d3&scene=126&sessionid=1742038870#rd)
+
 - **AI编程助手**
+
   - [Visual Studio使用GitHub Copilot提高.NET开发工作效率](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509901&idx=1&sn=dbe05f2b4bdae0b03c20e45de3340412&scene=21#wechat_redirect)
 
+- **AI 程序数据库**
+
+  - [Building .NET AI apps with Chroma - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-chroma-db-csharp-sdk/)
+
+    > 无论您是构建 AI 解决方案还是使用高级搜索功能增强现有项目，您现在都可以选择将 Chroma 用作 .NET 应用程序中的数据库提供程序。
+
+    - [Chroma](https://trychroma.com/)
+    - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
 
 
 
@@ -118,6 +216,14 @@
 
 
 
+## C. 测试
+
+- [Microsoft.Testing.Platform: Now Supported by All Major .NET Test Frameworks - .NET Blog](https://devblogs.microsoft.com/dotnet/mtp-adoption-frameworks/)
+
+  > 一年前，我们推出了 Microsoft.Testing.Platform，作为 MSTest Runner 公告的一部分。我们的目标是为 .NET 项目创建一个可靠的测试平台，专注于可扩展性和模块化。
+
+
+
 ## D. DotNet学习
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
@@ -140,6 +246,10 @@
     - [标准数字格式字符串 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/standard-numeric-format-strings)
     - [自定义数字格式字符串 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/custom-numeric-format-strings)
     - [概述：如何在 .NET 中设置数字、日期、枚举和其他类型的格式 - .NET | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/standard/base-types/formatting-types)
+- **委托**
+  - [C# 委托与 Lambda 表达式转换机制及弱事件模式下的生命周期分析 - 陈百川 - 博客园](https://www.cnblogs.com/buachuan/p/18385701)
+  - [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18594690)
+
 
 
 
@@ -156,7 +266,17 @@
 - [提升.NET性能：深入理解.NET中的Span与Substring (qq.com)](https://mp.weixin.qq.com/s/zufKoMoo-Z41W6wAR9nklw)
 - [.NET掌握 LINQ 神器：揭秘 AsEnumerable、DefaultIfEmpty 和 Empty 的真正用法 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504940&idx=3&sn=9d80e7ac52959dddd3ff8d9620a7bb48&chksm=9621db62ce5d56498e0eabb91db24dcfe25baf9bafdb80d602c1a3fd1ecd115942f7ec6a69e3&scene=126&sessionid=1725930428#rd)
 - [2024年各编程语言运行100万个并发任务需要多少内存？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=3&sn=f4ea3d7d4896ca06c11996116c9cdd88&chksm=96a3c34dedb89d53b0df04751dc66a39e65d0f7e6f5c5cba2734ca4ff5fb7f5e14c633b8e7f9&scene=126&sessionid=1733100642#rd)
-- [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18594690)
+- 
+
+
+
+## D. DotNet 新特性
+
+- **.NET 9/C# 13**
+  - -[.NET 9 的关键功能](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511000&idx=3&sn=582f6f1d479b2891835085b383bd7c1f&chksm=961401619ad4576ecdef66081c93323e4abff730cb44af87109b93fcc015c8604bdfca3b8abe&scene=126&sessionid=1741260725#rd)
+
+- **.NET 10/C# 14**
+  - [.NET 10首个预览版发布：重大改进与新特性概览！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510975&idx=1&sn=5c369c5afa39966c6bccbb975d6972b0&chksm=96135e0ae4bf9b6200d5ec16fd2926513bb16dedf836e27fbb12eb3ae0364ff53a5068280bb9&scene=126&sessionid=1741049507#rd)
 
 
 
@@ -204,6 +324,12 @@
 - [.NET Aspire Quick Tip - Managing Container & Data Lifetime - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-aspire-container-lifetime/)
 
   > .NET Aspire 通过其强大的应用程序组合编排功能增强了本地开发过程。在 .NET Aspire App Host 中，您可以在一个集中位置为应用程序指定所有项目、可执行文件、云资源和容器。当您运行 App Host 项目时，.NET Aspire 将自动运行您的项目和可执行文件，根据需要提供云资源，并下载和运行作为应用程序依赖项的容器。.NET Aspire 9 添加了新功能，让您可以更好地控制在本地计算机上管理容器生命周期的方式，从而在使用容器时加快开发速度。
+
+- [.NET Aspire 9.1 is here with six great new dashboard features, and more! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-aspire-9-1/?hide_banner=true)
+
+  > 我们很高兴地宣布 .NET Aspire 9.1 的发布！此版本包括几项新功能和生活质量改进，这些改进基于开发人员在生产应用程序中使用 .NET Aspire 的反馈。在本文中，我们将重点介绍 .NET Aspire 仪表板中的新功能，以及此版本中添加的其他一些很酷的功能。
+
+- [在 Aspire 项目下使用 AgileConfig - Agile.Zhou - 博客园](https://www.cnblogs.com/kklldog/p/18747156/aspire-agileconfig)
 
 
 
@@ -360,6 +486,12 @@
 
 
 
+## J. 简历
+
+- [互联网寒冬下，如何写好一份.NET求职简历？附带简洁简历模板和简历优化服务来了！！！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511000&idx=1&sn=95a590f63dc27f714c1d6748c2c70dc0&chksm=964d905a546116fab93836e4342c577b0608c8b60ed2f74db4a874aed8298ca87bbda1e4419d&scene=126&sessionid=1741260725#rd)
+
+
+
 ## K. 对象拷贝
 
   - [C# WPF中实现深拷贝的五种方式 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=4&sn=cbd80bc959054e10d6d6ee6cd829df2b&chksm=96b04c00fe153aa7f033a61862aaaf1674e679a24ef1053bf56c400baaa4080405af70054752&scene=126&sessionid=1726188991#rd)
@@ -369,8 +501,16 @@
 ## K. 跨平台
 
 - [基于XAML框架和跨平台项目架构设计的深入技术分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507161&idx=2&sn=7c9f9999d90464daeb54a5b278cc7bb4&chksm=966085546f6c6421766cbe5ce0d8b45840e1a66cafdbe11553ee10f88b3110400f292d6a0944&scene=126&sessionid=1731206998#rd)
+
 - **Avalonia**
   - [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
+
+- **MAUI**
+
+  - [.NET MAUI Performance Features in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/)
+
+    > .NET 多平台应用 UI （.NET MAUI） 随着每个版本的发展而不断发展，.NET 9 将重点放在剪裁和新的受支持运行时上：NativeAOT。这些功能可以帮助您减小应用程序大小、缩短启动时间，并确保您的应用程序在各种平台上平稳运行。希望优化其 .NET MAUI 应用程序的开发人员和 NuGet 包作者都能够在 .NET 9 中利用这些功能。
+
 
 
 
@@ -408,6 +548,17 @@
 
 
 
+## M. Modbus
+
+- [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18411953)
+- [ModbusRTU通信协议报文剖析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18430033)
+- [RS485与ModbusRTU - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18406808)
+- **工具**
+  - [MTing(modbus调试工具的使用） - 杰瑞鼠 - 博客园](https://www.cnblogs.com/jieruishu/p/13998997.html)
+
+
+
+
 ## N. NuGet
 
 - [Dramatically faster package restores with .NET 9's new NuGet resolver - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/)
@@ -419,8 +570,13 @@
 
 ## O. ORM
 
+- [企业应用开发中.NET ORM EF常用哪种模式？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511234&idx=1&sn=0d31d806101a3394b2547a2800000a95&chksm=963cde7e775d584ebdbca94779608ba5592a5dae952fcf5e3c9f0f6d24debf0ea4a43a892255&scene=126&sessionid=1741828329#rd)
+- [16个值得推荐的.NET ORM框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247493672&idx=1&sn=5105ef0a229e3fbc9caf0f8fae0d99bb&scene=21#wechat_redirect)
 - [.NET使用EF批量插入数据，一行代码性能飙升！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=4&sn=0cab188b357b4b8128001df03fcc7ebc&chksm=965f9b55822ce4318fd4b1cbcf0ef2085c56866f6aa2c12c25587dd4c8c665f835e4c5651b2b&scene=126&sessionid=1726016076#rd)
-- [C# Winform使用SqlSugar操作数据库?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=3&sn=0753b2089b4ffcea93748bcea8a56ddf&chksm=9688e655f6fc8c7449c2478f15226ea8a18f8065671fe8315197484b03b41e9db938aadd6dac&scene=126&sessionid=1729645767#rd)
+- **SQLSugar**
+  - [SQLSugar 支持 TDengine 超级表的使用指南 - 阿妮亚 - 博客园](https://www.cnblogs.com/sunkaixuan/p/18740748)
+  - [C# Winform使用SqlSugar操作数据库?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=3&sn=0753b2089b4ffcea93748bcea8a56ddf&chksm=9688e655f6fc8c7449c2478f15226ea8a18f8065671fe8315197484b03b41e9db938aadd6dac&scene=126&sessionid=1729645767#rd)
+
 
 
 
@@ -459,6 +615,12 @@
 
 - [10s 搭建一个前端新项目，就这么简单！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=2&sn=b73a20aa72a813139b86b287cce83462&chksm=9617240011f23aa02d361a27bbdb325ba71d75643e61d1ffb6fc19bc3d7d62b450a02b87472d&scene=126&sessionid=1733445770#rd)
 - [10s 搭建一个前端新项目，就这么简单！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509904&idx=2&sn=689ff7d808cabb792739701b95c2d52f&chksm=96263fbd0eb4bef55594518c5da54872f90f07525d69fae4b4d265bac1a36c7c1e7b29e81ca2&scene=126&sessionid=1738804025#rd)
+
+#### R. Razor
+
+- [New Features for Enhanced Razor Productivity! - .NET Blog](https://devblogs.microsoft.com/dotnet/enhancing-razor-productivity-with-new-features/)
+
+  > 如果您正在使用 Razor 构建 Web 应用程序，我们有一些很棒的新功能，您会喜欢 Visual Studio 和 Visual Studio Code！提取到组件重构和基于 Roslyn 的新 C# 分词器现已推出，旨在提高 Razor 文件的工作效率，让我们来看看。
 
 
 
@@ -524,6 +686,14 @@
 ## S. 上位机开发
 
 - [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18411953)
+
+
+
+## S. 深度学习
+
+- [C# 深度学习：对抗生成网络(GAN)训练头像生成模型 - 痴者工良 - 博客园](https://www.cnblogs.com/whuanle/p/18708861)
+
+  > 本教程将通过一个示例介绍生成对抗网络(DCGAN)，在教程中，我们将训练一个生成对抗网络 (GAN) 模型来生成新的名人头像。这里的大部分代码来自 pytorch/examples 中的 DCGAN 实现，然后笔者通过 C# 移植了代码实现，本文档将对该实现进行详尽的解释，并阐明该模型的工作原理和原因，阅读本文不需要 GAN 的基础知识，原理部分比较难理解，不用将精力放在这上面，主要是根据代码思路走一遍即可。
 
 
 
@@ -599,6 +769,14 @@
 ## V. IValueConverter
 
 - [使用ValueConverters扩展实现枚举控制页面的显示 - 芝麻科技 - 博客园 (cnblogs.com)](https://www.cnblogs.com/sesametech-dotnet/p/18447676)
+
+
+
+## V. VS Code
+
+- [C# Dev Kit Updates: .NET Aspire, Hot Reload, and More! - .NET Blog](https://devblogs.microsoft.com/dotnet/csharp-on-visual-studio-code-just-got-better-with-enhancements-to-csharp-dev-kit/)
+
+  > 为了响应您的反馈，该团队推出了一系列更新，旨在增强用户体验并提高性能和可靠性。这些更新旨在使使用 VS Code 的开发人员能够更高效、更愉快、更高效地使用 C# 进行编码。
 
 
 
@@ -685,7 +863,12 @@
 ## Y. 依赖注入
 
 - [理解和使用 .NET Core中依赖注入的作用域](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=3&sn=5f3c95b74a4cef7dbc4ffb386de431f0&chksm=963ec5ce8ccb80cecd3353b2d2bb9a5dae130e85a5a020b9670cd4649670bb993e08233bab3c&scene=126&sessionid=1731206998#rd)
+
 - [.NET 依赖注入中的 Captive Dependency - Agile.Zhou - 博客园](https://www.cnblogs.com/kklldog/p/18663148/captive-dependency)
+
+- [.NET中 泛型 + 依赖注入 的实现与应用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18714657)
+
+  > .NET中 泛型 + 依赖注入 的实现与应用。
 
 
 
@@ -694,6 +877,7 @@
 - [C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式 - IT规划师 - 博客园 (cnblogs.com)](https://www.cnblogs.com/hugogoos/p/18453906)
 - [C#字符串拼接的6种方式及其性能分析对比](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510211&idx=1&sn=7a74eccdac26ddfe5b2d6730982097b6&chksm=96d566ef30cf03b40df87189e17e0905e9863a271ca8bbdd78e00f7aecdce5057de485dd84bb&scene=126&sessionid=1739414680#rd)
 - [C# 字符串拼接的 7 种方式及性能对比 - 唐青枫 - SegmentFault 思否](https://segmentfault.com/a/1190000045650291)
+- [用 C# 插值字符串处理器写一个 sscanf](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510505&idx=2&sn=cba9ba32d24070d1fc71028db1473b85&chksm=96214cf9b6fbca195ba0b031bc35df9cf25df8581fe25c17674505bd40557d70965d62b18774&scene=126&sessionid=1739753079#rd)
 
 
 

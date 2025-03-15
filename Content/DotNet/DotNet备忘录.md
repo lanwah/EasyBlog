@@ -34,7 +34,18 @@
    b = intVal > 6;
    ```
    
-3. 1
+3. **可空类型赋值**
+
+   ```C#
+   int? intVal = null;
+   // intVal = null;
+   intVal += 5;
+   
+   // intVal = 0
+   intVal = 0;
+   // intVal = 5
+   intVal += 5;
+   ```
 
 4. 1
 

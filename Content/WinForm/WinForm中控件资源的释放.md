@@ -100,7 +100,7 @@ namespace System.ComponentModel
 
 <div style="background:red;color:white;padding:15px;border-radius:6px;">但结合到上面的 Component 类的实现里，这个初衷其实就发生了些微妙的转变！！！IDisposable 接口的作用更像是提供手动释放资源的一种机制</div>
 
-![image-20250123145653350](Images/WinForm中控件资源的释放/image-20250123145653350.png)
+![image-20250123145653350](../Images/WinForm中控件资源的释放/image-20250123145653350.png)
 
 通过上面截图里的注释可知 IDisposable 接口的 `void Dispose();` 方法释放的不再仅限于非托管资源，而是所有的资源！所以我们知道：
 
