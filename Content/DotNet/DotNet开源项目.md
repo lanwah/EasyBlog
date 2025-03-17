@@ -877,6 +877,7 @@
 7. [推荐4款基于.NET开源、功能强大的CMS建站系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509010&idx=1&sn=f202037e67c1f556621a62994edd9c2a&chksm=96337c05f017d317393100d64cf7e1500444e4b2f9fa87d9de1941aa9dcf6b93cb7f59454bc4&scene=126&sessionid=1735998080#rd)
 8. [推荐4款基于.NET开源、功能强大的CMS建站系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【FytSoaCms】](https://mp.weixin.qq.com/s/ZEFXHHs8UqwK63ttN92Bcg)
 8. [一个开源且免费的 .NET CMS 和应用程序框架【Cofoundry】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510865&idx=1&sn=fca7db87b28a26706045a2d11d60da61&chksm=96c1924829abc5921132e4907b47e1a974fe3181e1027c5a4af58f3f0dcb7dda2fd86dec9049&scene=126&sessionid=1740703118#rd)
+8. [精选5款基于.NET开源、免费、功能强大的CMS内容管理系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【Cofoundry】【FytSoaCms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511347&idx=1&sn=8e69b90393cc09e860d8ecc8cbab5424&chksm=9622d1feb8494dd4143afcc52160fbc3d4a7a9efb42308da5624d4ebdc6c815d08fc031a989b&scene=126&sessionid=1742126430#rd)
 
 
 

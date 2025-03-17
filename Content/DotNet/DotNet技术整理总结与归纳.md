@@ -669,6 +669,7 @@
 - [SQL 语句是怎么执行的？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509250&idx=2&sn=ce8452644560fe8cb6e06d37ec0fa542&chksm=9696f9c5eae9ef7808109b08ec747104a11e4db6994893c38ad5d8e48de5d76b5833ff467c2b&scene=126&sessionid=1737075474#rd)
 - [面试官：数据库的隔离是什么意思？ (qq.com)](https://mp.weixin.qq.com/s/lGCBVqLrn1gsih9PEOYbgg)
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
+- [工作面试必备：SQL 中的各种连接 JOIN 的区别总结！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511537&idx=1&sn=9acaa59e433339ca24c159ef452d5825&chksm=96a05a9380059117e5ccd4ab46999ea33c07ca29119a68b96ca747abe84dc84f051449672360&scene=126&sessionid=1742173108#rd)
   - MySQL
     - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
 - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
