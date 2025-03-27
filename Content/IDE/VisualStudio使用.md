@@ -133,8 +133,12 @@
 ## Visual Studio 技巧
 
 - [Visual Studio提高效率的三个小技巧? (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506312&idx=4&sn=133f42ea0405698f6512f7e2597365e6&chksm=96747c9c1a4963d451ddcf7bf38f5c371db01393b0b184da8dd0c5ca2ff281caaf589346b7a2&scene=126&sessionid=1728867433#rd)
+
 - [.NET 在 Visual Studio 中的高效编程技巧集](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508804&idx=1&sn=ae9d4a9d9695be1a315a5d5809d43823&chksm=96683bee7eee064a02c90f3e7a39c8686b58fdf95571b2aeebfb781c067f5779fe830ed1c4b1&scene=126&sessionid=1735173789#rd)
-- 
+
+- [【译】Visual Studio 中新的强大生产力特性 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18764506)
+
+  > 有时候，生活中的小事才是最重要的。在最新版本的 Visual Studio 中，我们增加了一些功能和调整，目的是让您脸上带着微笑，让您更有效率。这里是其中的一些列表，如果您想要完整的列表，请查看发行说明。
 
 
 
@@ -143,3 +147,13 @@
 - [Visual Studio 2022 Release Notes | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-notes#17.12.3)
 - [【译】我们最喜欢的2024年的 Visual Studio 新功能 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18687409)
 - 
+
+
+
+## 功能与探索
+
+- [Introducing support for SLNX, a new, simpler solution file format in the .NET CLI - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-slnx-support-dotnet-cli/)
+
+  > 多年来，解决方案文件一直是 .NET 和 Visual Studio 体验的一部分，并且它们始终具有相同的自定义格式。最近，Visual Studio 解决方案团队已开始预览一种新的基于 XML 的解决方案文件格式，称为 SLNX。从 .NET SDK 9.0.200 开始，dotnetCLI 支持以与现有解决方案文件相同的方式构建和与这些文件交互。在本文的其余部分，我们将展示用户如何迁移到新格式，探索 CLI 中的新支持dotnet，并讨论迈向格式普遍可用版本的后续步骤。
+
+- [技术速递｜SLNX 支持简介，.NET CLI 中一种更加简化的全新解决方案文件格式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511825&idx=2&sn=d6c14f82a9bc5a880a3b35b362ce420e&chksm=96ce3cc463f7b6c12bec65b68da85568183fef5f918718bceae3b110971f08795329f8e5bbe7&scene=126&sessionid=1743036165#rd)

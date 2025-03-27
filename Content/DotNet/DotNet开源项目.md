@@ -109,6 +109,7 @@
 | **Git:[Notepads](https://github.com/0x7c13/Notepads)**       | [MIT license](https://github.com/0x7c13/Notepads#MIT-1-ov-file) | Notepads是一个.NET开源、免费（MIT License）、现代、轻量级、<br />具有极简主义设计的文本编辑器。 |
 | Git:[DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | [MS-PL license](https://github.com/Code52/DownmarkerWPF#MS-PL-1-ov-file) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。<br />功能丰富，可直接打开并保存到您的博客、GitHub等平台，<br />支持从剪贴板粘贴图片到Markdown、Jekyll网站，支持从文件夹打开，以及更多功能！ |
 | Git:[NetPad](https://github.com/tareqimbasher/NetPad)        | [MIT license](https://github.com/tareqimbasher/NetPad#MIT-1-ov-file) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，<br />它允许用户立即运行C#代码，无需创建和管理项目。 |
+| Git:[CsvTextEditor](https://github.com/WildGums/CsvTextEditor) | MIT                                                          | CsvTextEditor是一个基于 C# 开源（MIT License）、免费、<br />易于使用的 CSV 文本编辑器应用程序，<br />使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。 |
 
 ### 相关参考
 
@@ -123,6 +124,8 @@
 - [NetPad：一个.NET开源、跨平台的C#编辑器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510760&idx=1&sn=808db3a6be3a95af0d170f4f0d1fe03d&chksm=96199d86ee2dd3b5b86c847378ca9d8558d3d98a25915dcdb69bbbbcfa5cd53883aeb9dc5d31&scene=126&sessionid=1740209460#rd)
 
   > NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。
+
+- [精选 5 款基于 .NET 开源、功能强大的编辑器【NetPad】【RoslynPad】【Notepads】【CsvTextEditor】【DownmarkerWPF】](https://mp.weixin.qq.com/s/hmd1e87YTLE8kXJQBpeONg)
 
 
 
@@ -353,6 +356,7 @@
 
 - [**C# .NET 6 使用WorkFlow Core 创建工作审批流**](https://www.cnblogs.com/BFMC/p/18233359)
 - [一款.NET开源、功能强大的工作流引擎 【CCFlow】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504974&idx=3&sn=32f21f3cb372da5c88d54c2ec9893536&chksm=9647e4e4abc1aca903085629164e54f3d20e960222f3745ca537e9ab23ab89754c5084027bd3&scene=126&sessionid=1726016076#rd)
+- [一款基于 .NET 开源、配置灵活的工作流引擎【CCFlow】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511778&idx=1&sn=0a5bc8b5785ee70a365427499c337e6d&chksm=9635f58626ef094dea7fa4b547874ef8b98c233b9a08273a67274c76b7bb489e3f7935e2e8de&scene=126&sessionid=1742863576#rd)
 - [一个基于.NET8+WPF开源的简单的工作流系统【AIStudio.Wpf.AClient】](https://mp.weixin.qq.com/s/F0W5SzyAwKYqJ-kyHEBkeg)
 - [基于.NET开源、功能强大且灵活的工作流引擎框架【elsa-core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507190&idx=1&sn=33ac95b21deb373c8f85a816aec34588&chksm=960fbc0fc36506f2430219beb6a7e40abcb28a9f5e4a6513f8cad28f6fe9aad5dcaf1b8d19ed&scene=126&sessionid=1731286247#rd)
   - [.NET 工作流Elsa - 书签](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509270&idx=3&sn=10f8fd2a0ec783e90e6895660d9d1678&chksm=9605383e5777347916f287bbd120fc8fec19226322b9725d8d2664dda7761630cb4e49579b64&scene=126&sessionid=1737334659&poc_token=HFlYkGejOt-Pae-Y4R8s_TycKeD_qGtZ3lgznQ-U)
@@ -375,7 +379,7 @@
 | **Git:[AutoMapper](https://github.com/AutoMapper/AutoMapper)** | [MIT license](https://github.com/AutoMapper/AutoMapper#MIT-1-ov-file) | AutoMapper是一个简单易用的.NET对象映射库，<br />用于快速、方便地进行对象之间的转换和映射，<br />极大的简化了开发人员在处理对象映射时的工作量。<br />[在线文档](https://docs.automapper.org/en/stable/Getting-started.html) |
 | **Gitee:[MinerU](https://gitee.com/ergmax/MinerU)**          | AGPL-3.0                                                     | MinerU是一款一站式、开源、高质量的数据提取工具，旨在提供从PDF文档、<br />网页及多种格式电子书中提取信息的全面解决方案。<br />[在线体验](https://opendatalab.com/OpenSourceTools/Extractor/PDF) |
 | **Git:[quicktype](https://github.com/glideapps/quicktype)**  | [Apache-2.0 license](https://github.com/glideapps/quicktype#Apache-2.0-1-ov-file) | quicktype 是一个用于从 JSON、JSON Schema、TypeScript 和 GraphQL <br />查询中生成强类型模型和序列化器。这使得在多种编程语言中以类型安全<br />的方式处理 JSON 变得轻而易举。quicktype 支持多种输入和输出语言，<br />并提供了灵活的使用方式，包括通过 Web 应用、命令行接口（CLI）<br />以及作为 JavaScript 函数集成到项目中。<br />[在线演示](https://app.quicktype.io/#l=cs) |
-| **Git:  [ FileConverter](https://github.com/Tichau/FileConverter)** | [GPL-3.0 license](https://github.com/Tichau/FileConverter#GPL-3.0-1-ov-file) | 简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单<br />来转换和压缩一个或多个文件<br />[下载地址](https://file-converter.io) |
+| **Git:  [FileConverter](https://github.com/Tichau/FileConverter)** | [GPL-3.0 license](https://github.com/Tichau/FileConverter#GPL-3.0-1-ov-file) | 简易、高效的文件转换器，允许用户通过Windows资源管理器的上下文菜单<br />来转换和压缩一个或多个文件<br />[下载地址](https://file-converter.io) |
 | **Git:[MethodTimer](https://github.com/Fody/MethodTimer)**   | [MIT license](https://github.com/Fody/MethodTimer#MIT-1-ov-file) | MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，<br />用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。 |
 | **Git:[SteamTools](https://github.com/BeyondDimension/SteamTools)** | [GPL-3.0 license](https://github.com/BeyondDimension/SteamTools#GPL-3.0-1-ov-file) | Watt Toolkit不仅具备强大的GitHub加速功能，能够显著提升GitHub的访问速度，<br />让我们能够更快地下载代码、提交更新和进行协作，<br />而且还集成了丰富的Steam工具箱功能，<br />如网络加速、账号切换、库存游戏管理和本地令牌验证等。<br />这些功能不仅为Steam用户提供了极大的便利，<br />也让我们在娱乐时能够享受到更加流畅的网络体验。<br />[下载地址](https://github.com/BeyondDimension/SteamTools/releases) |
 | Git:[UnitsNet](https://github.com/angularsen/UnitsNet)       | [MIT-0 license](https://github.com/angularsen/UnitsNet#MIT-0-1-ov-file) | 在现代软件开发中，准确处理不同单位的转换是一个常见而复杂的需求。<br />无论是处理温度、长度、重量还是其他物理量，都需要可靠的单位转换机制。<br />本文将深入介绍 Units.NET 库，展示如何在 .NET 应用中优雅地处理单位转换。 |
@@ -477,16 +481,18 @@
 | **Git:[vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)** | [MIT license](https://github.com/vbenjs/vue-vben-admin#MIT-1-ov-file) | Vue Vben Admin是一个基于 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 的后台解决方案，<br />目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、utils、hooks、<br />动态菜单、权限校验、按钮级别权限控制等功能。项目会使用前端较新的技术栈，<br />可以作为项目的启动模版，以帮助你快速搭建企业级中后台产品原型。也可以作为一个示例，<br />用于学习 vue3、vite、ts 等主流技术。该项目会持续跟进最新技术，并将其应用在项目中。<br />[在线演示](https://www.vben.pro/#/auth/login) |
 | **Git:[naive-ui-admin](https://github.com/jekip/naive-ui-admin)** | [MIT license](https://github.com/jekip/naive-ui-admin#MIT-1-ov-file) | Naive Ui Admin 是一款 完全免费 且可商用的中后台解决方案，<br />基于 Vue3.0 、Vite 、 Naive UI 和 TypeScript 。 它融合了最新的前端技术栈，<br />提炼了典型的业务模型和页面，包括二次封装组件、动态菜单、权限校验等功能，<br />助力快速搭建企业级中后台项目。<br />[在线预览](https://naive-ui-admin.vercel.app) |
 | **Git:[WPFManager](https://github.com/straw-git/WPFManager)** |                                                              | 一款非常漂亮的 WPF 管理系统                                  |
+| Git:[art-design-pro](https://github.com/Daymychen/art-design-pro) | [MIT license](https://github.com/Daymychen/art-design-pro#MIT-1-ov-file) | Art Design Pro是一款开源免费（基于MIT license开源协议）、<br />美观实用的后台管理系统模版，专注于用户体验和快速开发的开源后台管理解决方案。<br />基于 ElementPlus 设计规范，进行了视觉上的精心优化，提供更美观、<br />更实用的前端界面，帮助你轻松构建高质量的后台系统。项目使用 Vue3、<br />TypeScript、Vite 等最新技术栈，ElementPlus 组件库为您提供强大支持，<br />覆盖 80% 的常用组件。 |
 
 ### 相关参考
 
-1. **[一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架 【DncZeus】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492114&idx=2&sn=a9c43f87847ce12d23b6eecb100dd09e&scene=21#wechat_redirect)**
-2. **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
-3. **[一款开箱即用的 Vue3 中后台管理系统框架（支持多款 UI 组件库，兼容PC、移动端）【fantastic-admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=3&sn=1dfb3b8edc9c8bcef6fe4e7a91e948b7&chksm=969d0f3bbaa6526782fc4de1a0a66882d952c723b48b20bc1add106352e5a96d03b708319c5f&scene=126&sessionid=1723768329#rd)**
-2. **[推荐5款免费、开箱即用的Vue后台管理系统模板](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504265&idx=1&sn=29014be03821357a4c299f9ec9e8e1a0&chksm=9634b53ddcd22735888de27ca93039d9421c281bf3093759a2110fb410af7106a22a16aae36b&scene=126&sessionid=1723984334#rd)**
-2. [Vben Admin：一个开箱即用的大型中后台管理系统解决方案【Vue Vben Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=3&sn=db45585b3a315e14fd5a09d1481af9b2&chksm=96c0017e41a96e424b4cff0e4f33b38c7b6cbf5f2a3eeebcea4607c4b9575eb85f3babd90d36&scene=126&sessionid=1729426307#rd)
-2. [2024年值得推荐的6款 Vue 后台管理系统模板，开源且免费！【vue-element-admin】【Naive Ui Admin】【Ant Design Vue Pro】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507867&idx=1&sn=95eedb4ba67fbcf3ddc04443ef8c9602&chksm=962c08fbe2f25995e349b7f73d1da0ce8e982e1e874337da2330d8c3b5ec922ed8bf770dab98&scene=126&sessionid=1733100642#rd)
-2. [一个使用 WPF 开发的管理系统【WPFManager】](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
+- **[一个基于 .NET 7 + Vue.js 的前后端分离的通用后台管理系统框架 【DncZeus】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492114&idx=2&sn=a9c43f87847ce12d23b6eecb100dd09e&scene=21#wechat_redirect)**
+- **[提升生产力：8个.NET开源且功能强大的快速开发框架](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503685&idx=1&sn=2bfdef89c22d3e62acb2c76c46d8fb86&chksm=967a835a8a96d01039ded26c94c4fae73f7a0b4478874d6dc5d0eff66556dfd4c0e177b59b04&scene=126&sessionid=1722566287#rd)**
+- **[一款开箱即用的 Vue3 中后台管理系统框架（支持多款 UI 组件库，兼容PC、移动端）【fantastic-admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=3&sn=1dfb3b8edc9c8bcef6fe4e7a91e948b7&chksm=969d0f3bbaa6526782fc4de1a0a66882d952c723b48b20bc1add106352e5a96d03b708319c5f&scene=126&sessionid=1723768329#rd)**
+- **[推荐5款免费、开箱即用的Vue后台管理系统模板](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504265&idx=1&sn=29014be03821357a4c299f9ec9e8e1a0&chksm=9634b53ddcd22735888de27ca93039d9421c281bf3093759a2110fb410af7106a22a16aae36b&scene=126&sessionid=1723984334#rd)**
+- [Vben Admin：一个开箱即用的大型中后台管理系统解决方案【Vue Vben Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=3&sn=db45585b3a315e14fd5a09d1481af9b2&chksm=96c0017e41a96e424b4cff0e4f33b38c7b6cbf5f2a3eeebcea4607c4b9575eb85f3babd90d36&scene=126&sessionid=1729426307#rd)
+- [2024年值得推荐的6款 Vue 后台管理系统模板，开源且免费！【vue-element-admin】【Naive Ui Admin】【Ant Design Vue Pro】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507867&idx=1&sn=95eedb4ba67fbcf3ddc04443ef8c9602&chksm=962c08fbe2f25995e349b7f73d1da0ce8e982e1e874337da2330d8c3b5ec922ed8bf770dab98&scene=126&sessionid=1733100642#rd)
+- [一个使用 WPF 开发的管理系统【WPFManager】](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
+- [一款开源免费、美观实用的后台管理系统模版，简单轻量、开箱即用！【Art Design Pro】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=3&sn=03e8bfb14ff6c2a9e228dbfb2be4d51b&chksm=961f50706b65eff53ba9523360260b1bd69997b8bf18fb492b43d93b7eb9e4e27d5400fbc89e&scene=126&sessionid=1742951008#rd)
 
 
 
@@ -1053,13 +1059,15 @@
 | **Git:[PasteEx](https://github.com/huiyadanli/PasteEx)**     | [GPL-3.0 license](https://github.com/huiyadanli/PasteEx#GPL-3.0-1-ov-file) | Paste As File 把剪贴板的内容直接粘贴为文件                   |
 | uTools                                                       |                                                              | uTools是一款功能丰富、高度可定制的桌面软件（实用工具箱）支持Windows, Mac, Linux版本，<br />通过集成多种实用插件，为用户提供了一个便捷高效的工作平台。无论是专业人士还是普通用户，<br />都能在uTools中找到适合自己的功能，提高工作效率和生活品质。<br />如果你正在寻找一款能够提升工作效率的桌面软件，uTools绝对是一个值得尝试的选择。<br /><br />[官网地址](https://u.tools/)<br />[下载地址](https://u.tools/download/) |
 | **Git:[qttabbar](https://github.com/indiff/qttabbar)**       | [GPL-3.0 license](https://github.com/indiff/qttabbar#GPL-3.0-1-ov-file) | QTTabBar是一款基于.NET开发的可以让你在Windows资源管理器中使用<br />Tab多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，<br />还有给力的文件夹预览功能，大大提高了你工作的效率。就像IE 7和Firefox、<br />Opera那样的。QTTabBar还提供了一些功能插件，<br />如：文件操作工具、树型目录、显示状态栏等等。 |
+| Git:[PowerToys](https://github.com/microsoft/PowerToys)      | [MIT license](https://github.com/microsoft/PowerToys#MIT-1-ov-file) | Microsoft PowerToys 是使用 C++ 和 C# 编程语言开发的。<br />它利用了 Windows 操作系统的底层功能和 API，<br />以及 Microsoft 开发的一些开源库和工具来实现其功能，集成了20多个实用工具。 |
 
 #### 相关参考
 
-1. **[推荐2款.NET开源、轻便、实用的Windows桌面启动器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=1&sn=39b1f51415ccc745ecf62cf27a1a36fe&chksm=96b0ee2f34b1d22b835354746c55d5984f627931fb1c19313d01fcab4cbd4cb97811b0590612&scene=126&sessionid=1721090926#rd)**
-1. [PasteEx：一款.NET开源的Windows快捷粘贴神器【PasteEx】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507675&idx=1&sn=8e0e8e23beaf7717e66dea37702c80e1&chksm=96b53473351b35e5b0ae6c499b3cfb3c21f8d94b5d06bb89d5be4708aad97862a4c26e243777&scene=126&sessionid=1732495973#rd)
-1. [uTools：新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集！【uTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507770&idx=2&sn=965438b1bb24008ad4977a3f8d1936bc&chksm=9697c8284e4dcc9d3962815dc11c139022bbf5067a36fc77ff5c075c47d69b5951d689068aef&scene=126&sessionid=1732756371#rd)
-1. [一款.NET开源的Windows资源管理器标签页工具【QTTabBar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=1&sn=4cca6bd6f556bdadc67d2f4d5aa7a824&chksm=963d8a5009377e6b7312a8053271d9dad48980c48fb0e3b65e84dd6ba4b434cc47b63a463ee5&scene=126&sessionid=1733100642#rd)
+- **[推荐2款.NET开源、轻便、实用的Windows桌面启动器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=1&sn=39b1f51415ccc745ecf62cf27a1a36fe&chksm=96b0ee2f34b1d22b835354746c55d5984f627931fb1c19313d01fcab4cbd4cb97811b0590612&scene=126&sessionid=1721090926#rd)**
+- [PasteEx：一款.NET开源的Windows快捷粘贴神器【PasteEx】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507675&idx=1&sn=8e0e8e23beaf7717e66dea37702c80e1&chksm=96b53473351b35e5b0ae6c499b3cfb3c21f8d94b5d06bb89d5be4708aad97862a4c26e243777&scene=126&sessionid=1732495973#rd)
+- [uTools：新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集！【uTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507770&idx=2&sn=965438b1bb24008ad4977a3f8d1936bc&chksm=9697c8284e4dcc9d3962815dc11c139022bbf5067a36fc77ff5c075c47d69b5951d689068aef&scene=126&sessionid=1732756371#rd)
+- [一款.NET开源的Windows资源管理器标签页工具【QTTabBar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=1&sn=4cca6bd6f556bdadc67d2f4d5aa7a824&chksm=963d8a5009377e6b7312a8053271d9dad48980c48fb0e3b65e84dd6ba4b434cc47b63a463ee5&scene=126&sessionid=1733100642#rd)
+- [微软官方发布的C#开源、免费、实用的Windows工具箱【Microsoft PowerToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247494950&idx=1&sn=a697a3daf988c05b8decbe074f0a3734&scene=21#wechat_redirect)
 
 
 
@@ -1074,26 +1082,41 @@
 | Git:[DevHub](https://github.com/jaywcjlove/DevHub)           |                                                              | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)，经过精心打造，<br />旨在支持开发人员的日常任务，并确保其数据的最高安全性。<br />应用场景非常广泛，重点是可以离线使用。 |
 | **ScreenToGif**                                              | [下载地址](https://www.screentogif.com/downloads)            | ScreenToGif 是一款免费的屏幕录制工具，可以让你录制屏幕上选定区域、<br />网络摄像头直播或板书画图。录制后，你可以对输出进行编辑并保存为 gif、视频或其他格式。<br />该应用程序是由 Nicke S. Manarin 开发的，适用于 Windows 操作系统。 |
 | **Git:[Captura](https://github.com/MathewSachin/Captura)**   | [MIT license](https://github.com/MathewSachin/Captura#MIT-1-ov-file) | Captura是一款基于.NET开源、免费、易于使用的屏幕录制、截图工具，<br />允许用户录制屏幕活动、捕获屏幕截图、录制音频以及记录鼠标和键盘活动<br />（尽管该项目已被归档，但仍然可以下载和使用它） |
-| Git:[ShareX](https://github.com/ShareX/ShareX)               | [GPL-3.0 license](https://github.com/ShareX/ShareX#GPL-3.0-1-ov-file) | ShareX是一款.NET开源免费（基于GPL3.0开源协议）、功能强大、简洁灵活的 Windows 截图、<br />录屏、Gif动图制作神器。 |
+| Git:[ShareX](https://github.com/ShareX/ShareX)               | [GPL-3.0 license](https://github.com/ShareX/ShareX#GPL-3.0-1-ov-file) | ShareX是一款.NET开源免费（基于GPL3.0开源协议）、功能强大、<br />简洁灵活的 Windows 截图、录屏、Gif动图制作神器。 |
 | [Dots](https://github.com/nor0x/Dots)                        |                                                              | Dots 是一款 .NET SDK 管理器，可让您轻松安装、卸载和切换 .NET SDK。<br />它是一款跨平台工具，可在 Windows 和 macOS 上运行，即将支持 Linux。<br />它由 C# 编写，使用 Avalonia 作为 .NET UI 框架。 |
 | Git:[Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | [Apache-2.0 license](https://github.com/Klocman/Bulk-Crap-Uninstaller#Apache-2.0-1-ov-file) | Bulk Crap Uninstaller 是一款基于 .NET 开源（Apache License）、免费、<br />功能强大的Windows应用卸载工具，<br />旨在帮助用户快速且有效地移除系统中不再需要的大量应用程序。<br />支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。<br />虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。 |
+| Git:[Wox](https://github.com/Wox-launcher/Wox)               | [GPL-3.0 license](https://github.com/Wox-launcher/Wox#GPL-3.0-1-ov-file) | ***\*这\******是一款*****\*免费开源\******的跨平台快速启动器，<br />它的核心功能可以用一句话概括：*****\*“按下快捷键，直接做任何事”\****。 |
+| Git:[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | [GPL-3.0 license](https://github.com/TranslucentTB/TranslucentTB#GPL-3.0-1-ov-file) | TranslucentTB 是一个小巧的开源实用程序，**能够改变 Windows 任务栏的透明度**。<br />你可以根据自己的喜好，调整任务栏的透明程度，从轻微的半透明到完全透明，都能轻松实现。 |
+| Git:[Seelen-UI](https://github.com/eythaann/Seelen-UI)       |                                                              | 更改Windows风格                                              |
+| Git:[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | [MIT license](https://github.com/Flow-Launcher/Flow.Launcher#MIT-1-ov-file) | Flow Launcher 是一款方便实用的 Windows 文件搜索和应用程序启动器，<br />能够帮助你快速查找文件、启动应用程序和执行系统操作，<br />提高工作效率和操作便利性。并且生态完善，有插件商店，<br />你可以查看完整的插件列表，或通过 "设置 "中的 "插件商店 "菜单快速安装插件。 |
+| Git：[DevToys](https://github.com/DevToys-app/DevToys)       | [ MIT license](https://github.com/DevToys-app/DevToys#MIT-1-ov-file) | DevToys是一个专门为开发者设计的Windows工具箱，完全支持离线运行，<br />无需使用许多不真实的网站来处理你的数据，<br />常用功能有：格式化（支持 JSON、SQL、XML）、JWT解码、<br />URL编码/解码、UUID生成、图片压缩、文本比较、正则表达式测试、<br />Markdown预览等28+种实用工具。 |
 
 #### 相关参考
 
-1. **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
-1. [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
-1. [摆脱低效复制粘贴，使用 Ditto 提高效率！！【Ditto】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=3&sn=eccc49bdb632904825a8487c40a97676&chksm=9639d31dcf59aeaf90640d14ece2ba15e293461c72fd0a61a7ebb5dcd915b4f9d7a8a3fba875&scene=126&sessionid=1729426307#rd)
-1. [一个 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
-1. [基于 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508806&idx=1&sn=988fd980c41c8952cd915d8976f2a8b7&chksm=964bf48177ec51b4e4423dea841e70d864d84b78ae752726f7836298d1f2969a984926079ebd&scene=126&sessionid=1735476661#rd)
-1. [DevHub：一款免费的 macOS 离线开发者工具箱合集软件【DevHub】](https://mp.weixin.qq.com/s/HQjCvDJAMzaubD1rRYlS0Q)
-1. [一款免费且易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=3&sn=2ba4d536ef511dda3b03f9d93e5bdae4&chksm=966bcf4ad7a8bd6216b3fd3aca547c09aa407212da927e75435ddaeb9d28a5324c9ca459cfc6&scene=126&sessionid=1730163511#rd)
-1. [一款.NET开源、免费、易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508560&idx=3&sn=add338dd5102248ecc0776576da6b0e0&chksm=96da88a21ce895ee527897f58fae19b9ea2fa3d9586d2598d5f538c67889be961eaf6aeb1cd8&scene=126&sessionid=1734484256#rd)
-1. [一个.NET开源、易于使用的屏幕录制工具【Captura】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=1&sn=39fe476367d561a4c91379819a80a4da&chksm=96ab7326754d7ddc172c6a14e61e420f529da59561834e9fe9f46636cbbcb9777534baf6c4e6&scene=126&sessionid=1734914402#rd)
-1. [一款轻量且友好的 .NET SDK 管理器【Dots】](https://mp.weixin.qq.com/s/D-oA9qjRPdR3mKznE1n__w)
-1. [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
-1. [3款.NET开源、功能强大的屏幕录制工具【ScreenToGif】【Captura】【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=1&sn=6df82c91eb760da293bb5ea4f3cbdc16&chksm=9605beab97859b5bcb97b66c09be0b8f517a0bfc9a47463c3caba99fee43bb265e05eeda1aea&scene=126&sessionid=1735740851#rd)
-1. [一款开源免费、功能齐全的 macOS 离线开发者工具箱，已集成超过 100 多种实用功能！【DevHub】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509132&idx=2&sn=2269cf116896ebe8525eeffeddf2f3d8&chksm=9604039e6635272bd4bc325b071489477980a0d66ec55e2c0ca8bc282878357d9a8172e45e68&scene=126&sessionid=1736679948#rd)
-1. [一个 .NET 开源、免费、功能强大的Windows应用卸载神器【Bulk Crap Uninstaller】](https://mp.weixin.qq.com/s/jZCDMcjnpj-_N52jxHgxKw)
+- **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
+- [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
+- [摆脱低效复制粘贴，使用 Ditto 提高效率！！【Ditto】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=3&sn=eccc49bdb632904825a8487c40a97676&chksm=9639d31dcf59aeaf90640d14ece2ba15e293461c72fd0a61a7ebb5dcd915b4f9d7a8a3fba875&scene=126&sessionid=1729426307#rd)
+- [一个 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
+- [基于 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508806&idx=1&sn=988fd980c41c8952cd915d8976f2a8b7&chksm=964bf48177ec51b4e4423dea841e70d864d84b78ae752726f7836298d1f2969a984926079ebd&scene=126&sessionid=1735476661#rd)
+- [DevHub：一款免费的 macOS 离线开发者工具箱合集软件【DevHub】](https://mp.weixin.qq.com/s/HQjCvDJAMzaubD1rRYlS0Q)
+- [一款轻量且友好的 .NET SDK 管理器【Dots】](https://mp.weixin.qq.com/s/D-oA9qjRPdR3mKznE1n__w)
+- [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
+- [一款开源免费、功能齐全的 macOS 离线开发者工具箱，已集成超过 100 多种实用功能！【DevHub】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509132&idx=2&sn=2269cf116896ebe8525eeffeddf2f3d8&chksm=9604039e6635272bd4bc325b071489477980a0d66ec55e2c0ca8bc282878357d9a8172e45e68&scene=126&sessionid=1736679948#rd)
+- [一个 .NET 开源、免费、功能强大的Windows应用卸载神器【Bulk Crap Uninstaller】](https://mp.weixin.qq.com/s/jZCDMcjnpj-_N52jxHgxKw)
+- **快速启动**
+  - [斩获 48K 星！让你 Windows 起飞【Wox】【TranslucentTB】【Seelen-UI】](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247522727&idx=1&sn=a97cbc7965023ea08c998defe8bea8c9&chksm=f847c660df330f08500b8d2fb3fd1e3da43b3b5c303f8f38c5785db5ff8e7c83a9bea1714e3e&scene=126&sessionid=1742448569#rd)
+  - [.NET开源免费的Windows快速文件搜索和应用程序启动器【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497839&idx=1&sn=6cd45d43b563cf6a52d9f905967fdb04&scene=21#wechat_redirect)
+- **截图，录屏，Gif动画制作工具**
+  - [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
+  - [3款.NET开源、功能强大的屏幕录制工具【ScreenToGif】【Captura】【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=1&sn=6df82c91eb760da293bb5ea4f3cbdc16&chksm=9605beab97859b5bcb97b66c09be0b8f517a0bfc9a47463c3caba99fee43bb265e05eeda1aea&scene=126&sessionid=1735740851#rd)
+  - [一款.NET开源、免费、易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508560&idx=3&sn=add338dd5102248ecc0776576da6b0e0&chksm=96da88a21ce895ee527897f58fae19b9ea2fa3d9586d2598d5f538c67889be961eaf6aeb1cd8&scene=126&sessionid=1734484256#rd)
+  - [一款免费且易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=3&sn=2ba4d536ef511dda3b03f9d93e5bdae4&chksm=966bcf4ad7a8bd6216b3fd3aca547c09aa407212da927e75435ddaeb9d28a5324c9ca459cfc6&scene=126&sessionid=1730163511#rd)
+  - [一个.NET开源、易于使用的屏幕录制工具【Captura】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=1&sn=39fe476367d561a4c91379819a80a4da&chksm=96ab7326754d7ddc172c6a14e61e420f529da59561834e9fe9f46636cbbcb9777534baf6c4e6&scene=126&sessionid=1734914402#rd)
+
+- **Windows工具箱**
+  - [C#开源免费的开发效率提升利器：DevToys开发人员的瑞士军刀！【DevToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496113&idx=1&sn=73289a58f2ffca29f6fc55318f4f3f73&scene=21#wechat_redirect)
+
+
 
 
 
@@ -1191,15 +1214,17 @@
 | **Gitee:[AnotherRedisDesktopManager](https://gitee.com/qishibo/AnotherRedisDesktopManager)** | MIT                                                          |                                                              |                                                              | Another Redis Desktop Manager是一款更快、更好、<br />更稳定的Redis桌面(GUI)管理客户端，兼容Windows、<br />Mac、Linux，性能出众，轻松加载海量键值。 |
 | Git:[RedisInsight](https://github.com/RedisInsight/RedisInsight) | [View license](https://github.com/RedisInsight/RedisInsight#License-1-ov-file) |                                                              |                                                              | RedisInsight是一个Redis可视化工具，提供设计、<br />开发和优化 Redis 应用程序的功能。查询、<br />分析你的 Redis 数据并与之交互。使用Electron、<br />Monaco Editor和NodeJS构建。 |
 | **Gitee:[QuickRedis](https://gitee.com/quick123official/quick_redis_blog)** | MIT                                                          |                                                              |                                                              | QuickRedis是一款永久免费的 Redis 可视化管理工具。<br />它支持直连、哨兵、集群模式，支持亿万数量级的 key，<br />还有令人兴奋的UI。QuickRedis 支持 Windows 、 <br />Mac OS X 和 Linux 下运行。 |
+| Git:[HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)         | [GPL-2.0 license](https://github.com/HeidiSQL/HeidiSQL#GPL-2.0-1-ov-file) | [下载](https://www.heidisql.com/download.php?download=installer) |                                                              | HeidiSQL 是一款免费的数据库管理工具，<br />适用于与数据库打交道的开发人员和数据库管理员。<br />它支持多种数据库系统，包括 MariaDB、MySQL、<br />Microsoft SQL Server、PostgreSQL、SQLite、<br />Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，<br />使得用户能够方便地连接到数据库、编辑数据、<br />管理数据库结构以及执行各种数据库操作。 |
 
 ### 相关推荐
 
-1. **[推荐3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=1&sn=c59a76aa2bbb370809a17faaa511ecb4&chksm=9614b61a861a32b7323a3e6de7a7549bdb133ed6e08ab3e7657848c3e6f35e58eedc53affc24&scene=126&sessionid=1722818981#rd)**
-1. **[一个功能丰富的SQL审核查询平台 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504625&idx=2&sn=2e872d03bc0be3dca8f93347b66cdd2e&chksm=96a6d2846d474cbd489341415e31b541b7d83fe9bb5cda1d19c56c5a7c54b45fce6e8519fa30&scene=126&sessionid=1725237952#rd)**
-1. [一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux 【Tiny RDM】](https://mp.weixin.qq.com/s/3uKaOKARtzcDFdf0URAsQw)
-1. [官方宣布Navicat免费使用！【Navicat Premium Lite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505972&idx=3&sn=37877ee7e045ca2547fbb334feead418&chksm=96a3f66becc48f62487f5b06c182f944b1cc540fbdb9b1088a16b830414f3c08ba70314ef6a9&scene=126&sessionid=1728350900#rd)
-1. [DBeaver：一款开源、免费的数据库管理工具，支持多种数据库平台！【DBeaver Community】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506539&idx=2&sn=9bd3a7af25791b3a058ecdfe1f6600fa&chksm=969510c58ba8b74c968b020410f69885da87947b2e6f200187d66dd10d4756812304c3472580&scene=126&sessionid=1730033816#rd)
-1. [免费且实用的 Redis 可视化管理工具推荐【Another Redis Desktop Manager】【Tiny RDM】【RedisInsight】【QuickRedis】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=1&sn=8b34b37d59d3c5771ec243c69bc7f2e0&chksm=96979035c84da43742d5cad46bb7cf40c796bb73526ca1a4a374f3d71be4c8d7597c4865945a&scene=126&sessionid=1736604622#rd)
+- **[推荐3款免费且实用的数据库管理工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=1&sn=c59a76aa2bbb370809a17faaa511ecb4&chksm=9614b61a861a32b7323a3e6de7a7549bdb133ed6e08ab3e7657848c3e6f35e58eedc53affc24&scene=126&sessionid=1722818981#rd)**
+- **[一个功能丰富的SQL审核查询平台 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504625&idx=2&sn=2e872d03bc0be3dca8f93347b66cdd2e&chksm=96a6d2846d474cbd489341415e31b541b7d83fe9bb5cda1d19c56c5a7c54b45fce6e8519fa30&scene=126&sessionid=1725237952#rd)**
+- [一个现代化轻量级的跨平台Redis桌面客户端，支持Mac、Windows和Linux 【Tiny RDM】](https://mp.weixin.qq.com/s/3uKaOKARtzcDFdf0URAsQw)
+- [官方宣布Navicat免费使用！【Navicat Premium Lite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505972&idx=3&sn=37877ee7e045ca2547fbb334feead418&chksm=96a3f66becc48f62487f5b06c182f944b1cc540fbdb9b1088a16b830414f3c08ba70314ef6a9&scene=126&sessionid=1728350900#rd)
+- [DBeaver：一款开源、免费的数据库管理工具，支持多种数据库平台！【DBeaver Community】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506539&idx=2&sn=9bd3a7af25791b3a058ecdfe1f6600fa&chksm=969510c58ba8b74c968b020410f69885da87947b2e6f200187d66dd10d4756812304c3472580&scene=126&sessionid=1730033816#rd)
+- [免费且实用的 Redis 可视化管理工具推荐【Another Redis Desktop Manager】【Tiny RDM】【RedisInsight】【QuickRedis】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=1&sn=8b34b37d59d3c5771ec243c69bc7f2e0&chksm=96979035c84da43742d5cad46bb7cf40c796bb73526ca1a4a374f3d71be4c8d7597c4865945a&scene=126&sessionid=1736604622#rd)
+- [一款免费、全能型的数据库管理神器，效率提升利器！【HeidiSQL】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511573&idx=2&sn=9d6dc0bce06768b32c7acb76ee078197&chksm=964111c23c4df678bd8282b7604bab47100a37cce9b198b9a1591bc8d025fb9cea4252294513&scene=126&sessionid=1742433141#rd)
 
 
 
@@ -1336,7 +1361,6 @@
 
 
 
-
 ## T. 图表库
 
 | 项目名称                                                     | 使用的协议                                                   | 功能介绍                                                     | 支持平台      |
@@ -1394,7 +1418,6 @@
 
 - [YoloDotNet v2.1：实时物体检测的利器【YoloDotNet 】](https://mp.weixin.qq.com/s/kx6bzmHkfGVY6E6PFZJLMg)
    - [YoloDotNet v2.1：实时物体检测的利器 - 张善友 - 博客园 (cnblogs.com)](https://www.cnblogs.com/shanyou/p/18457208)
-- [推荐5款程序员必备的画图工具，效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=1&sn=8600e8e1476d65e5afd2957871786e70&chksm=96ff67dfc6af3a5017b09ba575b7f544831a4ea001378be65af83591a7a76e4cf4661a6d3b21&scene=126&sessionid=1732495973#rd)
 - [一款开源免费、功能强大的AI换脸神器【FaceFusion】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507946&idx=3&sn=2bf7fde9ea3387eb48c11815d257adf2&chksm=96901322ec27066ac1d1f0427825d9074a3eea72772876f125f3990bf5d592c65926c20f96cd&scene=126&sessionid=1733186985#rd)
 - [推荐一个C#轻量级矢量图形库 - chingho - 博客园【VectSharp】](https://www.cnblogs.com/chingho/p/18629448)
 - [.NET 9.0 使用 Vulkan API 编写跨平台图形应用【VulkanSamples】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509168&idx=2&sn=bd27ef7d7d65d02e47b2baf62afa37f6&chksm=961e0a74c2a1ae516b048cb059526cc67093b9fcdeb090b5d12910e573bfb488b262a5d943b1&scene=126&sessionid=1736730186#rd)
@@ -1405,9 +1428,13 @@
 
    - [Plotly.NET | Plotly.NET](https://plotly.net/)
    - [Plotly c# graphing library in Csharp](https://plotly.com/csharp/)
-
 - **图像处理**
    - [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）【OpenCvSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&chksm=968d680b30460591cc5419e03f964c27a1ec56387009327fe4020bf883bf279ed65f74c9b9de&scene=126&sessionid=1739148312#rd)
+- **绘图**
+
+   - [推荐5款程序员必备的画图工具，效率提升利器！【ProcessOn】【Excalidaw】【Draw.io】【XMind】【VisionOn】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=1&sn=8600e8e1476d65e5afd2957871786e70&chksm=96ff67dfc6af3a5017b09ba575b7f544831a4ea001378be65af83591a7a76e4cf4661a6d3b21&scene=126&sessionid=1732495973#rd)
+   - [一款开源免费、离线、安全的全能流程图绘制神器【draw.io】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=2&sn=8c9d0936d41455a44c4040db2ca0f3bb&chksm=96f1f453fd00957c8e6b4dc7ba605b2fc6345b61c5287c7806eed7104c99b7f9d6351c227965&scene=126&sessionid=1742433141#rd)
+
 
 
 
@@ -1469,15 +1496,15 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[NSmartProxy](https://github.com/tmoonlight/NSmartProxy)** | [MIT license](https://github.com/tmoonlight/NSmartProxy#MIT-1-ov-file) | .NET开源、免费（MIT License）、<br />跨平台的内网穿透工具，<br />采用.NET Core的全异步模式打造：NSmartProxy。 |
 | Git:[NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | [GPL-3.0 license](https://github.com/BornToBeRoot/NETworkManager#GPL-3.0-1-ov-file) | NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、<br />功能强大的开源工具，旨在帮助用户管理和解决网络问题。<br />通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，<br />管理网络和服务器基础设施。 |
-|                                                              |                                                              |                                                              |
+| Git:[linker](https://github.com/snltty/linker)               | [GPL-2.0 license](https://github.com/snltty/linker#GPL-2.0-1-ov-file) | linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，<br />支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，<br />异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 |
 
 ### 相关参考
 
 - **[一款.NET开源免费的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503018&idx=3&sn=93b468d3e0baaa92f8b725b334dcaa4c&chksm=964b7216b55d3134182255240b91435a9ee7da0131f0f9631ce7b9b0c8502b494215b2c8b1e9&scene=126&sessionid=1721004385#rd)**
-
 - **[一款.NET开源、跨平台的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=1&sn=81648ae23f5beab92da10249e09661f1&chksm=96f30235d0f6926354b217fb0a7a71dbc147bb493610ec039057daf33188bc4ccc05bfb456c1&scene=126&sessionid=1724806111#rd)**
-
 - [一款基于.NET开源、强大的网络管理和网络问题排查工具！【NETworkManager】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511096&idx=1&sn=f8472d000e0484a641e52b4545c258ab&chksm=9602bb7af3b9e36faf5f81c700af58eabfb7ebb40a817b578ee23c86f11f3d6f9761ed41b4b2&scene=126&sessionid=1741568037#rd)
+- [一款 .NET 开源、功能强大的远程连接管理工具，支持 RDP、VNC、SSH 等多种主流协议！【mRemoteNG】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511624&idx=1&sn=a2694446c776b6d948dee632cd14042d&chksm=9693bdcce2b153fa4fbe27b68f74b585fa06699dc7fdba1e97c5bfd6aa09547efb4764ad7559&scene=126&sessionid=1742518244#rd)
+- [一个基于 .NET 开源免费的异地组网和内网穿透工具【linker】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511825&idx=1&sn=ebf9646935c4ba9247031a966f379918&chksm=966365b6cfd8fea00294c6166b8416b2ec24c4eab0168edd7dcf44930f513b40052866f857aa&scene=126&sessionid=1743036165#rd)
 
 
 

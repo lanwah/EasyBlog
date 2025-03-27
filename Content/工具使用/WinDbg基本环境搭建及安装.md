@@ -182,6 +182,13 @@ path is pointing to mscorwks.dll as well.
   >
   > 如果是.Net4.0版本需要“.loadby sos clr”。
 
+## WinDbg错误处理
+
+- [winDBG排错小记 - 永远的阿哲 - 博客园](https://www.cnblogs.com/ljzforever/p/6414610.html)
+- [The version of SOS does not match the version of CLR you are debugging; SOS.dll版本不匹配; Dump文件不同环境mscordacwks.dll版本问题 - softfair - 博客园](https://www.cnblogs.com/softfair/p/The_version_SOS_not_match_version_of_CLR_PDB_symbol_for_clr_dll_not_loaded.html)
+
+
+
 # 其他参考链接
 
 1. dotnet core下的配置。[教你配置windows上的windbg,linux上的lldb，打入clr内部这一篇就够了 - 掘金 (juejin.cn)](https://juejin.cn/post/6844904151478976519#heading-11)

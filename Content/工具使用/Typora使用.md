@@ -45,3 +45,12 @@
 | `Win+ :` 或  `:表情名:`<br>CTRL + SHIF + B | 添加表情         | `:smile:` :smile:<br />👌  |
 | `CTRL + SHIFT + Q`                         | 插入引用         | > 引用的内容》            |
 
+## 推荐网站
+
+- [GitHub - typora/typora-issues: Bugs, suggestions or free discussions about the minimal markdown editor — Typora](https://github.com/typora/typora-issues)
+- [Typora Support](https://support.typoraio.cn/)
+
+- [快速启动 | TyporaChina](https://typorachina.com/guide/)
+  - [Windows 上的 Typora | TyporaChina](https://typorachina.com/guide/quick-start/typora-on-windows.html)
+  - [启动参数 (Windows / Linux) | TyporaChina](https://typorachina.com/guide/how-tos/launch-arguments.html)
+

@@ -30,14 +30,15 @@
 - [ASP.NET Core Filter与IOC的羁绊 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=5&sn=0401e32e7e6e105b260f40745b948170&chksm=963084f5de0ffec3942c8176b20af6cfc4bb1d91b919bd912ab4d87ce55e90108bde0ada21eb&scene=126&sessionid=1729213064#rd)
 - [将ASP.NET Core Web API和Blazor Wasm发布到 IIS](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508114&idx=1&sn=f387e548a304d88696475d6bba74fd56&chksm=96ffc2c0355bdcce1a9064e70be405a5fb23992abede404f50f5a7d5fe2925c4598962f0a18f&scene=126&sessionid=1733706081#rd)
 - [在Asp.netCore中使用Attribute来描述限流 - jiulang - 博客园](https://www.cnblogs.com/kewei/p/18630545)
-- [ASP.NET Core 中的速率限制中间件的使用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=2&sn=a9d7828a444f8b9c7006089043fe422e&chksm=96eaf02cbd9142560d75a45acfc2c58c71d2a1322d45049ecb2b44eee7baf01050ebb968c809&scene=126&sessionid=1736604622#rd)
 - **身份鉴权/身份认证**
   - [ASP.NET Core 中基于 Cookie 的身份鉴权实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=3&sn=435086131053de1e1e57d5800f4b3c26&chksm=966dd908d5f29a93b287606a92c47e4a79f265c6dd419e917db94c8fce2cc5da900af34c9001&scene=126&sessionid=1737334659#rd)
 - [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
 - **StarBlog**
   - [基于.NetCore开发 StarBlog 番外篇 (1) 全新的访问统计功能，异步队列，分库存储 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18731660)
 
-
+- **中间件**
+  - [在 ASP.NET Core 中创建中间件的 4 种方式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=1&sn=0d392060580de92b75e59487ffb9bc7e&chksm=96807d03c28a19a42f62ac100fda1872845dc5247cec235b4e9a5a3662b31d74d05ee7f6b5a8&scene=126&sessionid=1742951008#rd)
+  - [ASP.NET Core 中的速率限制中间件的使用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=2&sn=a9d7828a444f8b9c7006089043fe422e&chksm=96eaf02cbd9142560d75a45acfc2c58c71d2a1322d45049ecb2b44eee7baf01050ebb968c809&scene=126&sessionid=1736604622#rd)
 
 
 
@@ -130,6 +131,8 @@
 
   - [一文掌握DeepSeek本地部署+Page Assist浏览器插件+C#接口调用+局域网访问！全攻略来了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510781&idx=2&sn=f9317dc2cd672310c65287892e944929&chksm=96661614534efbe1a680c851306c46ad98a5fb6cb645321b90ed4855627fce2042f157be63fa&scene=126&sessionid=1740314463#rd)
 
+  - [DeepSeek 官方推出的实用集成工具百宝箱，建议收藏！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511726&idx=2&sn=a280b731e442b822822d1ea551048af2&chksm=9695c182df2033b231da2e5e4e0f62690c517295858493c16e2abbb723245fdab095eb1060ad&scene=126&sessionid=1742777745#rd)
+
   - [【.NET】调用本地 Deepseek 模型 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/18731997)
 
     > 本篇咱们来聊一聊怎么在 .NET 代码中使用本地部署的 Deepseek 语言模型。大伙伴们不必要紧张，很简单的，你不需要学习新知识，只要你知道 .NET 如何访问 HTTP 和 JSON 的序列化相关就够了。
@@ -163,6 +166,11 @@
     - [Chroma](https://trychroma.com/)
     - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
 
+- **向量存储**
+
+  - [AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18761132)
+
+
 
 
 ## B. 表达式树
@@ -187,6 +195,10 @@
 
 - [.NET8 使用缓存的几种方法，你都用过吗？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=2&sn=c941bddf0487e2a907ab74905ecfe985&chksm=965a2b444962e5e9176ebd898c2295ddae9f3feda792725b7f0edb98b04f1a26851a7bd41829&scene=126&sessionid=1730941884#rd)
 
+- [Hello HybridCache! Streamlining Cache Management for ASP.NET Core Applications - .NET Blog](https://devblogs.microsoft.com/dotnet/hybrid-cache-is-now-ga/)
+
+  > HybridCache 是一个新的 .NET 9 库，可通过Microsoft.Extensions.Caching.Hybrid包获取，现已普遍可用！HybridCache 因其能够利用内存和分布式缓存（如 Redis）而得名，无论应用程序的规模或复杂性如何，它都能确保数据存储和检索针对性能和安全性进行优化。
+
 
 
 ## C. 操作系统
@@ -206,7 +218,10 @@
 
 - [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
 - [在网页上调起本机C#程序 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18546412)
-- [C#调用Python脚本的方式（一），以PaddleOCR-GUI为例 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18605737)
+- **.NET & Python**
+  - [C#调用Python脚本的方式（一），以PaddleOCR-GUI为例 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18605737)
+  - [.NET Core奇技淫巧之WinForm使用Python.NET并打包 - GuZhenYin - 博客园](https://www.cnblogs.com/GuZhenYin/p/18781724)
+
 
 
 
@@ -222,6 +237,10 @@
 
   > 一年前，我们推出了 Microsoft.Testing.Platform，作为 MSTest Runner 公告的一部分。我们的目标是为 .NET 项目创建一个可靠的测试平台，专注于可扩展性和模块化。
 
+- [MSTest 3.8: Top 10 features to supercharge your .NET tests! - .NET Blog](https://devblogs.microsoft.com/dotnet/mstest-3-8-highlights/)
+
+  > MSTest，也称为微软测试框架，简化了.NET 应用程序的测试体验。此测试框架允许用户编写和执行测试，同时提供集成到 Visual Studio 和 Visual Studio Code 测试资源管理器的测试套件，以及许多 CI 管道。MSTest 完全支持、开源且跨平台，与所有支持的.NET 目标一起工作，同时保持对 VSTest 的支持，并增加了对 Microsoft.Testing.Platform（MTP）改进体验的支持。
+
 
 
 ## D. DotNet学习
@@ -234,6 +253,7 @@
 - [【译】.NET 升级助手现在支持升级到集中式包管理](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654101088&idx=3&sn=478ef086a896019c0bef3f5897ca9b29&scene=21#wechat_redirect)
 - **关键字**
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
+  - [C# 中比较实用的关键字，基础高频面试题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=1&sn=974ec95cb0f1b247b3ecdefefb98cafb&chksm=9622bb281f2819596c3c6a359f1e0d5e5514db2f4be74afff720cc9769f94715fcb0fa43ec00&scene=126&sessionid=1742433141#rd)
   - **yield**
     - [yield 语句 - 在迭代器中提供下一个元素 - C# reference | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/statements/yield)
     - [C#使用yield关键字提升迭代性能与效率](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509674&idx=1&sn=a8937987adadf6542a1397ac0839dfc2&chksm=96921ecd6c8e491b48bc41d5650fa34aee43d05535e81d8a77a1b59b71ddb4d709e568c3fbce&scene=126&sessionid=1737511894#rd)
@@ -339,9 +359,21 @@
 
 
 
+## D. .NET 源代码生成器
+
+- [.NET 源代码生成器分析器入门](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511778&idx=2&sn=3276f2cbc07d5445a165890c32c768e0&chksm=966607fd2fd49ad4992c225ea1691b9ca518df93ad4c83fb6acfdadcdb5178d7b21ea81d180c&scene=126&sessionid=1742863576#rd)
+
+
+
 ## D. 动态方法及热执行
 
 - [.NET 创建动态方法方案及 Natasha V9 - AzulX - 博客园](https://www.cnblogs.com/NMSLanX/p/18299481)
+
+
+
+## D. 代码重构
+
+- [C#重构代码的8种基本方法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511652&idx=2&sn=9ef9a8afa9cd9d35d178176c30bdaa87&chksm=96cc09e69028b00979375344262f3e55da4f1e042d4bb03f8bb0c4ba4b00a2b37d64bc700a5d&scene=126&sessionid=1742648517#rd)
 
 
 
@@ -408,6 +440,14 @@
 
 
 
+## G. 感悟与总结
+
+- [10年+ .NET Coder 心语 ── 封装的思维：从隐藏、稳定开始理解其本质意义 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18769455)
+
+  > 小编是一名10年+的.NET Coder，期间也写过Java、Python，从中深刻的认识到了软件开发与语言的无关性。现在小编已经脱离了一线开发岗位，在带领团队的过程中，发现了很多的问题，究其原因，更多的是开发思维的问题。所以小编通过总结自己过去十多年的软件开发经验，为年轻一辈的软件开发者从思维角度提供一些建议，希望能对大家有所帮助。
+
+
+
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
@@ -423,6 +463,7 @@
 ## H. 缓存
 
 - [如何用 Redis 构建一个简单的聊天应用？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=2&sn=c134137263824c9f648815b76c51768e&chksm=965cc2c30db1505be25e0a0fb1e6d5f5ff49c26b0f31524898ed07dcca9a79c2354a9bfef48e&scene=126&sessionid=1736503976#rd)
+- [.NET Core 中如何实现缓存的预热？ - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18737994)
 
 
 
@@ -492,6 +533,13 @@
 
 
 
+## J. 解析器
+
+- [拥有自己的解析器（C#实现LALR(1)语法解析器和miniDFA词法分析器的生成器） - BIT祝威 - 博客园](https://www.cnblogs.com/bitzhuwei/p/18683262/my-own-parsers)
+  - [C#实现自己的Json解析器(LALR(1)+miniDFA) - BIT祝威 - 博客园](https://www.cnblogs.com/bitzhuwei/p/18779851#_label0)
+
+
+
 ## K. 对象拷贝
 
   - [C# WPF中实现深拷贝的五种方式 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=4&sn=cbd80bc959054e10d6d6ee6cd829df2b&chksm=96b04c00fe153aa7f033a61862aaaf1674e679a24ef1053bf56c400baaa4080405af70054752&scene=126&sessionid=1726188991#rd)
@@ -503,8 +551,14 @@
 - [基于XAML框架和跨平台项目架构设计的深入技术分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507161&idx=2&sn=7c9f9999d90464daeb54a5b278cc7bb4&chksm=966085546f6c6421766cbe5ce0d8b45840e1a66cafdbe11553ee10f88b3110400f292d6a0944&scene=126&sessionid=1731206998#rd)
 
 - **Avalonia**
+  
+  - [Avalonia Docs | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/)
+    - [Canvas 画布控件 | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/docs/reference/controls/canvas)
+    - [Flyout 弹出层 | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/docs/reference/controls/flyouts)
+  
   - [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
-
+  - 
+  
 - **MAUI**
 
   - [.NET MAUI Performance Features in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/)
@@ -555,6 +609,12 @@
 - [RS485与ModbusRTU - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18406808)
 - **工具**
   - [MTing(modbus调试工具的使用） - 杰瑞鼠 - 博客园](https://www.cnblogs.com/jieruishu/p/13998997.html)
+
+
+
+## M. MCP
+
+- [使用C#创建一个MCP客户端 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18772576)
 
 
 
@@ -630,6 +690,12 @@
 
 
 
+## R. Rpc/gRpc
+
+- [.NET8中gRPC的使用 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18691064)
+
+
+
 ## R. [容器](https://link.zhihu.com/?target=https%3A//www.redhat.com/en/containers/whats-a-linux-container)自动化运维平台
 
 - [C#使用Kubernetes (k8s) - Flamesky - 博客园](https://www.cnblogs.com/flamesky/p/18472463)
@@ -674,6 +740,7 @@
     - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
 - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
 - [.NET MongoDB数据仓储和工作单元模式封装](https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw)
+- [ADO.NET中SQL绑定变量方式总结 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18774515)
 
 
 
@@ -741,6 +808,7 @@
   - [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)
   - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
   - [C#中 Task 结合 CancellationTokenSource的妙用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18620273)
+  - [Invoking Async Power: What Awaits WinForms in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/)
 
 
 
@@ -870,6 +938,12 @@
 - [.NET中 泛型 + 依赖注入 的实现与应用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18714657)
 
   > .NET中 泛型 + 依赖注入 的实现与应用。
+
+
+
+## Y. 源代码生成器
+
+- [dotnet 源代码生成器分析器入门 - lindexi - 博客园](https://www.cnblogs.com/lindexi/p/18786647)
 
 
 
