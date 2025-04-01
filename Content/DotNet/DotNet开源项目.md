@@ -1089,7 +1089,12 @@
 | Git:[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | [GPL-3.0 license](https://github.com/TranslucentTB/TranslucentTB#GPL-3.0-1-ov-file) | TranslucentTB 是一个小巧的开源实用程序，**能够改变 Windows 任务栏的透明度**。<br />你可以根据自己的喜好，调整任务栏的透明程度，从轻微的半透明到完全透明，都能轻松实现。 |
 | Git:[Seelen-UI](https://github.com/eythaann/Seelen-UI)       |                                                              | 更改Windows风格                                              |
 | Git:[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | [MIT license](https://github.com/Flow-Launcher/Flow.Launcher#MIT-1-ov-file) | Flow Launcher 是一款方便实用的 Windows 文件搜索和应用程序启动器，<br />能够帮助你快速查找文件、启动应用程序和执行系统操作，<br />提高工作效率和操作便利性。并且生态完善，有插件商店，<br />你可以查看完整的插件列表，或通过 "设置 "中的 "插件商店 "菜单快速安装插件。 |
+| Everything                                                   | [下载地址](https://www.voidtools.com/zh-cn/downloads)        | Everything是一款高效、易用、功能强大的Windows文件搜索工具。<br />它以其即时的搜索响应、高效的索引机制、<br />精准的匹配算法和简洁的用户界面赢得了广大用户的喜爱。无论是个人用户还是企业用户，<br />都可以通过这款工具来提高文件管理的效率和准确性。 |
+| Listary                                                      | [下载地址](https://www.listary.com/download)                 | Listary是一款高效的 Windows 文件搜索工具，它以极其轻量化的状态运行，<br />能帮你快速查找本地的文件和应用程序。与Everything不同，Listary不仅限于文件名的查找，<br />还可以用于应用启动和联网搜索，适合那些希望提高整体工作效率的用户。 |
+| AnyTXT Searcher                                              | [下载地址](https://anytxt.net/download)                      | AnyTXT Searcher是一款功能强大的本地跨平台（Windows、Linux、MacOS）全文搜索工具，<br />旨在帮助用户快速定位并查找电脑中的各种文档和文本内容。<br />它支持多种文件格式，包括TXT、DOC、PDF、Excel、PPT等，<br />几乎涵盖了日常办公和学习中常见的所有文档类型 |
+| DocFetcher                                                   | [下载地址](https://docfetcher.sourceforge.io/zh/download.html) | DocFetcher是款开源、跨平台（Windows、Linux、MacOS）的全文搜索工具，<br />它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、<br />HTML等多种格式，适合学生、研究人员及文档管理者。 |
 | Git：[DevToys](https://github.com/DevToys-app/DevToys)       | [ MIT license](https://github.com/DevToys-app/DevToys#MIT-1-ov-file) | DevToys是一个专门为开发者设计的Windows工具箱，完全支持离线运行，<br />无需使用许多不真实的网站来处理你的数据，<br />常用功能有：格式化（支持 JSON、SQL、XML）、JWT解码、<br />URL编码/解码、UUID生成、图片压缩、文本比较、正则表达式测试、<br />Markdown预览等28+种实用工具。 |
+| Git:[winutil](https://github.com/ChrisTitusTech/winutil)     | [MIT license](https://github.com/ChrisTitusTech/winutil#MIT-1-ov-file) | Winutil是一个开源免费（MIT license），强大且灵活的 Windows 系统管理工具。<br />主要用于简化和优化 Windows 系统的安装、调整、故障排除和更新过程。<br />它通过提供一套自动化的脚本和工具，帮助用户减少手动操作，<br />提高系统效率和稳定性。这个工具集包括安装程序、系统调整、<br />故障排除和更新管理等功能模块，支持自定义配置，以满足不同用户的需求。 |
 
 #### 相关参考
 
@@ -1115,8 +1120,10 @@
 
 - **Windows工具箱**
   - [C#开源免费的开发效率提升利器：DevToys开发人员的瑞士军刀！【DevToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496113&idx=1&sn=73289a58f2ffca29f6fc55318f4f3f73&scene=21#wechat_redirect)
+  - [一个强大且灵活的 Windows 系统管理工具，开源免费！【Winutil】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=2&sn=a4c89f9ef6ec6f2d187cdab948916f2a&chksm=961c13dbd9100350ed27c4ee1e0272725f571026f3b1664cb157c9c0c84669e76173b6913bf1&scene=126&sessionid=1743123644#rd)
 
-
+- **文件搜索**
+  - [5款高效的文件搜索工具，工作效率提升利器！【Everything】【Listary】【AnyTXT Searcher】【DocFetcher】【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511877&idx=2&sn=39a98aaaa7f5b960c053ae3d3144455d&chksm=96afc2cd2b668ef991b30c3a657ba501791539b89bf2c1e01db4e0d851ab2649222af069b86b&scene=126&sessionid=1743334820#rd)
 
 
 
@@ -1569,14 +1576,15 @@
 
 ## X. 学习与阅读
 
-| 项目名称                                      | 使用的协议                                                   | 项目功能/介绍                                                |
-| --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Kavita](https://github.com/Kareadita/Kavita) | [GPL-3.0 license](https://github.com/Kareadita/Kavita#GPL-3.0-1-ov-file) | 快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，<br />满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏：Kavita。 |
-|                                               |                                                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Kavita](https://github.com/Kareadita/Kavita)                | [GPL-3.0 license](https://github.com/Kareadita/Kavita#GPL-3.0-1-ov-file) | 快速、功能丰富的跨平台阅读服务器，它的设计初衷是提供一个全面的解决方案，<br />满足用户的所有阅读需求。用户可以设置自己的服务器，并与朋友和家人分享阅读收藏：Kavita。 |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | CC BY 4.0                                                    | system-design-primer是一个旨在帮助开发者学习如何设计大规模系统，<br />并为系统设计面试做准备。该项目包含了丰富的学习资源，<br />从系统设计的基础知识到高级概念，如可扩展性、可用性、一致性、<br />数据库扩展、负载均衡等方面的详细讲解。此外，<br />项目还包含了大量常见系统设计面试问题的讨论、<br />解决方案以及代码示例，帮助你将理论知识转化为实践能力。 |
 
 ### 相关参考
 
 - [一个.NET开源、快速、功能丰富的跨平台阅读服务器【Kavita】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507620&idx=1&sn=9aed5aba50ae089f6ec6c7e583ccf826&chksm=96c1a803a5aa545f1afd3766ee33a0745c20d76df900724dc782cbf9d95c716d6e644c1a0a9b&scene=126&sessionid=1732063903#rd)
+- [学习如何设计大规模系统，为系统设计面试做准备！【system-design-primer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511877&idx=1&sn=94cda16ad2e6d65c70f638073d8ec99d&chksm=9604e4e2bdfcdf80991bf0f0c9752b68d6847512e1d1703f9fa2323752764aaf46ea76cfecf5&scene=126&sessionid=1743334820#rd)
 
 
 
@@ -1618,17 +1626,19 @@
 | **Gitee:[SiMayRemotelyOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS)** | AGPL-3.0                                                     | SiMayRemoteMonitorOS是一个基于Windows的远程控制系统，<br />完全采用C#.NET开发，遵循AGPL-3.0开源协议。 |
 | **Git:[rustdesk](https://github.com/rustdesk/rustdesk)**     | [AGPL-3.0 license](https://github.com/rustdesk/rustdesk#AGPL-3.0-1-ov-file) | 常见的远程桌面软件有TeamViewer、AnyDesk、ToDesk等。使用这些软件时，<br />通常需要在远程计算机上安装相应的客户端软件，并在本地计算机上使用相应的<br />服务器端或客户端软件来建立连接。今天咱们分享一款TeamViewer的替代品，<br />一个开源免费的远程桌面软件，开箱即用，无需任何配置：RustDesk。 |
 | 网易UU远程                                                   | 原GameViewer远程                                             | 网易UU远程（原GameViewer远程），是一款由网易出品的专业游戏串流远程控制软件，<br />支持手机、平板、电脑、Mac、掌机远程控制电脑，<br />不仅能满足你远程办公、远程协助等需求，超低延迟、高清高帧、操控自如、<br />轻松拓展副屏、一键公网串流等特色功能更能给你带来极致的游戏串流体验！<br />[下载地址](https://uuyc.163.com/download) |
+| Git:[xpipe](https://github.com/xpipe-io/xpipe)               | [Apache-2.0 license](https://github.com/xpipe-io/xpipe#Apache-2.0-1-ov-file) | XPipe 是一个新型的 shell 连接中心和远程文件管理器，<br />允许用户从本地机器访问整个服务器基础架构。它基于已安装的命令行程序工作，<br />不需要在远程系统上进行任何设置。<br />如果你通常使用 CLI 工具（如 ssh、docker、kubectl 等）连接到服务器，<br />那么只需在它们之上使用 XPipe 即可。 |
 
 ### 相关参考
 
-1. **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
-1. **[一个.NET开源、免费的Windows远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=2&sn=226bd341796686f4fa8748d8c89bf461&chksm=96ab8586bb7306020283b24304b9dbbd5d22cfa99ba19448fff3e67ab1f4a2b6c8b01f5f10ea&scene=126&sessionid=1726793679#rd)**
-1. **[Windows 远程不要再用 mstsc 了，这款.NET开源工具更好用！【1Remote】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503805&idx=2&sn=ddbf05075b3d6715758456d6499a6208&chksm=96db395f69df2474ac59419f855682630adcd0cad201c465ab9b56c9df6b70c516b864e1ad12&scene=126&sessionid=1722990823#rd)**
-1. **[1Remote官网](https://1remote.org/)**， **[1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)**
-1. **[一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)**
-1. [TeamViewer 的替代品，一个开源免费的远程桌面软件，开箱即用，无需任何配置！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=4&sn=d7c2c114af277855a597b7ee2a875046&chksm=9685861241d9c829a8190d879917547babeddaffa7a592cfff18c7f59b8885b561843e9642be&scene=126&sessionid=1729559301#rd)
-1. [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
-1. [一款免费、低延迟、强大的远程控制软件，满足用户远程办公、远程协助等日常需求，提高工作效率！【网易UU远程】【GameViewer远程】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=2&sn=bb46cace5fc5849e13307ff04a4fa4bd&chksm=96aaea705afcf7cc69aca8f508318aff469626b9be1ccd069ba278e50364da774bab956bc4a1&scene=126&sessionid=1735740851#rd)
+- **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
+- **[一个.NET开源、免费的Windows远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=2&sn=226bd341796686f4fa8748d8c89bf461&chksm=96ab8586bb7306020283b24304b9dbbd5d22cfa99ba19448fff3e67ab1f4a2b6c8b01f5f10ea&scene=126&sessionid=1726793679#rd)**
+- **[Windows 远程不要再用 mstsc 了，这款.NET开源工具更好用！【1Remote】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503805&idx=2&sn=ddbf05075b3d6715758456d6499a6208&chksm=96db395f69df2474ac59419f855682630adcd0cad201c465ab9b56c9df6b70c516b864e1ad12&scene=126&sessionid=1722990823#rd)**
+- **[1Remote官网](https://1remote.org/)**， **[1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)**
+- **[一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)**
+- [TeamViewer 的替代品，一个开源免费的远程桌面软件，开箱即用，无需任何配置！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=4&sn=d7c2c114af277855a597b7ee2a875046&chksm=9685861241d9c829a8190d879917547babeddaffa7a592cfff18c7f59b8885b561843e9642be&scene=126&sessionid=1729559301#rd)
+- [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
+- [一款免费、低延迟、强大的远程控制软件，满足用户远程办公、远程协助等日常需求，提高工作效率！【网易UU远程】【GameViewer远程】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=2&sn=bb46cace5fc5849e13307ff04a4fa4bd&chksm=96aaea705afcf7cc69aca8f508318aff469626b9be1ccd069ba278e50364da774bab956bc4a1&scene=126&sessionid=1735740851#rd)
+- [一款革命性的跨平台远程服务器管理与文件管理工具，帮你搞定所有远程连接方式！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511924&idx=2&sn=8caba9a2ff319cf034d38966c82da9b2&chksm=966d166cf0c8d635f17ec4716780ef81882f66d2f5e6de7dc201972618fb0bf7442e78849ef7&scene=126&sessionid=1743383083#rd)
 
 
 

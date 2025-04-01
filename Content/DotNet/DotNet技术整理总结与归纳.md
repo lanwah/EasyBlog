@@ -16,9 +16,16 @@
 ## A. AOT
 
 - **[好消息：NET 9 X86 AOT的突破 - 支持老旧Win7与XP环境](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=3&sn=102e2675b0ceb557c671e3d1e22bba63&chksm=96052420047bd104e5578c1ee641b0d42d4b160d0ffb7ef7be9705e3b0220d3fa2004801aeda&scene=126&sessionid=1721264675#rd)**
+
 - [AOT使用经验总结 - 沙漠尽头的狼-Dotnet9 - 博客园](https://www.cnblogs.com/Dotnet9-com/p/18529239)
+
 - [.NET9 Linux AOT Json序列化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507960&idx=2&sn=63273b74059112b39a7e6b217f5c717d&chksm=96d77c460f32dd5159df25b41f8de7b74b0619db38c3c73c379d4a8b69cbbbb59d79064d0470&scene=126&sessionid=1733275028#rd)
+
 - [跨平台交叉编译 Native AOT - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18618066)
+
+- [AOT编译Avalonia应用：StarBlog Publisher项目实践与挑战 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18797316)
+
+  > AOT编译Avalonia应用 StarBlog Publisher 项目实践与挑战
 
 
 
@@ -169,6 +176,10 @@
 - **向量存储**
 
   - [AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18761132)
+  - [.NET 原生驾驭 AI 新基建实战系列（一）：向量数据库的应用与畅想 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18784938)
+
+- **智能体**
+  - [DeepSeek+Coze实战：10分钟快速打造一个“虚拟女友”智能体](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511831&idx=2&sn=ee411dc3b4d702a55ca946b31017652a&chksm=96c16792aa5fcc102d8b6de1e4316b441ff0e1a5476f8b91cb91e0a52b8c8dd7404e6159a873&scene=126&sessionid=1743251663#rd)
 
 
 
@@ -240,6 +251,13 @@
 - [MSTest 3.8: Top 10 features to supercharge your .NET tests! - .NET Blog](https://devblogs.microsoft.com/dotnet/mstest-3-8-highlights/)
 
   > MSTest，也称为微软测试框架，简化了.NET 应用程序的测试体验。此测试框架允许用户编写和执行测试，同时提供集成到 Visual Studio 和 Visual Studio Code 测试资源管理器的测试套件，以及许多 CI 管道。MSTest 完全支持、开源且跨平台，与所有支持的.NET 目标一起工作，同时保持对 VSTest 的支持，并增加了对 Microsoft.Testing.Platform（MTP）改进体验的支持。
+
+- [Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps - .NET Blog](https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui/)
+
+  > 使用 BrowserStack App Automate 与 Appium UI 测试自动化 .NET MAUI 应用程序。
+
+- **性能测试与对比**
+  - [C#集合数据去重的5种方式及其性能对比测试分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507797&idx=1&sn=dae1b96e3b9c0a675ecb8739da389183&chksm=96331b1022ed6028ddbc564f9d8810d7cdb80080ad7f4be39206042c3edb40769bb3c3392a64&scene=126&sessionid=1732840859#rd)
 
 
 
@@ -363,6 +381,10 @@
 
 - [.NET 源代码生成器分析器入门](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511778&idx=2&sn=3276f2cbc07d5445a165890c32c768e0&chksm=966607fd2fd49ad4992c225ea1691b9ca518df93ad4c83fb6acfdadcdb5178d7b21ea81d180c&scene=126&sessionid=1742863576#rd)
 
+- [C# - 获取枚举描述 - 使用增量源生成器 - Broadm - 博客园](https://www.cnblogs.com/broadm/p/18786843)
+
+  > C# 获取枚举描述的方法有很多, 常用的有通过 DescriptionAttribute 反射获取, 进阶的可以加上缓存机制, 减少反射的开销。今天我们还提供一种更加高效的方法,通过增量源生成器生成获取枚举描述的代码。这是在编译层面实现的, 无需反射, 性能更高。
+
 
 
 ## D. 动态方法及热执行
@@ -482,6 +504,7 @@
 - [用纯.NET开发并制作一个智能桌面机器人（一）：从.NET IoT入门开始](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509201&idx=2&sn=13350fb3111413fb74075085d5f30baf&chksm=96c64a7ad436070bc9e93592318df9b4d6ea561e100f28b1659ac08554a7a250f592212796d3&scene=126&sessionid=1736817137#rd)
 - [用纯.NET开发并制作一个智能桌面机器人（二）：用.NET IoT库编写驱动控制两个屏幕](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=2&sn=1cf2374ba0ff0888a5c142f42d910bd2&chksm=96edee3537b01043660d600fa22a38ddf847ae3f61ea0d98ead82f03ebeb2726956dbc561997&scene=126&sessionid=1736991133#rd)
 - [用.NET IoT库控制舵机并多方法播放表情](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510211&idx=3&sn=8426bea5d858d360612a2b8e637cb17a&chksm=9665939efc81c9282e061f50614860298651c4c7c227a406078c1a117fa1f0c2028bfdf36604&scene=126&sessionid=1739414680#rd)
+- [互联网不景气了那就玩玩嵌入式吧，用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互 - 绿荫阿广 - 博客园](https://www.cnblogs.com/GreenShade/p/18771608)
 
 
 
@@ -555,9 +578,10 @@
   - [Avalonia Docs | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/)
     - [Canvas 画布控件 | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/docs/reference/controls/canvas)
     - [Flyout 弹出层 | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/docs/reference/controls/flyouts)
-  
   - [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
-  - 
+  - **打印相关**
+    - [GitHub - Oaz/AvaloniaUI.PrintToPDF: Create PDF documents from Avalonia UI visuals](https://github.com/Oaz/AvaloniaUI.PrintToPDF)
+    - [Printing and printing dialog · AvaloniaUI/Avalonia · Discussion #7454 · GitHub](https://github.com/AvaloniaUI/Avalonia/discussions/7454)
   
 - **MAUI**
 
@@ -605,8 +629,9 @@
 ## M. Modbus
 
 - [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18411953)
-- [ModbusRTU通信协议报文剖析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18430033)
 - [RS485与ModbusRTU - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18406808)
+- [ModbusRTU通信协议报文剖析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18430033)
+- [ModbusTCP通信协议分析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18442108)
 - **工具**
   - [MTing(modbus调试工具的使用） - 杰瑞鼠 - 博客园](https://www.cnblogs.com/jieruishu/p/13998997.html)
 
@@ -615,6 +640,12 @@
 ## M. MCP
 
 - [使用C#创建一个MCP客户端 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18772576)
+
+
+
+## M. Markdown编辑器
+
+- [NanUI for Winform 使用示例【第二集】——做一个所见即所得的Markdown编辑器 - 林选臣 - 博客园](https://www.cnblogs.com/linxuanchen/p/5579053.html)
 
 
 
@@ -714,6 +745,13 @@
 - **[C#设计模式入门实战教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504631&idx=1&sn=b3863c36fb24a122ff940c29fbadef3f&chksm=96cda7694782eb203a0c8106c853382ce18bd4a278f0cab9f783b43de86e881cab0a03e75194&scene=126&sessionid=1725325808#rd)**
 - **[Design-Pattern](https://github.com/sheng-jie/Design-Pattern)**
 - [C# 单例模式的多种实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=1&sn=1d41b78f1a1fd2fba366b431f5bf7554&chksm=964eed429a18bfa8d4c1448a7f1e732ce9fe18d19cb6775c8ce289fc308e5703f15444961c33&scene=126&sessionid=1730854499#rd)
+- [C# 常用设计模式](https://refactoringguru.cn/design-patterns/csharp)
+  - [创建型设计模式](https://refactoringguru.cn/design-patterns/creational-patterns)
+  - [结构型设计模式](https://refactoringguru.cn/design-patterns/structural-patterns)
+  - [行为型设计模式](https://refactoringguru.cn/design-patterns/behavioral-patterns)
+
+- [面试官问：你知道 C# 单例模式有哪几种常用的实现方式？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511924&idx=1&sn=b4d53d7459088905774f7d439b0b90cd&chksm=96d9a5e2142aadcf153be09f879697f9b8406c20741466db47f8f1b2d6e86ae78b93902732bf&scene=126&sessionid=1743383083#rd)
+
 
 
 
@@ -809,6 +847,9 @@
   - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
   - [C#中 Task 结合 CancellationTokenSource的妙用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18620273)
   - [Invoking Async Power: What Awaits WinForms in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/)
+- **并发**
+  - [后端思维之高并发处理方案](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511947&idx=2&sn=b78f6ed86f43a99b792a6b009afdac50&chksm=96a5e705d99f22190c90847642318a11162db99581a0d38133834303d5e19297533b48cec601&scene=126&sessionid=1743469108#rd)
+
 
 
 
@@ -888,12 +929,6 @@
 
 
 
-## X. 性能测试与对比
-
-- [C#集合数据去重的5种方式及其性能对比测试分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507797&idx=1&sn=dae1b96e3b9c0a675ecb8739da389183&chksm=96331b1022ed6028ddbc564f9d8810d7cdb80080ad7f4be39206042c3edb40769bb3c3392a64&scene=126&sessionid=1732840859#rd)
-
-
-
 ## X. 虚拟打印机
 
 - [如何添加Microsoft Print To PDF 打印机 - 知乎](https://zhuanlan.zhihu.com/p/105366547)
@@ -944,6 +979,12 @@
 ## Y. 源代码生成器
 
 - [dotnet 源代码生成器分析器入门 - lindexi - 博客园](https://www.cnblogs.com/lindexi/p/18786647)
+
+
+
+## Y. 云原生应用
+
+- [.NET云原生应用实践（一）：从搭建项目框架结构开始 - dax.net - 博客园](https://www.cnblogs.com/daxnet/p/18172088)
 
 
 

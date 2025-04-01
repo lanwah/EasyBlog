@@ -72,6 +72,22 @@ mc:Ignorable="d"
 
 
 
+## 路由事件
+
+[事件 - WPF .NET Framework | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/events-wpf?view=netframeworkdesktop-4.8)
+
+[命令概述 - WPF .NET Framework | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/commanding-overview?view=netframeworkdesktop-4.8)
+
+[如何：创建 RoutedCommand - WPF .NET Framework | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/how-to-create-a-routedcommand?view=netframeworkdesktop-4.8)
+
+[RoutedCommand 类 (System.Windows.Input) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.windows.input.routedcommand?view=windowsdesktop-8.0)
+
+[WPF 路由事件(RoutedEventArgs 路由事件参数、 RoutedEvent 路由事件、RoutedEventHandler路由事件处理程序、RaiseEvent引发路由事件)-CSDN博客](https://blog.csdn.net/litao2/article/details/54947009)
+
+[走进WPF之路由事件 - 老码识途呀 - 博客园](https://www.cnblogs.com/hsiang/p/15496604.html)
+
+
+
 ## FAQ
 
 <h3 style="border-left:6px solid #2196F3;background:#ddffff;padding:14px;font-size:16px;letter-spacing:1px;">1. 什么是WPF？</h3>
