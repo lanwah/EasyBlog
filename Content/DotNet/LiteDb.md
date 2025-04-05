@@ -14,6 +14,8 @@
 
 ![LookDown](../Images/Common/hand-down.png)[LiteDb API](http://www.litedb.org/api/)
 
+![LookRight](../Images/Common/hand-right.png)[LiteDB - 一个单数据文件 .NET NoSQL 文档存储 - LiteDB](https://dev.listera.top/docs/litedb/)
+
 ## 封装的代码
 
 <div style="display:inline-block;position:relative;background:#2196F3;color:white;text-align:center;padding:0px 20px;height:45px;
@@ -339,4 +341,5 @@
 ## 相关参考
 
 1. [LiteDB用法小结](https://zhuanlan.zhihu.com/p/365797378)
+1. [SQLite 和 LiteDB 性能对比 | Code Bye](https://www.codebye.com/compare-sqlite-and-litedb.html#google_vignette)
 

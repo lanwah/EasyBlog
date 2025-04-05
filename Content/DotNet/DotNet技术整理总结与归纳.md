@@ -176,10 +176,15 @@
 - **向量存储**
 
   - [AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18761132)
+  - [AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现](https://mp.weixin.qq.com/s?__biz=MzkyMDcyMTE5NQ==&mid=2247484593&idx=1&sn=ebb7bf005dd089153f8847d46ebe7c8c&chksm=c0ae4290ab4b3a12f73a0432ec5062f8ae13dcb8d87f8c3c525c8c02004120e4001b57eb6c5a&poc_token=HMNu5mejeS4k7FoLPLOTNuUEueifqD2M8mCjC1Ri)
   - [.NET 原生驾驭 AI 新基建实战系列（一）：向量数据库的应用与畅想 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18784938)
+  - [.NET 原生驾驭 AI 新基建实战系列（一）：向量数据库的应用与畅想](https://mp.weixin.qq.com/s?__biz=MzkyMDcyMTE5NQ==&mid=2247486387&idx=1&sn=11fd72121467154776fc11fa79346d71&chksm=c05fb5a25b2996dd8a64a84ba541986676295308a1ed6c685515401b3f99b900f88d7e9c8718#rd)
 
 - **智能体**
+  
   - [DeepSeek+Coze实战：10分钟快速打造一个“虚拟女友”智能体](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511831&idx=2&sn=ee411dc3b4d702a55ca946b31017652a&chksm=96c16792aa5fcc102d8b6de1e4316b441ff0e1a5476f8b91cb91e0a52b8c8dd7404e6159a873&scene=126&sessionid=1743251663#rd)
+  - [打造DeepSeek最强外挂！一篇文章教会你搭建「个人知识库」（喂饭版）](https://mp.weixin.qq.com/s?__biz=MzU3OTc2OTA4OA==&mid=2247487052&idx=1&sn=403878435ef7291f8ee39e3fe99dcad4&chksm=fca988e59d4b924b6c3844ede4de0e9b3edc04823c348c31239781d3fbb30784704cd68fa46e#rd)
+  - [利用ollama + RAGFlow部署千问大模型构建个人知识库AI智能体应用](https://mp.weixin.qq.com/s?__biz=MzAwMjY4NTUwNw==&mid=2247483916&idx=1&sn=7841fbe2037513c1c252b8dca33fec6b&chksm=9b95bca66564d9f0f6376c84ca6a0a69b24880a7eb473250ffa8ac6707815a33c9b67253296a#rd)
 
 
 
@@ -193,6 +198,12 @@
 ## B. 并发迁移
 
 - [EntityFramework Core并发迁移解决方案 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=3&sn=9f6d974d52cf51600cd41fecda0e3d2d&chksm=968b84946255e140d2f3dea7d7c90f7364dbae537c37ff5beb8c448cbeb5dc09ad2d204b22fa&scene=126&sessionid=1727052024#rd)
+
+
+
+## B. Blazor
+
+- [在 Blazor 中使用 Chart.js 快速创建数据可视化图表](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511983&idx=1&sn=a7e610ae2489ae9f38033289fef4019a&chksm=969aa8c071cd786d6498c80ed7064e43fec569806947face768229c52bfcebc9b675da4606bf&scene=126&sessionid=1743556275#rd)
 
 
 
@@ -776,9 +787,13 @@
 - [工作面试必备：SQL 中的各种连接 JOIN 的区别总结！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511537&idx=1&sn=9acaa59e433339ca24c159ef452d5825&chksm=96a05a9380059117e5ccd4ab46999ea33c07ca29119a68b96ca747abe84dc84f051449672360&scene=126&sessionid=1742173108#rd)
   - MySQL
     - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
+    - [MySQL高性能体系结构](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511983&idx=2&sn=d94c4441a43a6906007bec03a65249db&chksm=9629334dedd69fb3765672ebf47c77692bb22c5c99dcb9381fbeeddfd3a2535ac5e4387b2eb2&scene=126&sessionid=1743556275#rd)
 - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
 - [.NET MongoDB数据仓储和工作单元模式封装](https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw)
 - [ADO.NET中SQL绑定变量方式总结 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18774515)
+- **查询优化**
+  - [SQL优化极简法则，还有谁不会？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512009&idx=3&sn=828d2dcc050b544a137d83ac148ee10f&chksm=96f073c97b0c8ad0be31d297e6c9227be8ec6e07cdefbd31d30a1df6d3fb8057b219fc4c1e2d&scene=126&sessionid=1743642645#rd)
+
 
 
 
@@ -863,10 +878,17 @@
 
 
 
-
 ## T. 图像识别
 
 - [C#使用PaddleOCR进行图片文字识别](https://mp.weixin.qq.com/s/ULf3ZY6x8KgaOFkd2oBYKA)
+
+
+
+## T. 图形/图像
+
+- **SkiaSharp**
+  - [【SkiaSharp绘图14】SKCanvas方法详解(三)URL注释、按顶点绘制、 是否裁切区域之外、旋转、缩放、倾斜、平移、保存/恢复画布_skiasharp 缩放-CSDN博客](https://blog.csdn.net/TyroneKing/article/details/140084044)
+  - [SkiaSharp库在NetCore下跨平台图片操作基础使用方法 - pccai - 博客园](https://www.cnblogs.com/pccai/p/17858065.html)
 
 
 
@@ -974,6 +996,8 @@
 
   > .NET中 泛型 + 依赖注入 的实现与应用。
 
+- 
+
 
 
 ## Y. 源代码生成器
@@ -994,6 +1018,7 @@
 - [C#字符串拼接的6种方式及其性能分析对比](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510211&idx=1&sn=7a74eccdac26ddfe5b2d6730982097b6&chksm=96d566ef30cf03b40df87189e17e0905e9863a271ca8bbdd78e00f7aecdce5057de485dd84bb&scene=126&sessionid=1739414680#rd)
 - [C# 字符串拼接的 7 种方式及性能对比 - 唐青枫 - SegmentFault 思否](https://segmentfault.com/a/1190000045650291)
 - [用 C# 插值字符串处理器写一个 sscanf](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510505&idx=2&sn=cba9ba32d24070d1fc71028db1473b85&chksm=96214cf9b6fbca195ba0b031bc35df9cf25df8581fe25c17674505bd40557d70965d62b18774&scene=126&sessionid=1739753079#rd)
+- [高效管理内存的利器：彻底理解 Span 和 Memory：](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512073&idx=2&sn=7eadab22fa2365d77f43dbe722fb7934&chksm=9602b997629f2142d356901d8d8ae5ba84fb63c2b8ae222ee4921e089ed478597c9b56f29db1&scene=126&sessionid=1743819410#rd)
 
 
 

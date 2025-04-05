@@ -64,6 +64,14 @@ mc:Ignorable="d"
 
 ![Design-time data with text in a TextBlock](Images/WPF学习笔记/xaml-design-time-textblock.png)
 
+
+
+## WPF 资源
+
+[WPF 已知问题 资源字典树引用与资源寻找的坑 - lindexi - 博客园](https://www.cnblogs.com/lindexi/p/16733252.html#:~:text=大家都知道，在 WP)
+
+
+
 #### 推荐阅读
 
 1. **[在 Visual Studio 中通过 XAML 设计器使用设计时数据](https://learn.microsoft.com/zh-cn/visualstudio/xaml-tools/xaml-designtime-data?view=vs-2022)**

@@ -8,7 +8,10 @@
 
 ## DotNet 命令参考
 
-[dotnet 命令](https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet)
+- [dotnet 命令](https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet)
+  - [dotnet publish 命令 - .NET CLI | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet-publish)
+
+​	
 
 ## 其他参考
 

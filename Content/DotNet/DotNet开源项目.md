@@ -107,6 +107,7 @@
 | **Git:[md](https://github.com/doocs/md)**                    | [WTFPL license](https://github.com/doocs/md#WTFPL-1-ov-file) | WeChat Markdown Editor - 一款高度简洁的微信 Markdown 编辑器。<br />这款编辑器支持多种特性，包括但不限于 Markdown 语法、色盘取色、<br />多图上传、一键下载文档、自定义 CSS 样式以及一键重置等。<br />它专为在微信等平台上编辑 Markdown 文档而设计，提供了便捷和高效的编辑体验。<br />[在线预览](https://doocs.github.io/md/) |
 | Git:[roslynpad](https://github.com/roslynpad/roslynpad)      | [MIT license](https://github.com/roslynpad/roslynpad#MIT-1-ov-file) | Roslyn是一个强大的.NET编译器实现，为C#和Visual Basic开发者提供了<br />丰富的代码分析API。它不仅是一个编译工具，<br />还是一个支持构建高级代码分析工具的平台。 |
 | **Git:[Notepads](https://github.com/0x7c13/Notepads)**       | [MIT license](https://github.com/0x7c13/Notepads#MIT-1-ov-file) | Notepads是一个.NET开源、免费（MIT License）、现代、轻量级、<br />具有极简主义设计的文本编辑器。 |
+| **Gitee:[ndd](https://gitee.com/cxasm/notepad--)**           | GPL-3.0                                                      | Notepad-- 是一个使用C++编写的轻量级文本编辑器，简称ndd。<br />它支持Windows、Mac和Linux操作系统平台，<br />旨在完成文本编辑类软件的国产可替代，特别是在国产Uos/Linux系统、<br />Mac系统上发展。与其他Notepad类竞品相比，Notepad--的优势在于其跨平台特性，<br />能够支持Linux和Mac操作系统。 |
 | Git:[DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | [MS-PL license](https://github.com/Code52/DownmarkerWPF#MS-PL-1-ov-file) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。<br />功能丰富，可直接打开并保存到您的博客、GitHub等平台，<br />支持从剪贴板粘贴图片到Markdown、Jekyll网站，支持从文件夹打开，以及更多功能！ |
 | Git:[NetPad](https://github.com/tareqimbasher/NetPad)        | [MIT license](https://github.com/tareqimbasher/NetPad#MIT-1-ov-file) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，<br />它允许用户立即运行C#代码，无需创建和管理项目。 |
 | Git:[CsvTextEditor](https://github.com/WildGums/CsvTextEditor) | MIT                                                          | CsvTextEditor是一个基于 C# 开源（MIT License）、免费、<br />易于使用的 CSV 文本编辑器应用程序，<br />使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。 |
@@ -126,6 +127,8 @@
   > NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，它允许用户立即运行C#代码，无需创建和管理项目。
 
 - [精选 5 款基于 .NET 开源、功能强大的编辑器【NetPad】【RoslynPad】【Notepads】【CsvTextEditor】【DownmarkerWPF】](https://mp.weixin.qq.com/s/hmd1e87YTLE8kXJQBpeONg)
+
+- [一款开源免费、国产跨平台、轻量级的文本编辑器，Notepad++平替工具！【Notepad--】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512009&idx=2&sn=7ab6bea0858b34b3b99ca9ad8ad5c5af&chksm=96a203c4c291968c84da7b5913db65fd828cc7a0032aa355ec9136da751b29a884c2f294185d&scene=126&sessionid=1743642645#rd)
 
 
 
@@ -1090,6 +1093,7 @@
 | Git:[Seelen-UI](https://github.com/eythaann/Seelen-UI)       |                                                              | 更改Windows风格                                              |
 | Git:[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | [MIT license](https://github.com/Flow-Launcher/Flow.Launcher#MIT-1-ov-file) | Flow Launcher 是一款方便实用的 Windows 文件搜索和应用程序启动器，<br />能够帮助你快速查找文件、启动应用程序和执行系统操作，<br />提高工作效率和操作便利性。并且生态完善，有插件商店，<br />你可以查看完整的插件列表，或通过 "设置 "中的 "插件商店 "菜单快速安装插件。 |
 | Everything                                                   | [下载地址](https://www.voidtools.com/zh-cn/downloads)        | Everything是一款高效、易用、功能强大的Windows文件搜索工具。<br />它以其即时的搜索响应、高效的索引机制、<br />精准的匹配算法和简洁的用户界面赢得了广大用户的喜爱。无论是个人用户还是企业用户，<br />都可以通过这款工具来提高文件管理的效率和准确性。 |
+| Git:[EverythingToolbar](https://github.com/srwi/EverythingToolbar) | MIT                                                          | EverythingToolbar 是一款基于 .NET 开源（MIT License）、<br />免费的实用辅助工具，它可以将 Everything 添加到 Windows 任务栏，<br />从而取代了 Windows 传统的文件搜索功能，提供比 Windows 内置搜索更优越、<br />更快速的搜索体验。 |
 | Listary                                                      | [下载地址](https://www.listary.com/download)                 | Listary是一款高效的 Windows 文件搜索工具，它以极其轻量化的状态运行，<br />能帮你快速查找本地的文件和应用程序。与Everything不同，Listary不仅限于文件名的查找，<br />还可以用于应用启动和联网搜索，适合那些希望提高整体工作效率的用户。 |
 | AnyTXT Searcher                                              | [下载地址](https://anytxt.net/download)                      | AnyTXT Searcher是一款功能强大的本地跨平台（Windows、Linux、MacOS）全文搜索工具，<br />旨在帮助用户快速定位并查找电脑中的各种文档和文本内容。<br />它支持多种文件格式，包括TXT、DOC、PDF、Excel、PPT等，<br />几乎涵盖了日常办公和学习中常见的所有文档类型 |
 | DocFetcher                                                   | [下载地址](https://docfetcher.sourceforge.io/zh/download.html) | DocFetcher是款开源、跨平台（Windows、Linux、MacOS）的全文搜索工具，<br />它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、<br />HTML等多种格式，适合学生、研究人员及文档管理者。 |
@@ -1124,6 +1128,7 @@
 
 - **文件搜索**
   - [5款高效的文件搜索工具，工作效率提升利器！【Everything】【Listary】【AnyTXT Searcher】【DocFetcher】【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511877&idx=2&sn=39a98aaaa7f5b960c053ae3d3144455d&chksm=96afc2cd2b668ef991b30c3a657ba501791539b89bf2c1e01db4e0d851ab2649222af069b86b&scene=126&sessionid=1743334820#rd)
+  - [一款让 Everything 更加如虎添翼的 .NET 开源辅助工具！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512072&idx=1&sn=3b3eefffa51e0e472c5609f886675b47&chksm=961ee1a035b8e35cff98c9d6b4bbef1ed931b15207f24af0fc824324fe438b9522b19e7de378&scene=126&sessionid=1743819410#rd)
 
 
 
@@ -1510,7 +1515,6 @@
 - **[一款.NET开源免费的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503018&idx=3&sn=93b468d3e0baaa92f8b725b334dcaa4c&chksm=964b7216b55d3134182255240b91435a9ee7da0131f0f9631ce7b9b0c8502b494215b2c8b1e9&scene=126&sessionid=1721004385#rd)**
 - **[一款.NET开源、跨平台的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=1&sn=81648ae23f5beab92da10249e09661f1&chksm=96f30235d0f6926354b217fb0a7a71dbc147bb493610ec039057daf33188bc4ccc05bfb456c1&scene=126&sessionid=1724806111#rd)**
 - [一款基于.NET开源、强大的网络管理和网络问题排查工具！【NETworkManager】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511096&idx=1&sn=f8472d000e0484a641e52b4545c258ab&chksm=9602bb7af3b9e36faf5f81c700af58eabfb7ebb40a817b578ee23c86f11f3d6f9761ed41b4b2&scene=126&sessionid=1741568037#rd)
-- [一款 .NET 开源、功能强大的远程连接管理工具，支持 RDP、VNC、SSH 等多种主流协议！【mRemoteNG】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511624&idx=1&sn=a2694446c776b6d948dee632cd14042d&chksm=9693bdcce2b153fa4fbe27b68f74b585fa06699dc7fdba1e97c5bfd6aa09547efb4764ad7559&scene=126&sessionid=1742518244#rd)
 - [一个基于 .NET 开源免费的异地组网和内网穿透工具【linker】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511825&idx=1&sn=ebf9646935c4ba9247031a966f379918&chksm=966365b6cfd8fea00294c6166b8416b2ec24c4eab0168edd7dcf44930f513b40052866f857aa&scene=126&sessionid=1743036165#rd)
 
 
@@ -1623,6 +1627,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[Quasar](https://github.com/quasar/Quasar)**           | MIT license                                                  | Quasar是一个免费（MIT License）、<br />开源的远程管理工具，专为Windows系统设计。<br />它使用C#语言编写，具有轻量级、高稳定性、易用性的特点。<br />Quasar为远程技术支持、<br />系统监控和员工监控等提供了强大的解决方案。 |
 | **Git:[1Remote](https://github.com/1Remote/1Remote)**        | [GPL-3.0 license](https://github.com/1Remote/1Remote#GPL-3.0-1-ov-file) | 1Remote是一款现代、功能丰富、易于使用的远程会话管理和启动器，<br />支持多种协议和定制选项，适合需要频繁管理远程会话的用户 |
+| Git:[mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)      | [GPL-2.0 license](https://github.com/mRemoteNG/mRemoteNG#GPL-2.0-1-ov-file) | mRemoteNG是一款基于 .NET 开源（GPL-2.0 license）、免费、<br />功能强大的 Windows 远程连接管理工具，支持多种语言、支持 RDP、<br />VNC、SSH 等多种主流协议、并且提供了标签式界面，<br />用户可同时管理和切换多个远程连接。 |
 | **Gitee:[SiMayRemotelyOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS)** | AGPL-3.0                                                     | SiMayRemoteMonitorOS是一个基于Windows的远程控制系统，<br />完全采用C#.NET开发，遵循AGPL-3.0开源协议。 |
 | **Git:[rustdesk](https://github.com/rustdesk/rustdesk)**     | [AGPL-3.0 license](https://github.com/rustdesk/rustdesk#AGPL-3.0-1-ov-file) | 常见的远程桌面软件有TeamViewer、AnyDesk、ToDesk等。使用这些软件时，<br />通常需要在远程计算机上安装相应的客户端软件，并在本地计算机上使用相应的<br />服务器端或客户端软件来建立连接。今天咱们分享一款TeamViewer的替代品，<br />一个开源免费的远程桌面软件，开箱即用，无需任何配置：RustDesk。 |
 | 网易UU远程                                                   | 原GameViewer远程                                             | 网易UU远程（原GameViewer远程），是一款由网易出品的专业游戏串流远程控制软件，<br />支持手机、平板、电脑、Mac、掌机远程控制电脑，<br />不仅能满足你远程办公、远程协助等需求，超低延迟、高清高帧、操控自如、<br />轻松拓展副屏、一键公网串流等特色功能更能给你带来极致的游戏串流体验！<br />[下载地址](https://uuyc.163.com/download) |
@@ -1639,6 +1644,7 @@
 - [推荐6款好用、免费的远程控制软件，收藏使用！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=2&sn=d8c9c51b659164c8591fd9dc2a8f4770&chksm=9634011131754750eda640494559a1e88005ffdd2283dad303cb02e838f83ada45a169ab72fb&scene=126&sessionid=1730335988#rd)
 - [一款免费、低延迟、强大的远程控制软件，满足用户远程办公、远程协助等日常需求，提高工作效率！【网易UU远程】【GameViewer远程】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=2&sn=bb46cace5fc5849e13307ff04a4fa4bd&chksm=96aaea705afcf7cc69aca8f508318aff469626b9be1ccd069ba278e50364da774bab956bc4a1&scene=126&sessionid=1735740851#rd)
 - [一款革命性的跨平台远程服务器管理与文件管理工具，帮你搞定所有远程连接方式！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511924&idx=2&sn=8caba9a2ff319cf034d38966c82da9b2&chksm=966d166cf0c8d635f17ec4716780ef81882f66d2f5e6de7dc201972618fb0bf7442e78849ef7&scene=126&sessionid=1743383083#rd)
+- [一款 .NET 开源、功能强大的远程连接管理工具，支持 RDP、VNC、SSH 等多种主流协议！【mRemoteNG】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511624&idx=1&sn=a2694446c776b6d948dee632cd14042d&chksm=9693bdcce2b153fa4fbe27b68f74b585fa06699dc7fdba1e97c5bfd6aa09547efb4764ad7559&scene=126&sessionid=1742518244#rd)
 
 
 

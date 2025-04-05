@@ -337,7 +337,7 @@
 
 
 ```html
-<div style="background:#004173;color:white;padding:15px;border-radius:6px;">因为对象树更像是概念，而不像是实际 API，所以还可以将此概念视为对象图。 实际上，在运行时，对象之间的某些关系不能由树形式表示。 尽管如此，树形式的相关性还是很强，尤其是对于 XAML 定义的 UI。因此，大多数 WPF 文档在引用这个常见概念时，仍使用术语“对象树”。</div>
+<div style="background:#2196F3;color:white;padding:15px;border-radius:6px;">因为对象树更像是概念，而不像是实际 API，所以还可以将此概念视为对象图。 实际上，在运行时，对象之间的某些关系不能由树形式表示。 尽管如此，树形式的相关性还是很强，尤其是对于 XAML 定义的 UI。因此，大多数 WPF 文档在引用这个常见概念时，仍使用术语“对象树”。</div>
 ```
 
 <div style="font-weight:bold;font-size:16pt;padding-top:15px;padding-bottom:5px;">显示效果：</div>
