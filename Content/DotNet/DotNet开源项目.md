@@ -82,6 +82,20 @@
 
 
 
+## A. 安全与防护
+
+| 项目名称                                            | 使用的协议                                                   | 帮助文档                                                     |
+| --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[TinyWall](https://github.com/pylorak/TinyWall) | [GPL-3.0 license](https://github.com/pylorak/TinyWall#GPL-3.0-1-ov-file) | TinyWall是一款基于 .NET 开源（GPL-3.0 license）、免费、轻量级、<br />用户友好且非侵入性的防火墙软件。 |
+|                                                     |                                                              |                                                              |
+|                                                     |                                                              |                                                              |
+
+### 相关参考
+
+- [一款 .NET 开源、免费、轻量级且非侵入性的防火墙软件【TinyWall】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512178&idx=1&sn=7e814aadaf8bef46abf1b4c7d91c630f&chksm=969a342986894c6b607821304fe8f069797693cf9264fcb67d2ee3c60ee75aaf3c7cc613318d&scene=126&sessionid=1744331895#rd)
+
+
+
 ## B. Blazor开源项目
 
 | 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
@@ -485,6 +499,7 @@
 | **Git:[naive-ui-admin](https://github.com/jekip/naive-ui-admin)** | [MIT license](https://github.com/jekip/naive-ui-admin#MIT-1-ov-file) | Naive Ui Admin 是一款 完全免费 且可商用的中后台解决方案，<br />基于 Vue3.0 、Vite 、 Naive UI 和 TypeScript 。 它融合了最新的前端技术栈，<br />提炼了典型的业务模型和页面，包括二次封装组件、动态菜单、权限校验等功能，<br />助力快速搭建企业级中后台项目。<br />[在线预览](https://naive-ui-admin.vercel.app) |
 | **Git:[WPFManager](https://github.com/straw-git/WPFManager)** |                                                              | 一款非常漂亮的 WPF 管理系统                                  |
 | Git:[art-design-pro](https://github.com/Daymychen/art-design-pro) | [MIT license](https://github.com/Daymychen/art-design-pro#MIT-1-ov-file) | Art Design Pro是一款开源免费（基于MIT license开源协议）、<br />美观实用的后台管理系统模版，专注于用户体验和快速开发的开源后台管理解决方案。<br />基于 ElementPlus 设计规范，进行了视觉上的精心优化，提供更美观、<br />更实用的前端界面，帮助你轻松构建高质量的后台系统。项目使用 Vue3、<br />TypeScript、Vite 等最新技术栈，ElementPlus 组件库为您提供强大支持，<br />覆盖 80% 的常用组件。 |
+| Git:[ApeVolo.Admin](https://github.com/xianhc/ApeVolo.Admin) | [Apache-2.0 license](https://github.com/xianhc/ApeVolo.Admin#Apache-2.0-1-ov-file) | ApeVolo.Admin 一款基于.NET 8、SqlSugar、Vue、Elment UI、RBAC、<br />前后端分离、开源（Apache-2.0 license）、开箱即用的企业级中后台权限管理系统。<br />项目具备丰富的组件、简单的逻辑代码、常见的知识点、不仅适用于新手学习、<br />更适用企业级系统开发，助力快速完成常规业务需求开发。 |
 
 ### 相关参考
 
@@ -496,6 +511,7 @@
 - [2024年值得推荐的6款 Vue 后台管理系统模板，开源且免费！【vue-element-admin】【Naive Ui Admin】【Ant Design Vue Pro】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507867&idx=1&sn=95eedb4ba67fbcf3ddc04443ef8c9602&chksm=962c08fbe2f25995e349b7f73d1da0ce8e982e1e874337da2330d8c3b5ec922ed8bf770dab98&scene=126&sessionid=1733100642#rd)
 - [一个使用 WPF 开发的管理系统【WPFManager】](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
 - [一款开源免费、美观实用的后台管理系统模版，简单轻量、开箱即用！【Art Design Pro】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=3&sn=03e8bfb14ff6c2a9e228dbfb2be4d51b&chksm=961f50706b65eff53ba9523360260b1bd69997b8bf18fb492b43d93b7eb9e4e27d5400fbc89e&scene=126&sessionid=1742951008#rd)
+- [一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512130&idx=1&sn=91f7d557891cfd4b471dc69182291db8&chksm=96a740e8e515f10d617173c5354615233036d4e13f6697c69913fad6d9cd6d4a1ba5f188000b&scene=126&sessionid=1744159839#rd)
 
 
 
@@ -564,15 +580,16 @@
 
 ## J. 监控系统
 
-| 项目名称                                                 | 使用的协议      | 最新版本    | 帮助文档                                                     |
-| -------------------------------------------------------- | --------------- | ----------- | ------------------------------------------------------------ |
-| **Git:[Opserver](https://github.com/Opserver/Opserver)** | **MIT license** | MIT license | Opserver一款Stack Overflow基于.NET开源、<br />免费的轻量级监控系统，它可以独立监控多个系统，<br />支持提取有关 CPU、内存、网络和硬件的统计数据。<br />并且支持跨平台部署（包括 Windows，macOS，Linux）。 |
-|                                                          |                 |             |                                                              |
-|                                                          |                 |             |                                                              |
+| 项目名称                                                 | 使用的协议                                                   | 帮助文档                                                     |
+| -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Git:[Opserver](https://github.com/Opserver/Opserver)** | **MIT license**                                              | Opserver一款Stack Overflow基于.NET开源、<br />免费的轻量级监控系统，它可以独立监控多个系统，<br />支持提取有关 CPU、内存、网络和硬件的统计数据。<br />并且支持跨平台部署（包括 Windows，macOS，Linux）。 |
+| Git:[beszel](https://github.com/henrygd/beszel)          | [MIT license](https://github.com/henrygd/beszel#MIT-1-ov-file) | Beszel 是一款基于 Go 开源、轻量、易用的服务器监控系统，<br />适用于需要对多个服务器或容器进行实时监控和管理的场景。它特别适合于运维团队、<br />开发人员或需要关注服务器性能的个人用户。通过 Beszel，用户可以轻松获取服务器的 CPU、<br />内存、磁盘、网络等关键性能指标，并设置警报以确保在出现异常时能够及时响应。 |
+|                                                          |                                                              |                                                              |
 
 ### 相关参考
 
-1. **[Stack Overflow基于.NET开源的轻量级监控系统【Opserver】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=2&sn=cbf5707e8bc804aa71c25bd624921f86&chksm=96c22a12ec0fcb2b392b31e713306ede2cc84b1a8d3ac942b098b9dbdc295009ac6bff3da09f&scene=126&sessionid=1721608423#rd)**
+- **[Stack Overflow基于.NET开源的轻量级监控系统【Opserver】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=2&sn=cbf5707e8bc804aa71c25bd624921f86&chksm=96c22a12ec0fcb2b392b31e713306ede2cc84b1a8d3ac942b098b9dbdc295009ac6bff3da09f&scene=126&sessionid=1721608423#rd)**
+- [一款开源、轻量、易用的服务器监控系统，开箱即用！【Beszel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=2&sn=2cf69fa6c3469e78fbac0977feb8ff9d&chksm=969c563e4807c997cec50874fae84c51b93120474de24589c69f6bb0c36fae19fa8fae1b426a&scene=126&sessionid=1744331895#rd)
 
 
 
@@ -931,18 +948,19 @@
 | **Git:[SecurityDriven.TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM)** | [MS-PL license](https://github.com/sdrapkin/SecurityDriven.TinyORM#MS-PL-1-ov-file) | TinyORM是一个简单、快速且安全的微型.NET ORM。<br />[Wiki](https://github.com/sdrapkin/SecurityDriven.TinyORM/wiki) |
 | **Git:[EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository)** | [MIT license](https://github.com/TanvirArjel/EFCore.GenericRepository#MIT-1-ov-file) | 该库是EF Core ORM的通用仓储库实现，<br />旨在简化开发人员为每个.NET Core和.NET项目编写仓储层的工作。<br />通过使用这个库，开发人员可以更轻松地管理数据访问层，提高开发效率。<br /> |
 | **Git:[EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer)** | [GPL-3.0 license](https://github.com/Giorgi/EFCore.Visualizer#GPL-3.0-1-ov-file) | C#开源的一款EF Core查询计划调试器可视化工具。                |
-|                                                              |                                                              |                                                              |
+| Git:[Shadow](https://github.com/donetsoftwork/Shadow)        | [AGPL-3.0 license](https://github.com/donetsoftwork/Shadow#AGPL-3.0-1-ov-file) | ShadowSql之.net sql拼写神器，我正在开发的一个.net sql拼写工具(SqlBuilder)，<br />也可以算是ORM，命名为ShadowSql，本工具的作用就是帮码农拼写sql，<br />对标开源项目SqlKata。 |
 
 ### 相关参考
 
-1. **[C# 轻量级 ORM 框架 NPoco 的简单应用【NPoco】](https://www.cnblogs.com/timefiles/p/18294967)**
-1. **[C#开源、简单易用的Dapper扩展类库 【Dommel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503284&idx=1&sn=466657f30b1e8c611bd6224e4e6f6655&chksm=9691d84b7fe416bd914ae798d63e80ac9704d37d1334a85cc84d08f1bddb361b2bbec2f6c6d4&scene=126&sessionid=1721608423#rd)**
-1. **[Entity Framework Plus: 让 EF Core 开发如虎添翼 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=1&sn=b3fc39535316088d5ebb46b82e3d717f&chksm=968c7b2d53e5c6251330cb3f8be1d5f1224546a759452de06d30e800a2372469b33d8143ec06&scene=126&sessionid=1726188991#rd)**
-1. [值得推荐的.NET ORM框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505340&idx=2&sn=aee44d7a53481996397480d17c502c7c&chksm=96816505db94c6154b107b8f027c62877e3a617ac0178b1764172f056826aeb2a15c9925d909&scene=126&sessionid=1726708247#rd)
-1. [一个库帮你快速实现EF Core数据仓储模式 【EFCore.GenericRepository】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498166&idx=1&sn=59593649989ed0d5d76b5e0a7ad7d108&scene=21#wechat_redirect)
-1. [在Visual Studio中查看EF Core查询计划【EFCore.Visualizer】](https://mp.weixin.qq.com/s/SwAgFg8FbPsBnYsWKEqgRg)
-1. [分享几个实用且高效的EF Core扩展类库，提高开发效率！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505976&idx=1&sn=898b8cc5b54c4baf31646939f03ff1f4&scene=21#wechat_redirect)
-1. [一款支持多种数据库和功能的 .NET ORM 框架，提供了零SQL、低代码、高性能、多库兼容等特色！【SqlSugar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=2&sn=908909c9055e2985ab1ad1d4e66dd785&chksm=966f373ba63520d52ac11c945eb25fc363a415e96a940d9295f6e26bc98757ad44cbe84dd48c&scene=126&sessionid=1731890970#rd)
+- **[C# 轻量级 ORM 框架 NPoco 的简单应用【NPoco】](https://www.cnblogs.com/timefiles/p/18294967)**
+- **[C#开源、简单易用的Dapper扩展类库 【Dommel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503284&idx=1&sn=466657f30b1e8c611bd6224e4e6f6655&chksm=9691d84b7fe416bd914ae798d63e80ac9704d37d1334a85cc84d08f1bddb361b2bbec2f6c6d4&scene=126&sessionid=1721608423#rd)**
+- **[Entity Framework Plus: 让 EF Core 开发如虎添翼 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=1&sn=b3fc39535316088d5ebb46b82e3d717f&chksm=968c7b2d53e5c6251330cb3f8be1d5f1224546a759452de06d30e800a2372469b33d8143ec06&scene=126&sessionid=1726188991#rd)**
+- [值得推荐的.NET ORM框架 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505340&idx=2&sn=aee44d7a53481996397480d17c502c7c&chksm=96816505db94c6154b107b8f027c62877e3a617ac0178b1764172f056826aeb2a15c9925d909&scene=126&sessionid=1726708247#rd)
+- [一个库帮你快速实现EF Core数据仓储模式 【EFCore.GenericRepository】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498166&idx=1&sn=59593649989ed0d5d76b5e0a7ad7d108&scene=21#wechat_redirect)
+- [在Visual Studio中查看EF Core查询计划【EFCore.Visualizer】](https://mp.weixin.qq.com/s/SwAgFg8FbPsBnYsWKEqgRg)
+- [分享几个实用且高效的EF Core扩展类库，提高开发效率！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505976&idx=1&sn=898b8cc5b54c4baf31646939f03ff1f4&scene=21#wechat_redirect)
+- [一款支持多种数据库和功能的 .NET ORM 框架，提供了零SQL、低代码、高性能、多库兼容等特色！【SqlSugar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=2&sn=908909c9055e2985ab1ad1d4e66dd785&chksm=966f373ba63520d52ac11c945eb25fc363a415e96a940d9295f6e26bc98757ad44cbe84dd48c&scene=126&sessionid=1731890970#rd)
+- [ShadowSql之.net sql拼写神器 - xiangji - 博客园【ShadowSql】](https://www.cnblogs.com/xiangji/p/18806891)
 
  
 
@@ -1209,8 +1227,10 @@
     - **[一个详细的.NET 8操作SQLite入门到实战详细教程（包含选型、开发、发布、部署）【EasySQLite】](https://mp.weixin.qq.com/s/hLvV7SPpz_sT7QkWKveUHA)**
     - **[将 EasySQLite 从 .NET 8 升级到 .NET 9【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509009&idx=1&sn=ef5bf0778b71815ed6526834c6a65413&chksm=96a2c855b172e885fabf43a38ee117f401aec4a789c3740b7366eb7908e4cd45760c193e1bb8&scene=126&sessionid=1735894645#rd)**
     - [全面的 .NET 操作 SQLite 入门实战（包含选型、开发、发布、部署）！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511184&idx=1&sn=d7a86044de4d314e04870ecb8fa0fb80&chksm=963af63bd9df4988d5edbedc8eefe73c8bb9b214197a357092ec18abee1df79b17c5265428b3&scene=126&sessionid=1741741439#rd)
-
 - **非关系型数据库(NoSQL)**
+
+- **数据库设计**
+  - [一款开源免费、简单好用的数据库建模工具，PowerDesigner免费平替工具！【PDManer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512089&idx=2&sn=3dc9e92f6ac26c2b9a8b02b55460bdb6&chksm=96216235e973f3bf68eba4fb9f82d8c0ddc856495664a23d7bcc43b9a9bb730aa3a259743cf3&scene=126&sessionid=1743987820#rd)
 
 
 
@@ -1341,7 +1361,7 @@
 
 
 
-## T. 通讯相关工具
+## T. 通讯相关
 
 | 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -1352,6 +1372,8 @@
 | **Git:[llcom](https://github.com/chenxuuu/llcom)**           | [Apache-2.0 license](https://github.com/chenxuuu/llcom#Apache-2.0-1-ov-file) | LLCOM是一个.NET开源、功能强大、高自由度的串口调试工具，<br />它允许用户运行Lua脚本来提前处理待发送的数据，<br />同时还集成了多种通信协议（如TCP、UDP、SSL、MQTT）的测试服务端/客户端功能，<br />以及串口监听、编码互转、乱码恢复等特色功能。 |
 | 升讯威在线客服与营销系统                                     |                                                              | [升讯威在线客服与营销系统 - 曹旭升（sheng.c）](https://kf.shengxunwei.com/) |
 | Gitee:[TouchSocket](https://gitee.com/RRQM_Home/TouchSocket) | Apache-2.0                                                   | TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的网络通信框架。<br />包含了socket、 tcp、udp、ssl、namedPipe、http、websocket、<br />rpc、jsonrpc、webapi、xmlrpc、modbus等一系列的通信模块。<br />一键式解决 tcp 黏分包问题，使用协议模板，可快速实现「固定包头」、<br />「固定长度」、「区间字符」等一系列的数据报文解析。 |
+| **Modbus相关**                                               |                                                              |                                                              |
+| Git:[NModbus4](https://github.com/NModbus4/NModbus4)         | [MIT license](https://github.com/NModbus4/NModbus4#MIT-1-ov-file) | NModbus4是一个用于.NET平台的开源Modbus库。                   |
 
 ### 相关参考
 
@@ -1370,6 +1392,9 @@
 - **Socket**
   - [TcpClient 类 (System.Net.Sockets) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.net.sockets.tcpclient?view=netframework-4.5)
   - [说明 | TouchSocket](https://touchsocket.net/docs/current/)
+
+- **Modbus**
+  - [从0到1：工业通信的秘密武器 - NModbus4全解析【NModbus4】](https://mp.weixin.qq.com/s?__biz=MzUxMjI3OTQzMQ==&mid=2247494853&idx=1&sn=0e7132676c913a630b7ae1344e777be8&chksm=f9647a2dce13f33b527f65ea7f76db8abae73b7b3c1ba1a379121c9799ceafd030f906bc5ef7#rd)
 
 
 

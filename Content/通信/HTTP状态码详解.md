@@ -503,6 +503,9 @@ Unparseable Response Headers
 
 ## 推荐阅读
 
-1. [HTTP状态码](https://baike.baidu.com/item/HTTP%E7%8A%B6%E6%80%81%E7%A0%81/5053660?fr=aladdin)
+- [HTTP状态码](https://baike.baidu.com/item/HTTP%E7%8A%B6%E6%80%81%E7%A0%81/5053660?fr=aladdin)
+- [IIS 中的 HTTP 状态代码](https://learn.microsoft.com/zh-CN/troubleshoot/developer/webapps/iis/www-administration-management/http-status-code#common-http-status-codes-and-the-causes)
+- [排查 IIS 中的 4xx 和 5xx HTTP 错误 - Internet Information Services | Microsoft Learn](https://learn.microsoft.com/zh-cn/troubleshoot/developer/webapps/iis/site-behavior-performance/troubleshoot-http-error-code)
+  - [HTTP 错误 500.0 内部服务器错误 - Internet Information Services | Microsoft Learn](https://learn.microsoft.com/zh-cn/troubleshoot/developer/webapps/iis/site-behavior-performance/http-error-500-when-you-visit-web-site)
+  - [Internet 信息服务 (IIS) 网页上的 HTTP 错误 500.19 - Internet Information Services | Microsoft Learn](https://learn.microsoft.com/zh-cn/troubleshoot/developer/webapps/iis/site-behavior-performance/http-error-500-19-webpage)
 
-2. [IIS 中的 HTTP 状态代码](https://learn.microsoft.com/zh-CN/troubleshoot/developer/webapps/iis/www-administration-management/http-status-code#common-http-status-codes-and-the-causes)

@@ -186,6 +186,23 @@
   - [打造DeepSeek最强外挂！一篇文章教会你搭建「个人知识库」（喂饭版）](https://mp.weixin.qq.com/s?__biz=MzU3OTc2OTA4OA==&mid=2247487052&idx=1&sn=403878435ef7291f8ee39e3fe99dcad4&chksm=fca988e59d4b924b6c3844ede4de0e9b3edc04823c348c31239781d3fbb30784704cd68fa46e#rd)
   - [利用ollama + RAGFlow部署千问大模型构建个人知识库AI智能体应用](https://mp.weixin.qq.com/s?__biz=MzAwMjY4NTUwNw==&mid=2247483916&idx=1&sn=7841fbe2037513c1c252b8dca33fec6b&chksm=9b95bca66564d9f0f6376c84ca6a0a69b24880a7eb473250ffa8ac6707815a33c9b67253296a#rd)
 
+- **MCP**
+
+  - [使用C#创建一个MCP客户端 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18772576)
+
+  - [由 MCP 官方推出的 C# SDK，使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器交互！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512074&idx=1&sn=0b788c4855c36cb4888b29798a13d460&chksm=96dc285ee2c3002e486e4baef9ca7a7bc28809944d3884612fea76a385f4137333ac1326efeb&scene=126&sessionid=1743943335#rd)
+
+    > MCP C# SDK 是由 Model Context Protocol（MCP）官方推出的 C# 软件开发工具包（SDK），它使 .NET 应用程序、服务和库能够快速实现与 MCP 客户端和服务器进行交互。MCP是一个开放协议，它标准化了应用程序如何为大型语言模型（LLMs）提供上下文，并实现了 LLMs 与各种数据源和工具之间的安全集成。
+
+  - [使用MCP C# SDK开发MCP Server + Client - EdisonZhou - 博客园](https://www.cnblogs.com/edisonchou/p/-/introduction-to-mcp-csharp-sdk)
+
+    > 近日被MCP刷屏了，刚好看到张队发了一篇文章提到MCP的官方C# SDK发布了预览版，于是手痒痒尝了一下鲜，写了一个DEMO分享给大家。
+
+  - [BotSharp 5.0 MCP：迈向更开放的AI Agent框架 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18809988)
+
+    > 在人工智能快速发展的时代，AI Agent（人工智能代理）作为一种能够自主感知环境、决策并执行动作的实体，在众多领域展现出了巨大的潜力。BotSharp 是一个功能强大的开源项目，由 SciSharp[1] 社区开发和维护，旨在实现.NET技术栈下高度可定制的多智能体解决方案。为开发高效的对话式 AI 系统提供了极大的灵活性。通过其模块化的设计和多模型的支持，它更适合需要定制化需求的大型企业或组织。BotSharp作为一款专注于AI Agent开发的框架，一直致力于为开发者提供强大而灵活的工具来构建各种类型的智能代理。BotSharp 5.0 的 MCP（Model Context Protocol）支持是该版本的核心升级之一，BotSharp 5.0 MCP版本的推出，标志着该框架向着更开放的方向迈出了重要的一步，为开发者和使用者带来了更多的可能性和机遇。
+
+  - [斩获 3W 星！最近爆火的 MCP 一网打尽。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247523288&idx=1&sn=a6909090d2b728cb1c429973f36ac5e8&chksm=f8d2f037813277dd39bb8cb5bc91b80370947d2deb692a874e7302dd7dfef843bee57c3500a9&scene=126&sessionid=1744089396#rd)
 
 
 
@@ -239,10 +256,17 @@
 ## C. 程序交互
 
 - [C# WinForms 中嵌入 EXE 程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=2&sn=2a5fdec6674999242b6444217f4b2e96&chksm=965e96053f14e7b05ddc9eb08c9c20a323da4ad934ee096f98ab77e9cfa2ba229efd81a3d3e1&scene=126&sessionid=1728867433#rd)
+
 - [在网页上调起本机C#程序 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18546412)
+
 - **.NET & Python**
   - [C#调用Python脚本的方式（一），以PaddleOCR-GUI为例 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18605737)
+  
   - [.NET Core奇技淫巧之WinForm使用Python.NET并打包 - GuZhenYin - 博客园](https://www.cnblogs.com/GuZhenYin/p/18781724)
+  
+  - [MVP 聚技站｜用 CSnakes 把 MarkItDown 嵌入到 .NET 应用程序中](https://mp.weixin.qq.com/s/LDJoSyYVv8XsySqjjfuZ3g)
+  
+    > 本文将演示我如何使用 CSnakes 将一个调用了 MarkItDown 的 Python 函数脚本嵌入到我的 .NET 应用程序中，让 C# 代码间接完成文档转换。
 
 
 
@@ -280,6 +304,7 @@
 - [什么是.NET的强类型字符串(Strongly typed string)？ - czwy - 博客园](https://www.cnblogs.com/czwy/p/18576931)
 - [dotnet scaffold – .NET 的下一代内容创建](https://mp.weixin.qq.com/s/fXVEINNyCio7rAsTTy3OdA)
 - [【译】.NET 升级助手现在支持升级到集中式包管理](https://mp.weixin.qq.com/s?__biz=MzAwNTMxMzg1MA==&mid=2654101088&idx=3&sn=478ef086a896019c0bef3f5897ca9b29&scene=21#wechat_redirect)
+- [.NET 中编译错误与运行时错误的区别](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512178&idx=2&sn=f8c474eddf79422a0bccf44ba4406e7f&chksm=96956d68653e74eb036f22337e3a8bf3f68b112b684aa55bb5ef9d911963b7d4e626cab3aa57&scene=126&sessionid=1744331895#rd)
 - **关键字**
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
   - [C# 中比较实用的关键字，基础高频面试题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=1&sn=974ec95cb0f1b247b3ecdefefb98cafb&chksm=9622bb281f2819596c3c6a359f1e0d5e5514db2f4be74afff720cc9769f94715fcb0fa43ec00&scene=126&sessionid=1742433141#rd)
@@ -299,7 +324,8 @@
   - [C# 委托与 Lambda 表达式转换机制及弱事件模式下的生命周期分析 - 陈百川 - 博客园](https://www.cnblogs.com/buachuan/p/18385701)
   - [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xiketangedu/p/18594690)
 
-
+- **Linq**
+  - [C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=1&sn=beceb45fd88d4bea8ee12e15d57631ce&chksm=9635e76b13b7c94d85ba09304c2da95b7a4c3b4564ae5e885c1fbdcac63bf4f95ebb7b8e7054&scene=126&sessionid=1744331895#rd)
 
 
 
@@ -648,16 +674,9 @@
 
 
 
-## M. MCP
-
-- [使用C#创建一个MCP客户端 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18772576)
-
-
-
 ## M. Markdown编辑器
 
 - [NanUI for Winform 使用示例【第二集】——做一个所见即所得的Markdown编辑器 - 林选臣 - 博客园](https://www.cnblogs.com/linxuanchen/p/5579053.html)
-
 
 
 
@@ -669,6 +688,11 @@
 
 
 
+## N. NativeAOT
+
+- [用 .NET NativeAOT 构建完全 distroless 的静态链接应用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512129&idx=2&sn=d0cc25cdec53990780efe80e044cd57b&chksm=9613f1c3b83bde7b7b0d4f1c7728a37100780399a00dc5d9fee311438113178be617324b8c8d&scene=126&sessionid=1744074032#rd)
+
+
 
 ## O. ORM
 
@@ -678,6 +702,11 @@
 - **SQLSugar**
   - [SQLSugar 支持 TDengine 超级表的使用指南 - 阿妮亚 - 博客园](https://www.cnblogs.com/sunkaixuan/p/18740748)
   - [C# Winform使用SqlSugar操作数据库?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=3&sn=0753b2089b4ffcea93748bcea8a56ddf&chksm=9688e655f6fc8c7449c2478f15226ea8a18f8065671fe8315197484b03b41e9db938aadd6dac&scene=126&sessionid=1729645767#rd)
+- **EF**
+  - [排查 EF 保存数据时提示：Validation failed for one or more entities 的问题](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512130&idx=2&sn=0ac825298ffb340ea57c09659909990c&chksm=964373b1d118b0b799a45b822e3f6231e3af693f1fa9d73debcd3a7cbc43d6cf43b53979a290&scene=126&sessionid=1744159839#rd)
+
+- **ShadowSql**
+  - [ShadowSql之.net sql拼写神器 - xiangji - 博客园](https://www.cnblogs.com/xiangji/p/18806891)
 
 
 
@@ -693,6 +722,12 @@
 ## P. PDF处理
 
 - [用C#写个PDF批量合并工具简化日常工作 (qq.com)](https://mp.weixin.qq.com/s/MW5HFdu3jJTJ6TMpa36tXw)
+
+
+
+## P. P/Invoke
+
+- [用 .NET NativeAOT 构建完全 distroless 的静态链接应用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512129&idx=2&sn=d0cc25cdec53990780efe80e044cd57b&chksm=9613f1c3b83bde7b7b0d4f1c7728a37100780399a00dc5d9fee311438113178be617324b8c8d&scene=126&sessionid=1744074032#rd)
 
 
 
@@ -917,6 +952,7 @@
 
 - [细聊ASP.NET Core WebAPI格式化程序 (qq.com)](https://mp.weixin.qq.com/s/_fGnrUd-fNGdU6CUbj4uVQ)
 - [C# WebAPI 插件热插拔 - 黄金程序员 - 博客园](https://www.cnblogs.com/BFMC/p/18687474)
+- [MySurvey 问卷调查, 一个简单的Biwen.QuickApi示例项目 - 万雅虎 - 博客园](https://www.cnblogs.com/vipwan/p/18808244)
 
 
 
@@ -948,6 +984,10 @@
 ## X. 消息队列
 
 - [系统设计中的消息队列 (qq.com)](https://mp.weixin.qq.com/s/rP3tbXFzSvLL92--Fo2_pw)
+
+- [C# 窗口过程消息处理 WndProc - 蓝点lilac - 博客园](https://www.cnblogs.com/BluePointLilac/p/18802906)
+
+  > C# 窗口过程消息处理 WndProc。
 
 
 

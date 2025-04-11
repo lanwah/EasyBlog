@@ -16,17 +16,19 @@
 
 <img src="../Images/Common/hand-right.png" alt="arrow-right" /> https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/
 
-## WebView2 SDK 发行说明
+## WebView2 SDK 发行说明（SDK版本及运行时版本(谷歌版本)）
 
-<img src="../Images/Common/hand-right.png" alt="arrow-right" />https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/release-notes?tabs=dotnetcsharp#see-also
+<img src="../Images/Common/hand-right.png" alt="arrow-right" />[WebView2 SDK 发行说明 - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/release-notes/?tabs=dotnetcsharp)
+
+<img src="../Images/Common/hand-right.png" alt="arrow-right" />[WebView2 SDK 的存档发行说明 - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/release-notes/archive?tabs=dotnetcsharp)
+
+## WebView2 支持的平台及运行环境
+
+<img src="../Images/Common/hand-right.png" alt="arrow-right" /> https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/concepts/distribution
 
 ## 分发应用和 WebView2 运行时
 
-<img src="../Images/Common/hand-right.png" alt="arrow-right" /> https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/concepts/distribution
-
-## 分发应用和 WebView2 运行时
-
-<img src="../Images/Common/hand-right.png" alt="arrow-right" /> https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/concepts/distribution
+<img src="../Images/Common/hand-right.png" alt="arrow-right" /> [Microsoft Edge WebView2 简介 - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/)
 
 ## 下载 WebView2 运行时
 
@@ -44,6 +46,35 @@
 | 1.0.1466-prerelease | 2022 年 10 月 31 日 | 109.0.1466.0        | 109.0.1466.0                                                 | ==最后一个支持Win7的版本== |
 | 0.8.149             |                     | 76.0.149.0          | 76.0.149.0                                                   |                            |
 |                     |                     |                     | [49.0.2623.110](https://github.com/cefsharp/CefSharp/releases?page=15) | ==最后一个支持Xp的版本==   |
+
+## 运行环境支持
+
+支持以下编程环境：
+
+- Win32 C/C++
+- **.NET framework 4.6.2 或更高版本**
+- .NET Core 3.1 或更高版本
+- .NET 5 或更高版本
+- [WinUI 2.0](https://learn.microsoft.com/zh-cn/windows/apps/winui/winui2/)
+- [WinUI 3.0](https://learn.microsoft.com/zh-cn/windows/apps/winui/winui3/)
+
+WebView2 应用可以在以下版本的 Windows 上运行：
+
+- Windows 11
+- Windows 10
+- Windows 10 IoT 企业版 LTSC x32 2019
+- Windows 10 IoT 企业版 LTSC x64 2019
+- Windows 10 IoT 企业版 21h1 x64
+- Windows Server 2022
+- Windows Server 2019
+- Windows Server 2016
+
+以下设备也支持 WebView2：
+
+- Xbox
+- HoloLens 2
+
+
 
 ## 操作系统支持
 
