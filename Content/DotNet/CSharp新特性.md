@@ -54,7 +54,13 @@
 
 - **.NET9/C#13**
    - [.NET 9 预览：C#13 带来的新功能抢先看](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=2&sn=08e28269e862a61c1afd994ab4f76ce5&chksm=966f6a17ba78bd4a626ad0960d41a1f230d07373f1b2824a1118f818cb906fe2b7466c185089&scene=126&sessionid=1729426307#rd)
+   
+   - [解锁.NET 9性能优化黑科技：从内存管理到Web性能的最全指南 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18830657)
+   
+     > .NET 9为开发者带来了一系列强大的性能优化工具和改进，涵盖内存管理、异步编程、代码执行效率和 Web 应用性能等多个方面。
+   
    - [浅谈 C# 13 中的 params 集合](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511573&idx=1&sn=b7084c2c1c528aa06e6bd86a6216e787&chksm=96a5d6971d6cc35b4b1d0a4fdfca4477598bec8ea66b942480db077f05aa7f9f3552a2137f5e&scene=126&sessionid=1742433141#rd)
+   
    - [C# 13 中的新增功能实操](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=1&sn=d2c4578ad69219218c83d1d928723d1d&chksm=96e389bd9405ceb1cf8e0796f33f21ba0a382d4bc7423ee865a81b58d433ac4074ba81ee8c9a&scene=126&sessionid=1743123644#rd)
    
 - .**NET10**
@@ -62,6 +68,12 @@
    - [.NET 10 Preview 2 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2/)
 
      > .NET 团队于 2025 年 3 月 18 日发布了.NET 10 Preview 2，该版本在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
+     
+   - [.NET 10 Preview 3 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/)
+
+     > 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
+
+   
 
 - **C#14**
 

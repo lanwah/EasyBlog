@@ -98,3 +98,9 @@ WebView2 运行时版本 109 是支持以下 Windows 版本的最终版本。 We
 ### 1、查看Edge版本
 
 > 在Edge浏览器中输入： edge://version/
+
+
+
+## 其他参考
+
+- [在WPF中使用WebView2详解 - zhaotianff - 博客园](https://www.cnblogs.com/zhaotianff/p/18256433)

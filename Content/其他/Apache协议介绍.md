@@ -56,3 +56,9 @@ Apache协议（Apache License）是Apache软件基金会推出的开源许可证
 ## 总结
 
 Apache协议通过版本迭代平衡了开源自由与法律风险，2.0版本因其专利保护和兼容性成为当前最优选择，尤其适合企业级应用和复杂协作场景。开发者需重点关注合规声明和专利条款，避免因疏忽引发法律纠纷。
+
+
+
+## 相关参考
+
+- [Licenses – Open Source Initiative](https://opensource.org/license?ls=apache)

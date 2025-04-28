@@ -181,9 +181,11 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Gitee:[Easy.Admin](https://gitee.com/miss_you/easy-admin)** | MIT                                                          | Easy.Admin是一个基于.NET8+Vue3+TypeScript开发的权限管理&个人博客系统，<br />分为普通版本和SSR（服务端渲染，支持SEO），<br />服务端渲染框架基于vite-plugin-ssr实现，并且支持多种数据库。 |
 | **Git:[StarBlog](https://github.com/Deali-Axy/StarBlog)**    | [Apache-2.0 license](https://github.com/Deali-Axy/StarBlog#Apache-2.0-1-ov-file) | StarBlog是一个支持Markdown导入的开源博客系统，后端基于最新的.Net6和Asp.Net Core框架，<br />遵循RESTFul接口规范，前端基于Vue+ElementUI开发，可作为 .Net Core 入门项目学习。 |
+| Git:[answer](https://github.com/apache/answer)               | [Apache-2.0 license](https://github.com/apache/answer#Apache-2.0-1-ov-file) | Apache Answer 是一个功能丰富、易于使用的问答平台软件。它支持团队成员发布问题、<br />回答问题、进行互动，并通过强大的搜索功能和分类标签系统帮助用户快速找到所需信息。<br />此外，Answer 还提供了用户权限管理功能，以满足不同级别用户的需求。 |
 
 - [基于.NET8+Vue3开发的权限管理&个人博客系统【Easy.Admin】](https://mp.weixin.qq.com/s/CdHbePejyzXMoHXG03kocQ)
 - [精选2款.NET开源的博客系统【StarBlog】、【Easy.Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508559&idx=1&sn=d52a75de88f37ff9af473be328e02091&chksm=969772f3046290ec3edc5bd0752740851e454330e70d813e96a1ef6875507bcf92e1595d81c2&scene=126&sessionid=1734398043#rd)
+- [一款开源、适合任何团队的问答平台系统，助力开始构建社区论坛、帮助中心、知识管理平台！【Apache Answer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512500&idx=2&sn=8a262565ea469814a99a8a0c271e5d89&chksm=96b076db4e5d7c5df409f4b858b9f7d3be532903efc24f84c085ada08a4928cb9e24ffbdc6d0&scene=126&sessionid=1745063119#rd)
 
 
 
@@ -222,9 +224,10 @@
 | 项目名称                                                     | 使用的协议 | 功能说明/介绍                                                |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | **Gitee:[科讯餐饮管理系统](https://gitee.com/gdianqimeng/RMS)** | MIT        | 科讯餐饮管理系统是一款基于 .NET 开源、功能齐全的商用餐饮管理系统。<br />系统旨在帮助餐饮企业实现业务流程的自动化和规范化，提高工作效率，<br />降低运营成本，并提供决策支持。 |
-|                                                              |            |                                                              |
+| **Gitee:[蜀味正道（餐饮）](https://gitee.com/kbzapp/foodApp)** | GPL-3.0    | 蜀味正道是一款基于 .NET 开源、美观、全面高效的桌面端餐饮管理系统，<br />该系统是专门针对餐饮行业开发的桌面应用程序，旨在提供高效、便捷的餐饮管理服务。 |
 
 - [一款基于 .NET 开源、功能齐全的商用餐饮管理系统【RMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509965&idx=2&sn=2ff13122d6addb914103f79a8d21e274&chksm=96c6bc81f647e937eba7251a3fc982a279dc2cc970ef6d5cbf706bfe31119565fdaaba4a4879&scene=126&sessionid=1738974305#rd)
+- [一款基于 .NET 开源、美观的桌面端餐饮管理系统【蜀味正道】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512506&idx=2&sn=861b894d06921fee311e19ca983646c3&chksm=96f458487da4b84c42e544fb611feab9d2b74a9840b05588e8409bfcf40cb752ecf2a61075cb&scene=126&sessionid=1744851117#rd)
 
 
 
@@ -347,6 +350,20 @@
 ### 相关参考
 
 - [一款基于ESBuild，0配置，快速打包TypeScript库的打包工具【tsup】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506522&idx=3&sn=0270d88a75ed3f1e906cf1f3e68382e4&chksm=9605f3fc6dcf40a642269a4ecf01860edaaf852faba41f0820778f5c0f183cf1b3048665cbfc&scene=126&sessionid=1730033816#rd)
+
+
+
+## D. 低代码组件
+
+| 项目名称                                                | 使用的协议                                                   | 功能说明/介绍                                                |
+| ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[form-create](https://github.com/xaboy/form-create) | [MIT license](https://github.com/xaboy/form-create#MIT-1-ov-file) | 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，<br />支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、<br />ERP系统、电商系统、流程管理等系统中已稳定应用。 |
+|                                                         |                                                              |                                                              |
+|                                                         |                                                              |                                                              |
+
+### 相关参考
+
+- [一个开源、强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计！【FormCreate】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512433&idx=2&sn=90c18223490165689dcf0c2159a0ac54&chksm=96c777034a085268b0bea29a148afc145719a21a0dcb50a4154c5dd8af4987755ecb35e8ebe0&scene=126&sessionid=1744678388#rd)
 
 
 
@@ -628,7 +645,25 @@
 | Git:[CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | [MIT license](https://github.com/jasontaylordev/CleanArchitecture#MIT-1-ov-file) | 整洁架构（Clean Architecture）是一种软件架构设计原则，<br />由罗伯特·C·马丁（Robert C. Martin）提出，它旨在使软件系统更加灵活、<br />可维护和可测试，其核心目标是构建一种简洁、灵活且易于维护的系统结构。 |
 |                                                              |                                                              |                                                              |
 
+### 相关参考
+
 - [一个适用于 .NET 的开源整洁架构项目模板](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509008&idx=1&sn=6f7df6afa38c750baa5ff21e398b1b9a&chksm=960a0edc1d4299562e2cb97d94007e1defac224b18f5cd9e47a737dcf3df53288da04b630936&scene=126&sessionid=1735780647#rd)
+
+
+
+## J. 机器学习
+
+| 项目名称                                         | 使用的协议                                                   | 功能介绍/说明                                                |
+| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [BotSharp](https://github.com/SciSharp/BotSharp) | [Apache-2.0 license](https://github.com/SciSharp/BotSharp#Apache-2.0-1-ov-file) | BotSharp 是一个基于 .NET 生态的开源机器学习框架，<br />专注于构建智能对话平台（CaaP）和多功能 AI 助手。其功能覆盖自然语言处理（NLP）、<br />计算机视觉、音频处理等多个领域，并以模块化设计和高度扩展性著称。 |
+|                                                  |                                                              |                                                              |
+|                                                  |                                                              |                                                              |
+
+### 相关参考
+
+- [BotSharp开源应用框架——连接LLMs到您的.NET应用-CSDN博客【BotSharp】](https://blog.csdn.net/pepure/article/details/144931163)
+
+
 
 
 
@@ -1117,6 +1152,7 @@
 | DocFetcher                                                   | [下载地址](https://docfetcher.sourceforge.io/zh/download.html) | DocFetcher是款开源、跨平台（Windows、Linux、MacOS）的全文搜索工具，<br />它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、<br />HTML等多种格式，适合学生、研究人员及文档管理者。 |
 | Git：[DevToys](https://github.com/DevToys-app/DevToys)       | [ MIT license](https://github.com/DevToys-app/DevToys#MIT-1-ov-file) | DevToys是一个专门为开发者设计的Windows工具箱，完全支持离线运行，<br />无需使用许多不真实的网站来处理你的数据，<br />常用功能有：格式化（支持 JSON、SQL、XML）、JWT解码、<br />URL编码/解码、UUID生成、图片压缩、文本比较、正则表达式测试、<br />Markdown预览等28+种实用工具。 |
 | Git:[winutil](https://github.com/ChrisTitusTech/winutil)     | [MIT license](https://github.com/ChrisTitusTech/winutil#MIT-1-ov-file) | Winutil是一个开源免费（MIT license），强大且灵活的 Windows 系统管理工具。<br />主要用于简化和优化 Windows 系统的安装、调整、故障排除和更新过程。<br />它通过提供一套自动化的脚本和工具，帮助用户减少手动操作，<br />提高系统效率和稳定性。这个工具集包括安装程序、系统调整、<br />故障排除和更新管理等功能模块，支持自定义配置，以满足不同用户的需求。 |
+| Git:[mind-map](https://github.com/wanglin2/mind-map)         | [MIT license](https://github.com/wanglin2/mind-map#MIT-1-ov-file) | SimpleMindMap 是一个旨在提升个人及团队协作效率的思维导图工具。<br />通过直观的界面设计与强大的功能集合，它能够帮助用户轻松创建、<br />管理和分享复杂的思维结构，无论是项目规划、知识整理还是创意激发，<br />Mind Map 都能成为您不可或缺的智力助手。 |
 
 #### 相关参考
 
@@ -1139,14 +1175,15 @@
   - [一款.NET开源、免费、易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508560&idx=3&sn=add338dd5102248ecc0776576da6b0e0&chksm=96da88a21ce895ee527897f58fae19b9ea2fa3d9586d2598d5f538c67889be961eaf6aeb1cd8&scene=126&sessionid=1734484256#rd)
   - [一款免费且易用的屏幕录制神器【ScreenToGif】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=3&sn=2ba4d536ef511dda3b03f9d93e5bdae4&chksm=966bcf4ad7a8bd6216b3fd3aca547c09aa407212da927e75435ddaeb9d28a5324c9ca459cfc6&scene=126&sessionid=1730163511#rd)
   - [一个.NET开源、易于使用的屏幕录制工具【Captura】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=1&sn=39fe476367d561a4c91379819a80a4da&chksm=96ab7326754d7ddc172c6a14e61e420f529da59561834e9fe9f46636cbbcb9777534baf6c4e6&scene=126&sessionid=1734914402#rd)
-
 - **Windows工具箱**
   - [C#开源免费的开发效率提升利器：DevToys开发人员的瑞士军刀！【DevToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496113&idx=1&sn=73289a58f2ffca29f6fc55318f4f3f73&scene=21#wechat_redirect)
   - [一个强大且灵活的 Windows 系统管理工具，开源免费！【Winutil】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=2&sn=a4c89f9ef6ec6f2d187cdab948916f2a&chksm=961c13dbd9100350ed27c4ee1e0272725f571026f3b1664cb157c9c0c84669e76173b6913bf1&scene=126&sessionid=1743123644#rd)
-
 - **文件搜索**
   - [5款高效的文件搜索工具，工作效率提升利器！【Everything】【Listary】【AnyTXT Searcher】【DocFetcher】【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511877&idx=2&sn=39a98aaaa7f5b960c053ae3d3144455d&chksm=96afc2cd2b668ef991b30c3a657ba501791539b89bf2c1e01db4e0d851ab2649222af069b86b&scene=126&sessionid=1743334820#rd)
   - [一款让 Everything 更加如虎添翼的 .NET 开源辅助工具！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512072&idx=1&sn=3b3eefffa51e0e472c5609f886675b47&chksm=961ee1a035b8e35cff98c9d6b4bbef1ed931b15207f24af0fc824324fe438b9522b19e7de378&scene=126&sessionid=1743819410#rd)
+- 思维导图
+  - [再见 XMind ！一个开源、免费的实用思维导图神器，效率翻倍！【SimpleMindMap】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513052&idx=3&sn=2a321944278aacf3ef63af0860770718&chksm=96d0c0fad6576351c68500af27ecbc5014e2c2c3e1c0c8d6810ffa7c0443f2dd87715a3ef507&scene=126&sessionid=1745665776#rd)
+
 
 
 
@@ -1407,6 +1444,7 @@
 | **Git:[oxyplot](https://github.com/oxyplot/oxyplot)**        | [MIT license](https://github.com/oxyplot/oxyplot#MIT-1-ov-file) | OxyPlot是一款.NET开源（MIT License）、免费、跨平台、<br />功能强大的绘图库，支持多平台使用（包括：WPF、UWP、WinForm、Silverlight、<br />Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Xamarin.Mac等）。<br />[文章详细介绍](https://mp.weixin.qq.com/s/miXp0MWG0KokvgovriN6uA) | WinForm/WPF等 |
 | **Git:[XCharts](https://github.com/XCharts-Team/XCharts)**   | [MIT license](https://github.com/XCharts-Team/XCharts?tab=MIT-1-ov-file#MIT-1-ov-file) | XCharts是一款免费（基于MIT License协议）、开源、功能强大、<br />简单易用、可配置的Unity数据可视化图表库。<br />[文章详细介绍](https://mp.weixin.qq.com/s/DYbIqFsoZLHU5u9GiUmlZw) | Unity         |
 | **Git:[ReoGrid](https://github.com/unvell/ReoGrid)**         | [MIT license](https://github.com/unvell/ReoGrid#MIT-1-ov-file) | 一个.NET开源（MIT License）、快速、强大、<br />免费的电子表格组件，支持数据格式、冻结、大纲、公式计算、<br />图表、脚本执行等。兼容 Excel 2007 (.xlsx) 格式，支持WinForm、WPF和Android平台。<br />[文章详细介绍](https://mp.weixin.qq.com/s/wd1r7KMMzaicweg08mPEBw) | WinForm/WPF等 |
+| **Gitee:[AIStudio.Wpf.Diagram](https://gitee.com/akwkevin/aistudio.-wpf.-diagram)** | LGPL-3.0                                                     | AIStudio.Wpf.Diagram是一个基于LGPL-3.0开源、功能丰富、<br />易于扩展的WPF画板工具，为开发者提供了绘制流程图、<br />思维导图等图形的便利。 | WPF           |
 | **Git:[Blazor-ApexCharts](https://github.com/apexcharts/Blazor-ApexCharts)** | [MIT license](https://github.com/apexcharts/Blazor-ApexCharts#MIT-1-ov-file) | Blazor-ApexCharts是一款基于ApexCharts.js封装的、<br />C#开源免费（MIT License）的Blazor图表库。<br />[文章详细介绍](https://mp.weixin.qq.com/s/O7ZjZ_fabxW_Q1il9DSaAw) | Blazor        |
 | **Git:[BlazorChartjs](https://github.com/erossini/BlazorChartjs)** | [MIT license](https://github.com/erossini/BlazorChartjs?tab=MIT-1-ov-file#MIT-1-ov-file) | BlazorChartjs是一个在Blazor中使用Chart.js的库<br />（支持Blazor WebAssembly和Blazor Server两种模式），<br />它提供了简单易用的组件来帮助开发者快速集成数据可<br />视化图表到他们的 Blazor 应用程序中。<br />[文章详细介绍](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ) | Blazor        |
 |                                                              |                                                              |                                                              |               |
@@ -1418,6 +1456,7 @@
 1. [推荐7款.NET开源且功能强大图表库，效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/V1pewGJmnygq8ig2Zo_cVQ)
 1. [ScottPlot：一个开源且免费的 .NET 绘图库 【ScottPlot】](https://mp.weixin.qq.com/s/G8DeUNu0mw9_HXQXdw80-Q)
 1. [2025年全面的 .NET 图表构建解决方案【ScottPlot】【OxyPlot】【LiveCharts2】【XCharts】【ReoGrid】【Blazor-ApexCharts】【BlazorChartjs】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=1&sn=236dc9889a61fce59bfce5c1d2b90773&chksm=96d2499a09a373e70485b427d840a0f522b3d98c55d4e447680efab44c27b00ea88acb495ec9&scene=126&sessionid=1736991133#rd)
+1. **[一个使用WPF开发的画板工具（包含流程图FlowChart，思维导图MindEditor）【AIStudio.Wpf.Diagram】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=3&sn=24dd5a0900768a64a4e0c2a7e907c2e8&chksm=96ab239be0b8e19c69f246b2d12f98f45fc54fc306edb12cf3d9477685355689ee40a5cb4d83&scene=126&sessionid=1722213176#rd)**
 
 
 
@@ -1494,6 +1533,20 @@
 
 
 
+## T. 天气
+
+| 项目名称                                              | 使用的协议                                                   | 项目介绍/说明                                                |
+| ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [YourWeather](https://github.com/Yu-Core/YourWeather) | [MIT license](https://github.com/Yu-Core/YourWeather#MIT-1-ov-file) | YourWeather是一个开源（MIT license）、免费的 Blazor 跨平台入门级实战项目，<br />多个项目共用一个Rcl（Razor类库），通过天气API获取当前天气和天气预报，<br />具有多个天气源（高德地图、和风天气 、心知天气等），也可以选择指定位置的天气。 |
+|                                                       |                                                              |                                                              |
+|                                                       |                                                              |                                                              |
+
+### 相关参考
+
+- [一个开源的 Blazor 跨平台入门级实战项目【YourWeather】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512470&idx=1&sn=f7bb92ef12709e79545026c89e58162e&chksm=96a4764dc1a074dd621cddacf104548f4c74a3711ef247a46972d7a3c3ad1f5feb8837bf453a&scene=126&sessionid=1744985154#rd)
+
+
+
 ## U. UniApp
 
 | 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
@@ -1510,6 +1563,47 @@
 ### 相关参考
 
 - [这8个开源 uniapp 应用，太酷了吧（附源码）【pet-app】【ZY-Player-APP】【springboot-openai-chatgpt】【yimo-resource-blog】【coupons】【wuyou-frontend】【MOO-music】【ushop】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509208&idx=2&sn=4fd8f8fe9838694960d0d566b06cc5c6&chksm=9638e1ed420de659fdc66f628807a426271fa0be0c63f3fc7c188df46fe00aac2bf21ac3ad5a&scene=126&sessionid=1736902610#rd)
+
+
+
+## U. UI框架
+
+本节收入UI框架相关项目信息。
+
+### WPF
+
+| 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Gitee:[HandyControl](https://gitee.com/handyorg/HandyControl)** | MIT                                                          | [介绍文档](https://handyorg.github.io/handycontrol/quick_start/) |
+| **Gitee:[Rubyer-WPF](https://gitee.com/wuyanxin1028/rubyer-wpf)** | MIT                                                          |                                                              |
+| **Git:[wpfui](https://github.com/lepoco/wpfui)**             | [MIT](https://github.com/lepoco/wpfui/blob/main/LICENSE)     | [在线文档](https://wpfui.lepo.co/documentation/getting-started.html) |
+| **Git:[MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)** | [MIT license](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit#MIT-1-ov-file) | MaterialDesignInXamlToolkit 是一个开源、<br />易于使用、强大的 WPF UI 控件库，<br />旨在帮助开发人员在 C# 和 VB.Net 中实现 <br />Google 的 Material Design 风格的用户界面。<br />该框架提供了一组丰富的控件、样式和效果，<br />使开发人员能够轻松创建现代化、<br />具有吸引力的应用程序。 |
+| **Git:[ModernWpf](https://github.com/Kinnara/ModernWpf)**    | [MIT license](https://github.com/Kinnara/ModernWpf#MIT-1-ov-file) | ModernWpf是一个开源项目，<br />它为 WPF 提供了一组现代化的控件和主题，<br />使开发人员能够创建具有现代外观的桌面应用程序。 |
+| **Git:[Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI)** | [Apache-2.0 license](https://github.com/Panuon/Panuon.WPF.UI#Apache-2.0-1-ov-file) | Panuon.WPF.UI 是一个适用于定制个性化<br />UI界面的组件库。它能帮助你快速完成<br />样式和控件的UI设计，<br />而不必深入了解WPF的 ControlTemplate 、 <br />Storyboard 等知识。 |
+| **Git:[AduSkin](https://github.com/aduskin/AduSkin)**        | [GPL-3.0 license](https://github.com/aduskin/AduSkin#GPL-3.0-1-ov-file) | AduSkin一款简单漂亮的WPF UI，<br />融合多个开源框架组件，为个人定制的UI，<br />可供学者参考和使用。 |
+| **Git:[Layui-WPF](https://github.com/Layui-WPF-Team/Layui-WPF)** |                                                              | LayUI-WPF是一个WPF版的Layui前端UI<br />样式库，<br />该控件库参考了Web版本的LayUI风格，<br />利用该控件库可以完成现代化UI客户端程序，<br />让你的客户端看起来更加简洁丰富又不失美感。 |
+| **Git:[WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)** | [MIT license](https://github.com/WPFDevelopersOrg/WPFDevelopers#MIT-1-ov-file) |                                                              |
+| **Gitee:[CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI)** | MIT                                                          | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，<br />提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，<br />以简化WPF应用程序的开发过程。 |
+| Git:[MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | [MIT license](https://github.com/MahApps/MahApps.Metro#MIT-1-ov-file) | MahApps.Metro 是一个开源、免费、Metro风格的 WPF UI 控件库，<br />提供了现代化、平滑和美观的控件和样式，<br />帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。<br />[在线文档](https://mahapps.com/docs/controls) |
+| [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)    |                                                              | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，<br />专为打造新一代 Windows 应用程序而设计。<br />它能帮助开发者构建经典且外观专业的 WPF 应用程序，<br />对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 |
+
+#### 相关参考
+
+- **[一个开源、免费、强大且美观的WPF控件库 【HandyControl】](https://mp.weixin.qq.com/s/Z-liTdNSDWQUaiRqvljtkw)**
+- [一套开源、强大且美观的WPF UI控件库【HandyControl】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247493994&idx=1&sn=afaa764eb31c01fc9260673c869cc5e6&scene=21#wechat_redirect)
+- **[一款免费通用的WPF主题和控件库【Rubyer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503331&idx=2&sn=23825dd18deb27d5e6e227b3750bb263&chksm=96ca92e0aff149efaf1bdafeb1b3ce9361f3ce71d1af62f0a53b9af84a997e7a72d618d5c9de&scene=126&sessionid=1721781073#rd)**
+- **[一款基于Fluent设计风格、现代化的WPF UI控件库【wpfui】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503534&idx=2&sn=30e9087ac8cc34000187f5413f9a36e7&chksm=96e6a9480ff3f66c5d99b9270c0544ac58c7f8a0bd74c212d794a19d753cca5dfdc88e0e228c&scene=126&sessionid=1722302129#rd)**
+- **[基于Material Design风格开源、易用、强大的WPF UI控件库【MaterialDesignInXamlToolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498671&idx=1&sn=3034c3c23ebeb60f83fea60891ba021f&scene=21#wechat_redirect)**
+- **[一款开源、免费、现代化风格的WPF UI控件库【ModernWpf】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502057&idx=1&sn=667ebfc1c8800c7ea0144059d7fa0bda&scene=21#wechat_redirect)**
+- **[一个适用于定制个性化界面的WPF UI组件库【Panuon.WPF.UI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247494604&idx=1&sn=95084320f0c47f699f3a030949268258&scene=21#wechat_redirect)**
+- **[一款简单漂亮的WPF UI 【AduSkin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247492660&idx=1&sn=d76ce75b4c6917719cafb4bce3d54745&scene=21#wechat_redirect)**
+- **[一个WPF版的Layui前端UI库【Layui-WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247495286&idx=1&sn=ce9669c68d0a7a7a4c5ef00f17d89a96&scene=21#wechat_redirect)**
+- **[推荐7款美观且功能强大的WPF UI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504372&idx=1&sn=5d9d5939253d71d5c88dc5e60d7fff35&chksm=96ae5c94c475565ce828cb1e926f5028fe56d9d676a3252d1d0853c96836297ca74b64397878&scene=126&sessionid=1724373028#rd)**
+- [WPF 实现饼状统计图【WPFDevelopers】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=2&sn=5982a6199b9abbedcc26002e3a6749e1&chksm=96c507559109e62a789e4f5774f68e5ac6b1a8940f33213951deb84c5c2b5147f9101a008501&scene=126&sessionid=1728350900#rd)
+- [一款流行且丰富的WPF控件库，提供了100多款控件！【CookPopularUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=2&sn=999dbf9f54f280dd1f554fd5c1187908&chksm=961a78b7776c49904b5ea8abf86d5c1de3563732de689caadb074ec9d2b8cf0ce874593c7561&scene=126&sessionid=1732668893#rd)
+- [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
+- [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
+- [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！【Extended.Wpf.Toolkit/wpftoolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513068&idx=1&sn=94738b51ec27db2454c8d1caa30d5050&chksm=9628dc98fb01a0157e96b0a14d9e858e9a8ff84463caf780a52532eee2fcf74597599b44145a&scene=126&sessionid=1745715139#rd)
 
 
 
@@ -1534,6 +1628,7 @@
 | **Git:[NSmartProxy](https://github.com/tmoonlight/NSmartProxy)** | [MIT license](https://github.com/tmoonlight/NSmartProxy#MIT-1-ov-file) | .NET开源、免费（MIT License）、<br />跨平台的内网穿透工具，<br />采用.NET Core的全异步模式打造：NSmartProxy。 |
 | Git:[NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | [GPL-3.0 license](https://github.com/BornToBeRoot/NETworkManager#GPL-3.0-1-ov-file) | NETworkManager 是一个基于.NET开源（GPL-3.0 license）、免费、<br />功能强大的开源工具，旨在帮助用户管理和解决网络问题。<br />通过提供一系列网络连接和管理工具，NETworkManager 能够让用户轻松连接到远程系统，<br />管理网络和服务器基础设施。 |
 | Git:[linker](https://github.com/snltty/linker)               | [GPL-2.0 license](https://github.com/snltty/linker#GPL-2.0-1-ov-file) | linker是一个基于 .NET8 开源免费（GPL-2.0 license）的异地组网和内网穿透工具，<br />支持TCP(支持IPV6)打洞、UDP打洞，服务器中继，<br />异地组网使用虚拟网卡将各个客户端组建为局域网络、支持点对点、点对网、网对网等。 |
+| Gitee：[FastTunnel](https://gitee.com/Hgui/FastTunnel)       | Apache-2.0                                                   | 开源免费跨平台 内网穿透 远程内网电脑 自定义域名访问内网站点 反向代理内网服务 <br />http代理 类花生壳 端口转发 微信 小程序 frp NAT ssh proxy tunnel ngork |
 
 ### 相关参考
 
@@ -1541,6 +1636,7 @@
 - **[一款.NET开源、跨平台的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=1&sn=81648ae23f5beab92da10249e09661f1&chksm=96f30235d0f6926354b217fb0a7a71dbc147bb493610ec039057daf33188bc4ccc05bfb456c1&scene=126&sessionid=1724806111#rd)**
 - [一款基于.NET开源、强大的网络管理和网络问题排查工具！【NETworkManager】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511096&idx=1&sn=f8472d000e0484a641e52b4545c258ab&chksm=9602bb7af3b9e36faf5f81c700af58eabfb7ebb40a817b578ee23c86f11f3d6f9761ed41b4b2&scene=126&sessionid=1741568037#rd)
 - [一个基于 .NET 开源免费的异地组网和内网穿透工具【linker】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511825&idx=1&sn=ebf9646935c4ba9247031a966f379918&chksm=966365b6cfd8fea00294c6166b8416b2ec24c4eab0168edd7dcf44930f513b40052866f857aa&scene=126&sessionid=1743036165#rd)
+- [推荐 3 款 .NET 开源免费、功能强大的内网穿透工具【linker】【NSmartProxy】【FastTunnel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512500&idx=1&sn=5cce8e352e046c7de655ff1c5e7af4b9&chksm=96a9abfb09ef208d1a1bf937b037ec66fae1a8bbc384a49050fc34128b5079fdeff4250de401&scene=126&sessionid=1745063119#rd)
 
 
 
