@@ -69,9 +69,12 @@
 
      > .NET 团队于 2025 年 3 月 18 日发布了.NET 10 Preview 2，该版本在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
      
+
    - [.NET 10 Preview 3 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/)
 
      > 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
+
+   - [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
 
    
 

@@ -40,12 +40,20 @@
 
 ## WebView2版本
 
-| WebView2 SDK版本    | 发布日期            | Microsoft Edge 版本 | Chromium Version                                             | 备注                       |
-| ------------------- | ------------------- | ------------------- | ------------------------------------------------------------ | -------------------------- |
-| 1.0.2210.55         | 2023 年 12 月 11 日 | 120.0.2210.55       | 120.0.2210.55                                                |                            |
-| 1.0.1466-prerelease | 2022 年 10 月 31 日 | 109.0.1466.0        | 109.0.1466.0                                                 | ==最后一个支持Win7的版本== |
-| 0.8.149             |                     | 76.0.149.0          | 76.0.149.0                                                   |                            |
-|                     |                     |                     | [49.0.2623.110](https://github.com/cefsharp/CefSharp/releases?page=15) | ==最后一个支持Xp的版本==   |
+| WebView2 SDK版本                                             | 发布日期            | Microsoft Edge 版本 | Chromium Version                                             | 备注                        |
+| ------------------------------------------------------------ | ------------------- | ------------------- | ------------------------------------------------------------ | --------------------------- |
+| [1.0.2526-prerelease](https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/release-notes/archive?tabs=dotnetcsharp#102526-prerelease) | 2024 年 4 月 22 日  | 125.0.2526.0        | 125.0.2526.0                                                 | ==最低Framework要求net462== |
+| 1.0.2478.35                                                  | 2024 年 4 月 22 日  | 124.0.2478.35       | 124.0.2478.35                                                | ==最后一个支持net45的版本== |
+| 1.0.2210.55                                                  | 2023 年 12 月 11 日 | 120.0.2210.55       | 120.0.2210.55                                                |                             |
+| 1.0.1466-prerelease                                          | 2022 年 10 月 31 日 | 109.0.1466.0        | 109.0.1466.0                                                 | ==最后一个支持Win7的版本==  |
+| [1.0.705.50](https://www.nuget.org/packages/Microsoft.Web.WebView2/1.0.705.50) | 2021 年 1 月 25 日  | 86.0.616.0          | 86.0.616.0                                                   | ==最开始支持net45的版本==   |
+| 0.8.149                                                      |                     | 76.0.149.0          | 76.0.149.0                                                   |                             |
+|                                                              |                     |                     | [49.0.2623.110](https://github.com/cefsharp/CefSharp/releases?page=15) | ==最后一个支持Xp的版本==    |
+
+- 对Framework的版本要求可以通过 NuGet 中的 [Frameworks](https://www.nuget.org/packages/Microsoft.Web.WebView2/1.0.3179.45) 进行查看
+- WebView2 SDK 版本和运行时版本的关系可以通过[发行说明](https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/release-notes/archive?tabs=dotnetcsharp)进行查看
+
+
 
 ## 运行环境支持
 

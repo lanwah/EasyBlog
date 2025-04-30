@@ -87,6 +87,10 @@
 
 - [技术速递｜立即使用 .NET 和 DeepSeek R1 构建智能应用程序！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511324&idx=2&sn=41fe0a26767a18490741068833571dc8&chksm=9606ef28956ef6510adf0941cb787af8c0a6b06e8676fad1dcd87f2c46ede382f665b3a3802f&scene=126&sessionid=1742038870#rd)
 
+- [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/)
+
+  > AI Dev Gallery是一个 Windows 应用程序，它是一个使用.NET 进行 AI 开发的综合游乐场。它提供了您探索、实验和实现应用程序中 AI 功能所需的一切，而无需连接到云服务。
+
 - **Ollama**
 
   - [GitHub - ollama/ollama: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.](https://github.com/ollama/ollama)
@@ -188,6 +192,8 @@
     > 在人工智能（AI）应用开发迅猛发展的今天，向量数据库作为存储和检索高维数据的重要工具，已经成为许多场景（如自然语言处理、推荐系统和语义搜索）的核心组件。对于.NET生态系统的开发者而言，如何高效地整合和管理不同的向量数据库，并以统一的方式使用它们，是一个亟待解决的问题。
 
   - [.NET 原生驾驭 AI 新基建实战系列（三）：Chroma ── 轻松构建智能应用的向量数据库 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18826233)
+
+  - [.NET 原生驾驭 AI 新基建实战系列（四）：Qdrant ── 实时高效的向量搜索利器 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18840212)
 
   - [在 .NET 中使用 Milvus 向量数据库 - .NET 博客 - 漫思 - 博客园](https://www.cnblogs.com/sexintercourse/p/18146242)
 
@@ -327,6 +333,8 @@
 
 - [.NET 中编译错误与运行时错误的区别](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512178&idx=2&sn=f8c474eddf79422a0bccf44ba4406e7f&chksm=96956d68653e74eb036f22337e3a8bf3f68b112b684aa55bb5ef9d911963b7d4e626cab3aa57&scene=126&sessionid=1744331895#rd)
 
+- [C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18844112)
+
 - **关键字**
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
   - [C# 中比较实用的关键字，基础高频面试题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=1&sn=974ec95cb0f1b247b3ecdefefb98cafb&chksm=9622bb281f2819596c3c6a359f1e0d5e5514db2f4be74afff720cc9769f94715fcb0fa43ec00&scene=126&sessionid=1742433141#rd)
@@ -351,12 +359,20 @@
 
 - **Linq**
   - [C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=1&sn=beceb45fd88d4bea8ee12e15d57631ce&chksm=9635e76b13b7c94d85ba09304c2da95b7a4c3b4564ae5e885c1fbdcac63bf4f95ebb7b8e7054&scene=126&sessionid=1744331895#rd)
-
+  - [C#中LINQ基础：101个常用LINQ操作](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513171&idx=2&sn=03d1f2ff59b46e7b53793a0fffd208bf&chksm=9600a2b413806c038768e810e237e110abeb0a48f0902ffcfc16711a43ab38ac2ad9cae60df5&scene=126&sessionid=1745974502#rd)
+  
 - **WinForms**
 
   - [.NET 阻止Windows关机以及阻止失败的一些原因 - 唐宋元明清2188 - 博客园](https://www.cnblogs.com/kybs0/p/18822799)
 
     > 本文主要介绍Windows在关闭时，如何正确、可靠的阻止系统关机以及关机前执行相应业务Windows关机，默认会给应用几s的关闭时间，但有一些场景需要在关机/重启前执行更长时间的业务逻辑，确保下次开机时数据的一致性以及可靠性。
+
+- **配置文件**
+  - [理解.NET Core中的配置Configuration - caoruipeng - 博客园](https://www.cnblogs.com/caoruipeng/p/18831900)
+  - [.NET Core中的配置Configuration实战 - caoruipeng - 博客园](https://www.cnblogs.com/caoruipeng/p/18842001)
+
+- **跨平台（.NET Core&.NET 5及以上）**
+  - [dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径 - lindexi - 博客园](https://www.cnblogs.com/lindexi/p/18847625)
 
 
 
@@ -476,6 +492,7 @@
 
 - [EF Core性能优化技巧 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=2&sn=dc50a02eaf3ee079e36fcd0695f45967&chksm=96f1ea970730513276167a853948d633d7df39f1e58b62e006453a01f17e5096d071dc0e4c68&scene=126&sessionid=1727138667#rd)
 - [分享几个实用且高效的EF Core扩展类库，提高开发效率！ (qq.com)](https://mp.weixin.qq.com/s/ld_eQYPa7kitTak93QOjKA)
+- [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
 
 
 
@@ -567,6 +584,7 @@
 
 - [如何用 Redis 构建一个简单的聊天应用？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=2&sn=c134137263824c9f648815b76c51768e&chksm=965cc2c30db1505be25e0a0fb1e6d5f5ff49c26b0f31524898ed07dcca9a79c2354a9bfef48e&scene=126&sessionid=1736503976#rd)
 - [.NET Core 中如何实现缓存的预热？ - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18737994)
+- [C# 使用StackExchange.Redis实现分布式锁的两种方式 - BruceNeter - 博客园](https://www.cnblogs.com/qwqwQAQ/p/18849019)
 
 
 
@@ -761,6 +779,7 @@
 - **SQLSugar**
   - [SQLSugar 支持 TDengine 超级表的使用指南 - 阿妮亚 - 博客园](https://www.cnblogs.com/sunkaixuan/p/18740748)
   - [C# Winform使用SqlSugar操作数据库?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506447&idx=3&sn=0753b2089b4ffcea93748bcea8a56ddf&chksm=9688e655f6fc8c7449c2478f15226ea8a18f8065671fe8315197484b03b41e9db938aadd6dac&scene=126&sessionid=1729645767#rd)
+  - [在SqlSugar的开发框架中增加对低代码EAV模型（实体-属性-值）的WebAPI实现支持 - 伍华聪 - 博客园](https://www.cnblogs.com/wuhuacong/p/18842471)
 - **EF**
   - [排查 EF 保存数据时提示：Validation failed for one or more entities 的问题](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512130&idx=2&sn=0ac825298ffb340ea57c09659909990c&chksm=964373b1d118b0b799a45b822e3f6231e3af693f1fa9d73debcd3a7cbc43d6cf43b53979a290&scene=126&sessionid=1744159839#rd)
 
@@ -927,6 +946,12 @@
 
 
 
+## S. 数据处理
+
+- [一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18848662)
+
+
+
 ## T. TCP/IP
 
 - **[上位机面试必备：TCP通信，这25题不可不知 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504376&idx=3&sn=3212da98c6028bd08bbffbfcd144885d&chksm=96d34db37079beb9dd094eafeab4c1b866a777b4cae4456f03a8cd3fc7226271bd688d3d85aa&scene=126&sessionid=1724562956#rd)**
@@ -959,14 +984,25 @@
 ## T. Thread(线程)
 
 - [C# ThreadLocal (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505970&idx=4&sn=ae7c25e55789bdc044588cc03c5b7f87&chksm=969c42e7ecd48edbd9697dc707cb35552edfb9a8ae7d1a471ef2e4d0ac1d0d6878a2a31cb791&scene=126&sessionid=1728380451#rd)
+
 - [.NET Core 线程(Thread)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18556052)
+
 - [.NET Core 线程池(ThreadPool)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18566995)
+
 - **多线程**
   - [C#实现多线程的几种方式 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500224&idx=1&sn=a5d21a0b42e61f317fc8eaa4168a0ac2&scene=21#wechat_redirect)
+  
+  - [【译】让多线程调试更有意义 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18846145)
+  
+    > 调试复杂的程序常常感觉像是在迷宫般的线程和堆栈跟踪中跳转。理解线程行为和跟踪问题的挑战可能令人生畏，这会导致更长的开发时间和更大的挫败感。但是现在，有一个解决方案可以简化这个过程——在 Visual Studio 的并行堆栈窗口中引入 AI 驱动的线程摘要。
+  
 - **线程锁**
+  
   - **[探索C#中的多线程神器Monitor和Lock](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=2&sn=49befd777d9818ff124db42ebe7e1fac&chksm=96338dd7700e9bf2c00c4baee847b07f9855d33dd075bf1b49f64463396ac472940d5a014fac&scene=126&sessionid=1723768329#rd)**
+  
 - **线程同步**
   - [C# Barrier进行多线程同步](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504737&idx=3&sn=d33d01d45e30fae85a0b4d6cf1b65b0e&chksm=9699f872d98ed7d09a6c2b0c7bd87bc64180cdf54950e6f0ca1a9b851a7d9c15ae4fd1ea2a8b&scene=126&sessionid=1725718515#rd)
+  
 - **异步**
   - [聊一聊 C#异步 任务延续的三种底层玩法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=2&sn=64514f54589397a27a9c95a9e78cde16&chksm=9644e747e4c46599bad92880716fbf8b6f15809c94000de722730b42fdaa210398d06bd028b7&scene=126&sessionid=1736503976#rd)
   - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
@@ -974,6 +1010,7 @@
   - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
   - [C#中 Task 结合 CancellationTokenSource的妙用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18620273)
   - [Invoking Async Power: What Awaits WinForms in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/)
+  
 - **并发**
   - [后端思维之高并发处理方案](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511947&idx=2&sn=b78f6ed86f43a99b792a6b009afdac50&chksm=96a5e705d99f22190c90847642318a11162db99581a0d38133834303d5e19297533b48cec601&scene=126&sessionid=1743469108#rd)
 

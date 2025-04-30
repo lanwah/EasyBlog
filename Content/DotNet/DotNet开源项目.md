@@ -707,6 +707,7 @@
 | **Gitee:[HzyAdmin](https://gitee.com/hzy6/HzyAdmin)**        | MIT                                                          | HzyAdmin是一个功能强大且灵活、免费（基于MIT License开源协议）的通用管理平台，<br />它基于最新的.Net8框架和HZY.Framework构建而成。该平台不仅支持模块化开发，<br />还兼容Winforms和Wpf等多种界面形式，为开发者提供了广泛的开发选择。 |
 | **Git:[visitormanagement](https://github.com/neozhu/visitormanagement)** | [Apache-2.0 license](https://github.com/neozhu/visitormanagement#Apache-2.0-1-ov-file) | 一款基于 .NET + Blazor 开发的智能访客管理系统，<br />访客系统的主要作用是简化并优化访客管理流程，提升安全性和效率。<br />它通过数字化手段替代传统纸质登记，实现快速、准确的访客信息录入与追踪。<br />该系统能够记录访客进出时间、地点及活动轨迹，有助于机构加强安全管理，<br />同时提供便捷的访客体验。总之，访客系统是现代机构管理中不可或缺的一部分，<br />它确保了访客管理的规范性和高效性。<br />[在线演示](https://visitor.blazorserver.com/visitor/employees) |
 | **Gitee:[winform通用开发框架](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame)** | GPL-2.0                                                      | WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）<br />的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、<br />字典、日志、代码生成等一系列系统常规模块。 |
+| **Gitee:[gi-demo](https://gitee.com/lin0716/gi-demo)**       | Apache-2.0                                                   | Gi Admin Pro 是一个基于 Vue3、Vite、TypeScript、Arco Design Vue、Pinia、<br />VueUse 等的免费中后台模版，它使用了最新的前端技术栈，内置丰富的主题配置，<br />有着极高的代码规范，基于 mock 实现的动态数据展示，开箱即用的模板，<br />也可用于学习参考。 |
 
 ### 相关参考
 
@@ -733,6 +734,7 @@
 - [一款基于 .NET + Blazor 开发的智能访客管理系统【visitormanagement】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508022&idx=1&sn=5e85f9b829638c08d54391becf0aa0a9&chksm=96c84d5eecb73cdcaa3da91b6a84c88ef54f9e2e9f1483cb9f8517ed4d836aac9b991f0f8992&scene=126&sessionid=1733445770#rd)
 - [3款开源且功能全面的企业 OA 办公系统，赋能企业效率提升！【勾股OA】【MicroOA】【OA-System】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=2&sn=5a8bfcb041f60561d66ca6ea60510a99&chksm=968a4691717170953c867ce1668b823059a07de080c3fe27e1354d3828150f52721a4117bc47&scene=126&sessionid=1734914402#rd)
 - [一个基于C# Winform开源免费的通用快速开发框架，内置完整的权限架构！【WinformDevFramework】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510784&idx=1&sn=eeafca3baf21d28a059867785b471838&chksm=96282f8e766a87dad3766e0ad87404cbde1f2433108c59378e146ed5640a6d90afa819f7f72f&scene=126&sessionid=1740357414#rd)
+- [一个基于 Vue3 开源、免费、高颜值的中后台模版，开箱即用！【Gi Admin Pro/gi-demo】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=2&sn=b38820a43906debac0faa5fea5eda248&chksm=96cf4abc95359428a0f5aa4272e5b4bd672f2a5b18a657af3f76c51eb05bf111d43d060c6f00&scene=126&sessionid=1745886966#rd)
 
 
 
@@ -1604,6 +1606,20 @@
 - [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
 - [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
 - [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！【Extended.Wpf.Toolkit/wpftoolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513068&idx=1&sn=94738b51ec27db2454c8d1caa30d5050&chksm=9628dc98fb01a0157e96b0a14d9e858e9a8ff84463caf780a52532eee2fcf74597599b44145a&scene=126&sessionid=1745715139#rd)
+
+
+
+## U. Unity
+
+| 项目名称                                    | 使用的协议 | 项目介绍/说明                                                |
+| ------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| Git:[jynew](https://github.com/jynew/jynew) |            | JYX2一个基于 C# Unity 开发的金庸群侠传 3D 重制版是一个回合制<br />战棋战斗开放世界RPG游戏，它是一个非盈利游戏项目，项目目标为重制经典游戏《金庸群侠传》<br />（在线玩DOS原版）并支持后续一系列MOD和二次开发。你可以在PC、<br />MAC或移动手机平台(或其他支持平台)游玩。 |
+|                                             |            |                                                              |
+|                                             |            |                                                              |
+
+### 相关参考
+
+- [一个基于 C# Unity 开发的金庸群侠传 3D 版，直呼牛逼！【jynew】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513171&idx=1&sn=411ff0c5d89a2d5f5aa34ad87c14af55&chksm=96472ad2e1ad86c269620a09860950bb0c64474cd4ef911d2829327ce03898baacbb0565c9b0&scene=126&sessionid=1745974502#rd)
 
 
 
