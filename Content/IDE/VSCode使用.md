@@ -24,3 +24,8 @@
 | Ctrl + Shift + F | 打开 **搜索** |                           |
 | Ctrl + Shift + D | 运行和调试    |                           |
 
+
+
+## 插件
+
+- [2025 年实用、全面的 VS Code 插件推荐！](https://mp.weixin.qq.com/s/Gen98f2ei9HzSbW1zRQHRw)

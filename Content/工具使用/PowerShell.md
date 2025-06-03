@@ -276,6 +276,556 @@ Cmdlet          Wait-Process                 7.0.0.0    Microsoft.PowerShell.Man
 
 ![image-20240728214649933](../Images/PowerShell/image-20240728214649933.png)
 
+
+
+
+
 ## 相关参考
 
-1.  [探索 PowerShell](https://learn.microsoft.com/zh-cn/powershell/scripting/discover-powershell?view=powershell-7.4)
+- [探索 PowerShell](https://learn.microsoft.com/zh-cn/powershell/scripting/discover-powershell?view=powershell-7.4)
+- [探究 Windows PowerShell ISE - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/windows-powershell/ise/exploring-the-windows-powershell-ise?view=powershell-5.1)
+- [Powershell - 数组 | Powershell 教程](https://www.w3ccoo.com/powershell/powershell_array.html)
+
+
+
+---
+
+
+
+# 命令相关
+
+本节介绍 PowerShell 命令相关。
+
+[PowerShell 文档 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/)
+
+[PowerShell 模块浏览器 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/)
+
+[Windows PowerShell 语言规范 3.0 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/lang-spec/chapter-01?view=powershell-7.5)
+
+[Microsoft.PowerShell.Management Module - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.management/?view=powershell-7.5)
+
+[关于主题 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about?view=powershell-7.5)
+
+[PowerShell Module | Writing a Windows PowerShell Module - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/developer/module/writing-a-windows-powershell-module?view=powershell-7.5)
+
+
+
+
+
+## [PowerShell 运算符 | about_Operators - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.5)
+
+> 运算符是可在命令或表达式中使用的语言元素。 PowerShell 支持多种类型的运算符来帮助你操作值。
+
+
+
+## [PowerShell 作用域 | about_Scopes - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_scopes?view=powershell-7.5)
+
+> PowerShell 通过限制可以读取和更改的地方，来保护对变量、别名、函数和 PowerShell 驱动器 (PSDrives) 的访问。
+>
+> PowerShell 使用范围规则来确保不会对其他作用域中的项进行意外更改。
+
+
+
+## 各项须知内容
+
+
+
+### [关于数组的各项须知内容 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.5)
+
+> [数组](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_arrays)是大多数编程语言的一项基本语言功能。 它们是值或对象的集合，在编程中难免会用到。 让我们来深入了解一下数组以及它们提供的一切。
+
+
+
+### [关于 if 语句的各项须知内容 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.5)
+
+> 与许多其他语言一样，PowerShell 提供了用于在脚本中有条件地执行代码的语句。 其中一个语句是 [If](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_if) 语句。 今天，我们将深入探讨 PowerShell 中最基本的命令之一。
+
+
+
+## 模块
+
+[在 Windows PowerShell 脚本中使用函数和模块 - Training | Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/use-functions-modules-windows-powershell-scripts/)
+
+[15 函数与模块之模块的创建与使用](https://zglg.work/powershell-zero/15)
+
+
+
+## 运行 PowerShell 脚本
+
+[How to Run a script - PowerShell - SS64.com](https://ss64.com/ps/syntax-run.html)
+
+[如何运行PowerShell的脚本文件 - 中道学友 - 博客园](https://www.cnblogs.com/awpatp/archive/2012/07/17/2595018.html)
+
+[& 运算符 | about_Operators - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.5#call-operator-)
+
+[about_Operators - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7.5#dot-sourcing-operator-)
+
+
+
+## 功能对比
+
+
+
+- [从入门到精通：掌握 CMD 与 PowerShell 之间的秘密-天翼云](https://www.ctyun.cn/zhishi/p-410373)
+
+
+
+## 注释
+
+- **单行注释**
+
+  > \# 这是一个单行注释
+
+- **多行注释**
+
+  > <# 这是多行注释
+  >    注意开头和结尾，
+  >    此中内容可以跨越多行
+  > #>
+
+**例子**
+
+```powershell
+# 这是单行注释，以 # 开头。
+# 获取当前时间
+$now = Get-Date
+# 输出时间
+"开始时间：" + $now
+
+# 休眠 1 秒
+Start-Sleep -Seconds 1
+
+# 获取当前时间
+$now2 = Get-Date
+# 输出时间
+"结束时间：" + $now2
+
+<# 这是多行注释
+   注意开头和结尾，
+   此中内容可以跨越多行
+#>
+
+# 获取两个时间差
+# 写法一
+#$timeSpan = New-TimeSpan -End $now2 -Start $now
+
+# 写法二
+$timeSpan = New-TimeSpan -Start $now -End $now2
+
+# 构造时间差
+#$timeSpan = New-TimeSpan -Minutes 1
+
+# 输出时间差，总毫秒数
+$timeSpan.TotalMilliseconds
+```
+
+
+
+## 换行
+
+```powershell
+<#
+    脚本功能：输出换行
+    `n 换行符
+    [System.Environment]::NewLine 换行符
+#>
+
+# `n 换行符
+"abcd`nefg"
+
+$newLine = [System.Environment]::NewLine
+
+$newLine
+
+# 注意如下情况的差别
+
+"情况一："
+"学如逆水行舟"
+"不进则退"
+$newLine
+
+"情况二："
+"学如逆水行舟"
+
+"不进则退"
+$newLine
+
+"情况三："
+"学如逆水行舟"
+""
+"不进则退"
+$newLine
+
+"情况四："
+"学如逆水行舟"+$newLine
+"不进则退"
+$newLine
+
+"情况五："
+"学如逆水行舟"
+$newLine
+"不进则退"
+$newLine
+```
+
+**执行结果**
+
+![image-20250517202228871](Images/PowerShell/image-20250517202228871.png)
+
+**相关参考**
+
+- [PowerShell 中的换行符 | D栈 - Delft Stack](https://www.delftstack.com/zh/howto/powershell/powershell-line-break/)
+
+
+
+## 数组
+
+```powershell
+<#
+    脚本功能：数组使用
+#>
+
+# 清空屏幕
+cls
+
+'Object[] 使用'
+# System.Array
+#$intArry = 1, 2, 3, 4
+#$intArry = 1..3
+$intArry = @(1, 3, 5, 7)
+#$intArry = @(1..5)
+#$intArry = [System.Collections.ArrayList]::new()
+#$intArry = New-Object [int[]] 5
+#$intArry = New-Object 'int[]' 5
+# Add 会返回索引
+#$intArry.Add(1)
+#$intArry.Add("A")
+#$intArry.Add(2)
+#$intArry.RemoveAt(1)
+#$intArry.Remove("2")
+# 修改元素
+$intArry[2] = 8
+# 添加元素
+$intArry += 7
+$intArry
+"数组长度 = "+$intArry.Count
+$intArry.GetType()
+#$intArry | ForEach-Object {"Item:[$PSItem]"}
+#$intArry | ForEach-Object {"Item:[$_]"}
+#$intArry[0, 1, 3]
+#$intArry[-1]
+
+[System.Environment]::NewLine
+
+'Int32[] 使用'
+$arry2 = [int[]](1..8)
+$arry2
+$arry2.GetType()
+
+[System.Environment]::NewLine
+
+'List<> 使用'
+$list = [System.Collections.Generic.List[int]]::new()
+$list
+$list.GetType()
+$list.Add(1)
+$list.Add(2)
+$list.Add(3)
+$list
+#$list.Add("A")
+$list.RemoveAt(1)
+$list.Remove(3)
+#$list.RemoveAt(-1)
+$list
+#$list[-1]
+
+```
+
+**相关参考**
+
+- [阵 列 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/lang-spec/chapter-09?view=powershell-7.5)
+- [关于数组的各项须知内容 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.5)
+- [Powershell - 数组 | Powershell 教程](https://www.w3ccoo.com/powershell/powershell_array.html#google_vignette)
+- [如何在 PowerShell 中初始化自定义对象的数组 | D栈 - Delft Stack](https://www.delftstack.com/zh/howto/powershell/intializing-an-array-of-custom-objects-in-powershell/)
+- [如何在 PowerShell 中创建数组、哈希表和字典 | D栈 - Delft Stack](https://www.delftstack.com/zh/howto/powershell/create-an-array-hashtable-and-dictionary/)
+- [Powershell 数据容器：数组、ArrayList 与 哈希表-阿里云开发者社区](https://developer.aliyun.com/article/1212561)
+
+
+
+## 打印输出
+
+```
+<#
+    脚本功能：打印输出内容
+    1、Write-Output 等同于 echo 等同于 直接输出
+    2、Write-Host 纯显示输出，可以控制输出颜色
+#>
+
+# 清屏
+#cls
+'Write-Output 使用：'
+Write-Output "Home directory: $HOME"
+echo "Home directory: $HOME"
+"Home directory: $HOME"
+
+'$InformationPreference = ' + $InformationPreference
+'$WarningPreference = ' + $WarningPreference
+#$InformationPreference = 'Continue'
+#$InformationPreference = 'SilentlyContinue'
+#'$InformationPreference = ' + $InformationPreference
+Write-Host "no newline test " -NoNewline
+Write-Host "second string " -ForegroundColor Red -NoNewline
+Write-Host "second string " -BackgroundColor Gray
+Write-Host (2,4,6,8,10,12) -Separator ", +2= "
+Write-Host (2,4,6,8,10,12) -Separator ", -> " -ForegroundColor DarkGreen -BackgroundColor White
+# 以下两行的作用没理解
+#Write-Host "I won't print" -InformationAction Ignore
+#Write-Host "I won't print" 6> $null
+Write-Host "abc"
+
+```
+
+**执行结果**
+
+![image-20250517223202031](Images/PowerShell/image-20250517223202031.png)
+
+
+
+**相关参考**
+
+- [Write-Output (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.utility/write-output?view=powershell-7.5)
+- [Write-Debug (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.utility/write-debug?view=powershell-7.5)
+  - [about_Preference_Variables - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_preference_variables?view=powershell-7.5)
+  - [about_Preference_Variables - PowerShell | Microsoft Learn | $DebugPreference](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_preference_variables?view=powershell-7.5#debugpreference)
+
+- [Write-Host (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.utility/write-host?view=powershell-7.5)
+- [about_Output_Streams - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_output_streams?view=powershell-7.5)
+- [Write-Information (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.utility/write-information?view=powershell-7.5)
+- [如何在 Windows PowerShell 中输出结果 | D栈 - Delft Stack](https://www.delftstack.com/zh/howto/powershell/write-output-in-powershell/)
+
+
+
+## 工作流
+
+- [about_Workflows - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/psworkflow/about/about_workflows?view=powershell-5.1)
+- [PSWorkflow Module - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/psworkflow/?view=powershell-5.1)
+- [尽解powershell的workflow - PowerShell免费软件 - 博客园](https://www.cnblogs.com/piapia/p/11556402.html)
+
+
+
+## 命令
+
+### Get-Date/New-TimeSpan
+
+```powershell
+<#
+    脚本功能：演示时间命令 Get-Date/New-TimeSpan
+#>
+
+# 获取当前时间
+$now = Get-Date
+# 输出时间
+"开始时间：" + $now.ToString("yyyy-MM-dd HH:mm:ss.fff")
+
+# 休眠 1 秒
+Start-Sleep -Seconds 1
+
+# 获取当前时间
+$now2 = Get-Date
+# 输出时间
+"结束时间：" + $now2
+
+# 获取两个时间差
+# 写法一
+#$timeSpan = New-TimeSpan -End $now2 -Start $now
+
+# 写法二
+$timeSpan = New-TimeSpan -Start $now -End $now2
+
+# 构造时间差
+#$timeSpan = New-TimeSpan -Minutes 1
+
+# 输出时间差，总毫秒数
+"时间间隔：" + $timeSpan.TotalMilliseconds + "(毫秒)"
+
+'$now 类型'
+$now.GetType()
+
+# 时间通过 -Format 格式化输出后是字符串
+$now3 = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+'$now3 类型'
+$now3.GetType()
+
+# 字符串转日期
+$dateString = "2025-05-21"
+#$date = [System.DateTime]::Parse($dateString)
+#$date = [System.DateTime]::ParseExact($dateString, "yyyy-MM-dd", $null)
+#$date = [System.DateTime]$dateString
+#[System.DateTime]$date = $dateString
+$date = Get-Date $dateString
+$date.ToString()
+$date
+```
+
+**执行结果**
+
+![image-20250517210017631](Images/PowerShell/image-20250517210017631.png)
+
+**相关参考**
+
+- [如何在 PowerShell 中将字符串转换为日期时间 | D栈 - Delft Stack](https://www.delftstack.com/zh/howto/powershell/convert-a-string-to-datetime-in-powershell/#google_vignette)
+- [在 PowerShell 中格式化日期时间 | D栈 - Delft Stack](https://www.delftstack.com/zh/howto/powershell/format-a-datetime-in-powershell/)
+
+
+
+### ForEach-Object Parallel
+
+
+
+**相关参考**
+
+- [PowerShell ForEach-Object Parallel Feature - PowerShell Team](https://devblogs.microsoft.com/powershell/powershell-foreach-object-parallel-feature/)
+
+
+
+# IDE
+
+PowerShell  IDE相关
+
+## Windows PowerShell ISE
+
+- [Windows PowerShell ISE 简介 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.5)
+
+Windows PowerShell 集成脚本环境 (ISE) 是 Windows PowerShell 的主机应用程序。 在 ISE 中，可以在单个基于 Windows 的图形用户界面中运行命令并编写、测试和调试脚本。 ISE 提供多行编辑、Tab 自动补全、语法颜色设置、选择性执行、上下文相关帮助以及对从右到左语言的支持。 将菜单项和键盘快捷方式映射到许多将会在 Windows PowerShell 控制台中执行的相同任务。 例如，在 ISE 中调试脚本时，可以右键单击编辑窗格中的代码行来设置断点。
+
+
+
+### 支持
+
+ISE 先随 Windows PowerShell V2 一起引入，然后随 PowerShell V3 一起重新设计。 包括 Windows PowerShell V5.1 在内的所有支持的 Windows PowerShell 版本都支持 ISE。
+
+> [!NOTE]
+>
+> PowerShell ISE 不再处于主动功能开发状态。 作为 Windows 的随附组件，它仍会获得安全性和高优先级服务修补程序的官方支持。 目前没有从 Windows 中删除 ISE 的计划。
+>
+> PowerShell v6 及更高版本中不支持 ISE。 寻求替换 ISE 的用户应使用 [Visual Studio Code](https://code.visualstudio.com/) 和 [PowerShell 扩展](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)。
+
+
+
+### 关键功能
+
+Windows PowerShell ISE 中的关键功能包括：
+
+- 多行编辑：若要在“命令”窗格中的当前行下插入一个空行，请按 SHIFT+ENTER。
+- 选择性执行：要运行部分脚本，请选择要运行的文本，然后单击“运行脚本”按钮 。 或者，按 F5。
+- 上下文相关帮助：键入 `Invoke-Item`，然后按 F1。 帮助文件将打开到 `Invoke-Item` cmdlet 的文章。
+
+Windows PowerShell ISE 允许你自定义其外观的某些方面。 它还具有其自己的 Windows PowerShell 配置文件脚本。
+
+
+
+### 启动 Windows PowerShell ISE
+
+单击“开始” ，选择“Windows PowerShell” ，然后单击“Windows PowerShell ISE” 。 或者，可以在任何命令 shell 或“运行”框中键入 `powershell_ise.exe`。
+
+
+
+### 在 Windows PowerShell ISE 中获取帮助
+
+在“帮助”菜单上，单击“Windows PowerShell 帮助”。 或者，按 F1。 打开的文件介绍了 Windows PowerShell ISE 和 Windows PowerShell，其中包括 `Get-Help` cmdlet 中提供的所有帮助。
+
+
+
+### 升级更新
+
+- [Windows11终端升级PowerShell7 - HashFlag - 博客园](https://www.cnblogs.com/wylshkjj/p/18730955)
+
+
+
+---
+
+以下是关于 **Windows PowerShell ISE** 的详细介绍，涵盖功能、优劣势及版本信息，结合官方文档与社区资源整理：
+
+### **一、核心功能**
+
+1. **脚本编辑与调试**
+   - **多行编辑**：支持在命令窗格中编写多行代码，通过 `Shift+Enter` 插入新行，适合复杂脚本编写。
+   - **语法高亮与智能感知（IntelliSense）**：自动补全命令、参数和路径，提升编码效率（PowerShell 3.0+新增）。
+   - **调试工具**：支持设置断点、逐行执行、查看变量值，并集成调试控制台（如 `Set-PsDebug -Trace`）。
+   - **选择性执行**：选中部分代码后按 `F8` 或点击“运行选择”按钮，快速测试脚本片段。
+
+2. **交互式运行与输出管理**
+   - **命令执行**：支持运行 PowerShell 命令、脚本和模块，输出结果可复制或清除（如 `Clear-Host`）。
+   - **远程会话**：通过“新建远程 PowerShell 选项卡”连接远程计算机。
+3. **界面与自定义**
+   - **窗格布局**：可调整脚本窗格、控制台窗格的布局和大小，支持多标签页管理多个脚本。
+   - **主题与字体**：自定义文本大小、颜色方案，通过 `$psISE` 变量扩展菜单功能。
+   - **配置文件**：使用 `Microsoft.PowerShellISE_profile.ps1` 存储自定义函数、别名等。
+4. **辅助工具与扩展**
+   - **上下文帮助**：光标置于命令上按 `F1` 直接打开相关帮助文档。
+   - **代码片段（Snippets）**：预置常用代码模板，支持通过 `Ctrl+J` 快速插入（PowerShell 3.0+）。
+   - **附加工具集成**：如命令浏览器、Git 支持模块（需第三方扩展）。
+
+
+
+### **二、优势与劣势**
+
+| **优势**                                                     | **劣势**                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **预装免费**：随 Windows 系统自带（需启用功能），无需额外安装 | **功能局限**：缺乏高级 IDE 特性（如版本控制集成、插件生态）  |
+| **易用性强**：图形化界面适合初学者，提供直观的调试和编辑体验 | **停止更新**：自 PowerShell 5.1 后不再开发新功能，仅维护安全补丁 |
+| **轻量高效**：启动速度快，资源占用低，适合快速执行简单脚本   | **跨平台限制**：仅支持 Windows，不兼容 PowerShell Core（v6+） |
+| **内置调试支持**：断点设置、变量监控等功能集成度高           | **协作不足**：缺少团队协作工具（如实时共享、注释）           |
+
+
+
+### **三、版本演进与兼容性**
+
+1. **历史版本**
+   - **PowerShell 2.0（2009）**：首次引入 ISE，提供基础脚本编辑与调试功能
+   - **PowerShell 3.0（2012）**：重大更新，新增 IntelliSense、代码片段、自动保存、控制台窗格合并等
+   - **PowerShell 4.0（2013）**：支持远程脚本调试与工作流调试，增强 DSC 配置的 IntelliSense
+   - **PowerShell 5.0/5.1（2016）**：强化类（Class）支持、错误指示器，优化调试性能
+2. **系统兼容性**
+   - **支持系统**：Windows 7 SP1 至 Windows 11/Server 2022（需 GUI 环境）
+   - **依赖项**：需 .NET Framework 3.0+，部分功能（如远程处理）需额外组件
+   - **替代方案**：微软推荐迁移至 **Visual Studio Code + PowerShell 扩展**，支持跨平台和持续更新
+3. **版本生命周期**
+   - **终止开发**：ISE 自 PowerShell 5.1 后停止功能更新，仅提供安全维护
+   - **替代路线**：PowerShell 7+ 用户需使用 VS Code 或其他现代编辑器
+
+
+
+### **四、适用场景建议**
+
+- **推荐使用**
+  - 初学者学习 PowerShell 语法与调试基础。
+  - 快速执行本地脚本或简单自动化任务。
+- **不建议使用**：
+  - 大型项目开发（需版本控制、协作工具）。
+  - 跨平台环境或 PowerShell Core 开发。
+
+
+
+### **五、总结**
+
+Windows PowerShell ISE 作为经典脚本工具，凭借易用性和轻量化在早期版本中广受欢迎，但其功能限制和停止更新的现状使其逐渐被 VS Code 取代。对于仍在使用 PowerShell 5.1 及以下版本的用户，ISE 仍是高效选择；而新项目或跨平台需求应优先考虑现代开发环境。
+
+
+
+### 六、相关参考
+
+- [about_Windows_PowerShell_ISE | Microsoft Learn](https://learn.microsoft.com/zh-cn/previous-versions/dd347589(v=technet.10))
+- [about_Windows_PowerShell_ISE - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_windows_powershell_ise?view=powershell-5.1)
+- [Windows PowerShell ISE 简介 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.4)
+- [PowerShell 5.0 ISE 中的新增功能 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/previous-versions/powershell/scripting/windows-powershell/whats-new/what-s-new-in-the-powershell-50-ise?view=powershell-7.3)
+- [Powershell语言的软件开发工具_powershell开发工具-CSDN博客](https://blog.csdn.net/2501_90770591/article/details/145960247)
+- [PowerShell ISE 介绍与使用指南 - kyle_7Qc - 博客园](https://www.cnblogs.com/kyle-7Qc/p/18782204)
+
+
+
+# 相关书籍
+
+
+
+## [PowerShell 101 | 介绍 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.5)

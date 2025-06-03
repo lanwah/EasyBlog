@@ -45,6 +45,25 @@
 
 
 
+## A. AI工具
+
+| 项目名称                                                     | 使用的协议                                                   | 功能介绍/说明                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[NextChat](https://github.com/ChatGPTNextWeb/NextChat)   | [MIT license](https://github.com/ChatGPTNextWeb/NextChat#MIT-1-ov-file) | NextChat是一个开箱即用的 ChatGPT 网页应用，内置丰富的 AI 交互组件，<br />支持自定义主题和多模型切换（支持多种AI模型，如Claude、DeepSeek、<br />GPT4和Gemini Pro等）。 |
+| Git:[lobe-ui](https://github.com/lobehub/lobe-ui)            | [MIT license](https://github.com/lobehub/lobe-ui#MIT-1-ov-file) | Lobe UI 是一个开源的 UI 组件库，用于构建 AIGC 网页应用。     |
+| Git:[x](https://github.com/ant-design/x)                     | [MIT license](https://github.com/ant-design/x#MIT-1-ov-file) | Ant Design X是一个旨在帮助开发者轻松构建AI驱动界面的项目。<br />它基于企业级AI产品的最佳实践，提供了一系列功能强大的特性和组件。 |
+| Git:[ChatUI](https://github.com/alibaba/ChatUI)              | [MIT license](https://github.com/alibaba/ChatUI#MIT-1-ov-file) | ChatUI是一个由阿里巴巴开源的 AI 聊天 UI 组件库，内置消息流、<br />对话历史、意图识别等丰富组件，适合 LLM、ChatBot 产品开发。<br />助力设计开发者搭建「对话式交互」，让科技更有温度，对话美而简单。 |
+| Git:[Element-Plus-X](https://github.com/HeJiaYue520/Element-Plus-X) | [MIT license](https://github.com/HeJiaYue520/Element-Plus-X#MIT-1-ov-file) | Element-Plus-X是一个基于 Vue 3 + Element-Plus 开箱即用的企业级 AI 组件库。 |
+| Git[void](https://github.com/voideditor/void)                | Apache-2.0, Unknown licenses found                           | Void 是一款基于 VS Code 的开源 AI 编程工具，旨在提供类似 Cursor IDE 的智能功能，<br />同时强调数据隐私和用户自主性。 |
+
+### 相关参考
+
+- [安利 5 款超赞的开源 AI 前端组件库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513383&idx=1&sn=87042c01ad2f4b48bcc8a17498b3e738&chksm=9646efeebcdca9d2f0be1d4fbc8d664203f6e57b5aa4deeed103d5782c09cbb8b89151e27e65&scene=126&sessionid=1746578976#rd)
+- [免费 AI 编程工具，Cursor 开源平替版【void】](https://mp.weixin.qq.com/s/Vz0Ul-N3wu88Ob1XI2rpSw)
+- [一款开源、卓越、安全的 AI 代码编辑器，Cursor 的理想替代工具！【Void】](https://mp.weixin.qq.com/s/tx8p_wHeAh-2kAce-rUc3g)
+
+
+
 ## A. ABP框架
 
 | 项目名称                                       | 使用的协议                                                   | 功能介绍/说明                                                |
@@ -100,17 +119,21 @@
 
 | 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) | [Apache-2.0 license](https://github.com/dotnetcore/BootstrapBlazor#Apache-2.0-1-ov-file) | BootstrapBlazor 是一套基于 Bootstrap 和 Blazor 的开源（Apache License）、<br />企业级组件库，无缝整合了 Bootstrap 框架与 Blazor 技术。它提供了一整套强大的工具，<br />使开发者能够轻松创建响应式和交互式的 Web 应用程序，<br />喜欢 Bootstrap 风格的小伙伴推荐使用。 |
 | **Gitee:[BootstrapAdmin](https://gitee.com/LongbowEnterprise/BootstrapAdmin)** | LGPL-3.0                                                     | 基于Bootstrap Blazor开源的.NET通用后台权限管理系统，<br />后台管理页面兼容所有主流浏览器，<br />完全响应式布局（支持电脑、平板、手机等所有主流设备），<br />可切换至 Blazor 多 Tabs 模式，权限控制细化到网页内任意元素<br />（按钮、表格、文本框等等）：BootstrapAdmin。 |
 | **Git:[ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)** | [MIT](https://github.com/ant-design-blazor/ant-design-blazor/blob/master/LICENSE) | 基于Ant Design和Blazor的开源（MIT License）、<br />免费的企业级组件库（喜欢Ant Design风格的同学推荐使用） |
 | **Git:[MudBlazor](https://github.com/MudBlazor/MudBlazor)**  | [MIT license](https://github.com/MudBlazor/MudBlazor#MIT-1-ov-file) | MudBlazor是一个基于Material Design风格开源、免费（MIT License）、<br />功能强大的Blazor组件框架，注重易用性和清晰的结构。<br />它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。<br />由于MudBlazor完全使用C#编写，因此你可以自由地调整、修复或扩展该框架。<br />文档中有大量示例代码，能够帮助开发者快速理解和学习MudBlazor框架。<br />[在线文档](https://mudblazor.com/docs/overview) |
 | Git:[MatBlazor](https://github.com/SamProf/MatBlazor)        | [MIT license](https://github.com/SamProf/MatBlazor#MIT-1-ov-file) | 今天大姚给大家分享一套基于 Material Design 规范实现的、开源（MIT license）<br />且免费的 Blazor 和 Razor 通用组件库：MatBlazor。 |
+| Git:[fluentui-blazor](https://github.com/microsoft/fluentui-blazor) | [MIT license](https://github.com/microsoft/fluentui-blazor#MIT-1-ov-file) | Fluent UI Blazor是一个由微软官方开源（MIT License）、免费的Blazor UI组件库，<br />提供了一系列的UI组件以及Fluent UI的设计系统。<br />该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，<br />可以实现高效而灵活的单页应用程序开发。 |
 
 ### 相关参考
 
-1. **[基于Bootstrap Blazor开源的.NET通用后台权限管理系统【BootstrapAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502476&idx=1&sn=f32f44ef80b6f49e98b915c46f9284f0&scene=21#wechat_redirect)**
-1. **[一套基于 Ant Design 和 Blazor 的开源企业级组件库【Ant Design Blazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502797&idx=1&sn=79b4da3703ff2f87510b1ad304435e62&scene=21#wechat_redirect)**
-1. [MudBlazor：基于Material Design风格开源且强大的Blazor组件库【MudBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=1&sn=db13e3d5e01929862b1289150408a3dc&chksm=96816cabe24edb96c73d10cdc57c6c2c20707f9df0f1fb4b49a311667a2090046361088a6e9f&scene=126&sessionid=1731206998#rd)
-1. [一套基于 Material Design 规范实现的 Blazor 和 Razor 通用组件库【MatBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510824&idx=1&sn=5b6f147d2c47b16c90a1c426ed17452c&chksm=9648c227ad4bdb8f6d53c78a80c16ec60fa9b87b15ea59400e52de0403e53736d8f9434ee89f&scene=126&sessionid=1740617026#rd)
+- [一套基于 Bootstrap 和 .NET Blazor 的开源企业级组件库【BootstrapBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513658&idx=1&sn=4b6f5071acd0da2b58f590b898abbeba&chksm=96d924ac38c84356e6102d8f5f04f7f9210f713e8a1a812b295b9906928897b06d5738b2f555&scene=126&sessionid=1747184142#rd)
+- **[基于Bootstrap Blazor开源的.NET通用后台权限管理系统【BootstrapAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502476&idx=1&sn=f32f44ef80b6f49e98b915c46f9284f0&scene=21#wechat_redirect)**
+- **[一套基于 Ant Design 和 Blazor 的开源企业级组件库【Ant Design Blazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502797&idx=1&sn=79b4da3703ff2f87510b1ad304435e62&scene=21#wechat_redirect)**
+- [MudBlazor：基于Material Design风格开源且强大的Blazor组件库【MudBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=1&sn=db13e3d5e01929862b1289150408a3dc&chksm=96816cabe24edb96c73d10cdc57c6c2c20707f9df0f1fb4b49a311667a2090046361088a6e9f&scene=126&sessionid=1731206998#rd)
+- [一套基于 Material Design 规范实现的 Blazor 和 Razor 通用组件库【MatBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510824&idx=1&sn=5b6f147d2c47b16c90a1c426ed17452c&chksm=9648c227ad4bdb8f6d53c78a80c16ec60fa9b87b15ea59400e52de0403e53736d8f9434ee89f&scene=126&sessionid=1740617026#rd)
+- [精选 5 款开源、免费、美观的 .NET Blazor UI 组件库【Fluent UI Blazor】【BootstrapBlazor】【Ant Design Blazor】【MudBlazor】【MatBlazor】](https://mp.weixin.qq.com/s/z2gMth_M2HWOz0st-5Shww)
 
 
 
@@ -417,26 +440,30 @@
 | **Git:[MethodTimer](https://github.com/Fody/MethodTimer)**   | [MIT license](https://github.com/Fody/MethodTimer#MIT-1-ov-file) | MethodTimer是一个.NET开源、免费（MIT License）、轻量级的运行耗时统计库，<br />用于在编译时自动向指定方法注入计时代码，无需手动编写繁琐的计时逻辑。 |
 | **Git:[SteamTools](https://github.com/BeyondDimension/SteamTools)** | [GPL-3.0 license](https://github.com/BeyondDimension/SteamTools#GPL-3.0-1-ov-file) | Watt Toolkit不仅具备强大的GitHub加速功能，能够显著提升GitHub的访问速度，<br />让我们能够更快地下载代码、提交更新和进行协作，<br />而且还集成了丰富的Steam工具箱功能，<br />如网络加速、账号切换、库存游戏管理和本地令牌验证等。<br />这些功能不仅为Steam用户提供了极大的便利，<br />也让我们在娱乐时能够享受到更加流畅的网络体验。<br />[下载地址](https://github.com/BeyondDimension/SteamTools/releases) |
 | Git:[UnitsNet](https://github.com/angularsen/UnitsNet)       | [MIT-0 license](https://github.com/angularsen/UnitsNet#MIT-0-1-ov-file) | 在现代软件开发中，准确处理不同单位的转换是一个常见而复杂的需求。<br />无论是处理温度、长度、重量还是其他物理量，都需要可靠的单位转换机制。<br />本文将深入介绍 Units.NET 库，展示如何在 .NET 应用中优雅地处理单位转换。 |
+| Git:[sqids-dotnet](https://github.com/sqids/sqids-dotnet)    | [MIT license](https://github.com/sqids/sqids-dotnet#MIT-1-ov-file) | Sqids 是一个基于 C# 编写、开源的轻量级工具库，<br />它允许你从数字生成类似 YouTube 的 ID。<br />它可以将数字（如 127）编码为字符串（如 yc3），<br />然后你可以将这些字符串解码回原始数字。<br />当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，<br />以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。 |
 
 ### 相关参考
 
-1. **[3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)**
-1. **[效率提升利器：一个全龄段友好的C#/.NET万能工具库 【Masuit.Tools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504688&idx=2&sn=bbddbcf7674b7ac4f49921e032dc0da1&chksm=9676fb1687d5b33349ce5152f61b35b8e4f064cca7949def70e1e4d717a4ad5d244834d9475f&scene=126&sessionid=1725497837#rd)**
-1. [一个功能丰富、易于使用的C#万能工具库【Masuit.Tools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508397&idx=2&sn=0bdd5515441dd153923c5910b7a09e2f&chksm=96775aaa07fefe9422e00c3e52b4067fbd0fd31b2d1aa985c4e0db095369f6d7fb275164d792&scene=126&sessionid=1734311217#rd)
-1. [一个全面且高效的C#帮助类库【Common.Utility】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505136&idx=2&sn=1a48a4eba65539805ae4933130c98e2f&chksm=9638828814c9415e1330cbe452e3943302641223458991c67797348ab3d97eba3686e2e5e703&scene=126&sessionid=1726103177#rd)
-1. [超实用的C#开源工具类库，集成超过1000多种扩展方法，收藏！ 【Z.ExtensionMethods】](https://mp.weixin.qq.com/s/eEaz6w0DlsBfABZcbEO23Q)
-1. [.Net Core Excel导入导出神器Npoi.Mapper 【Npoi.Mapper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=3&sn=117eccfc6f22c71a3b46366a90b6af65&chksm=96c0b85eda52d5306fe24a8ed8efecf85fc68dee6009bab444c59c083098672c97d4b49baa2f&scene=126&sessionid=1727311494#rd)
-1. [.NET 全能 Cron 表达式解析库（支持 Cron 所有特性）【TimeCrontab】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497075&idx=1&sn=822204f374177899a378a18e7514aa42&scene=21#wechat_redirect)
-1. [.NET使用CsvHelper快速读取和写入CSV文件【CsvHelper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502097&idx=1&sn=a8b64662ad0bdda4127a302547566d96&scene=21#wechat_redirect)
-1. [ASP.NET Core Web中使用AutoMapper进行对象映射 【AutoMapper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500520&idx=1&sn=0a6cc6e78f1658e1d38f67ce91e57390&scene=21#wechat_redirect)
-1. [一款将PDF转化为机器可读格式的工具（如markdown、json），可以很方便地抽取为任意格式！！【MinerU】](https://mp.weixin.qq.com/s/SS4g24vDYkTXNp9tzCL91g)
-1. [程序员必备的JSON到代码的快速转换神器，支持多种语言（C#、Go、Swift、C++、Java、TypeScript 等）【quicktype 】](https://mp.weixin.qq.com/s/Dq6beDULq_Q09UJSanPMtA)
-1. [一款基于.NET开发的简易高效的文件转换器【FileConverter】](https://mp.weixin.qq.com/s/4_DLJ-KzI413uDO4k4FLtw)
-1. [3款C#/.NET开源且免费的实用工具库，收藏使用！ (qq.com)](https://mp.weixin.qq.com/s/EblvFz_voTjBm8y-2kYPXA)
-1. [一个.NET开源、性能优异的Excel数据读取库【Sylvan.Data.Excel】](https://mp.weixin.qq.com/s/hgXUNvJANZ3KqDTLvOHApA)
-1. [一个.NET开源、轻量级的运行耗时统计库【MethodTimer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=1&sn=6e2fc9e9e3239ad7f85a5cf508b45d35&chksm=96c69b8faed7d3aa29c15a7034ac61de2d46ac4e8985215925a97a4ffaa0bd7fcced370c6735&scene=126&sessionid=1730335988#rd)
-1. [一款C#开源的、跨平台的GitHub加速神器&Steam工具箱【Watt Toolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508562&idx=2&sn=6c63c6cfd01792c1a946d9ecc6f7b4d1&chksm=9682ce56014e96b0b6f51045fb851ae3375cad3a4b2a6fa1f63ff986867b411864f8d85f22f0&scene=126&sessionid=1734571044#rd)
-1. [[.NET\] 单位转换实践：深入解析 Units.NET - MadLongTom - 博客园【Units.NET】【UnitsNet】](https://www.cnblogs.com/madtom/p/18653522)
+- **[3款C#开源且实用的工具类库，工作效率提升利器！](https://mp.weixin.qq.com/s/CA8NBb51Y5qFKHGSwaypGA)**
+- **[效率提升利器：一个全龄段友好的C#/.NET万能工具库 【Masuit.Tools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504688&idx=2&sn=bbddbcf7674b7ac4f49921e032dc0da1&chksm=9676fb1687d5b33349ce5152f61b35b8e4f064cca7949def70e1e4d717a4ad5d244834d9475f&scene=126&sessionid=1725497837#rd)**
+- [一个功能丰富、易于使用的C#万能工具库【Masuit.Tools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508397&idx=2&sn=0bdd5515441dd153923c5910b7a09e2f&chksm=96775aaa07fefe9422e00c3e52b4067fbd0fd31b2d1aa985c4e0db095369f6d7fb275164d792&scene=126&sessionid=1734311217#rd)
+- [一个全面且高效的C#帮助类库【Common.Utility】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505136&idx=2&sn=1a48a4eba65539805ae4933130c98e2f&chksm=9638828814c9415e1330cbe452e3943302641223458991c67797348ab3d97eba3686e2e5e703&scene=126&sessionid=1726103177#rd)
+- [超实用的C#开源工具类库，集成超过1000多种扩展方法，收藏！ 【Z.ExtensionMethods】](https://mp.weixin.qq.com/s/eEaz6w0DlsBfABZcbEO23Q)
+- [一个 C# 开源、免费、实用且强大的工具类库，集成超过1000多种扩展方法！【Z.ExtensionMethods】](https://mp.weixin.qq.com/s/yVl9m93tmj8YPawu_LosgA)
+- [.Net Core Excel导入导出神器Npoi.Mapper 【Npoi.Mapper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=3&sn=117eccfc6f22c71a3b46366a90b6af65&chksm=96c0b85eda52d5306fe24a8ed8efecf85fc68dee6009bab444c59c083098672c97d4b49baa2f&scene=126&sessionid=1727311494#rd)
+- [.NET 全能 Cron 表达式解析库（支持 Cron 所有特性）【TimeCrontab】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497075&idx=1&sn=822204f374177899a378a18e7514aa42&scene=21#wechat_redirect)
+- [.NET使用CsvHelper快速读取和写入CSV文件【CsvHelper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502097&idx=1&sn=a8b64662ad0bdda4127a302547566d96&scene=21#wechat_redirect)
+- [ASP.NET Core Web中使用AutoMapper进行对象映射 【AutoMapper】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500520&idx=1&sn=0a6cc6e78f1658e1d38f67ce91e57390&scene=21#wechat_redirect)
+- [一款将PDF转化为机器可读格式的工具（如markdown、json），可以很方便地抽取为任意格式！！【MinerU】](https://mp.weixin.qq.com/s/SS4g24vDYkTXNp9tzCL91g)
+- [程序员必备的JSON到代码的快速转换神器，支持多种语言（C#、Go、Swift、C++、Java、TypeScript 等）【quicktype 】](https://mp.weixin.qq.com/s/Dq6beDULq_Q09UJSanPMtA)
+- [一款基于.NET开发的简易高效的文件转换器【FileConverter】](https://mp.weixin.qq.com/s/4_DLJ-KzI413uDO4k4FLtw)
+- [3款C#/.NET开源且免费的实用工具库，收藏使用！ (qq.com)](https://mp.weixin.qq.com/s/EblvFz_voTjBm8y-2kYPXA)
+- [一个.NET开源、性能优异的Excel数据读取库【Sylvan.Data.Excel】](https://mp.weixin.qq.com/s/hgXUNvJANZ3KqDTLvOHApA)
+- [一个.NET开源、轻量级的运行耗时统计库【MethodTimer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506714&idx=1&sn=6e2fc9e9e3239ad7f85a5cf508b45d35&chksm=96c69b8faed7d3aa29c15a7034ac61de2d46ac4e8985215925a97a4ffaa0bd7fcced370c6735&scene=126&sessionid=1730335988#rd)
+- [一款C#开源的、跨平台的GitHub加速神器&Steam工具箱【Watt Toolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508562&idx=2&sn=6c63c6cfd01792c1a946d9ecc6f7b4d1&chksm=9682ce56014e96b0b6f51045fb851ae3375cad3a4b2a6fa1f63ff986867b411864f8d85f22f0&scene=126&sessionid=1734571044#rd)
+- [一款C#开源的、跨平台的GitHub加速神器&Steam工具箱【Watt Toolkit/SteamTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513692&idx=2&sn=525165b9fe8031fadf3cf8f2417fa292&chksm=965ed035e946253853812a82c55085c768a4a4d6643e61728a2149a36729d47cd17d660e1caa&scene=126&sessionid=1747493051#rd)
+- [[.NET\] 单位转换实践：深入解析 Units.NET - MadLongTom - 博客园【Units.NET】【UnitsNet】](https://www.cnblogs.com/madtom/p/18653522)
+- [在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！【Sqids】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513529&idx=1&sn=5e1a823c7f162bd7f606062ccda8c3a5&chksm=96c3b47ef5f74d39c708d24d514304388339c61832601944a153af67baa0e7a55f3b704cec97&scene=126&sessionid=1746751404#rd)
 
 
 
@@ -517,6 +544,11 @@
 | **Git:[WPFManager](https://github.com/straw-git/WPFManager)** |                                                              | 一款非常漂亮的 WPF 管理系统                                  |
 | Git:[art-design-pro](https://github.com/Daymychen/art-design-pro) | [MIT license](https://github.com/Daymychen/art-design-pro#MIT-1-ov-file) | Art Design Pro是一款开源免费（基于MIT license开源协议）、<br />美观实用的后台管理系统模版，专注于用户体验和快速开发的开源后台管理解决方案。<br />基于 ElementPlus 设计规范，进行了视觉上的精心优化，提供更美观、<br />更实用的前端界面，帮助你轻松构建高质量的后台系统。项目使用 Vue3、<br />TypeScript、Vite 等最新技术栈，ElementPlus 组件库为您提供强大支持，<br />覆盖 80% 的常用组件。 |
 | Git:[ApeVolo.Admin](https://github.com/xianhc/ApeVolo.Admin) | [Apache-2.0 license](https://github.com/xianhc/ApeVolo.Admin#Apache-2.0-1-ov-file) | ApeVolo.Admin 一款基于.NET 8、SqlSugar、Vue、Elment UI、RBAC、<br />前后端分离、开源（Apache-2.0 license）、开箱即用的企业级中后台权限管理系统。<br />项目具备丰富的组件、简单的逻辑代码、常见的知识点、不仅适用于新手学习、<br />更适用企业级系统开发，助力快速完成常规业务需求开发。 |
+| **Gitee:[vue-element-plus-admin](https://gitee.com/kailong110120130/vue-element-plus-admin)** | MIT                                                          | vue-element-plus-admin 是一个基于 element-plus 免费开源的中后台模版。<br />使用了最新的vue3，vite，TypeScript等主流技术开发，<br />开箱即用的中后台前端解决方案，可以用来作为项目的启动模版，<br />也可用于学习参考。并且时刻关注着最新技术动向，尽可能的第一时间更新。 |
+| Git:[ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) | [MIT license](https://github.com/vueComponent/ant-design-vue-pro#MIT-1-ov-file) | 这里是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。<br />基于Vue框架集成的一个开箱即用的中台前端/设计解决方案。 |
+| **Gitee:[Geeker-Admin](https://gitee.com/HalseySpicy/Geeker-Admin)** | MIT                                                          | Geeker-Admin 一款基于 Vue3.4、TypeScript、Vite5、Pinia、<br />Element-Plus 开源的后台管理框架，使用目前最新技术栈开发。<br />项目提供强大的 ProTable 组件，在一定程度上提高您的开发效率。<br />另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。 |
+| Git:[soybean-admin](https://github.com/soybeanjs/soybean-admin) | [MIT license](https://github.com/soybeanjs/soybean-admin#MIT-1-ov-file) | SoybeanAdmin是一个清新优雅、高颜值且功能强大的后台管理模板，<br />基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia 和 UnoCSS。<br />它内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。<br />此外，它还采用了基于 ApiFox 的在线Mock数据方案。<br />SoybeanAdmin 为您提供了一站式的后台管理解决方案，无需额外配置，<br />开箱即用。同样是一个快速学习前沿技术的最佳实践。 |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
@@ -529,6 +561,7 @@
 - [一个使用 WPF 开发的管理系统【WPFManager】](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
 - [一款开源免费、美观实用的后台管理系统模版，简单轻量、开箱即用！【Art Design Pro】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=3&sn=03e8bfb14ff6c2a9e228dbfb2be4d51b&chksm=961f50706b65eff53ba9523360260b1bd69997b8bf18fb492b43d93b7eb9e4e27d5400fbc89e&scene=126&sessionid=1742951008#rd)
 - [一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512130&idx=1&sn=91f7d557891cfd4b471dc69182291db8&chksm=96a740e8e515f10d617173c5354615233036d4e13f6697c69913fad6d9cd6d4a1ba5f188000b&scene=126&sessionid=1744159839#rd)
+- [精选 12 款开源、免费、美观的 Vue 后台管理系统模板！【vue-element-admin】【Art Design Pro】【Naive Ui Admin】【vue-element-plus-admin】【Ant Design Vue Pro】【Geeker Admin】【SoybeanAdmin】【vue-vben-admin】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】【SnowAdmin】](https://mp.weixin.qq.com/s/tAoSd_r6sjMx23sYiwcJWQ)
 
 
 
@@ -601,12 +634,13 @@
 | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[Opserver](https://github.com/Opserver/Opserver)** | **MIT license**                                              | Opserver一款Stack Overflow基于.NET开源、<br />免费的轻量级监控系统，它可以独立监控多个系统，<br />支持提取有关 CPU、内存、网络和硬件的统计数据。<br />并且支持跨平台部署（包括 Windows，macOS，Linux）。 |
 | Git:[beszel](https://github.com/henrygd/beszel)          | [MIT license](https://github.com/henrygd/beszel#MIT-1-ov-file) | Beszel 是一款基于 Go 开源、轻量、易用的服务器监控系统，<br />适用于需要对多个服务器或容器进行实时监控和管理的场景。它特别适合于运维团队、<br />开发人员或需要关注服务器性能的个人用户。通过 Beszel，用户可以轻松获取服务器的 CPU、<br />内存、磁盘、网络等关键性能指标，并设置警报以确保在出现异常时能够及时响应。 |
-|                                                          |                                                              |                                                              |
+| [WatchDog](https://github.com/IzyPro/WatchDog)           | [MIT license](https://github.com/IzyPro/WatchDog#MIT-1-ov-file) | WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序<br />和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、<br />HTTP请求和响应，以及运行时捕获的异常。 |
 
 ### 相关参考
 
 - **[Stack Overflow基于.NET开源的轻量级监控系统【Opserver】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=2&sn=cbf5707e8bc804aa71c25bd624921f86&chksm=96c22a12ec0fcb2b392b31e713306ede2cc84b1a8d3ac942b098b9dbdc295009ac6bff3da09f&scene=126&sessionid=1721608423#rd)**
 - [一款开源、轻量、易用的服务器监控系统，开箱即用！【Beszel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=2&sn=2cf69fa6c3469e78fbac0977feb8ff9d&chksm=969c563e4807c997cec50874fae84c51b93120474de24589c69f6bb0c36fae19fa8fae1b426a&scene=126&sessionid=1744331895#rd)
+- [一个.NET开源且功能强大的实时应用监控系统【WatchDog】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=2&sn=610d4b9fe6570ffc298f524c1a09c84c&chksm=96bac78edb38ce503ccbfc528d0e2efbb05079c2c06106bd2ca62a7837313d57e4ed30ecb548&scene=126&sessionid=1731206998#rd)
 
 
 
@@ -665,6 +699,20 @@
 
 
 
+## J. 交易引擎
+
+| 项目名称                                         | 使用的协议                                                   | 功能介绍/说明                                                |
+| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[Lean](https://github.com/QuantConnect/Lean) | [Apache-2.0 license](https://github.com/QuantConnect/Lean#Apache-2.0-1-ov-file) | Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、<br />采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），<br />该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。<br />它允许开发者直接从终端管理项目、运行回测、<br />部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、<br />实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。<br />它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。 |
+|                                                  |                                                              |                                                              |
+|                                                  |                                                              |                                                              |
+
+### 相关参考
+
+- [一个基于 C# 编写的事件驱动、具备专业水准的算法交易平台（量化交易引擎）【Lean】](https://mp.weixin.qq.com/s/MDn-Z1TB3qQn7yqfcP5Eug)
+
+
+
 
 
 ## K. 控制台
@@ -708,6 +756,9 @@
 | **Git:[visitormanagement](https://github.com/neozhu/visitormanagement)** | [Apache-2.0 license](https://github.com/neozhu/visitormanagement#Apache-2.0-1-ov-file) | 一款基于 .NET + Blazor 开发的智能访客管理系统，<br />访客系统的主要作用是简化并优化访客管理流程，提升安全性和效率。<br />它通过数字化手段替代传统纸质登记，实现快速、准确的访客信息录入与追踪。<br />该系统能够记录访客进出时间、地点及活动轨迹，有助于机构加强安全管理，<br />同时提供便捷的访客体验。总之，访客系统是现代机构管理中不可或缺的一部分，<br />它确保了访客管理的规范性和高效性。<br />[在线演示](https://visitor.blazorserver.com/visitor/employees) |
 | **Gitee:[winform通用开发框架](https://gitee.com/wkjerry_admin/WinformGeneralDeveloperFrame)** | GPL-2.0                                                      | WinformDevFramework是一个基于C# Winform开源免费（GPL-2.0开源协议）<br />的通用快速开发框架，内置完整的权限架构，功能包括：菜单、角色、用户、<br />字典、日志、代码生成等一系列系统常规模块。 |
 | **Gitee:[gi-demo](https://gitee.com/lin0716/gi-demo)**       | Apache-2.0                                                   | Gi Admin Pro 是一个基于 Vue3、Vite、TypeScript、Arco Design Vue、Pinia、<br />VueUse 等的免费中后台模版，它使用了最新的前端技术栈，内置丰富的主题配置，<br />有着极高的代码规范，基于 mock 实现的动态数据展示，开箱即用的模板，<br />也可用于学习参考。 |
+| Git:[akka.net](https://github.com/akkadotnet/akka.net)       | Apache-2.0                                                   | **Akka.NET** 是一个开源框架，基于**Actor模型（Actor Model）**，源自 JVM 平台，<br />后来移植到 .NET，专注于构建并发、分布式和容错系统。 |
+| Git:[netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | [MIT license](https://github.com/netcorepal/netcorepal-cloud-framework#MIT-1-ov-file) | netcorepal-cloud-framework 是一个基于 ASP.NET Core <br />实现的领域驱动设计落地战术框架。框架核心特性，<br />领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务<br />（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 |
+| Git:[netcorepal-cloud-template](https://github.com/netcorepal/netcorepal-cloud-template) | [MIT license](https://github.com/netcorepal/netcorepal-cloud-template#MIT-1-ov-file) | 基于netcorepal-cloud-framework的项目模板工具                 |
 
 ### 相关参考
 
@@ -735,6 +786,10 @@
 - [3款开源且功能全面的企业 OA 办公系统，赋能企业效率提升！【勾股OA】【MicroOA】【OA-System】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=2&sn=5a8bfcb041f60561d66ca6ea60510a99&chksm=968a4691717170953c867ce1668b823059a07de080c3fe27e1354d3828150f52721a4117bc47&scene=126&sessionid=1734914402#rd)
 - [一个基于C# Winform开源免费的通用快速开发框架，内置完整的权限架构！【WinformDevFramework】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510784&idx=1&sn=eeafca3baf21d28a059867785b471838&chksm=96282f8e766a87dad3766e0ad87404cbde1f2433108c59378e146ed5640a6d90afa819f7f72f&scene=126&sessionid=1740357414#rd)
 - [一个基于 Vue3 开源、免费、高颜值的中后台模版，开箱即用！【Gi Admin Pro/gi-demo】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=2&sn=b38820a43906debac0faa5fea5eda248&chksm=96cf4abc95359428a0f5aa4272e5b4bd672f2a5b18a657af3f76c51eb05bf111d43d060c6f00&scene=126&sessionid=1745886966#rd)
+- [传统开发被淘汰？Akka.NET 带你进入真正的响应式时代](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513383&idx=2&sn=5b515cd330bd2dc1d6f957810a6e59b1&chksm=9644f97fb0878fc418f24495a11581be6321d744878b806537871c761069cb8d44479a3f8f6e&scene=126&sessionid=1746578976#rd)
+- **领域驱动**
+  - [一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架【netcorepal-cloud-framework】【netcorepal-cloud-template】](https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g)
+
 
 
 
@@ -830,7 +885,7 @@
 | Git:[serilog](https://github.com/serilog/serilog) | [Apache-2.0 license](https://github.com/serilog/serilog#Apache-2.0-1-ov-file) | Serilog 是一个功能强大的 .NET 日志库，<br />以其简洁的配置和灵活的输出方式而受到开发者喜爱。<br />支持多种日志输出目标（如控制台、文件、数据库等），并且可以通过结构化日志的方式<br />记录丰富的上下文信息，便于后续的日志分析和调试。Serilog 还提供了丰富的扩展包，<br />能够轻松集成到各种 .NET 应用程序中，帮助开发者高效地管理和记录日志。 |
 |                                                   |                                                              |                                                              |
 
-## 相关参考
+### 相关参考
 
 - [Serilog: 功能强大的 .NET 日志库,快速上手与进阶【Serilog】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=3&sn=bc7073031a073fb9890f8274170f5295&chksm=96ff60e22d66e1f7aef480f2862ad790ae0865ef5feacae142cdb12121ac2663ce2a2b811ae2&scene=126&sessionid=1737593066#rd)
 
@@ -896,11 +951,16 @@
 | **Git:[GreaterWMS](https://github.com/GreaterWMS/GreaterWMS)** | [Apache-2.0 license](https://github.com/GreaterWMS/GreaterWMS#Apache-2.0-1-ov-file) | GreaterWMS是一个功能丰富、技术先进且开源的库存管理系统，<br />具有高度的灵活性和经济性，适用于各种规模的仓库管理需求。 |
 | **Gitee:[ModernWMS](https://gitee.com/modernwms/ModernWMS)** | **Apache-2.0**                                               | 该库存管理系统是，我们从多年ERP系统研发中<br />总结出来的一套针对小型物流仓储供应链流程。<br /> 在工作过程中我们很多的中小企业，由于IT预算有限，<br />所以无法用上适合他们的系统，<br />却又实实在在存在仓储管理方面的需求，<br />以此我们开始了这个项目。 为了帮助一些有需要的用户。 |
 | **Gitee:[mes-TMom](https://gitee.com/thgao/tmom)**           | MIT                                                          | tmom是一款基于 .NET 开源、通用的生产制造系统，支持多厂区/多项目级的MOM/MES系统，<br />计划排程、工艺路线设计、在线低代码报表、大屏看板、移动端、<br />AOT客户端...... 目标是尽可能打造一款通用的生产制造系统。前端基于最新的vue3、<br />ts、ant design vue, 后端使用.net8、Sqlsugar，支持多种数据库切换、数据隔离与聚合。 |
+| **Gitee:[ktg-mes](https://gitee.com/kutangguo/ktg-mes)**     | MIT                                                          | 苦糖果MES是一款专业、通用、开源、免费的生产执行管理系统（MES），<br />该项目致力于通过开源的方式，为离散制造业的中小企业提供一个低成本、<br />高效的生产执行管理系统解决方案，同时提供全面的文档和支持，<br />帮助用户顺利实施和应用。 |
+| **Gitee:[MES系统-iMES工厂管家](https://gitee.com/ZM-Rid/imes)** | Apache-2.0                                                   | 一款基于.NetCore3.1和Vue3的MES管理系统。项目亮点：模版打印，Excel模版导出，<br />自定义实体扩展，移动端精美设计，大屏设计等功能。<br />这个系统可以满足企业在基础数据管理、库存管理、生产管理、系统管理、<br />报表管理、定时任务、流程管理、开发管理、质量管理、排班管理、工具管理、<br />设备管理和看板管理等多个方面的需求，是一个功能全面的企业管理系统。 |
+| **Gitee：后端[WaterCloud](https://gitee.com/qian_wei_hong/WaterCloud)**<br />**Gitee：前端[wmes](https://gitee.com/bzh/wmes)** | MIT                                                          | WMES是一个基于 .NET + LayUI 开源的仓库管理与执行系统，旨在提供高效、<br />灵活的仓库管理解决方案。该系统通过集成化的功能模块，实现了仓库运营的自动化、<br />智能化，并提升了仓库管理的效率和准确性。 |
 
 - [一款基于 .NET MVC 框架开发、功能全面的MES系统【EasyMES】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508295&idx=1&sn=f514c6f966278fd2d32f89edcd7a8ac9&chksm=9653e2d79932ce206c5180bb150090f3a92bfe68851b29b0012cce64a2e3b78651f2e20dd0bc&scene=126&sessionid=1734311217#rd)
 - [一个功能丰富、技术先进且开源的库存管理系统【GreaterWMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508650&idx=3&sn=e755a111926daee7a4edac7dfb86bc74&chksm=9665d11263b8d205aeb6413bc91f661b06324e20f0094323b2192eb4b3315d9e9d500ba64e34&scene=126&sessionid=1734694164#rd)
 - **[一个.NET开源的简易完整的仓库管理系统 【ModernWMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503057&idx=2&sn=54f6a82fe68f361dfd2283de90c4f274&chksm=960352e80bdb9baf01cb06f7c3da9ea778e04cdde006280e495d3bd2f41ec013b681131d7789&scene=126&sessionid=1721004385#rd)**
 - [一款基于 .NET 开源、通用的生产制造系统，支持多厂区/多项目级的MOM/MES系统！【TMom】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510880&idx=2&sn=7ddb724d5c5b620bbfc4825bef05ecb0&chksm=96bf1b7ab03cf60439c9b87d8caed53ca4a890c75e76052500cda4ae9e9cf4a536cf9539430e&scene=126&sessionid=1740824346#rd)
+- [3款开源、功能强大的 MES 生产执行管理系统，助力企业更好地提升生产管理水平！【tmom】【ktg-mes】【imes】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513371&idx=2&sn=778038a62ec65452308d16d650f4f49b&chksm=969f6bc475afc5e8b7ce4a69c4b6d0c2ead77a9cbdea827ee0061c932ae5428ce0285221642c&scene=126&sessionid=1746578976&poc_token=HO-uGmijSbWJHDjdrPYLl9HkqHTz7nLjb1PPBE_S)
+- [一款开源免费、功能丰富的仓库管理与执行系统，便于二次开发！【WaterCloud】【wmes】](https://mp.weixin.qq.com/s/fRiR2ZoPVsaFzpeAddP3LA)
 
 
 
@@ -954,9 +1014,10 @@
 
 ### 相关参考
 
-1. **[用 Aspose.Words 在 ASP.NET Core 中轻松实现 Word 文件下载](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503057&idx=3&sn=754fffa5eaf6030197fc83e37e77bd04&chksm=96fb83a848f5cdc411a3ca4e39a673bef4b4e6af14bd805a52a497c7407538f61b60a1930495&scene=126&sessionid=1721004385#rd)**
-1. **[一个简单、高效、低内存的.NET处理Excel查、写、填充数据工具类库【MiniExcel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=3&sn=c832c391147782c0305a28abe843ff94&chksm=964efc7a9e780f00c6c139dc87d7074e829eca66fa54e29d63fb763791d47f5cfccfaefb10ea&scene=126&sessionid=1721177969#rd)**
-1. [.NET使用MiniWord高效生成Word文件【MiniWord】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507696&idx=1&sn=d52c096c503c9d1987a6bb11b3660e18&chksm=96796b4e52b6138b71a3fd0e0c8f3a587f0cb3ff0e1fcf9e3b016fdbb298d067bc480edaba7f&scene=126&sessionid=1732495973#rd)
+- **[用 Aspose.Words 在 ASP.NET Core 中轻松实现 Word 文件下载](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503057&idx=3&sn=754fffa5eaf6030197fc83e37e77bd04&chksm=96fb83a848f5cdc411a3ca4e39a673bef4b4e6af14bd805a52a497c7407538f61b60a1930495&scene=126&sessionid=1721004385#rd)**
+- **[一个简单、高效、低内存的.NET处理Excel查、写、填充数据工具类库【MiniExcel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=3&sn=c832c391147782c0305a28abe843ff94&chksm=964efc7a9e780f00c6c139dc87d7074e829eca66fa54e29d63fb763791d47f5cfccfaefb10ea&scene=126&sessionid=1721177969#rd)**
+- [一个简单高效、低内存的 .NET 处理 Excel 文件的实用类库【MiniExcel】](https://mp.weixin.qq.com/s/BvxjzwhClCV1PCsbkqWAKg)
+- [.NET使用MiniWord高效生成Word文件【MiniWord】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507696&idx=1&sn=d52c096c503c9d1987a6bb11b3660e18&chksm=96796b4e52b6138b71a3fd0e0c8f3a587f0cb3ff0e1fcf9e3b016fdbb298d067bc480edaba7f&scene=126&sessionid=1732495973#rd)
 
 
 
@@ -1015,12 +1076,13 @@
 
 ## O. OCR(光学字符识别)
 
-| 项目名称                                                    | 使用的协议                                                   | 功能说明/介绍                                                |
-| ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| GitL[tesseract](https://github.com/tesseract-ocr/tesseract) | [Apache-2.0 license](https://github.com/tesseract-ocr/tesseract#Apache-2.0-1-ov-file) | Tesseract 是一个开源的光学字符识别（OCR）引擎，最初由 Hewlett-Packard（惠普）<br />实验室开发，后来由 Google 收购并继续维护和开源贡献。<br />Tesseract 可以识别多种语言的文字，广泛应用于将图片或扫描文档中的文本内容转<br />换成可编辑的文本格式。随着深度学习技术的发展，<br />Tesseract 也整合了基于深度神经网络的 OCR 模型，提升其识别准确率，<br />特别是对于复杂排版和手写体的识别效果有所改善。<br />Tesseract 适合开发人员和研究人员使用，可以嵌入到各种应用中，比如文档数字化、<br />图像处理软件、内容管理系统等。它支持命令行操作，<br />也提供了丰富的 API 接口，支持 C++、Python、Java、Node.js 等多种编程语言，<br />便于集成和调用。Tesseract 的核心功能包括文本检测、字符识别和后处理纠错，<br />能够处理多种图像输入格式，输出包括纯文本、HOCR（HTML + OCR）格式、<br />PDF 等多种格式。Tesseract 的高灵活性和强大的识别能力使其成为 <br />OCR 领域中非常受欢迎的工具之一。 |
-|                                                             |                                                              |                                                              |
+| 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| GitL[tesseract](https://github.com/tesseract-ocr/tesseract)  | [Apache-2.0 license](https://github.com/tesseract-ocr/tesseract#Apache-2.0-1-ov-file) | Tesseract 是一个开源的光学字符识别（OCR）引擎，最初由 Hewlett-Packard（惠普）<br />实验室开发，后来由 Google 收购并继续维护和开源贡献。<br />Tesseract 可以识别多种语言的文字，广泛应用于将图片或扫描文档中的文本内容转<br />换成可编辑的文本格式。随着深度学习技术的发展，<br />Tesseract 也整合了基于深度神经网络的 OCR 模型，提升其识别准确率，<br />特别是对于复杂排版和手写体的识别效果有所改善。<br />Tesseract 适合开发人员和研究人员使用，可以嵌入到各种应用中，比如文档数字化、<br />图像处理软件、内容管理系统等。它支持命令行操作，<br />也提供了丰富的 API 接口，支持 C++、Python、Java、Node.js 等多种编程语言，<br />便于集成和调用。Tesseract 的核心功能包括文本检测、字符识别和后处理纠错，<br />能够处理多种图像输入格式，输出包括纯文本、HOCR（HTML + OCR）格式、<br />PDF 等多种格式。Tesseract 的高灵活性和强大的识别能力使其成为 <br />OCR 领域中非常受欢迎的工具之一。 |
+| Git：[pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis) | [Apache-2.0 license](https://github.com/huridocs/pdf-document-layout-analysis#Apache-2.0-1-ov-file) | PDF Document Layout Analysis是一个基于 Docker 的 PDF 文档布局分析服务，<br />用于 PDF 文档布局分析和 PDF OCR。此服务提供强大且灵活的 PDF 分析服务。<br />该服务允许对 PDF 页面不同部分进行分割和分类，识别文本、标题、图片、<br />表格等元素。 |
 
 - [C#使用Tesseract C++ API过程记录 - mingupupup - 博客园【Tesseract 】](https://www.cnblogs.com/mingupupu/p/18636610)
+- [一个开源、高效、灵活的 PDF OCR 文字识别神器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513341&idx=2&sn=1c664132e2cd8c95c2b1788455a1da84&chksm=96593250cda716c21ecb0bb7cf871eb14ac8be091dc54e5458c991a4e256985c2c212cdae510&scene=126&sessionid=1746578976#rd)
 
 
 
@@ -1122,6 +1184,7 @@
 #### 相关参考
 
 - **[推荐2款.NET开源、轻便、实用的Windows桌面启动器](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503153&idx=1&sn=39b1f51415ccc745ecf62cf27a1a36fe&chksm=96b0ee2f34b1d22b835354746c55d5984f627931fb1c19313d01fcab4cbd4cb97811b0590612&scene=126&sessionid=1721090926#rd)**
+- [一款.NET开源、免费、功能强大的 Windows 文件搜索和应用程序启动器【Flow.Launcher】](https://mp.weixin.qq.com/s/OMd07mRMJXjL9Av10UsBYA)
 - [PasteEx：一款.NET开源的Windows快捷粘贴神器【PasteEx】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507675&idx=1&sn=8e0e8e23beaf7717e66dea37702c80e1&chksm=96b53473351b35e5b0ae6c499b3cfb3c21f8d94b5d06bb89d5be4708aad97862a4c26e243777&scene=126&sessionid=1732495973#rd)
 - [uTools：新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集！【uTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507770&idx=2&sn=965438b1bb24008ad4977a3f8d1936bc&chksm=9697c8284e4dcc9d3962815dc11c139022bbf5067a36fc77ff5c075c47d69b5951d689068aef&scene=126&sessionid=1732756371#rd)
 - [一款.NET开源的Windows资源管理器标签页工具【QTTabBar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=1&sn=4cca6bd6f556bdadc67d2f4d5aa7a824&chksm=963d8a5009377e6b7312a8053271d9dad48980c48fb0e3b65e84dd6ba4b434cc47b63a463ee5&scene=126&sessionid=1733100642#rd)
@@ -1154,11 +1217,16 @@
 | DocFetcher                                                   | [下载地址](https://docfetcher.sourceforge.io/zh/download.html) | DocFetcher是款开源、跨平台（Windows、Linux、MacOS）的全文搜索工具，<br />它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、<br />HTML等多种格式，适合学生、研究人员及文档管理者。 |
 | Git：[DevToys](https://github.com/DevToys-app/DevToys)       | [ MIT license](https://github.com/DevToys-app/DevToys#MIT-1-ov-file) | DevToys是一个专门为开发者设计的Windows工具箱，完全支持离线运行，<br />无需使用许多不真实的网站来处理你的数据，<br />常用功能有：格式化（支持 JSON、SQL、XML）、JWT解码、<br />URL编码/解码、UUID生成、图片压缩、文本比较、正则表达式测试、<br />Markdown预览等28+种实用工具。 |
 | Git:[winutil](https://github.com/ChrisTitusTech/winutil)     | [MIT license](https://github.com/ChrisTitusTech/winutil#MIT-1-ov-file) | Winutil是一个开源免费（MIT license），强大且灵活的 Windows 系统管理工具。<br />主要用于简化和优化 Windows 系统的安装、调整、故障排除和更新过程。<br />它通过提供一套自动化的脚本和工具，帮助用户减少手动操作，<br />提高系统效率和稳定性。这个工具集包括安装程序、系统调整、<br />故障排除和更新管理等功能模块，支持自定义配置，以满足不同用户的需求。 |
+| Git:[FluentTerminal](https://github.com/felixse/FluentTerminal) | [GPL-3.0 license](https://github.com/felixse/FluentTerminal#GPL-3.0-1-ov-file) | FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的<br />现代化 Windows 终端应用，旨在为用户提供高度可定制、<br />功能丰富的终端体验。通过其强大的自定义主题模块，<br />用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、<br />内置 SSH 和 Mosh 连接支持。 |
 | Git:[mind-map](https://github.com/wanglin2/mind-map)         | [MIT license](https://github.com/wanglin2/mind-map#MIT-1-ov-file) | SimpleMindMap 是一个旨在提升个人及团队协作效率的思维导图工具。<br />通过直观的界面设计与强大的功能集合，它能够帮助用户轻松创建、<br />管理和分享复杂的思维结构，无论是项目规划、知识整理还是创意激发，<br />Mind Map 都能成为您不可或缺的智力助手。 |
+| [DeepWiki AI documentation you can talk to, for every repo](https://deepwiki.com/) |                                                              | DeepWiki 是由 Cognition Labs 公司推出的一款专为开发者打造的<br />免费的 AI 驱动 GitHub 源码阅读与分析神器。它结合了最前沿的人工智能技术，<br />旨在帮助开发者更高效地阅读、理解和分析 GitHub 上的源码，<br />从而加速开发进程，提升代码质量（无需注册即可使用）。 |
+| Git:[gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | [MIT license](https://github.com/ahmedkhaleel2004/gitdiagram#MIT-1-ov-file) |                                                              |
+| Git:[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | [GPL-3.0 license](https://github.com/huiyadanli/RevokeMsgPatcher#GPL-3.0-1-ov-file) | RevokeMsgPatcher 是一款基于 .NET 开源、<br />免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁<br />（我已经看到了，撤回也没用了），通用的微信多开工具，<br />支持最新版微信/QQ/TIM。 |
 
 #### 相关参考
 
 - **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
+- [一款基于 .NET 开源、免费、功能强大的 Windows 系统优化工具【SophiApp】](https://mp.weixin.qq.com/s/zNJqynL9idNFQWo-OsZBtw)
 - [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
 - [摆脱低效复制粘贴，使用 Ditto 提高效率！！【Ditto】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=3&sn=eccc49bdb632904825a8487c40a97676&chksm=9639d31dcf59aeaf90640d14ece2ba15e293461c72fd0a61a7ebb5dcd915b4f9d7a8a3fba875&scene=126&sessionid=1729426307#rd)
 - [一个 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
@@ -1168,6 +1236,7 @@
 - [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
 - [一款开源免费、功能齐全的 macOS 离线开发者工具箱，已集成超过 100 多种实用功能！【DevHub】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509132&idx=2&sn=2269cf116896ebe8525eeffeddf2f3d8&chksm=9604039e6635272bd4bc325b071489477980a0d66ec55e2c0ca8bc282878357d9a8172e45e68&scene=126&sessionid=1736679948#rd)
 - [一个 .NET 开源、免费、功能强大的Windows应用卸载神器【Bulk Crap Uninstaller】](https://mp.weixin.qq.com/s/jZCDMcjnpj-_N52jxHgxKw)
+- [一款 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了）！！【RevokeMsgPatcher】](https://mp.weixin.qq.com/s/a6ZtLbm4Ybj9HIf2fIk2VQ)
 - **快速启动**
   - [斩获 48K 星！让你 Windows 起飞【Wox】【TranslucentTB】【Seelen-UI】](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247522727&idx=1&sn=a97cbc7965023ea08c998defe8bea8c9&chksm=f847c660df330f08500b8d2fb3fd1e3da43b3b5c303f8f38c5785db5ff8e7c83a9bea1714e3e&scene=126&sessionid=1742448569#rd)
   - [.NET开源免费的Windows快速文件搜索和应用程序启动器【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497839&idx=1&sn=6cd45d43b563cf6a52d9f905967fdb04&scene=21#wechat_redirect)
@@ -1180,11 +1249,15 @@
 - **Windows工具箱**
   - [C#开源免费的开发效率提升利器：DevToys开发人员的瑞士军刀！【DevToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496113&idx=1&sn=73289a58f2ffca29f6fc55318f4f3f73&scene=21#wechat_redirect)
   - [一个强大且灵活的 Windows 系统管理工具，开源免费！【Winutil】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=2&sn=a4c89f9ef6ec6f2d187cdab948916f2a&chksm=961c13dbd9100350ed27c4ee1e0272725f571026f3b1664cb157c9c0c84669e76173b6913bf1&scene=126&sessionid=1743123644#rd)
+  - [FluentTerminal：一个基于 UWP 开发的现代化 Windows 终端应用【FluentTerminal】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513520&idx=1&sn=9a3edd350baf796fd9ef08eba26ff6bd&chksm=96bd6f0918d9691a441a828fa6ff7aa236b083ced6aae6b0fcedf6b2c6573f1cf770398d5c30&scene=126&sessionid=1746879575#rd)
 - **文件搜索**
   - [5款高效的文件搜索工具，工作效率提升利器！【Everything】【Listary】【AnyTXT Searcher】【DocFetcher】【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511877&idx=2&sn=39a98aaaa7f5b960c053ae3d3144455d&chksm=96afc2cd2b668ef991b30c3a657ba501791539b89bf2c1e01db4e0d851ab2649222af069b86b&scene=126&sessionid=1743334820#rd)
   - [一款让 Everything 更加如虎添翼的 .NET 开源辅助工具！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512072&idx=1&sn=3b3eefffa51e0e472c5609f886675b47&chksm=961ee1a035b8e35cff98c9d6b4bbef1ed931b15207f24af0fc824324fe438b9522b19e7de378&scene=126&sessionid=1743819410#rd)
-- 思维导图
+- **思维导图**
   - [再见 XMind ！一个开源、免费的实用思维导图神器，效率翻倍！【SimpleMindMap】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513052&idx=3&sn=2a321944278aacf3ef63af0860770718&chksm=96d0c0fad6576351c68500af27ecbc5014e2c2c3e1c0c8d6810ffa7c0443f2dd87715a3ef507&scene=126&sessionid=1745665776#rd)
+- **项目分析与理解**
+  - [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表【gitdiagram】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513659&idx=1&sn=06f7d64a736800d752355803d0b8a858&chksm=969f940a54f194f9e36bebf3ebee47d0e06520d8df1e565ca51538682de7856c9cf2ffbf4a6d&scene=126&sessionid=1747273204#rd)
+  - [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513429&idx=1&sn=e7dbc637331f43af16b88a8349b6dc48&chksm=96a3ea659da6690c6a04d6be84943d4ca67b819950e9b3fa2381e2512360f784827f06d5af72&scene=126&sessionid=1746493627#rd)
 
 
 
@@ -1215,6 +1288,7 @@
 ### 相关参考
 
 - [一个功能强大且易于使用的.NET面部识别库，开源免费！【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=3&sn=cff8ab7335f5f3fae04b00bf114af51a&chksm=961b789144ffe6c81768246a46bea774bbdc15cb1024082b72856a81a8a759bead091a182db7&scene=126&sessionid=1727052024#rd)
+- [【开源力荐】一个 .NET 开源、免费、使用简单的人脸识别库【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s/s9m39IyrEOgzxMlCSUf_ZQ)
 - [C# OpenCvSharp 部署3D人脸重建3DDFA-V3【OpenCvSharp】](https://mp.weixin.qq.com/s/h8dKMN2sCAy-BwO7wK2BvA)
 - [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&scene=21#wechat_redirect)
 
@@ -1371,6 +1445,7 @@
 - [一款由 .NET 官方团队开源的电子商务系统 【eShop】](https://mp.weixin.qq.com/s/ufxiFkdNbW6UaufvlHE2FQ)
 - [.NET开源免费功能最全的商城项目【nopCommerce】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490121&idx=1&sn=491e788a03f4db3fd7831366a1d245b5&scene=21#wechat_redirect)
 - [基于.NET、Uni-App开发支持多平台的小程序商城系统【CoreShop】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247493310&idx=1&sn=9faaf85f599c3c087e8ae1b261e07f68&scene=21#wechat_redirect)
+- [一个基于 .NET 8.0 + Uni-App 开源的、支持可视化布局的小程序商城系统，前后端分离！【CoreShop】](https://mp.weixin.qq.com/s/UVQmkTUz_ue_pE7ngGOWvQ)
 - [分享4款.NET开源、免费、实用的商城系统【nopCommerce】【CoreShop】【eShop】【Module Shop】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510789&idx=2&sn=bff7bfa3dd91d21234ba9e88147cd648&chksm=96321d23fab50294e945d262a194938fc63e18eddc1f7538aefd819122b034e0f5a948fadff9&scene=126&sessionid=1740443913#rd)
 
 
@@ -1411,6 +1486,7 @@
 | **Git:[llcom](https://github.com/chenxuuu/llcom)**           | [Apache-2.0 license](https://github.com/chenxuuu/llcom#Apache-2.0-1-ov-file) | LLCOM是一个.NET开源、功能强大、高自由度的串口调试工具，<br />它允许用户运行Lua脚本来提前处理待发送的数据，<br />同时还集成了多种通信协议（如TCP、UDP、SSL、MQTT）的测试服务端/客户端功能，<br />以及串口监听、编码互转、乱码恢复等特色功能。 |
 | 升讯威在线客服与营销系统                                     |                                                              | [升讯威在线客服与营销系统 - 曹旭升（sheng.c）](https://kf.shengxunwei.com/) |
 | Gitee:[TouchSocket](https://gitee.com/RRQM_Home/TouchSocket) | Apache-2.0                                                   | TouchSocket是.Net(包括 C# 、VB.Net、F#)的一个整合性的网络通信框架。<br />包含了socket、 tcp、udp、ssl、namedPipe、http、websocket、<br />rpc、jsonrpc、webapi、xmlrpc、modbus等一系列的通信模块。<br />一键式解决 tcp 黏分包问题，使用协议模板，可快速实现「固定包头」、<br />「固定长度」、「区间字符」等一系列的数据报文解析。 |
+| Git:[WinsockPacketEditor](https://github.com/x-nas/WinsockPacketEditor) | [MIT license](https://github.com/x-nas/WinsockPacketEditor?tab=MIT-1-ov-file#MIT-1-ov-file) | WinsockPacketEditor（WPE x64）一款基于 .NET 开源（MIT license）、<br />拦截并修改 WinSock 封包的 Windows 软件，自适应支持 32 位及 64 位的目标程序，<br />软件支持 SOCKS 代理和进程注入两种模式，并且具有高级滤镜和自动化机器人等功能，<br />开发中使用了 C# 的多线程和消息队列技术，测试拦截了 100 万+的封包不会卡死或退出。 |
 | **Modbus相关**                                               |                                                              |                                                              |
 | Git:[NModbus4](https://github.com/NModbus4/NModbus4)         | [MIT license](https://github.com/NModbus4/NModbus4#MIT-1-ov-file) | NModbus4是一个用于.NET平台的开源Modbus库。                   |
 
@@ -1431,7 +1507,8 @@
 - **Socket**
   - [TcpClient 类 (System.Net.Sockets) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.net.sockets.tcpclient?view=netframework-4.5)
   - [说明 | TouchSocket](https://touchsocket.net/docs/current/)
-
+  - [一款基于 .NET 开源、可以拦截并修改 WinSock 封包的 Windows 软件【WinsockPacketEditor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513710&idx=1&sn=997e1ca0ae5cede585a194d494a7daba&chksm=96d9d28cde2303682e52e752a9f59c250ae75c56163ef3c1c43b013bbb62d467735781069c4a&scene=126&sessionid=1747576822#rd)
+  
 - **Modbus**
   - [从0到1：工业通信的秘密武器 - NModbus4全解析【NModbus4】](https://mp.weixin.qq.com/s?__biz=MzUxMjI3OTQzMQ==&mid=2247494853&idx=1&sn=0e7132676c913a630b7ae1344e777be8&chksm=f9647a2dce13f33b527f65ea7f76db8abae73b7b3c1ba1a379121c9799ceafd030f906bc5ef7#rd)
 
@@ -1453,12 +1530,13 @@
 
 ### 相关参考
 
-1. [精选6款.NET开源图表库：免费、高效且功能强大！](https://mp.weixin.qq.com/s/nohV4mO1rmkFkK1HglXzvg)
-1. **[LiveCharts2：一个.NET开源、美观、功能强大的.NET图表库【LiveCharts2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=2&sn=ae85d302de7455cfacfb3d02b4626df8&chksm=967c22f1fa95b9356205d80d435824c2aa04a65cc920c51d954f7f5116e83497fef2005682bf&scene=126&sessionid=1721867131#rd)**
-1. [推荐7款.NET开源且功能强大图表库，效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/V1pewGJmnygq8ig2Zo_cVQ)
-1. [ScottPlot：一个开源且免费的 .NET 绘图库 【ScottPlot】](https://mp.weixin.qq.com/s/G8DeUNu0mw9_HXQXdw80-Q)
-1. [2025年全面的 .NET 图表构建解决方案【ScottPlot】【OxyPlot】【LiveCharts2】【XCharts】【ReoGrid】【Blazor-ApexCharts】【BlazorChartjs】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=1&sn=236dc9889a61fce59bfce5c1d2b90773&chksm=96d2499a09a373e70485b427d840a0f522b3d98c55d4e447680efab44c27b00ea88acb495ec9&scene=126&sessionid=1736991133#rd)
-1. **[一个使用WPF开发的画板工具（包含流程图FlowChart，思维导图MindEditor）【AIStudio.Wpf.Diagram】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=3&sn=24dd5a0900768a64a4e0c2a7e907c2e8&chksm=96ab239be0b8e19c69f246b2d12f98f45fc54fc306edb12cf3d9477685355689ee40a5cb4d83&scene=126&sessionid=1722213176#rd)**
+- [精选6款.NET开源图表库：免费、高效且功能强大！](https://mp.weixin.qq.com/s/nohV4mO1rmkFkK1HglXzvg)
+- **[LiveCharts2：一个.NET开源、美观、功能强大的.NET图表库【LiveCharts2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=2&sn=ae85d302de7455cfacfb3d02b4626df8&chksm=967c22f1fa95b9356205d80d435824c2aa04a65cc920c51d954f7f5116e83497fef2005682bf&scene=126&sessionid=1721867131#rd)**
+- [推荐7款.NET开源且功能强大图表库，效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/V1pewGJmnygq8ig2Zo_cVQ)
+- [ScottPlot：一个开源且免费的 .NET 绘图库 【ScottPlot】](https://mp.weixin.qq.com/s/G8DeUNu0mw9_HXQXdw80-Q)
+- [2025年全面的 .NET 图表构建解决方案【ScottPlot】【OxyPlot】【LiveCharts2】【XCharts】【ReoGrid】【Blazor-ApexCharts】【BlazorChartjs】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=1&sn=236dc9889a61fce59bfce5c1d2b90773&chksm=96d2499a09a373e70485b427d840a0f522b3d98c55d4e447680efab44c27b00ea88acb495ec9&scene=126&sessionid=1736991133#rd)
+- **[一个使用WPF开发的画板工具（包含流程图FlowChart，思维导图MindEditor）【AIStudio.Wpf.Diagram】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=3&sn=24dd5a0900768a64a4e0c2a7e907c2e8&chksm=96ab239be0b8e19c69f246b2d12f98f45fc54fc306edb12cf3d9477685355689ee40a5cb4d83&scene=126&sessionid=1722213176#rd)**
+- [一个使用 WPF 开发的 Diagram 画板工具（包含流程图FlowChart，思维导图MindEditor）【AIStudio.Wpf.Diagram】](https://mp.weixin.qq.com/s/dAyNl_8vuKD1-qVvUY044g)
 
 
 
@@ -1481,7 +1559,10 @@
 | **Git:[facefusion](https://github.com/facefusion/facefusion)** | MIT                                                          | FaceFusion是一款开源、免费、功能强大的AI换脸和增强工具，<br />它集成了最新的深度学习技术，专注于为用户提供高质量的图像和视频处理功能。<br />通过FaceFusion，用户可以轻松实现人脸替换、人脸增强、唇形同步等多种操作，<br />满足个人创作、娱乐、广告、教育等多个领域的需求。 |
 | Git:[VulkanSamples](https://github.com/qian-o/VulkanSamples) |                                                              | 在学习 Vulkan 的过程中，我主要参考 veldrid，它是一个基于 .NET <br />的跨平台图形库，支持 OpenGL、Vulkan、Direct3D 11 等图形 API。<br />该项目光线追踪部分的封装参考的 Evergine, 它有着非常全面的图形接口抽象，<br />其结构与 veldrid 十分相似，目前该平台对个人免费，大家如有兴趣可以尝试。 |
 | Git:[cv_resnet18_card_correction-opencv-dnn](https://github.com/hpc203/cv_resnet18_card_correction-opencv-dnn) |                                                              | 使用opencv部署读光-票证检测矫正模型，<br />包含C++和Python两个版本的程序，只依赖opencv库就能运行 |
+|                                                              |                                                              |                                                              |
 | Git:[Plotly.NET](https://github.com/plotly/Plotly.NET)       | [MIT license](https://github.com/plotly/Plotly.NET?tab=readme-ov-file#MIT-1-ov-file) | Plotly.NET 一个为 .NET 打造的强大、免费、开源的交互式图表库，<br />支持 C# 和 F#编程语言，它构建在 plotly.js 之上并提供多个 API 层，<br />用于创建、样式化和渲染美观的数据可视化图表。 |
+| [IOPaint](https://github.com/Sanster/IOPaint)                | [Apache-2.0 license](https://github.com/Sanster/IOPaint#Apache-2.0-1-ov-file) | IOPaint 是一款由AI驱动的图像修复、去水印神器，完全免费且开源，<br />支持在CPU、GPU及Apple Silicon上运行。其强大的功能和高效的性能，<br />使得该项目在GitHub上斩获了高达21k的star。<br />IOPaint 提供了一个便捷的Web UI，用户可以通过最新的AI模型轻松编辑图像。 |
+| Git:[sharp-ico](https://github.com/star-plan/sharp-ico)      | [MIT license](https://github.com/star-plan/sharp-ico#MIT-1-ov-file) | SharpIco 是一个纯 C# 实现的轻量级图标生成工具，<br />可将一张高分辨率 PNG 图片一键生成标准的 Windows .ico 图标文件，<br />内含多种尺寸（16x16 到 256x256）。内置图标结构分析功能，<br />轻松验证 .ico 文件中包含的图层与尺寸。 |
 
 ### 相关参考
 
@@ -1503,16 +1584,16 @@
    - [Home | Vulkan | Cross platform 3D Graphics](https://www.vulkan.org/)
    - [.NET 9.0 使用 Vulkan API 编写跨平台图形应用 - o王先生o - 博客园](https://www.cnblogs.com/xymfblogs/p/18664113)
 - [Plotly.NET 一个为 .NET 打造的强大开源交互式图表库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510701&idx=1&sn=27c35ec2d75142f60d3135d6e15ec653&chksm=96964eb6964ecb1f589e5039ea1dc73bcd0c9b8404fc9cf9db6d026d7737c7a2d7ddb05f4877&scene=126&sessionid=1740099959#rd)
-
    - [Plotly.NET | Plotly.NET](https://plotly.net/)
    - [Plotly c# graphing library in Csharp](https://plotly.com/csharp/)
 - **图像处理**
    - [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）【OpenCvSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&chksm=968d680b30460591cc5419e03f964c27a1ec56387009327fe4020bf883bf279ed65f74c9b9de&scene=126&sessionid=1739148312#rd)
+   - [一款开源、免费、AI驱动的图像修复、去水印神器，好用到爆！【IOPaint】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513546&idx=2&sn=d34fd4c44a81f67808c394917280ce17&chksm=96eaa35bc0ec3ecfecd4afb1c5a0250221ce788d42503fe911fcfd0eec89cf3bfc166df91c2d&scene=126&sessionid=1747012388#rd)
 - **绘图**
 
    - [推荐5款程序员必备的画图工具，效率提升利器！【ProcessOn】【Excalidaw】【Draw.io】【XMind】【VisionOn】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507674&idx=1&sn=8600e8e1476d65e5afd2957871786e70&chksm=96ff67dfc6af3a5017b09ba575b7f544831a4ea001378be65af83591a7a76e4cf4661a6d3b21&scene=126&sessionid=1732495973#rd)
    - [一款开源免费、离线、安全的全能流程图绘制神器【draw.io】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=2&sn=8c9d0936d41455a44c4040db2ca0f3bb&chksm=96f1f453fd00957c8e6b4dc7ba605b2fc6345b61c5287c7806eed7104c99b7f9d6351c227965&scene=126&sessionid=1742433141#rd)
-
+- [SharpIco：用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译【SharpIco】](https://mp.weixin.qq.com/s/Nik2RZ_1pnKctvsvu4nMGQ)
 
 
 
@@ -1549,6 +1630,20 @@
 
 
 
+## T. 投资决策
+
+| 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | [MIT license](https://github.com/virattt/ai-hedge-fund#MIT-1-ov-file) | AI Hedge Fund 是一个基于 AI 技术的对冲基金概念验证项目。<br />该项目旨在探索利用 AI 进行交易决策的可能性，并通过模拟交易来验证其效果。 |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+### 相关参考
+
+- [一款开源、免费、功能强大的 AI 股票投资神器，赋能精准投资决策！【ai-hedge-fund】](https://mp.weixin.qq.com/s/uHTVI_joJQKqnn20whEQVA)
+
+
+
 ## U. UniApp
 
 | 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
@@ -1572,7 +1667,7 @@
 
 本节收入UI框架相关项目信息。
 
-### WPF
+### WPF UI框架
 
 | 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -1593,6 +1688,7 @@
 
 - **[一个开源、免费、强大且美观的WPF控件库 【HandyControl】](https://mp.weixin.qq.com/s/Z-liTdNSDWQUaiRqvljtkw)**
 - [一套开源、强大且美观的WPF UI控件库【HandyControl】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247493994&idx=1&sn=afaa764eb31c01fc9260673c869cc5e6&scene=21#wechat_redirect)
+- [一套开源、免费、高颜值的 WPF 控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件！【HandyControl】](https://mp.weixin.qq.com/s/ii8bxSXwIMoCTdwftbdq8g)
 - **[一款免费通用的WPF主题和控件库【Rubyer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503331&idx=2&sn=23825dd18deb27d5e6e227b3750bb263&chksm=96ca92e0aff149efaf1bdafeb1b3ce9361f3ce71d1af62f0a53b9af84a997e7a72d618d5c9de&scene=126&sessionid=1721781073#rd)**
 - **[一款基于Fluent设计风格、现代化的WPF UI控件库【wpfui】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503534&idx=2&sn=30e9087ac8cc34000187f5413f9a36e7&chksm=96e6a9480ff3f66c5d99b9270c0544ac58c7f8a0bd74c212d794a19d753cca5dfdc88e0e228c&scene=126&sessionid=1722302129#rd)**
 - **[基于Material Design风格开源、易用、强大的WPF UI控件库【MaterialDesignInXamlToolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498671&idx=1&sn=3034c3c23ebeb60f83fea60891ba021f&scene=21#wechat_redirect)**
@@ -1606,6 +1702,79 @@
 - [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
 - [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
 - [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！【Extended.Wpf.Toolkit/wpftoolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513068&idx=1&sn=94738b51ec27db2454c8d1caa30d5050&chksm=9628dc98fb01a0157e96b0a14d9e858e9a8ff84463caf780a52532eee2fcf74597599b44145a&scene=126&sessionid=1745715139#rd)
+
+
+
+
+
+### WPF 应用程序的框架
+
+| 项目名称                                                     | 使用的协议   | 项目介绍/说明                                                |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| **[通用Scada上位机框架_WPF上位机](https://gitee.com/unbengable/my-wpf)** | MulanPSL-2.0 | Cheems上位机框架是一个基于WPF（Windows Presentation Foundation）<br />技术构建的开源、通用上位机程序框架，旨在提供一个高效、可扩展、<br />易于维护的开发平台，用于快速构建各类工业自动化、<br />设备监控、数据采集与分析等上位机应用。 |
+|                                                              |              |                                                              |
+|                                                              |              |                                                              |
+
+#### 相关参考
+
+- [一个基于 WPF 开源、美观的通用上位机程序框架【my-wpf】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513429&idx=2&sn=62a1f2dbd098f019cb88ede1fc2863c0&chksm=963ff15bb67b818cfde31029dbb539fb719275fa817392c5205af9cf473bd01e3079e34ba124&scene=126&sessionid=1746493627#rd)
+
+
+
+## WinForm UI框架
+
+| 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [**木兰控件库**](https://gitee.com/tlmbem/hml-develop)       | 未声明开源许可证                                             |                                                              |
+| **[ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)**    | [MIT license](https://github.com/Taiizor/ReaLTaiizor#MIT-1-ov-file) | [介绍文档](https://mp.weixin.qq.com/s/M7gK2krkZ_PoTiRRR_7nDw) |
+| **[MaterialSkin.2](https://github.com/PixelKiwi/MaterialSkin)** | [MIT license](https://github.com/PixelKiwi/MaterialSkin#MIT-1-ov-file) | [MaterialSkin.2](https://www.cnblogs.com/kanoakliu/p/17512479.html) |
+| **[DarkUI](https://github.com/RobinPerris/DarkUI)**          | [MIT license](https://github.com/RobinPerris/DarkUI#MIT-1-ov-file) |                                                              |
+| [**MaterialSkin**](https://github.com/IgnaceMaes/MaterialSkin) | [MIT license](https://github.com/IgnaceMaes/MaterialSkin#MIT-1-ov-file) |                                                              |
+| **[Krypton](https://github.com/ComponentFactory/Krypton)**   | [BSD-3-Clause license](https://github.com/ComponentFactory/Krypton#BSD-3-Clause-1-ov-file) | 运行 Krypton Explorer 项目                                   |
+| **[CPF](https://gitee.com/csharpui/CPF)**                    | Apache-2.0                                                   | [CPF使用文档](http://cpf.cskin.net/Course/#/)                |
+| **[AntdUI](https://gitee.com/antdui/AntdUI)**                | Apache-2.0                                                   | [介绍文档](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497234&idx=1&sn=9a8c9024c5af339102f19bc71a4a4e32&scene=21#wechat_redirect) |
+| [**SunnyUI**](https://github.com/yhuse/SunnyUI)              | [GPL-3.0 license](https://github.com/yhuse/SunnyUI#GPL-3.0-1-ov-file) | [WiKi](https://gitee.com/yhuse/SunnyUI/wikis/pages)          |
+| **[HZHControls](https://gitee.com/kwwwvagaa/net_winform_custom_control)** | MPL-2.0                                                      | [对触屏具有更好的操作支持](http://www.hzhcontrols.com/)      |
+| [**ApeForms**](https://www.cnblogs.com/landriesnidis/p/16317260.html) |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+### 相关参考
+
+- [**WinForm UI库**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#winform-ui%E5%BA%93)
+- [**ReaLTaiizor项目介绍**](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247494908&idx=1&sn=dfa3d6a2eec6c1aa4c9f89efd000c7be&scene=21#wechat_redirect)
+- **[一个全面、强大、免费的 .NET WinForms 控件库【ReaLTaiizor】](https://mp.weixin.qq.com/s?__biz=MzU2MDY4ODkyNg==&mid=2247484236&idx=1&sn=c574fcc2ae7ab29f6d21e487adf4b573&scene=21#wechat_redirect)**
+- [**AntdUI项目介绍**](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497234&idx=1&sn=9a8c9024c5af339102f19bc71a4a4e32&scene=21#wechat_redirect)
+- **[一款基于 Ant Design 设计语言的 Winform 界面库 【AntdUI】](https://mp.weixin.qq.com/s?__biz=MzU2MDY4ODkyNg==&mid=2247484610&idx=1&sn=ca18cf3ad5c873ffeb97b010cd224a5f&scene=21#wechat_redirect)**
+- [**推荐2款开源、美观的WinForm UI控件库**](https://www.cnblogs.com/Can-daydayup/p/18211642)
+- [基于Material Design风格开源、免费的WinForms UI控件库【MaterialSkin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506621&idx=1&sn=94baf8f9a53644f3fd79ba90ff0dcf93&chksm=96613c6b8c9f601a88a456266ae88ee11d91d7d9eef6528c1309594c572f446b61762dc92256&scene=126&sessionid=1730163511#rd)
+- [**Winform 开源控件库 MaterialSkin.2 使用教程（鸿蒙字体版）**](https://www.cnblogs.com/PixelKiwi/p/17897133.html)
+- [**Winform 好看控件库推荐：MaterialSkin.2**](https://www.cnblogs.com/kanoakliu/p/17512479.html)
+- [**CPF C#跨平台UI框架开源了**](https://www.cnblogs.com/dskin/p/17849896.html)
+- [**ApeForms系列① 快速上手**](https://www.cnblogs.com/landriesnidis/p/16317260.html)
+- **[精选3款开源、实用且美观的WinForm UI控件库 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504375&idx=2&sn=f9890547a33fb38e4febb7da057ad441&chksm=96e5733a997f06a4f992ae3715cff66c9863a14360c717c4496172e180397b789f195015d12e&scene=126&sessionid=1724562956#rd)**
+- [精选4款开源WinForms UI控件库，实用美观！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=3&sn=b3e20687ffe4afb47ad74fd693cbf223&chksm=96445c9adaf8265c87f10ad30d7dddf86a503f06c90866583b4dbc774703a9a006bd5ce170c0&scene=126&sessionid=1730641491#rd)
+- [推荐3款开源、美观且免费的WinForm UI控件库【AntdUI】【ReaLTaiizor】【MaterialSkin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507377&idx=1&sn=7c905ab6e9a33829391092b376183de6&chksm=96e094a3cc8c446844fdec84a97539c40204e1f475df79d214cd5eed90b2dfcf70badc1ce7bc&scene=126&sessionid=1731890970#rd)
+- [【开源力荐】一款基于 Ant Design 风格开源、免费、现代化的 WinForm UI 界面库，全面支持AOT！【AntdUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513668&idx=2&sn=5edc1af45c12a3e4766ea1d7078bbcfb&chksm=9655d0b88e0a33295bd048fb0f869a91d61535ac67f0b30f32c404ff53a212a2c76b63653fac&scene=126&sessionid=1747493051#rd)
+
+
+
+### WinForm 应用程序的框架
+
+| 项目名称                                                     | 使用的协议                                                   | 项目介绍/说明 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+| [WinFormium 项目（曾用名：NanUI）](https://gitee.com/dotnetchina/NanUI)<br />[GitHub](https://github.com/XuanchenLin/NanUI) | [MIT license](https://github.com/XuanchenLin/NanUI/?tab=readme-ov-file#MIT-1-ov-file) | 混合框架      |
+|                                                              |                                                              |               |
+
+#### 相关参考
+
+- 
+
+
+
+## WinForm 自定义控件
+
+- [C# WinForms 仿Toast弹出实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=4&sn=3681a43fe3560c31e0229580b514b4e4&chksm=9657e06e801c76e4471c76d2e13bca24258f079a86e8729c99f4faf05a7ad24fd1c94809acdb&scene=126&sessionid=1729426307#rd)
 
 
 
@@ -1687,6 +1856,20 @@
 
 
 
+## W. Web应用程序
+
+| 项目名称                                           | 使用的协议                                                   | 项目功能/介绍                                                |
+| -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[superset](https://github.com/apache/superset) | [Apache-2.0 license](https://github.com/apache/superset#Apache-2.0-1-ov-file) | Superset 是一个现代、企业级就绪的商业智能（BI）Web 应用程序。<br />它作为一个开源项目，在 Github 上拥有高达 66K 的 star，<br />广泛受到开发者和数据科学家的青睐。Superset 提供了一个无代码界面，<br />用于快速构建图表，同时配备了强大的基于 Web 的 SQL 编辑器，支持高级查询。<br />其轻量级的语义层使得自定义维度和指标的定义变得迅速而简单。 |
+|                                                    |                                                              |                                                              |
+|                                                    |                                                              |                                                              |
+
+### 相关参考
+
+- [一个开源、免费、功能丰富的企业级 BI 平台，助力快速构建图表！【Superset】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513529&idx=2&sn=1a7aa257b27954a61f5a81942787fa6f&chksm=96cef75027f3a958f9dac7adb5f222e33b26d0bb80e2d4475642e2a43ee1e7446a76cf9c03ab&scene=126&sessionid=1746751404#rd)
+
+
+
 ## W. 文件处理
 
 | 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                                                |
@@ -1739,6 +1922,7 @@
 | **Git:[clipify](https://github.com/Deali-Axy/clipify)**      | [GPL-3.0 license](https://github.com/Deali-Axy/clipify#GPL-3.0-1-ov-file) | 基于 Blazor Hybrid 技术开发的简单流畅的视频编辑工具，<br />专为提供快速、轻松的视频剪辑体验而设计。 |
 | **Gitee:[AKStream](https://gitee.com/chatop2020/AKStream)**  | MIT                                                          | AKStream是一个基于C#开发的一套全功能的流媒体管理控制接口平台，<br />集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、<br />音视频文件录制管理、音视频文件裁剪合并等功能。 |
 | **Git:[Bili.Copilot](https://github.com/Richasy/Bili.Copilot)** | [GPL-3.0 license](https://github.com/Richasy/Bili.Copilot/tree/master#GPL-3.0-1-ov-file) | Bili.Copilot是B站第三方 Windows 桌面客户端，专为Windows 11用户设计。<br />该项目基于Windows App SDK进行了重构，旨在以更开放的态度进行开发，<br />并借助社区的力量，共同构建一个有趣且高质量的用户生成内容（UGC）客户端。 |
+| Git:[downkyi](https://github.com/leiurayer/downkyi)          | [GPL-3.0 license](https://github.com/leiurayer/downkyi#GPL-3.0-1-ov-file) | downkyi（哔哩下载姬）是一款基于 .NET 开源、<br />简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，<br />流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，<br />并输出mp4格式的文件。采用Aria下载器多线程下载，<br />采用FFmpeg对视频进行混流、提取音视频等操作。 |
 | **Gitee:[WPF版本视频播放器](https://gitee.com/ahsiang/wpf-media)** | MIT                                                          | 基于WPF开发视频播放器                                        |
 | Git:[NAudio](https://github.com/naudio/NAudio)               | [MIT license](https://github.com/naudio/NAudio#MIT-1-ov-file) | NAudio 是一个开源的 .NET 音频库，由 Mark Heath 开发，<br />开源地址：https://github.com/naudio/NAudio 支持多种音频操作，可实现多种API播放与录制、<br />多种不同音频格式、音频格式转换（重采样、位深、声道等）、音频编码、多通道播放、<br />音频效果处理等等。 |
 
@@ -1753,6 +1937,7 @@
 - [基于C#开发的一套全功能的流媒体管理控制接口平台 【AKStream】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=2&sn=8a339ee27984cd6c92691e43414775b7&chksm=96e19091168573cb077333973c1a48a78a070df97d439b891c0013cd5d3c60347da30bb5f1fc&scene=126&sessionid=1729213064#rd)
 - [基于 .NET 开发的多功能流媒体管理控制平台【AKStream】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507946&idx=1&sn=8ee209a6ee7dd73c4798c44d3a64b50b&chksm=96aaf46405b09189abf4e960287e2d5e8cf8c062cefd804c59d03fd016a84d3caa07dc829b0b&scene=126&sessionid=1733186985#rd)
 - [B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用【Bili.Copilot】](https://mp.weixin.qq.com/s/DJBp4ytV8wvshgTCsdwyFg)
+- [一款基于 .NET 开源的多功能的 B 站视频下载工具【downkyi】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513371&idx=1&sn=e8752322eb6f6b2e38e73a7c68b70a52&chksm=9670fc12d8e2af32c743c3cf677cc37d843f0ec45a7a28ecd9acef71465e027ac34d18840e7e&scene=126&sessionid=1746578976#rd)
 - [基于WPF开发视频播放器【wpf-media】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507916&idx=2&sn=3e62baf4487f2d488923f3355b26eb14&chksm=96b10d4a538dcb5f5aef591fcf4e8892bcc40ab6b95687ae348328db5c42568003b80d816faf&scene=126&sessionid=1733100642#rd)
 - [C# Winform 通过 NAudio 获取控制电脑操作系统音量 - VipSoft - 博客园【NAudio】](https://www.cnblogs.com/vipsoft/p/18674944)
 
@@ -1815,20 +2000,9 @@
 
 
 
-## Y. 应用程序监控
-
-| 项目名称                                       | 使用的协议                                                   | 项目功能/介绍                                                |
-| ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [WatchDog](https://github.com/IzyPro/WatchDog) | [MIT license](https://github.com/IzyPro/WatchDog#MIT-1-ov-file) | WatchDog是一个开源（MIT License）、免费、针对ASP.Net Core Web应用程序<br />和API的实时应用监控系统。开发者可以实时记录和查看他们的应用程序中的消息、事件、<br />HTTP请求和响应，以及运行时捕获的异常。 |
-|                                                |                                                              |                                                              |
-
-- [一个.NET开源且功能强大的实时应用监控系统 - WatchDog](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=2&sn=610d4b9fe6570ffc298f524c1a09c84c&chksm=96bac78edb38ce503ccbfc528d0e2efbb05079c2c06106bd2ca62a7837313d57e4ed30ecb548&scene=126&sessionid=1731206998#rd)
-
-
-
 ## Z. 桌面工具
 
-| 项目名称                                                   | 使用的协议                                                   | 帮助文档                                                     |
+| 项目名称                                                   | 使用的协议                                                   | 项目功能/介绍                                                |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[GeekDesk](https://github.com/BookerLiu/GeekDesk)**  | Apache-2.0 license                                           | [中文文档](https://github.com/BookerLiu/GeekDesk/blob/master/README-zh.md)<br />GeekDesk（极客桌面）是一款C#构建的免费、小巧、美观、<br />高度自定义的桌面快速启动管理工具，集成了Everything搜索功能，<br />不仅能帮我们整理桌面，还能快速启动应用程序、管理文件夹。 |
 | Listary                                                    | 软件/工具                                                    | Listary作为一款功能强大、操作简便的Windows本地搜索与管理工具，<br />凭借其快速搜索、智能命令、网络搜索等核心功能以及丰富的个性化设置选项，<br />能够显著提升用户在文件查找和管理方面的效率。对于职场办公人员来说，<br />Listary是提高工作效率的必备工具之一。<br />[下载地址](https://www.listary.com/download) |
@@ -1846,11 +2020,11 @@
 
 ## Z. 指纹与人脸识别
 
-| 项目名称                                                  | 使用的协议      | 最新版本       | 帮助文档 |
-| --------------------------------------------------------- | --------------- | -------------- | -------- |
-| **Git:[3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)** | **MIT license** | 最后更新日期： |          |
-|                                                           |                 |                |          |
-|                                                           |                 |                |          |
+| 项目名称                                                  | 使用的协议      | 最新版本       | 项目功能/介绍 |
+| --------------------------------------------------------- | --------------- | -------------- | ------------- |
+| **Git:[3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)** | **MIT license** | 最后更新日期： |               |
+|                                                           |                 |                |               |
+|                                                           |                 |                |               |
 
 ### 相关参考
 
@@ -1866,3 +2040,14 @@
 
 
 
+## Z. 支付
+
+| 项目名称                                              | 使用的协议                                                   | 项目功能/介绍                                                |
+| ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[paylinks](https://github.com/essensoft/paylinks) | [MIT license](https://github.com/essensoft/paylinks#MIT-1-ov-file) | Paylinks 是一套基于现代 .NET 开发的，支持跨平台、多商户的第三方支付SDK。<br />该项目旨在简化开发者接入第三方支付平台的过程，特别是针对支付宝和微信支付，<br />便于快速集成支付功能。Paylinks 提供了丰富的配置选项和示例代码，<br />以帮助开发者更快地上手和使用。 |
+|                                                       |                                                              |                                                              |
+|                                                       |                                                              |                                                              |
+
+### 相关参考
+
+- [一套基于 .NET 开发，支持跨平台、多商户的第三方支付SDK，助力快速集成支付功能！【Paylinks】](https://mp.weixin.qq.com/s/kOSVpiKyXrYLH5GrKOLm1A)

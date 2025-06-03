@@ -69,18 +69,25 @@
 
      > .NET 团队于 2025 年 3 月 18 日发布了.NET 10 Preview 2，该版本在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
      
-
    - [.NET 10 Preview 3 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/)
-
-     > 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
-
-   - [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
-
    
-
+     > 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
+   
+   - [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
+   
+   - [.NET 10 Preview 4 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/)
+   
+   
+   
 - **C#14**
 
    - [C#14内置AI支持，让代码更智能](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=2&sn=c03905869fa7bf93169ceb788238a566&chksm=968b74f728416e860a825bbdae1262cfca2143c75ab6f645b12e3ef3dbf3cbf3f76e851ef42f&scene=126&sessionid=1742951008#rd)
+   
+   - [C# 14 新增功能一览，你觉得实用吗？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513442&idx=1&sn=dd58e9c6a74c50d4846ad546f2976557&chksm=9676f988f0dac75335b06f69391675c5f9960349ca87a8c657cce10a231e0333531586ac9731&scene=126&sessionid=1746493627#rd)
+   
+   - [C# 14 - Exploring extension members - .NET Blog](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/)
+   
+     > C# 14 引入了扩展成员。C# 长期以来就有了扩展方法，新的扩展成员语法则在此基础上构建了这个熟悉的特性。最新的预览版增加了静态扩展方法和实例及静态扩展属性。我们未来将发布更多种类的成员。
 
 
 
@@ -89,3 +96,10 @@
 ## .NET Aspire
 
 - [入门 .NET Aspire: 使用 .NET 简化云原生应用开发 - 冠军 - 博客园](https://www.cnblogs.com/haogj/p/18112437)
+
+
+
+## .NET 和.NET Framework 服务更新
+
+- **2025年更新**
+  - [.NET and .NET Framework May 2025 servicing releases updates - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2025-servicing-updates/)

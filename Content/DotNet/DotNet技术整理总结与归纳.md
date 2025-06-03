@@ -42,10 +42,18 @@
 - [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
 - **StarBlog**
   - [基于.NetCore开发 StarBlog 番外篇 (1) 全新的访问统计功能，异步队列，分库存储 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18731660)
-
 - **中间件**
   - [在 ASP.NET Core 中创建中间件的 4 种方式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=1&sn=0d392060580de92b75e59487ffb9bc7e&chksm=96807d03c28a19a42f62ac100fda1872845dc5247cec235b4e9a5a3662b31d74d05ee7f6b5a8&scene=126&sessionid=1742951008#rd)
   - [ASP.NET Core 中的速率限制中间件的使用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=2&sn=a9d7828a444f8b9c7006089043fe422e&chksm=96eaf02cbd9142560d75a45acfc2c58c71d2a1322d45049ecb2b44eee7baf01050ebb968c809&scene=126&sessionid=1736604622#rd)
+- **下载与上传**
+  - [AspNetCore中的文件上传与下载优化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=3&sn=a4a5e2573999609c93a282e3902697ea&chksm=961267cc3504ee5a38726f13c148ac3c05889af26111f2a9f879192ba7488c5757d21e3af000&scene=126&sessionid=1747097371#rd)
+
+- 微服务
+
+  - [用 Sidecar 容器为 .NET Core 应用做诊断和性能分析 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18886607)
+
+    > 用 Sidecar 容器为 .NET Core 应用做诊断和性能分析。
+
 
 
 
@@ -66,6 +74,12 @@
 - [C#深度学习：如何使用C#实现ResNet算法的训练和推理](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=3&sn=003b7271953b9a387229eb6341a29ef3&chksm=96193f3f03169dadb8f693283d7ff8c2e6f7ca2b07c2ec206a3d68c14394d65ca25512e6ca2a&scene=126&sessionid=1729559254#rd)
 
 - [使用Microsoft.Extensions.AI简化.NET中的AI集成](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507305&idx=1&sn=d4d7a11a9a310f195beb445a18c7637c&chksm=96c25d9e38701da2295f38de7ab28db742d09c1591a365d5438bee3cad6d998419fe961bbd3e&scene=126&sessionid=1731890970#rd)
+
+- [Evaluating content safety in your .NET AI applications - .NET Blog](https://devblogs.microsoft.com/dotnet/evaluating-ai-content-safety/)
+
+  > 我们很高兴地宣布，Microsoft.Extensions.AI.Evaluation.Safety 包已添加到 Microsoft.Extensions.AI.Evaluation 库中！这个新包提供了评估器，帮助您检测 AI 生成内容中的有害或敏感内容——例如仇恨言论、暴力、版权材料、不安全代码等。这些安全评估器由 Azure AI Foundry 评估服务提供支持，并设计为可以无缝集成到您现有的工作流程中，无论您是在本地运行单元测试中的评估，还是在 CI/CD 管道中自动执行离线评估检查。
+
+- [.NET + AI | Semantic Kernel vs Microsoft.Extensions.AI - 「圣杰」 - 博客园](https://www.cnblogs.com/sheng-jie/p/18863626/semantic-kernel-vs-microsoft-extensions-ai)
 
 - [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
 
@@ -90,6 +104,9 @@
 - [Introducing the AI Dev Gallery: Your Gateway to Local AI Development with .NET - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-ai-dev-gallery-gateway-to-local-ai-development/)
 
   > AI Dev Gallery是一个 Windows 应用程序，它是一个使用.NET 进行 AI 开发的综合游乐场。它提供了您探索、实验和实现应用程序中 AI 功能所需的一切，而无需连接到云服务。
+
+
+- [使用C#构建一个同时问多个LLM并总结的小工具 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18866486)
 
 - **Ollama**
 
@@ -183,6 +200,8 @@
 
   - [AI与.NET技术实操系列（五）：向量存储与相似性搜索在 .NET 中的实现](https://mp.weixin.qq.com/s?__biz=MzkyMDcyMTE5NQ==&mid=2247484593&idx=1&sn=ebb7bf005dd089153f8847d46ebe7c8c&chksm=c0ae4290ab4b3a12f73a0432ec5062f8ae13dcb8d87f8c3c525c8c02004120e4001b57eb6c5a&poc_token=HMNu5mejeS4k7FoLPLOTNuUEueifqD2M8mCjC1Ri)
 
+  - [向量数据库](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMDcyMTE5NQ==&action=getalbum&album_id=3910189492887502849&scene=173&subscene=&sessionid=svr_ad01a313016&enterid=1747811866&from_msgid=2247486853&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+
   - [.NET 原生驾驭 AI 新基建实战系列（一）：向量数据库的应用与畅想](https://mp.weixin.qq.com/s?__biz=MzkyMDcyMTE5NQ==&mid=2247486387&idx=1&sn=11fd72121467154776fc11fa79346d71&chksm=c05fb5a25b2996dd8a64a84ba541986676295308a1ed6c685515401b3f99b900f88d7e9c8718#rd)
 
   - [.NET 原生驾驭 AI 新基建实战系列（一）：向量数据库的应用与畅想 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18784938)
@@ -195,10 +214,14 @@
 
   - [.NET 原生驾驭 AI 新基建实战系列（四）：Qdrant ── 实时高效的向量搜索利器 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18840212)
 
+  - [.NET 原生驾驭 AI 新基建实战系列（五）：Milvus ── 大规模 AI 应用的向量数据库首选 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18851097)
+
+  - [.NET 原生驾驭 AI 新基建实战系列（六）：Pinecone ── 托管向量数据库的向量数据库的云原生先锋 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18860998)
+
   - [在 .NET 中使用 Milvus 向量数据库 - .NET 博客 - 漫思 - 博客园](https://www.cnblogs.com/sexintercourse/p/18146242)
 
 - **智能体**
-  
+
   - [DeepSeek+Coze实战：10分钟快速打造一个“虚拟女友”智能体](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511831&idx=2&sn=ee411dc3b4d702a55ca946b31017652a&chksm=96c16792aa5fcc102d8b6de1e4316b441ff0e1a5476f8b91cb91e0a52b8c8dd7404e6159a873&scene=126&sessionid=1743251663#rd)
   - [打造DeepSeek最强外挂！一篇文章教会你搭建「个人知识库」（喂饭版）](https://mp.weixin.qq.com/s?__biz=MzU3OTc2OTA4OA==&mid=2247487052&idx=1&sn=403878435ef7291f8ee39e3fe99dcad4&chksm=fca988e59d4b924b6c3844ede4de0e9b3edc04823c348c31239781d3fbb30784704cd68fa46e#rd)
   - [利用ollama + RAGFlow部署千问大模型构建个人知识库AI智能体应用](https://mp.weixin.qq.com/s?__biz=MzAwMjY4NTUwNw==&mid=2247483916&idx=1&sn=7841fbe2037513c1c252b8dca33fec6b&chksm=9b95bca66564d9f0f6376c84ca6a0a69b24880a7eb473250ffa8ac6707815a33c9b67253296a#rd)
@@ -222,8 +245,10 @@
     - [GitHub:BotSharp](https://github.com/SciSharp/BotSharp)
     - [BotSharp开源应用框架——连接LLMs到您的.NET应用-CSDN博客](https://blog.csdn.net/pepure/article/details/144931163)
     - [Get Started — BotSharp 1.1.0 documentation](https://botsharp.readthedocs.io/en/latest/quick-start/get-started.html#get-started-with-pizza-bot)
-  
+
   - [斩获 3W 星！最近爆火的 MCP 一网打尽。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247523288&idx=1&sn=a6909090d2b728cb1c429973f36ac5e8&chksm=f8d2f037813277dd39bb8cb5bc91b80370947d2deb692a874e7302dd7dfef843bee57c3500a9&scene=126&sessionid=1744089396#rd)
+
+  - [如何把ASP.NET Core WebApi打造成Mcp Server](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513520&idx=2&sn=f81e208225c9849c2c674424c30e279e&chksm=9667cea97a397f023d6fdc183dce468df8df9fbfca0ee94bb08c0bcb247e6cfbcf8b0d752fb3&scene=126&sessionid=1746879575#rd)
 
 
 
@@ -236,6 +261,12 @@
 ## B. 并发迁移
 
 - [EntityFramework Core并发迁移解决方案 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=3&sn=9f6d974d52cf51600cd41fecda0e3d2d&chksm=968b84946255e140d2f3dea7d7c90f7364dbae537c37ff5beb8c448cbeb5dc09ad2d204b22fa&scene=126&sessionid=1727052024#rd)
+
+
+
+## B. 并行编程
+
+- [PLINQ vs LINQ：C#中的使用场景与性能洞察](https://mp.weixin.qq.com/s/JiJjzigo73LT96zpJ_xKSg)
 
 
 
@@ -335,6 +366,8 @@
 
 - [C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18844112)
 
+- [理解 C# 中的各类指针](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513668&idx=3&sn=5c22bd42bed9a5fe898c1febab80746e&chksm=962dc5f34aea2361700f57cb0d55175174f0b56629e1b2c384f5a3068a9803772a9327439aa5&scene=126&sessionid=1747493051#rd)
+
 - **关键字**
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
   - [C# 中比较实用的关键字，基础高频面试题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=1&sn=974ec95cb0f1b247b3ecdefefb98cafb&chksm=9622bb281f2819596c3c6a359f1e0d5e5514db2f4be74afff720cc9769f94715fcb0fa43ec00&scene=126&sessionid=1742433141#rd)
@@ -345,7 +378,7 @@
   - **as/is**
     - [C# as 和 is 运算符区别和用法](https://mp.weixin.qq.com/s/s880U7ea-N2Xl_3krgyjxA)
     - [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
-  
+
 - **值类型**
   - **值类型 ToString**
     - [Int32.ToString 方法 (System) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.int32.tostring?view=net-9.0#system-int32-tostring(system-string))
@@ -360,7 +393,7 @@
 - **Linq**
   - [C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=1&sn=beceb45fd88d4bea8ee12e15d57631ce&chksm=9635e76b13b7c94d85ba09304c2da95b7a4c3b4564ae5e885c1fbdcac63bf4f95ebb7b8e7054&scene=126&sessionid=1744331895#rd)
   - [C#中LINQ基础：101个常用LINQ操作](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513171&idx=2&sn=03d1f2ff59b46e7b53793a0fffd208bf&chksm=9600a2b413806c038768e810e237e110abeb0a48f0902ffcfc16711a43ab38ac2ad9cae60df5&scene=126&sessionid=1745974502#rd)
-  
+
 - **WinForms**
 
   - [.NET 阻止Windows关机以及阻止失败的一些原因 - 唐宋元明清2188 - 博客园](https://www.cnblogs.com/kybs0/p/18822799)
@@ -373,6 +406,11 @@
 
 - **跨平台（.NET Core&.NET 5及以上）**
   - [dotnet 9 通过 AppHostRelativeDotNet 指定自定义的运行时路径 - lindexi - 博客园](https://www.cnblogs.com/lindexi/p/18847625)
+
+- **线程/多线程**
+
+  - [C# 线程安全集合 Concurrent](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513473&idx=2&sn=19ee186ca47c34bea86e660d0e18e1aa&chksm=96f868e8dcfc79ac8778e48643d518a75485039b6208d31251f19a9aa20a9701ac8490b63c72&scene=126&sessionid=1746665735#rd)
+
 
 
 
@@ -458,6 +496,10 @@
 
   > 我们非常高兴地宣布，.NET AI Chat Web App 模板的第二个预览版现已推出！这次更新带来了令人兴奋的新功能，包括对.NET Aspire 的支持以及在使用.NET Aspire 时与 Qdrant 向量数据库的集成，这使得创建云原生 AI 聊天应用变得更加容易。我们的.NET AI 模板继续作为我们简化.NET AI 开发的持续努力的一部分，通过在 Visual Studio、Visual Studio Code 和.NET CLI 中提供脚手架和指导。
 
+- [.NET Aspire 9.3 is here and enhanced with GitHub Copilot! - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-93/)
+
+  > 今天，我们非常激动地宣布 .NET Aspire 9.3 的发布！这次更新带来了许多质量改进、集成增强和 API 更新。我们最兴奋的是将 GitHub Copilot 的强大功能带到您的 .NET Aspire 仪表板中，帮助您在仪表板内分析应用程序、调试并改进它们。
+
 
 
 ## D. .NET Roslyn
@@ -493,6 +535,9 @@
 - [EF Core性能优化技巧 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=2&sn=dc50a02eaf3ee079e36fcd0695f45967&chksm=96f1ea970730513276167a853948d633d7df39f1e58b62e006453a01f17e5096d071dc0e4c68&scene=126&sessionid=1727138667#rd)
 - [分享几个实用且高效的EF Core扩展类库，提高开发效率！ (qq.com)](https://mp.weixin.qq.com/s/ld_eQYPa7kitTak93QOjKA)
 - [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
+- **MySQL**
+  - [在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior](https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA)
+
 
 
 
@@ -518,6 +563,7 @@
 - [一张图带你了解.NET终结(Finalize)流程 - 叫我安不理 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lmy5215006/p/18456380)
 - [.NET Core GC计划阶段(plan_phase)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18668721)
 - [C#中CLR核心机制解析：垃圾回收与标准Dispose模式_c# clr-CSDN博客](https://blog.csdn.net/2301_79251107/article/details/132113846)
+- [.NET 的全新低延时高吞吐自适应 GC - Satori GC](https://mp.weixin.qq.com/s/Wu0QUjUkLTRY_J1NV7a54g)
 
 
 
@@ -568,6 +614,18 @@
 
 
 
+## G. 工作流
+
+- [.net core workflow流程定义 - WikeSoft - 博客园](https://www.cnblogs.com/wikeflow/p/18868313)
+
+
+
+## G. Git
+
+- [实际工作中 Git Commit 代码提交规范是什么样的？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513692&idx=1&sn=97566d8f98cf823e2e6aec7859ef1db7&chksm=966de0c7d61d267f778645055c9445bba1dcf27584cc21866adfbc5553e92339150bbd5a4f42&scene=126&sessionid=1747493051#rd)
+
+
+
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
@@ -585,6 +643,9 @@
 - [如何用 Redis 构建一个简单的聊天应用？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=2&sn=c134137263824c9f648815b76c51768e&chksm=965cc2c30db1505be25e0a0fb1e6d5f5ff49c26b0f31524898ed07dcca9a79c2354a9bfef48e&scene=126&sessionid=1736503976#rd)
 - [.NET Core 中如何实现缓存的预热？ - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18737994)
 - [C# 使用StackExchange.Redis实现分布式锁的两种方式 - BruceNeter - 博客园](https://www.cnblogs.com/qwqwQAQ/p/18849019)
+- **Redis**
+  - [腾讯二面：王者荣耀亿级排行榜，如何设计？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513382&idx=2&sn=cf2370734d904f85da8f0187f878e90b&chksm=9671d9396129297e85689a9f587d3a0953d3db8a9d1aa83ec93a5d24b4dcc5cddcc3d9dfcef3&scene=126&sessionid=1746578976#rd)
+
 
 
 
@@ -595,6 +656,7 @@
 - [.NET开发者福音：JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=1&sn=ffed439630d58f7313433659beb98851&chksm=965e8c15b0953e31d36f4daa5dd0ead5c76646c20b817a83315087f21f50a2dd93574c8a7c58&scene=126&sessionid=1730641491#rd)
 - [WebStorm：一款专为Web应用程序开发而设计功能强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507021&idx=3&sn=dcaede3cd92887e36223274f028b1a9e&chksm=969390cc0b79c67b078347b62fce76ed0d7524e11d8d9ac6dd9c47cf3d9923c6e46f2b78d5d4&scene=126&sessionid=1730681837#rd)
 - [基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=1&sn=2b93845e99c0943b6e9451dfde463bb1&chksm=9693ad2f6af9208cdcdf45422fe56fdd1242cf6929cb726801a729c2651067512ae95a04df16&scene=126&sessionid=1733445770#rd)
+
 
 
 
@@ -762,6 +824,10 @@
 - [Dramatically faster package restores with .NET 9's new NuGet resolver - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-nuget-resolver/)
 - [GitHub - NMSAzulX/Jester.Tools.Nuget: NUGET 发布工具](https://github.com/NMSAzulX/Jester.Tools.Nuget)
   - [基于 .NET 的 Nuget 发版工具 - AzulX - 博客园](https://www.cnblogs.com/NMSLanX/p/18596061)
+- [开发一个现代化的.NetCore控制台程序，包含依赖注入/配置/日志等要素](https://mp.weixin.qq.com/s?__biz=MzI3MjQ5ODU0Mg==&mid=2247488504&idx=1&sn=2950fd0d825959979bdf87885ee6092d&chksm=eb30f9f9dc4770efe6319e59b6971c131845a8181eb2a1d24de85e49eee836f29e3cfe7d84fc&cur_album_id=3187591423672598541&scene=189#wechat_redirect)
+- [开发现代化的.NetCore控制台程序：(2)创建一个C#项目模板](https://mp.weixin.qq.com/s?__biz=MzI3MjQ5ODU0Mg==&mid=2247488517&idx=1&sn=6daf6e2a2fba72fba54cb85992165984&chksm=eb30fe04dc477712b594c4684ae6dc3bb02ac4beb543b1158f81f53f7394afbe8d8134e53187&cur_album_id=3187591423672598541&scene=189#wechat_redirect)
+- [开发现代化的.NetCore控制台程序：(3)将nuget包发布到GitHubPackages](https://mp.weixin.qq.com/s?__biz=MzI3MjQ5ODU0Mg==&mid=2247488524&idx=1&sn=5486ad3fa938a957ddbfbbe26c85fb71&scene=21#wechat_redirect)
+- [开发现代化的.NetCore控制台程序：(4)使用GithubAction自动构建以及发布nuget包](https://mp.weixin.qq.com/s?__biz=MzI3MjQ5ODU0Mg==&mid=2247488535&idx=1&sn=6cf5ed7adc41bf1b51f06f56aac7b795&scene=21#wechat_redirect)
 
 
 
@@ -794,6 +860,12 @@
 - [OpenAPI document generation in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/)
 - [.NET9 - Swagger平替Scalar详解（四） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18571088)
 - [在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=1&sn=0c8a8a84fe1c1e6bb81f4965f89b5561&chksm=9658299e4b41db48949c3406c88ec364cfb3366fad437401718182f0ef07b6a4b91d8a162558&scene=126&sessionid=1736503976#rd)
+
+
+
+## O. OCR
+
+- [PP-OCRv5 C++封装DLL C#调用源码分享](https://mp.weixin.qq.com/s/WpBpIA3klxHsRO5WTdq-6g)
 
 
 
@@ -911,14 +983,26 @@
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
 - [工作面试必备：SQL 中的各种连接 JOIN 的区别总结！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511537&idx=1&sn=9acaa59e433339ca24c159ef452d5825&chksm=96a05a9380059117e5ccd4ab46999ea33c07ca29119a68b96ca747abe84dc84f051449672360&scene=126&sessionid=1742173108#rd)
 - [ADO.NET中SQL绑定变量方式总结 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18774515)
+- **关系型数据库**
+  - **SQL Server**
+    - [微软正式发布 SQL Server 2025 公开预览版，深度集成AI功能](https://mp.weixin.qq.com/s/eS6CR6X1TMy5H6YAnT1zxA)
+  - **SQLite**
+    - [sqlite-vec：谁说SQLite不是向量数据库？](https://mp.weixin.qq.com/s/vgnhoVJQcaYXsSguJ9m2Jw)
+  
 - **MySQL**
   - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
   - [MySQL高性能体系结构](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511983&idx=2&sn=d94c4441a43a6906007bec03a65249db&chksm=9629334dedd69fb3765672ebf47c77692bb22c5c99dcb9381fbeeddfd3a2535ac5e4387b2eb2&scene=126&sessionid=1743556275#rd)
+  - [MySQL优化器知多少？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513464&idx=2&sn=4831ce8c17ba880be52d07fd75ece4ba&chksm=96ceee3f9508ad37ce0ae4bf10aa4490c82f4e4348aed8851b90cbd29ee241cacc9daa24acf5&scene=126&sessionid=1746578976#rd)
+  - [MySQL推出全新Hypergraph优化器，正式进军OLAP领域！](https://mp.weixin.qq.com/s/cHiu9QjMS2Qu8X89RKxlmg)
+  - **数据监控**
+    - [MySQL 可观测性最佳实践](https://mp.weixin.qq.com/s/b1qt4pjHY1AiI6r4vA_Cwg)
 - **MongoDB**
   - [MongoDB从入门到实战之MongoDB简介](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512583&idx=1&sn=782107b618a5c8584a3f3ae441cea845&chksm=962a2240e65042f844b39e73072dd804a1fd8108c45bcd619bbf6c3d14580f3a2962f3d17d5a&scene=126&sessionid=1745282663#rd)
   - [.NET MongoDB数据仓储和工作单元模式封装](https://mp.weixin.qq.com/s/XPX1J28M1ewDJZYwQNpDHw)
   - [MongoDB从入门到实战之MongoDB快速入门（附带学习路线图）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512596&idx=1&sn=e63e40cb5eed67798806d6cd65c140b8&chksm=96175be3f8ee08a7811d2545911269caf420f677e3937e571710b43968a5acf9bb2d00d05481&scene=126&sessionid=1745371401#rd)
   - [MongoDB从入门到实战之Docker快速安装MongoDB](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513052&idx=1&sn=92119c9d284dacd7a1dc376f99df099b&chksm=96ecd4e09571263cda93e219310a5214d65e178927514ea1b179e00193e2a2b86cb0fb7492eb&scene=126&sessionid=1745665776#rd)
+  - [MongoDB从入门到实战之Windows快速安装MongoDB](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513511&idx=1&sn=79de0bc626aa3e03e48ed16206af88a2&chksm=968d2cfe45eaba24a6054043a2fd6ceb7bf4a46f8074b8f260bfdf7013d8f44a72a88ef2f6fa&scene=126&sessionid=1746965044#rd)
+  - [MongoDB从入门到实战之MongoDB工作常用操作命令](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=1&sn=5cf3f924af727fa1b6ae7d9c05674b75&chksm=96dd74b8dd2144f8d7e49ff1e4433394ff0e7051b3ad439413e64bf002f95c013b5303d165ae&scene=126&sessionid=1747097371#rd)
 - **查询优化**
   - [SQL优化极简法则，还有谁不会？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512009&idx=3&sn=828d2dcc050b544a137d83ac148ee10f&chksm=96f073c97b0c8ad0be31d297e6c9227be8ec6e07cdefbd31d30a1df6d3fb8057b219fc4c1e2d&scene=126&sessionid=1743642645#rd)
   - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
@@ -949,6 +1033,7 @@
 ## S. 数据处理
 
 - [一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18848662)
+- [一次小而美的重构：使用 C# 在 Avalonia 中生成真正好看的词云](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513659&idx=2&sn=a3e9f2e198520ecf1cedb117f455b0f0&chksm=9630c704003ece007595bf21309b3ed32513be0ca0f1878665a4c5cf3b153f91e5fef9918f9d&scene=126&sessionid=1747273204#rd)
 
 
 
@@ -961,23 +1046,45 @@
 ## T. 调试
 
 - [Windows 调试工具课程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505465&idx=2&sn=623112d14fa55535d033780f825df4a2&chksm=96b041599f818e794d1ac575c137593e0c4826bfbd0f63f69dfce511d56d3f592f5f69de897a&scene=126&sessionid=1727052024#rd)
+
 - [如何用 PerfView 洞察 C# 中的慢速方法 (qq.com)](https://mp.weixin.qq.com/s/JiMclqMOT6IrVRwKqkMyVQ)
+
 - [PerfView 洞察那些 C# 代码中的短命线程 (qq.com)](https://mp.weixin.qq.com/s/iN4dnc2rGzbBtrJEwYNVSw)
+
 - [AOT漫谈(第一篇): 如何调试C# AOT程序 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=3&sn=7b4fef01fe328fbda5104608c84a8888&chksm=962b99541e9050d124f4d6853c6814db36ab567ee0a926fc3d94968670b89e38e6afa96a3a8c&scene=126&sessionid=1728867433#rd)
+
 - [AOT漫谈专题(第二篇): 如何对C# AOT轻量级APM监控 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506243&idx=4&sn=81ad39fd848873be0d79636568cad429&chksm=962c985c2804a6b46483a0ddddf745776135bc9ee1cd01df9a619eaa91a885e1acc4145f7fda&scene=126&sessionid=1728867433#rd)
+
+- [如何反向绘制出 .NET程序 异步方法调用栈 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18871528)
+
+- [记一次ASP.NET CORE线上内存溢出问题与dotnet-dump的排查方法 - GuZhenYin - 博客园](https://www.cnblogs.com/GuZhenYin/p/18879790)
+
+- **Linux**
+  - [Linux系列：如何用perf跟踪.NET程序的mmap泄露](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=2&sn=704192970b9ecf59cbf98f0f522abf60&chksm=96e503a4f971e4b62a9b42caff6ad2f083a0e7598357da3e9a513b362b90b85cfc50799c5e33&scene=126&sessionid=1747097371#rd)
+  
 - **WinDbg**
   - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
+  
   - [聊一聊坑人的 C# MySql.Data SDK](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508735&idx=2&sn=e6ee65ae3cfd5047e13de82921893864&chksm=96ca138cf796af2d74368f9c76b2d4f1643f32bce38be8869604dfe9dc3167a16778c88ae1ee&scene=126&sessionid=1734914402#rd)
+  
   - [聊一聊 C#前台线程 如何阻塞程序退出 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18622015)
+  
   - **内存暴涨问题分析**
     - [使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=1&sn=4e1ea321ea7bb0625df3b4096bdfa5f0&chksm=96d1669d120b169df8689bd1148063e2769206a4b539cd97b054002d2b2b27d04647013368fc&scene=126&sessionid=1732151313#rd)
     - [.NET开发必备技巧：使用Visual Studio分析.NET Dump，快速查找程序内存泄漏问题！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=1&sn=aa0780c9fd33e8d32601db2781cd4225&chksm=965ce7cf5f928550647ab8488e6f3dc088fea8d36ce935ed08d410bb49e0b6c77b86b2729275&scene=126&sessionid=1724978463#rd)
     - [记一次 .NET某数字化协同管理系统 内存暴涨分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18681199)
+    
   - **程序卡死问题分析**
     - [一个超经典WinForm,WPF卡死问题的终极反思](https://mp.weixin.qq.com/s/OFhf0rtbo9XdbcesD67j_Q)
+    
   - **CPU爆高分析（程序卡慢）**
     - [记一次 .NET某云HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512298&idx=2&sn=e1ccdce6d06717d42e84943d265fe24e&chksm=9696f438e862718e435d26950927b18e821e71e4eb36131a076404bd9c4416647375f68755b7&scene=126&sessionid=1744506245#rd)
+    
     - [记一次 .NET某固高运动卡测试 卡慢分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512493&idx=2&sn=36fcace87427e4ee263c0b808f522caa&chksm=9626507cb3c9cd47ec6cc470ff8358295bf92fdca02ee03e34fc235036b6ebbcbe6ef5b7af8e&scene=126&sessionid=1745155285#rd)
+    
+    - [WinDbg 分析 .NET Dump 线程锁问题 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18894206)
+    
+      > 在定位 .NET 应用程序中的高 CPU 占用问题时，WinDbg 是非常强大的工具之一，尤其配合 SOS 扩展使用可以快速锁定“忙线程”或死锁等问题。本文将基于一次实际的分析流程，演示如何一步步定位由线程锁引起的 CPU 高占用。
 
 
 
@@ -988,6 +1095,10 @@
 - [.NET Core 线程(Thread)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18556052)
 
 - [.NET Core 线程池(ThreadPool)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18566995)
+
+- [C#线程池核心技术：从原理到高效调优的实用指南 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18886677)
+
+  > 在现代软件开发中，多线程编程是提升应用程序性能的关键手段。随着多核处理器的普及，合理利用并发能力已成为开发者的重要课题。然而，线程的创建和销毁是一个昂贵的过程，涉及系统资源的分配与回收，频繁操作会导致性能瓶颈。线程池应运而生，通过预先创建并重用线程，线程池不仅降低了线程管理的开销，还能有效控制并发线程数量，避免资源耗尽。线程池（Thread Pool）作为多线程编程中的核心技术之一，它通过管理一组预创建的线程来执行任务，有效减少线程创建和销毁的开销，提升应用程序的性能和响应能力。在 .NET 中，System.Threading.ThreadPool 类为开发者提供了一个托管线程池，内置于 CLR（公共语言运行时）之中。它支持任务的异步执行、线程数量的动态调整以及状态监控，成为多线程编程的基础设施。无论是处理 Web 请求、执行后台任务，还是进行并行计算，线程池都能显著提升效率。
 
 - **多线程**
   - [C#实现多线程的几种方式 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500224&idx=1&sn=a5d21a0b42e61f317fc8eaa4168a0ac2&scene=21#wechat_redirect)
@@ -1024,6 +1135,15 @@
   - [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18411953)
   - [C#轻松实现Modbus通信 - 付工上位机 - 博客园 (cnblogs.com)](https://www.cnblogs.com/xiketangedu/p/18461727)
   - [ModbusRTU通信协议报文剖析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18430033)
+- **Socket**
+  - [c#构建具有用户认证与管理的socks5代理服务端 - BruceNeter - 博客园](https://www.cnblogs.com/qwqwQAQ/p/17410319.html)
+  - [c#开发完整的Socks5代理客户端与服务端——客户端（已完结） - BruceNeter - 博客园](https://www.cnblogs.com/qwqwQAQ/p/18867762)
+  - [SuperSocket 2.0 的发布标志着.NET Socket 服务器框架迈入了一个全新的时代 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18894166)
+    - [Home - SuperSocket](https://www.supersocket.net/)
+    - [SuperSocket 2.0 中文文档](https://docs.supersocket.net/v2-0/zh-CN)
+    - [SuperSocket: SuperSocket 是一个用于 .NET 的高性能、可扩展的套接字服务器应用程序框架。它为构建自定义网络通信应用程序提供了强大的架构，支持包括 TCP、UDP 和 WebSocket 在内的多种协议。](https://gitee.com/kerryjiang/SuperSocket)
+    - [GitHub - kerryjiang/SuperSocket: SuperSocket is a high-performance, extensible socket server application framework for .NET. It provides a robust architecture for building custom network communication applications with support for multiple protocols including TCP, UDP, and WebSocket.](https://github.com/kerryjiang/SuperSocket)
+
 
 
 
@@ -1058,6 +1178,20 @@
 - [C# Dev Kit Updates: .NET Aspire, Hot Reload, and More! - .NET Blog](https://devblogs.microsoft.com/dotnet/csharp-on-visual-studio-code-just-got-better-with-enhancements-to-csharp-dev-kit/)
 
   > 为了响应您的反馈，该团队推出了一系列更新，旨在增强用户体验并提高性能和可靠性。这些更新旨在使使用 VS Code 的开发人员能够更高效、更愉快、更高效地使用 C# 进行编码。
+
+- [重磅消息，微软宣布 VS Code Copilot 开源，剑指 Cursor！](https://mp.weixin.qq.com/s/kzMB-x9BJydLjjCObbrriQ)
+
+- [VS Code: Open Source AI Editor](https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor)
+
+- [用 VS Code 编写、运行与调试 .NET 应用全攻略（macOS 跨平台支持）,非常的简单](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513658&idx=2&sn=03eacab58be332a3f7f9cb276f0d43b6&chksm=965a2ba5a5aaca5ac99f87d71fc7c7da4326f3b7775524f8a9053721a537a7ed1e415bc28e12&scene=126&sessionid=1747184142#rd)
+
+
+
+**V. Visual Studio Hub**
+
+- [【译】Visual Studio Hub 介绍 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18864220)
+- [Introducing Visual Studio Hub - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-hub/)
+- [Visual Studio Hub: Your one-stop destination for latest news, updates, and insights](https://visualstudio.microsoft.com/hub/?rwnlp=zh-hans)
 
 
 
@@ -1094,6 +1228,21 @@
 
 
 
+## W. 微信小程序
+
+- [换个方式用C#开发微信小程序](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513710&idx=2&sn=3c4637bba4043ccb0050a6a6aee90cf0&chksm=9642fce376bda512ea1763823dc7ab67e709852a0993326b3e13c2135c07079d43ae4ae2e930&scene=126&sessionid=1747576822#rd)
+- [.NET微信网页开发之使用微信JS-SDK自定义微信分享内容](https://mp.weixin.qq.com/s/_E6TXunEPt9j6U-5836rZQ)
+
+
+
+## W. WPF
+
+- [在 Windows 11 上为 WD 窗口启用 Snap 功能](https://mp.weixin.qq.com/s/LVcPToqTQZUMPJ-nU6uuEQ)
+- [WPF 在 Windows 实现任务栏缩略图](https://mp.weixin.qq.com/s/bggT2J5qLXT8QvsVG-akLQ)
+- [WPF 使用GDI+提取图片主色调并生成Mica材质特效背景](https://mp.weixin.qq.com/s/8hF85IoP1LiBSk0QKLGiAQ)
+
+
+
 ## X. 系统扩展
 
 1. **[一图看懂 8 大扩展系统的方法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503181&idx=4&sn=3dc031b174f493ffce4abf1bffecfc52&chksm=96c4c8e5cc7e1f2e2cdc4a4ed7972d36d7ebe8f6a70c2735f284061dc3c07db1c91265303147&scene=126&sessionid=1721264675#rd)**
@@ -1123,6 +1272,21 @@
 ## X. 序列化/反序列化
 
 - [.NET 9 New features-JSON序列化 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18622226)
+
+
+
+## X. 选型建议
+
+- [Why we built our startup in C# - .NET Blog](https://devblogs.microsoft.com/dotnet/why-we-built-our-startup-in-csharp/)
+
+  > 当我们开始构建 Tracebit——一款面向 B2B SaaS 安全产品时，我早期做出的一个关键决定是选择一种编程语言。虽然许多初创公司倾向于选择 Python、TypeScript、Golang 或 Rust，但我选择了不同的道路：C#。我之前已经相当多地写过关于这个决定的内容，我想在这里分享一些亮点。
+
+
+
+## X. 性能分析与优化
+
+- [dotnet-trace 分析.net程序性能 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18881181)
+- [.NET 10 进展之 CoreCLR Interpreter](https://mp.weixin.qq.com/s/XUaLHK3K_H_Hk3u4f8CnoA)
 
 
 
