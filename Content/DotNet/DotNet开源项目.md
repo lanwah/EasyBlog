@@ -473,12 +473,13 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | **Gitee:[SharpSCADA](https://gitee.com/LaoHuaiMiao/SharpSCADA)** | LGPL-3.0   | SharpSCADA 是一个开源的轻量级工业控制网关和组态软件，<br />旨在提供灵活且强大的解决方案，以满足工业自动化和监控的需求。<br />该项目支持多种工业协议，包括西门子的Profinet、AB的EtherNet/IP、<br />施耐德的Modbus和OPC等，采用类OPC接口网关实现数据通信。 |
 | **Gitee:[CsGo](https://gitee.com/hamasm/CsGo)**              | MIT        | CsGo是一个功能强大、易于使用的C#并发流程控制框架和运动控制框架，<br />适用于工业自动化、机器视觉等多个领域。通过提供灵活的并发控制机制和高效的任务处理能力，<br />它能够帮助开发者构建稳定可靠的工业自动化和机器视觉系统。 |
-|                                                              |            |                                                              |
+| **Gitee:[OpenIVS](https://gitee.com/dl-cv/OpenIVS)**         | Apache-2.0 | OpenIVS 是一个基于 .NET 开源（Apache-2.0）的工业视觉软件框架，<br />提供了相机连接、图像采集、图像处理、模型推理、PLC控制等功能。<br />你可以使用 OpenIVS 快速搭建一个工业视觉检测系统，实现自动化检测、缺陷识别等功能。 |
 
 ### 相关参考
 
-1. [基于C#开发的工控网关，轻量级组态软件【SharpSCADA】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=2&sn=e2c53fcf330c98b8a4a49b583316b635&chksm=96fa1800e807064621f78271e05448e4fe3a506aa4f9eda3752ab6b310e1f304a9965faa697d&scene=126&sessionid=1727052024#rd)
-1. [C#并发流程控制框架：基于CSP模型的工控逻辑与运动控制利器（单线程调度每秒100万次以上）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506507&idx=3&sn=e009962b0a388bf22c72f3ca1096eff2&chksm=96ea6658de678dfef430fba65e33207b2331bd813b837f10d88cf31f01f72800d1db1255e00b&scene=126&sessionid=1729816926#rd)
+- [基于C#开发的工控网关，轻量级组态软件【SharpSCADA】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505562&idx=2&sn=e2c53fcf330c98b8a4a49b583316b635&chksm=96fa1800e807064621f78271e05448e4fe3a506aa4f9eda3752ab6b310e1f304a9965faa697d&scene=126&sessionid=1727052024#rd)
+- [C#并发流程控制框架：基于CSP模型的工控逻辑与运动控制利器（单线程调度每秒100万次以上）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506507&idx=3&sn=e009962b0a388bf22c72f3ca1096eff2&chksm=96ea6658de678dfef430fba65e33207b2331bd813b837f10d88cf31f01f72800d1db1255e00b&scene=126&sessionid=1729816926#rd)
+- [【开源力荐】一个基于 .NET 开源的工业视觉软件框架【OpenIVS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514184&idx=2&sn=18b14d8ada0ca6ae33b0d8c302aebf82&chksm=96d4edd80abce0193a4492c2edbf7f304ca54d804048540000cdc9797e6add8a249eff7032d8&scene=126&sessionid=1749302045#rd)
 
 
 
@@ -548,7 +549,7 @@
 | Git:[ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) | [MIT license](https://github.com/vueComponent/ant-design-vue-pro#MIT-1-ov-file) | 这里是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。<br />基于Vue框架集成的一个开箱即用的中台前端/设计解决方案。 |
 | **Gitee:[Geeker-Admin](https://gitee.com/HalseySpicy/Geeker-Admin)** | MIT                                                          | Geeker-Admin 一款基于 Vue3.4、TypeScript、Vite5、Pinia、<br />Element-Plus 开源的后台管理框架，使用目前最新技术栈开发。<br />项目提供强大的 ProTable 组件，在一定程度上提高您的开发效率。<br />另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。 |
 | Git:[soybean-admin](https://github.com/soybeanjs/soybean-admin) | [MIT license](https://github.com/soybeanjs/soybean-admin#MIT-1-ov-file) | SoybeanAdmin是一个清新优雅、高颜值且功能强大的后台管理模板，<br />基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia 和 UnoCSS。<br />它内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。<br />此外，它还采用了基于 ApiFox 的在线Mock数据方案。<br />SoybeanAdmin 为您提供了一站式的后台管理解决方案，无需额外配置，<br />开箱即用。同样是一个快速学习前沿技术的最佳实践。 |
-|                                                              |                                                              |                                                              |
+| Git:[SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)   | [MIT license](https://github.com/WANG-Fan0912/SnowAdmin#MIT-1-ov-file) | SnowAdmin 是一款基于 Vue3、TypeScript、Vite5、Pinia、<br />Arco-Design 的开源后台管理框架。它以其清新优雅、高颜值且功能强大的特点，<br />为开发者提供了一站式的后台管理解决方案。<br />SnowAdmin 内置了丰富的主题配置和组件，代码规范严谨，<br />并实现了自动化的文件路由系统，使得开发者能够快速上手并进行二次开发。 |
 
 ### 相关参考
 
@@ -562,6 +563,7 @@
 - [一款开源免费、美观实用的后台管理系统模版，简单轻量、开箱即用！【Art Design Pro】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=3&sn=03e8bfb14ff6c2a9e228dbfb2be4d51b&chksm=961f50706b65eff53ba9523360260b1bd69997b8bf18fb492b43d93b7eb9e4e27d5400fbc89e&scene=126&sessionid=1742951008#rd)
 - [一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512130&idx=1&sn=91f7d557891cfd4b471dc69182291db8&chksm=96a740e8e515f10d617173c5354615233036d4e13f6697c69913fad6d9cd6d4a1ba5f188000b&scene=126&sessionid=1744159839#rd)
 - [精选 12 款开源、免费、美观的 Vue 后台管理系统模板！【vue-element-admin】【Art Design Pro】【Naive Ui Admin】【vue-element-plus-admin】【Ant Design Vue Pro】【Geeker Admin】【SoybeanAdmin】【vue-vben-admin】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】【SnowAdmin】](https://mp.weixin.qq.com/s/tAoSd_r6sjMx23sYiwcJWQ)
+- [一个清新优雅、高颜值且功能强大的 Vue3 后台管理模板，无需额外配置，开箱即用！【SnowAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514224&idx=2&sn=cca4d1c96380e0f55d1d6733369d08dd&chksm=960bd2de55cb76ca55f5f9342d1bd6ffb3887c212a267af703d9ccefd5131b6bae1fec258ad6&scene=126&sessionid=1749371092#rd)
 
 
 
@@ -988,19 +990,21 @@
 | Git:[cms](https://github.com/siteserver/cms)                 | [AGPL-3.0 license](https://github.com/siteserver/cms#AGPL-3.0-1-ov-file) | SSCMS 内容管理系统基于微软 .NET Core 平台开发，用于创建在 Windows、Linux、Mac <br />以及 Docker 上运行的 Web 应用程序和服务。<br />SSCMS 针对企业级客户开发，完全开源免费，可以用于商业用途不需要支付任何产品或授权费用。<br />SSCMS 经受了时间考验，1.0 版本在2003年发布，自发布以来不断迭代完善，<br />以其成熟的技术架构、杰出的管理能力和强大的整合扩展能力而著称。 |
 | **Gitee:[FytSoaCms](https://gitee.com/feiyit/FytSoaCms)**    | MIT                                                          | FytSoaCms是一款基于.NET Core2.2/3.1（Razor Page）开源、<br />免费（MIT License）、功能强大的Cms建站系统，支持前后端分离。<br />它拥有强大的功能和模块化的设计，便于灵活扩展和二次开发。 |
 | Git:[cofoundry](https://github.com/cofoundry-cms/cofoundry)  | [MIT license](https://github.com/cofoundry-cms/cofoundry#MIT-1-ov-file) | Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，<br />专注于代码优先的开发模式、无侵入的集成方式、<br />可扩展且灵活的架构以及简单且用户友好的内容管理。 |
+| Git:[FluentCMS](https://github.com/fluentcms/FluentCMS)      | [MIT license](https://github.com/fluentcms/FluentCMS#MIT-1-ov-file) | FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），<br />它基于强大的 ASP.NET Core + Blazor技术构建。<br />FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，<br />不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），<br />使其非常适合各种数字应用场景。 |
 
 ### 相关参考
 
-1. **[一款基于 .NET Core 框架研发的自媒体内容管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=3&sn=5e0f778cedee9647bf19db2adf1379c2&chksm=96451ee32e8acb6da12f206f096256251f7365fc61505684857c75aa6499446306c5f1c4a57b&scene=126&sessionid=1724241646#rd)**
-2. **[基于.NET 8+FreeSql实现的简单实用的CMS【lin-cms-dotnetcore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=2&sn=b39078c758eb32a328730672b72b80bc&chksm=967c6169d123fdc7127e2ca52b00b8011897dee846f546ce9929edc6e99e0affde41e74a6ee1&scene=126&sessionid=1724806111#rd)**
-3. [.NET使用Umbraco CMS快速构建一个属于自己的内容管理系统【Umbraco CMS】](https://mp.weixin.qq.com/s/xaTtknSY98Nsuxrvyfwe5w)
-4. [一个基于.NET开源、灵活易用的内容管理系统【Umbraco CMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508562&idx=1&sn=d3cf9d9a6b5167ea9b5a8749409d7a5a&chksm=96123d12690de7ba1da3d8bf510feb7f155078e6d0d32c6d466ec827c6a629d0280f9cf81d33&scene=126&sessionid=1734571044#rd)
-5. [.NET开源免费、企业级、可商用内容管理系统 【SSCMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490551&idx=1&sn=fcb5f09462253b6ef58ede0e449d997e&scene=21#wechat_redirect)
-6. [一款基于.NET开源、免费、功能强大的Cms建站系统，支持前后端分离！【FytSoaCms】](https://mp.weixin.qq.com/s/2C6VcmAUlGWzuJ5aEWwuJQ)
-7. [推荐4款基于.NET开源、功能强大的CMS建站系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509010&idx=1&sn=f202037e67c1f556621a62994edd9c2a&chksm=96337c05f017d317393100d64cf7e1500444e4b2f9fa87d9de1941aa9dcf6b93cb7f59454bc4&scene=126&sessionid=1735998080#rd)
-8. [推荐4款基于.NET开源、功能强大的CMS建站系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【FytSoaCms】](https://mp.weixin.qq.com/s/ZEFXHHs8UqwK63ttN92Bcg)
-8. [一个开源且免费的 .NET CMS 和应用程序框架【Cofoundry】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510865&idx=1&sn=fca7db87b28a26706045a2d11d60da61&chksm=96c1924829abc5921132e4907b47e1a974fe3181e1027c5a4af58f3f0dcb7dda2fd86dec9049&scene=126&sessionid=1740703118#rd)
-8. [精选5款基于.NET开源、免费、功能强大的CMS内容管理系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【Cofoundry】【FytSoaCms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511347&idx=1&sn=8e69b90393cc09e860d8ecc8cbab5424&chksm=9622d1feb8494dd4143afcc52160fbc3d4a7a9efb42308da5624d4ebdc6c815d08fc031a989b&scene=126&sessionid=1742126430#rd)
+- **[一款基于 .NET Core 框架研发的自媒体内容管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=3&sn=5e0f778cedee9647bf19db2adf1379c2&chksm=96451ee32e8acb6da12f206f096256251f7365fc61505684857c75aa6499446306c5f1c4a57b&scene=126&sessionid=1724241646#rd)**
+- **[基于.NET 8+FreeSql实现的简单实用的CMS【lin-cms-dotnetcore】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=2&sn=b39078c758eb32a328730672b72b80bc&chksm=967c6169d123fdc7127e2ca52b00b8011897dee846f546ce9929edc6e99e0affde41e74a6ee1&scene=126&sessionid=1724806111#rd)**
+- [.NET使用Umbraco CMS快速构建一个属于自己的内容管理系统【Umbraco CMS】](https://mp.weixin.qq.com/s/xaTtknSY98Nsuxrvyfwe5w)
+- [一个基于.NET开源、灵活易用的内容管理系统【Umbraco CMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508562&idx=1&sn=d3cf9d9a6b5167ea9b5a8749409d7a5a&chksm=96123d12690de7ba1da3d8bf510feb7f155078e6d0d32c6d466ec827c6a629d0280f9cf81d33&scene=126&sessionid=1734571044#rd)
+- [.NET开源免费、企业级、可商用内容管理系统 【SSCMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490551&idx=1&sn=fcb5f09462253b6ef58ede0e449d997e&scene=21#wechat_redirect)
+- [一款基于.NET开源、免费、功能强大的Cms建站系统，支持前后端分离！【FytSoaCms】](https://mp.weixin.qq.com/s/2C6VcmAUlGWzuJ5aEWwuJQ)
+- [推荐4款基于.NET开源、功能强大的CMS建站系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509010&idx=1&sn=f202037e67c1f556621a62994edd9c2a&chksm=96337c05f017d317393100d64cf7e1500444e4b2f9fa87d9de1941aa9dcf6b93cb7f59454bc4&scene=126&sessionid=1735998080#rd)
+- [推荐4款基于.NET开源、功能强大的CMS建站系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【FytSoaCms】](https://mp.weixin.qq.com/s/ZEFXHHs8UqwK63ttN92Bcg)
+- [一个开源且免费的 .NET CMS 和应用程序框架【Cofoundry】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510865&idx=1&sn=fca7db87b28a26706045a2d11d60da61&chksm=96c1924829abc5921132e4907b47e1a974fe3181e1027c5a4af58f3f0dcb7dda2fd86dec9049&scene=126&sessionid=1740703118#rd)
+- [精选5款基于.NET开源、免费、功能强大的CMS内容管理系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【Cofoundry】【FytSoaCms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511347&idx=1&sn=8e69b90393cc09e860d8ecc8cbab5424&chksm=9622d1feb8494dd4143afcc52160fbc3d4a7a9efb42308da5624d4ebdc6c815d08fc031a989b&scene=126&sessionid=1742126430#rd)
+- [不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）【FluentCMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514252&idx=1&sn=7329476729b74e646ddf25474b58c286&chksm=966c4a0aa021bac0afa0c263a66562b0223ee06dc83533e14e7887dd27a7038d9e63c049838a&scene=126&sessionid=1749548903#rd)
 
 
 
@@ -1258,6 +1262,7 @@
 - **项目分析与理解**
   - [使用 GitDiagram 快速将 GitHub 仓库转换为交互式图表【gitdiagram】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513659&idx=1&sn=06f7d64a736800d752355803d0b8a858&chksm=969f940a54f194f9e36bebf3ebee47d0e06520d8df1e565ca51538682de7856c9cf2ffbf4a6d&scene=126&sessionid=1747273204#rd)
   - [DeepWiki：AI驱动、免费且实用的 GitHub 源码阅读与分析神器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513429&idx=1&sn=e7dbc637331f43af16b88a8349b6dc48&chksm=96a3ea659da6690c6a04d6be84943d4ca67b819950e9b3fa2381e2512360f784827f06d5af72&scene=126&sessionid=1746493627#rd)
+  - [2个 GitHub 实用辅助神器，帮你快速了解和上手 GitHub 开源项目（附带 GitHub 加速神器）！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514184&idx=1&sn=abe3a6353c41a75358eb5d029cc60f80&chksm=96525d4dcb11963eb0e36c495a0abc569fc6762843c4f7f968f4f7ccaec213b15a3649e0b360&scene=126&sessionid=1749302045#rd)
 
 
 
@@ -1683,6 +1688,7 @@
 | **Gitee:[CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI)** | MIT                                                          | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，<br />提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，<br />以简化WPF应用程序的开发过程。 |
 | Git:[MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | [MIT license](https://github.com/MahApps/MahApps.Metro#MIT-1-ov-file) | MahApps.Metro 是一个开源、免费、Metro风格的 WPF UI 控件库，<br />提供了现代化、平滑和美观的控件和样式，<br />帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。<br />[在线文档](https://mahapps.com/docs/controls) |
 | [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)    |                                                              | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，<br />专为打造新一代 Windows 应用程序而设计。<br />它能帮助开发者构建经典且外观专业的 WPF 应用程序，<br />对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 |
+| Git:[WPF-ControlBase](https://github.com/HeBianGu/WPF-ControlBase) | [MIT license](https://github.com/HeBianGu/WPF-ControlBase#MIT-1-ov-file) | Wpf封装的自定义控件资源库                                    |
 
 #### 相关参考
 
@@ -1702,6 +1708,7 @@
 - [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
 - [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
 - [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！【Extended.Wpf.Toolkit/wpftoolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513068&idx=1&sn=94738b51ec27db2454c8d1caa30d5050&chksm=9628dc98fb01a0157e96b0a14d9e858e9a8ff84463caf780a52532eee2fcf74597599b44145a&scene=126&sessionid=1745715139#rd)
+- [一个开源免费、功能丰富的 WPF 自定义控件资源库【WPF-ControlBase】](https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ)
 
 
 

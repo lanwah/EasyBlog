@@ -32,19 +32,33 @@
 ## A. ASP.NET Core
 
 - [.NET Core：架构、特性和优势详解 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18662074)
+
 - **[简化ASP.NET Core API神器：用Gridify轻松实现过滤、排序和分页【Gridify】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=3&sn=381d436f87fe97084416e4c3918d76ae&chksm=967a9718d247b340a425bd227b6cda31edd04025914d0cfe648abb7336b59f1fb5690182a68a&scene=126&sessionid=1724806111#rd)**
+
 - [ASP.NET Core OData 9的发布，放弃 .NET Framework (qq.com)](https://mp.weixin.qq.com/s/sKilIxCmP8OG7EccwXFTNA)
+
 - [ASP.NET Core Filter与IOC的羁绊 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=5&sn=0401e32e7e6e105b260f40745b948170&chksm=963084f5de0ffec3942c8176b20af6cfc4bb1d91b919bd912ab4d87ce55e90108bde0ada21eb&scene=126&sessionid=1729213064#rd)
+
 - [将ASP.NET Core Web API和Blazor Wasm发布到 IIS](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508114&idx=1&sn=f387e548a304d88696475d6bba74fd56&chksm=96ffc2c0355bdcce1a9064e70be405a5fb23992abede404f50f5a7d5fe2925c4598962f0a18f&scene=126&sessionid=1733706081#rd)
+
 - [在Asp.netCore中使用Attribute来描述限流 - jiulang - 博客园](https://www.cnblogs.com/kewei/p/18630545)
+
+- [【ASP.NET Core】调用 Web API 备份数据库 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/18907380)
+
+  > 今天咱们聊一个很单的主题，写一个 Web API，客户端可以调用它来备份 SQL Server 数据库。不知道大伙伴们有没有做过这活。相信做过的人会比老周更明白，毕竟，老熟人都知道，老周有两大弱项：SQL、汇编。汇编呢，是学生时代没好好学，想当年很轻松地就拿下了二级C++，偏就没学会汇编；而 SQL 呢，本来就学得一般，再加上用得少，忘得差不多了，所以别人给老周安排的项目基本不包括写 SQL 的，最终导致 SQL 方面越来越弱。
+
 - **身份鉴权/身份认证**
   - [ASP.NET Core 中基于 Cookie 的身份鉴权实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=3&sn=435086131053de1e1e57d5800f4b3c26&chksm=966dd908d5f29a93b287606a92c47e4a79f265c6dd419e917db94c8fce2cc5da900af34c9001&scene=126&sessionid=1737334659#rd)
+  
 - [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
+
 - **StarBlog**
   - [基于.NetCore开发 StarBlog 番外篇 (1) 全新的访问统计功能，异步队列，分库存储 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18731660)
+  
 - **中间件**
   - [在 ASP.NET Core 中创建中间件的 4 种方式](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=1&sn=0d392060580de92b75e59487ffb9bc7e&chksm=96807d03c28a19a42f62ac100fda1872845dc5247cec235b4e9a5a3662b31d74d05ee7f6b5a8&scene=126&sessionid=1742951008#rd)
   - [ASP.NET Core 中的速率限制中间件的使用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509131&idx=2&sn=a9d7828a444f8b9c7006089043fe422e&chksm=96eaf02cbd9142560d75a45acfc2c58c71d2a1322d45049ecb2b44eee7baf01050ebb968c809&scene=126&sessionid=1736604622#rd)
+  
 - **下载与上传**
   - [AspNetCore中的文件上传与下载优化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=3&sn=a4a5e2573999609c93a282e3902697ea&chksm=961267cc3504ee5a38726f13c148ac3c05889af26111f2a9f879192ba7488c5757d21e3af000&scene=126&sessionid=1747097371#rd)
 
@@ -79,6 +93,11 @@
 
   > 我们很高兴地宣布，Microsoft.Extensions.AI.Evaluation.Safety 包已添加到 Microsoft.Extensions.AI.Evaluation 库中！这个新包提供了评估器，帮助您检测 AI 生成内容中的有害或敏感内容——例如仇恨言论、暴力、版权材料、不安全代码等。这些安全评估器由 Azure AI Foundry 评估服务提供支持，并设计为可以无缝集成到您现有的工作流程中，无论您是在本地运行单元测试中的评估，还是在 CI/CD 管道中自动执行离线评估检查。
 
+
+- [.NET AI 基座双核引擎正式版发布：深度拆解 AI / Vector Extensions 如何重构企业级 AI 架构 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18899291)
+
+  > 关注.NET AI和.NET Vector原生开发已有半年之久了，其核心组件在历经这半年预发布期的持续迭代后，这两大基座终于在5月16日和5月20日逐步发布了。在此之前，基于预发布版本撰写的文章和调试工作常常受限于功能的缺失，许多特性无法正常调用，只能通过下载源代码进行调试。如今，随着正式版的发布，这些库为 .NET 原生 AI 开发提供了强大的基础，支持开发者构建可扩展、可维护且具备互作性的 AI 驱动型应用程序。
+
 - [.NET + AI | Semantic Kernel vs Microsoft.Extensions.AI - 「圣杰」 - 博客园](https://www.cnblogs.com/sheng-jie/p/18863626/semantic-kernel-vs-microsoft-extensions-ai)
 
 - [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
@@ -107,6 +126,8 @@
 
 
 - [使用C#构建一个同时问多个LLM并总结的小工具 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18866486)
+
+- [C#学习：构建一个更真实的基于LLM的简历评估系统 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18902739)
 
 - **Ollama**
 
@@ -368,7 +389,10 @@
 
 - [理解 C# 中的各类指针](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513668&idx=3&sn=5c22bd42bed9a5fe898c1febab80746e&chksm=962dc5f34aea2361700f57cb0d55175174f0b56629e1b2c384f5a3068a9803772a9327439aa5&scene=126&sessionid=1747493051#rd)
 
+- [C# 模式匹配全解：原理、用法与易错点](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514184&idx=3&sn=d76471ef00437a9ea3eca1312aaceb52&chksm=961631197bfaf5e20172d9fc24e2d238a76d45c7764281d8667ce9b883b7f0ebb11a0877196f&scene=126&sessionid=1749302045#rd)
+
 - **关键字**
+  
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
   - [C# 中比较实用的关键字，基础高频面试题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511601&idx=1&sn=974ec95cb0f1b247b3ecdefefb98cafb&chksm=9622bb281f2819596c3c6a359f1e0d5e5514db2f4be74afff720cc9769f94715fcb0fa43ec00&scene=126&sessionid=1742433141#rd)
   - [C#关键字：in、out、ref、in T、out T、[In\]、[Out]这些你都知道多少？ - caoruipeng - 博客园](https://www.cnblogs.com/caoruipeng/p/18821383)
@@ -378,7 +402,7 @@
   - **as/is**
     - [C# as 和 is 运算符区别和用法](https://mp.weixin.qq.com/s/s880U7ea-N2Xl_3krgyjxA)
     - [c# is 和 as 浅看重制版 - 敖毛毛 - 博客园](https://www.cnblogs.com/aoximin/p/18572890)
-
+  
 - **值类型**
   - **值类型 ToString**
     - [Int32.ToString 方法 (System) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.int32.tostring?view=net-9.0#system-int32-tostring(system-string))
@@ -652,10 +676,12 @@
 ## I. IDE
 
 - [2024 年开发人员 13 款常用 IDE 合集 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=3&sn=5594c32e615e9bc6857ff44b28247de1&chksm=9619cf51152401be6ae00b3b8dd4d65de75bdb905ab398e0b4b43a43fc1db5d64df2c3b4b0ab&scene=126&sessionid=1728350900#rd)
-- [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
 - [.NET开发者福音：JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=1&sn=ffed439630d58f7313433659beb98851&chksm=965e8c15b0953e31d36f4daa5dd0ead5c76646c20b817a83315087f21f50a2dd93574c8a7c58&scene=126&sessionid=1730641491#rd)
 - [WebStorm：一款专为Web应用程序开发而设计功能强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507021&idx=3&sn=dcaede3cd92887e36223274f028b1a9e&chksm=969390cc0b79c67b078347b62fce76ed0d7524e11d8d9ac6dd9c47cf3d9923c6e46f2b78d5d4&scene=126&sessionid=1730681837#rd)
 - [基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=1&sn=2b93845e99c0943b6e9451dfde463bb1&chksm=9693ad2f6af9208cdcdf45422fe56fdd1242cf6929cb726801a729c2651067512ae95a04df16&scene=126&sessionid=1733445770#rd)
+- **Visual Studio**
+  - [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
+  - [【译】Visual Studio 扩展管理器更新 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18912257)
 
 
 
@@ -666,6 +692,7 @@
 - [用纯.NET开发并制作一个智能桌面机器人（二）：用.NET IoT库编写驱动控制两个屏幕](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=2&sn=1cf2374ba0ff0888a5c142f42d910bd2&chksm=96edee3537b01043660d600fa22a38ddf847ae3f61ea0d98ead82f03ebeb2726956dbc561997&scene=126&sessionid=1736991133#rd)
 - [用.NET IoT库控制舵机并多方法播放表情](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510211&idx=3&sn=8426bea5d858d360612a2b8e637cb17a&chksm=9665939efc81c9282e061f50614860298651c4c7c227a406078c1a117fa1f0c2028bfdf36604&scene=126&sessionid=1739414680#rd)
 - [互联网不景气了那就玩玩嵌入式吧，用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互 - 绿荫阿广 - 博客园](https://www.cnblogs.com/GreenShade/p/18771608)
+- [用纯.NET开发并制作一个智能桌面机器人（五）：使用.NET为树莓派开发Wifi配网功能 - 绿荫阿广 - 博客园](https://www.cnblogs.com/GreenShade/p/18913382)
 
 
 
@@ -728,6 +755,12 @@
 ## J. 检测
 
 - [C# OnnxRuntime部署DAMO-YOLO香烟检测](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512500&idx=3&sn=5dc444e49e0d1ed0cb65cf240d3b4806&chksm=9693647d2d2eb8287cef9bbb8bd7d210bc649ba83d8ee93104e9099a042052b7113b2132ab52&scene=126&sessionid=1745063119#rd)
+
+
+
+## J. 集群
+
+- [轻量级 Kubernetes 解析：K0s、K3s 与传统 K8s 的抉择](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514145&idx=2&sn=fa551c1ec279bcc376cd0865bda04f4f&chksm=960fbe2f2130f0b3ee9dce0a816235593fee33c834a7221744593422aa5d86f12bbd8aae03b0&scene=126&sessionid=1749085186#rd)
 
 
 
@@ -834,6 +867,14 @@
 ## N. NativeAOT
 
 - [用 .NET NativeAOT 构建完全 distroless 的静态链接应用](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512129&idx=2&sn=d0cc25cdec53990780efe80e044cd57b&chksm=9613f1c3b83bde7b7b0d4f1c7728a37100780399a00dc5d9fee311438113178be617324b8c8d&scene=126&sessionid=1744074032#rd)
+
+
+
+## N. 内存布局
+
+- [理解 .NET 结构体字段的内存布局 - 黑洞视界 - 博客园](https://www.cnblogs.com/eventhorizon/p/18913041)
+
+  > 本文将介绍 .NET 中结构体字段的内存布局，包括字段的对齐（Alignment）、填充（Padding）以及如何使用 StructLayoutAttribute 来控制字段的内存布局。
 
 
 
@@ -1061,6 +1102,7 @@
 
 - **Linux**
   - [Linux系列：如何用perf跟踪.NET程序的mmap泄露](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=2&sn=704192970b9ecf59cbf98f0f522abf60&chksm=96e503a4f971e4b62a9b42caff6ad2f083a0e7598357da3e9a513b362b90b85cfc50799c5e33&scene=126&sessionid=1747097371#rd)
+  - [聊一聊 .NET Dump 中的 Linux信号机制](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514141&idx=3&sn=ba928a20f392b3214093c864ec1a1a80&chksm=966bf906b469cc48faeeff2b7d7b75844288b3ac07e4704b4cdf7c5801866b160a608264de1d&scene=126&sessionid=1748998358#rd)
   
 - **WinDbg**
   - https://mp.weixin.qq.com/s/kBvYQdV3tHnDurtwNmQaeg
@@ -1115,12 +1157,28 @@
   - [C# Barrier进行多线程同步](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504737&idx=3&sn=d33d01d45e30fae85a0b4d6cf1b65b0e&chksm=9699f872d98ed7d09a6c2b0c7bd87bc64180cdf54950e6f0ca1a9b851a7d9c15ae4fd1ea2a8b&scene=126&sessionid=1725718515#rd)
   
 - **异步**
+  
+  - [揭秘C#异步编程核心机制：从状态机到线程池的全面拆解 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18909634)
+  
+    > C#中的异步编程是一个强大且复杂的特性，它允许开发者编写非阻塞的代码，从而显著提升应用程序的响应性和吞吐量。本文将深入剖析异步编程的底层原理，从async和await关键字的工作机制，到状态机、任务调度、线程管理和异常处理等核心概念。
+  
   - [聊一聊 C#异步 任务延续的三种底层玩法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=2&sn=64514f54589397a27a9c95a9e78cde16&chksm=9644e747e4c46599bad92880716fbf8b6f15809c94000de722730b42fdaa210398d06bd028b7&scene=126&sessionid=1736503976#rd)
+  
   - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
+  
   - [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)
+  
   - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
+  
   - [C#中 Task 结合 CancellationTokenSource的妙用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18620273)
+  
   - [Invoking Async Power: What Awaits WinForms in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/)
+  
+  - [聊一聊 .NET在Linux下的IO多路复用select和epoll - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18911996)
+  
+    > 在windows平台上，相信很多人都知道.NET异步机制是借助了Windows自带的 IO完成端口 实现的异步交互，那在 Linux 下.NET 又是怎么玩的呢？主要还是传统的 select，poll，epoll 的IO多路复用，在 coreclr源代码中我们都能找到它们的影子。
+  
+  - [一个高频问题：异步操作会创建线程吗？ - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/16085461.html)
   
 - **并发**
   - [后端思维之高并发处理方案](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511947&idx=2&sn=b78f6ed86f43a99b792a6b009afdac50&chksm=96a5e705d99f22190c90847642318a11162db99581a0d38133834303d5e19297533b48cec601&scene=126&sessionid=1743469108#rd)
@@ -1336,6 +1394,12 @@
 
 
 
+## Y. 异常
+
+- [.NET 9中的异常处理性能提升分析：为什么过去慢，未来快](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514145&idx=1&sn=dd0dddb8035d49ee586bf80b98fbd0ea&chksm=96388178d56dbef5e29908602dea202bcd3d1c1cb140df4e9a36d26cb9584bfd4f3177115f0c&scene=126&sessionid=1749085186#rd)
+
+
+
 ## Z. 字符串处理
 
 - [C#|.net core 基础 - 删除字符串最后一个字符的七大类N种实现方式 - IT规划师 - 博客园 (cnblogs.com)](https://www.cnblogs.com/hugogoos/p/18453906)
@@ -1357,3 +1421,16 @@
 - [2款简洁好用的在线代码变量命名利器，让命名不再烦恼！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512493&idx=1&sn=f35ee6434bcbe546ff4ad6a02842acfe&chksm=966e0050b7b1e2fa11dad29071cb6fc73684b1d32cb26e2d5a0678b450845e0ee68f407b7582&scene=126&sessionid=1745155285#rd)
   - [CHTML代码变量命名工具_变量命名规则库](https://www.chtml.cn/)
   - [程序员变量名助手 | 菜鸟工具](https://www.jyshare.com/front-end/9443/)
+
+
+
+## Z. 组件使用
+
+- [Circuit Breaker Policy Fine-tuning Best Practice - .NET Blog](https://devblogs.microsoft.com/dotnet/circuit-breaker-policy-finetuning-best-practice/)
+
+  > 本文介绍了 Polly 中断路器弹性策略的概念，特别关注使用.NET 扩展和 Polly 的 HTTP 客户端请求，但这一理念也适用于更通用的 CB 调优。它提供了一个实用的指南，用于集成中断路器策略并微调其配置，以增强服务弹性和容错能力。
+
+- [Fine-tune the volume of logs your app produces - .NET Blog](https://devblogs.microsoft.com/dotnet/finetune-the-volume-of-logs-your-app-produces/)
+
+  > 如果你正在运行一个生产应用程序，你知道管理日志的挑战。日志太少会让你在黑暗中摸索；日志太多会让你被数据淹没并支付过高的存储成本。这是一个经典的可观察性困境——当事情出错时，你想要全面的信息，但你又不想存储所有从快乐路径中获取的细节。现在，让我们来看看.NET 中的日志采样——一种强大的功能，它允许你策略性地减少日志量，同时保持可观察性。与简单的日志过滤（它使用二元决策，即发送或发送日志）不同，采样为你提供了细粒度的控制，让你能够从应用程序的不同部分发送精确百分比的日志。
+

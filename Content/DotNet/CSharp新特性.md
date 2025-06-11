@@ -52,16 +52,24 @@
 - **线程同步**
    - [.NET 9 new features-C#13新的锁类型和语义 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18653870)
 
+- **.NET8**
+
+   - [.NET8带来的一些新特性 - 熊泽-学习中的苦与乐 - 博客园](https://www.cnblogs.com/xiongze520/p/18902755)
+
 - **.NET9/C#13**
    - [.NET 9 预览：C#13 带来的新功能抢先看](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=2&sn=08e28269e862a61c1afd994ab4f76ce5&chksm=966f6a17ba78bd4a626ad0960d41a1f230d07373f1b2824a1118f818cb906fe2b7466c185089&scene=126&sessionid=1729426307#rd)
-   
+
    - [解锁.NET 9性能优化黑科技：从内存管理到Web性能的最全指南 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18830657)
-   
+
      > .NET 9为开发者带来了一系列强大的性能优化工具和改进，涵盖内存管理、异步编程、代码执行效率和 Web 应用性能等多个方面。
-   
+
    - [浅谈 C# 13 中的 params 集合](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511573&idx=1&sn=b7084c2c1c528aa06e6bd86a6216e787&chksm=96a5d6971d6cc35b4b1d0a4fdfca4477598bec8ea66b942480db077f05aa7f9f3552a2137f5e&scene=126&sessionid=1742433141#rd)
-   
+
    - [C# 13 中的新增功能实操](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=1&sn=d2c4578ad69219218c83d1d928723d1d&chksm=96e389bd9405ceb1cf8e0796f33f21ba0a382d4bc7423ee865a81b58d433ac4074ba81ee8c9a&scene=126&sessionid=1743123644#rd)
+
+   - [Emit logs on-demand with log buffering - .NET Blog](https://devblogs.microsoft.com/dotnet/emit-logs-on-demand-with-log-buffering/)
+   
+     > 在 .NET 9 中引入日志缓冲功能——这一创新功能暂时将日志存储在内存中，并允许您稍后决定是否输出。与其立即做出输出或丢弃的决定，缓冲功能让您能够根据实际运行时结果对哪些日志进行保留进行上下文控制。
    
 - .**NET10**
 
@@ -70,23 +78,27 @@
      > .NET 团队于 2025 年 3 月 18 日发布了.NET 10 Preview 2，该版本在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
      
    - [.NET 10 Preview 3 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/)
-   
+
      > 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
-   
+
    - [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
-   
+
    - [.NET 10 Preview 4 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-4/)
+
+   - [一种更简单的方式运行 C# 代码，简化 C# 开发体验！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514141&idx=1&sn=ca488087e347bcbbfdb580ca1932300a&chksm=96b7dd5d70f39e1086600214e1ef34069a884eb44a54157b9f194cf3306e1acb0c6ef1fcd53e&scene=126&sessionid=1748998358#rd)
+
+     > `dotnet run file.cs`你可以直接运行一个独立的 C# `file.cs` 文件，就像使用 Python 或 JavaScript 等脚本语言一样。这一改进显著降低了尝试 C# 的门槛，使得 C# 语言在教学演示、快速原型开发或自动化脚本场景中都更具吸引力。
+
    
-   
-   
+
 - **C#14**
 
    - [C#14内置AI支持，让代码更智能](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=2&sn=c03905869fa7bf93169ceb788238a566&chksm=968b74f728416e860a825bbdae1262cfca2143c75ab6f645b12e3ef3dbf3cbf3f76e851ef42f&scene=126&sessionid=1742951008#rd)
-   
+
    - [C# 14 新增功能一览，你觉得实用吗？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513442&idx=1&sn=dd58e9c6a74c50d4846ad546f2976557&chksm=9676f988f0dac75335b06f69391675c5f9960349ca87a8c657cce10a231e0333531586ac9731&scene=126&sessionid=1746493627#rd)
-   
+
    - [C# 14 - Exploring extension members - .NET Blog](https://devblogs.microsoft.com/dotnet/csharp-exploring-extension-members/)
-   
+
      > C# 14 引入了扩展成员。C# 长期以来就有了扩展方法，新的扩展成员语法则在此基础上构建了这个熟悉的特性。最新的预览版增加了静态扩展方法和实例及静态扩展属性。我们未来将发布更多种类的成员。
 
 
