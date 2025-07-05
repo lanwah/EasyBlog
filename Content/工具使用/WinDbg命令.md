@@ -170,6 +170,45 @@
 
 
 
+# 使用技巧
+
+
+1. 如果程序是32位的，则需要用32位的任务管理器进行抓取DMP。
+
+   >[SOS does not support the current target architecture解决方法-CSDN博客](https://blog.csdn.net/weixin_33841722/article/details/90309469)
+   >
+   >打开32位的任务管理器：C:\Windows\SysWOW64\taskmgr.exe
+2. 抓取的DMP如果是在32位操作系统上抓取的，则需要用32位的WinDbg打开。
+
+   > [The call to LoadLibrary(C:\Windows\Microsoft.NET\Framework\v4.0.30319\sos) failed, Win32 error 0n193 "%1 不是有效的 Win32 应用程序。"_51CTO博客_the call to loadlibrary failed](https://blog.51cto.com/u_15067249/3428082)
+3. 使用 .loadby sos clr 加载 sos 。
+
+
+
+## 内存爆高分析
+
+
+
+
+
+
+
+## CPU爆高/程序卡死分析
+
+### Windows
+
+- [记一次 .NET某云HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512298&idx=2&sn=e1ccdce6d06717d42e84943d265fe24e&chksm=9696f438e862718e435d26950927b18e821e71e4eb36131a076404bd9c4416647375f68755b7&scene=126&sessionid=1744506245#rd)
+
+### Linux
+
+- [记一次 .NET某数字化协同管理系统 内存暴涨分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18681199)
+
+
+
+
+
+## 程序奔溃分析
+
 
 
 

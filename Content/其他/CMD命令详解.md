@@ -221,6 +221,12 @@ Windows CMD（命令提示符）是 Windows 操作系统中的一个命令行工
 
 
 
+## 3、Curl
+
+[curl命令用法-CSDN博客](https://blog.csdn.net/u013514928/article/details/102810250)
+
+
+
 # 其他参考
 
 - [批处理中setlocal enabledelayedexpansion的作用详细整理_set local enabledelayedexpansion-CSDN博客](https://blog.csdn.net/rhcgrys/article/details/124283862)

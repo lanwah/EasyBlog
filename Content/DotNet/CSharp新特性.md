@@ -76,7 +76,7 @@
    - [.NET 10 Preview 2 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-2/)
 
      > .NET 团队于 2025 年 3 月 18 日发布了.NET 10 Preview 2，该版本在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
-     
+   
    - [.NET 10 Preview 3 is now available! - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-preview-3/)
 
      > 2025 年 4 月 10 日 .NET 团队发布了.NET 10 Preview 3，该版本主要在.NET 运行时、SDK、库、C#、ASP.NET Core、Blazor、.NET MAUI 等方面进行了增强。
@@ -87,9 +87,11 @@
 
    - [一种更简单的方式运行 C# 代码，简化 C# 开发体验！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514141&idx=1&sn=ca488087e347bcbbfdb580ca1932300a&chksm=96b7dd5d70f39e1086600214e1ef34069a884eb44a54157b9f194cf3306e1acb0c6ef1fcd53e&scene=126&sessionid=1748998358#rd)
 
-     > `dotnet run file.cs`你可以直接运行一个独立的 C# `file.cs` 文件，就像使用 Python 或 JavaScript 等脚本语言一样。这一改进显著降低了尝试 C# 的门槛，使得 C# 语言在教学演示、快速原型开发或自动化脚本场景中都更具吸引力。
+     > `dotnet run file.cs`你可以直接运行一个独立的 C# `file.cs` 文件，就像使用 Python 或 JavaScript 等脚本语言一样。这一改进显著降低了尝试 C# 的门槛，使得 C# 语言在教学演示、快速原型开发或自动化脚本场景中都更具吸引力。- 
 
-   
+   - [.NET 10 支持Linux/Unix 的Shebang（Hashbang） - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18930500)
+
+
 
 - **C#14**
 

@@ -41,6 +41,10 @@
 
 - [将ASP.NET Core Web API和Blazor Wasm发布到 IIS](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508114&idx=1&sn=f387e548a304d88696475d6bba74fd56&chksm=96ffc2c0355bdcce1a9064e70be405a5fb23992abede404f50f5a7d5fe2925c4598962f0a18f&scene=126&sessionid=1733706081#rd)
 
+- [Difference Between Minimal API and Controller API .NET Core](https://www.c-sharpcorner.com/article/different-between-minimal-api-and-controller-api-net-core/)
+
+  > 将讨论.NET 9 Core Minimal API 与 Controller API 的区别。Minimal API 是在 .NET 6.0 中引入的一种快速轻量级 API 开发方式，并在 .NET 9 中得到增强。它也非常适合轻量级服务、微服务和小型 API。Minimal API 中没有路由和 [HttpGet] 属性。更简单，所有逻辑都在 Program.cs 中定义。基于 Controller 的 API 是基于 MVC（模型-视图-控制器）模式的，结构化且可扩展。它适合大型和复杂的应用程序。逻辑组织在单独的控制器类中。
+
 - [在Asp.netCore中使用Attribute来描述限流 - jiulang - 博客园](https://www.cnblogs.com/kewei/p/18630545)
 
 - [【ASP.NET Core】调用 Web API 备份数据库 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/18907380)
@@ -62,11 +66,14 @@
 - **下载与上传**
   - [AspNetCore中的文件上传与下载优化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=3&sn=a4a5e2573999609c93a282e3902697ea&chksm=961267cc3504ee5a38726f13c148ac3c05889af26111f2a9f879192ba7488c5757d21e3af000&scene=126&sessionid=1747097371#rd)
 
-- 微服务
+- **微服务**
 
   - [用 Sidecar 容器为 .NET Core 应用做诊断和性能分析 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18886607)
 
     > 用 Sidecar 容器为 .NET Core 应用做诊断和性能分析。
+
+- **健康监控**
+  - [ASP.NET Core 健康监控：从入门到实战](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514763&idx=3&sn=4df1afbc99606256e2f183ca589b60d2&chksm=962f18130523e4ea306e6688ba35382ddac4c34d085a472ea553cb9039432f0942451c44569a&scene=126&sessionid=1750903306#rd)
 
 
 
@@ -99,6 +106,10 @@
   > 关注.NET AI和.NET Vector原生开发已有半年之久了，其核心组件在历经这半年预发布期的持续迭代后，这两大基座终于在5月16日和5月20日逐步发布了。在此之前，基于预发布版本撰写的文章和调试工作常常受限于功能的缺失，许多特性无法正常调用，只能通过下载源代码进行调试。如今，随着正式版的发布，这些库为 .NET 原生 AI 开发提供了强大的基础，支持开发者构建可扩展、可维护且具备互作性的 AI 驱动型应用程序。
 
 - [.NET + AI | Semantic Kernel vs Microsoft.Extensions.AI - 「圣杰」 - 博客园](https://www.cnblogs.com/sheng-jie/p/18863626/semantic-kernel-vs-microsoft-extensions-ai)
+
+- [微软 AI Agent三剑客：AutoGen、Semantic Kernel与MEAI的协同演进 - 「圣杰」 - 博客园](https://www.cnblogs.com/sheng-jie/p/18924852)
+
+  > 微软正在积极构建其人工智能（AI）开发者生态系统，旨在为开发者提供从实验研究到生产部署的全方位支持。在这一宏大蓝图中，AutoGen、Semantic Kernel (SK) 和 Microsoft.Extensions.AI (MEAI) 是三个关键的框架组件，各自扮演着独特且相互关联的角色。
 
 - [PaperAssistant：使用Microsoft.Extensions.AI实现 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/18651932)
 
@@ -264,12 +275,15 @@
     > 在人工智能快速发展的时代，AI Agent（人工智能代理）作为一种能够自主感知环境、决策并执行动作的实体，在众多领域展现出了巨大的潜力。BotSharp 是一个功能强大的开源项目，由 SciSharp[1] 社区开发和维护，旨在实现.NET技术栈下高度可定制的多智能体解决方案。为开发高效的对话式 AI 系统提供了极大的灵活性。通过其模块化的设计和多模型的支持，它更适合需要定制化需求的大型企业或组织。BotSharp作为一款专注于AI Agent开发的框架，一直致力于为开发者提供强大而灵活的工具来构建各种类型的智能代理。BotSharp 5.0 的 MCP（Model Context Protocol）支持是该版本的核心升级之一，BotSharp 5.0 MCP版本的推出，标志着该框架向着更开放的方向迈出了重要的一步，为开发者和使用者带来了更多的可能性和机遇。
 
     - [GitHub:BotSharp](https://github.com/SciSharp/BotSharp)
+  
     - [BotSharp开源应用框架——连接LLMs到您的.NET应用-CSDN博客](https://blog.csdn.net/pepure/article/details/144931163)
     - [Get Started — BotSharp 1.1.0 documentation](https://botsharp.readthedocs.io/en/latest/quick-start/get-started.html#get-started-with-pizza-bot)
-
+  
   - [斩获 3W 星！最近爆火的 MCP 一网打尽。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247523288&idx=1&sn=a6909090d2b728cb1c429973f36ac5e8&chksm=f8d2f037813277dd39bb8cb5bc91b80370947d2deb692a874e7302dd7dfef843bee57c3500a9&scene=126&sessionid=1744089396#rd)
-
+  
   - [如何把ASP.NET Core WebApi打造成Mcp Server](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513520&idx=2&sn=f81e208225c9849c2c674424c30e279e&chksm=9667cea97a397f023d6fdc183dce468df8df9fbfca0ee94bb08c0bcb247e6cfbcf8b0d752fb3&scene=126&sessionid=1746879575#rd)
+  
+  - [Model Context Protocol C# SDK v0.3.0-preview.1 版本发布 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18942263)
 
 
 
@@ -369,6 +383,17 @@
 
 
 
+## C. C#
+
+- [What Can C# Do For You](https://www.c-sharpcorner.com/UploadFile/mahesh/what-can-C-Sharp-do-for-you/)
+
+  > 1999 年，微软将 C#（读作 C sharp）作为一门新的未来派编程语言介绍给世界，我有幸成为早期采用该语言的人之一。1999 年 12 月，C#编译器以 alpha 版本发布时，我就接触到了它。是的，当时确实有 alpha 版本。微软花了 3 年时间才推出该语言的首个稳定可用版本。从那时起，我见证了这门新生儿成长为完全成熟的强大语言。
+
+- [C# 中的 Debug 与 Release 构建详解](https://mp.weixin.qq.com/s?__biz=MzUxMjI3OTQzMQ==&mid=2247495997&idx=1&sn=90104d3bbd2f4c26f597b72437a8ae32&chksm=f96467d5ce13eec337f7a956f0beaff6b1042b50646865a7dcf28345923daa789f2077b2abe5#rd)
+- 
+
+
+
 ## D. DotNet学习
 
 - **[C#中的可放弃变量（弃元）是个什么玩意？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=3&sn=3ad3f0570e470c791e160072736d879b&chksm=96ea03f1654fe61f1c113e686f7b94755780bd50dbf2c0075b9fd259649bf5ac37bf18e3eacd&scene=126&sessionid=1721608423#rd)**
@@ -417,7 +442,8 @@
 - **Linq**
   - [C# LINQ 快速入门实战指南，建议收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=1&sn=beceb45fd88d4bea8ee12e15d57631ce&chksm=9635e76b13b7c94d85ba09304c2da95b7a4c3b4564ae5e885c1fbdcac63bf4f95ebb7b8e7054&scene=126&sessionid=1744331895#rd)
   - [C#中LINQ基础：101个常用LINQ操作](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513171&idx=2&sn=03d1f2ff59b46e7b53793a0fffd208bf&chksm=9600a2b413806c038768e810e237e110abeb0a48f0902ffcfc16711a43ab38ac2ad9cae60df5&scene=126&sessionid=1745974502#rd)
-
+  - [.NET 开发者最容易踩坑的 5 个 LINQ 使用误区](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514706&idx=2&sn=741057a3b743a69c629bbf1e6e79e9ea&chksm=963696429c50df4b129f7e048e818213afb2b898711c923ba107b48977efd87ccfb7e961bbd4&scene=126&sessionid=1750727222#rd)
+  
 - **WinForms**
 
   - [.NET 阻止Windows关机以及阻止失败的一些原因 - 唐宋元明清2188 - 博客园](https://www.cnblogs.com/kybs0/p/18822799)
@@ -554,6 +580,14 @@
 
 
 
+## D. 打印
+
+- [C# WinForms 实现打印监听组件 - 码农刚子 - 博客园](https://www.cnblogs.com/shenchuanchao/p/18928583)
+
+  > [PrintApp](https://github.com/shenchuanchao/PrintApp)
+
+
+
 ## E. EF Core
 
 - [EF Core性能优化技巧 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=2&sn=dc50a02eaf3ee079e36fcd0695f45967&chksm=96f1ea970730513276167a853948d633d7df39f1e58b62e006453a01f17e5096d071dc0e4c68&scene=126&sessionid=1727138667#rd)
@@ -561,6 +595,12 @@
 - [EF Core 10 现已支持 LeftJoin 和 RightJoin 运算符查询了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=1&sn=789d87d82f284ea7be16c31a811c2be6&chksm=96c73758787eabee7dc19ae6252b3f4d9b20a1514cabc10ea5e24e9875b94cd701640db20d85&scene=126&sessionid=1745886966#rd)
 - **MySQL**
   - [在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior](https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA)
+
+
+
+## E. 二维码
+
+- [.NET 挪车二维码生成工具开发实战](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514964&idx=2&sn=8bbe3a228162a364334db9cd3048a0f5&chksm=96e6f9e08b1ddb73648d3c356c4eedfca08745eb14a5392939cafd90c79eaf7f9ff0245a07e9&scene=126&sessionid=1751590889#rd)
 
 
 
@@ -659,6 +699,9 @@
 ## H. 绘图
 
 - [不可不知的WPF转换（Transform） (qq.com)](https://mp.weixin.qq.com/s/JnO75kpoPwpWuDmTtYQWCg)
+- **GDI+**
+  - [[原创\]《C#高级GDI+实战：从零开发一个流程图》第03章：画一个线，连接两个矩形！ - leslie_xin - 博客园](https://www.cnblogs.com/lesliexin/p/18923105)
+
 
 
 
@@ -682,6 +725,19 @@
 - **Visual Studio**
   - [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
   - [【译】Visual Studio 扩展管理器更新 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18912257)
+  - [提高 .NET 编程效率的 Visual Studio 使用技巧和建议！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514588&idx=1&sn=08b8b2ea9c042a42888900a8ba1d2580&chksm=96d0039fb1bd99048cfcdb4a9f496baa09842bb203eadea5c0e066780577b69fbd5bae379fdf&scene=126&sessionid=1750209389#rd)
+  - [Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514422&idx=1&sn=32135c7a1bb6279c52e32d6d0c3933dc&scene=21#wechat_redirect)
+  - [C#-Visual Studio工具使用实践 - 安木夕 - 博客园](https://www.cnblogs.com/anding/p/18919985)
+
+- **VSCode**
+
+  - [2025 最顺眼的 VSCode 主题推荐，码字效率++！谁用谁上头～](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514778&idx=2&sn=032f2a1f2fc097e5649ed491b62c8b7a&chksm=96c418c831080858f3fca3471ed117712658c043214cee1cdd51bdff2511ea52095f1d56b778&scene=126&sessionid=1751112758&poc_token=HDzcX2ijsMQZZyVPkiD0dimw6FxCGm4UVlb0KQNX)
+
+- **Rider**
+
+  - [Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/#)
+
+    > Rider 2025.2 EAP 5 版本刚刚发布，这次带来了两项针对 .NET 开发者的主要生产力提升。
 
 
 
@@ -789,6 +845,10 @@
   - [.NET MAUI Performance Features in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-9-performance-improvements-in-dotnet-maui/)
 
     > .NET 多平台应用 UI （.NET MAUI） 随着每个版本的发展而不断发展，.NET 9 将重点放在剪裁和新的受支持运行时上：NativeAOT。这些功能可以帮助您减小应用程序大小、缩短启动时间，并确保您的应用程序在各种平台上平稳运行。希望优化其 .NET MAUI 应用程序的开发人员和 NuGet 包作者都能够在 .NET 9 中利用这些功能。
+  
+  - [Multimodal Vision Intelligence with .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/multimodal-vision-intelligence-with-dotnet-maui/)
+  
+    > 扩展用户与我们的应用交互的多种方式，是使用现代 AI 模型和设备功能时最令人兴奋的部分之一。借助.NET MAUI，您可以轻松地将应用从基于文本的体验升级为支持语音、视觉及其他功能的应用。
 
 
 
@@ -812,6 +872,14 @@
 ## L. 类库推荐
 
 - [精选10款C#/.NET开发必备类库（含使用教程），工作效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507960&idx=1&sn=58aad693c96948548681175bcb06064f&chksm=96bc77fc24687ebde647aa9ec32b0f6ae52e6c26534751cbc0d26df0f0ba1a9af481c91634e4&scene=126&sessionid=1733275028#rd)
+
+
+
+## L. Linux/Unix
+
+- [.NET 10 支持Linux/Unix 的Shebang（Hashbang） - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/18930500)
+
+  > .NET 10 Preview 5 带来的C# 文件脚本化运行，在 Linux/Unix 系统中通过 #!/usr/bin/dotnet run 支持 Shebang（Hashbang）
 
 
 
@@ -849,6 +917,12 @@
 - [Join the .NET & C# Teams at Microsoft Build 2025 - .NET Blog](https://devblogs.microsoft.com/dotnet/join-us-at-build-2025/)
 
   > 微软 Build 2025 的倒计时已经开始！呼吁所有.NET 开发者：准备好享受令人兴奋的.NET 和 C#内容。无论你是经验丰富的老手还是初学者，这里都有适合每个人的内容可以深入探索和享受。不要错过这次学习并与.NET 和微软社区其他成员建立联系的机会。
+
+
+
+## M. 密码与安全
+
+- [.NET 10 引入 后量子密码学 （PQC）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514634&idx=2&sn=54ce5c072b3120a229905855695366ca&chksm=96f37e23c2902333f71fd655558f0ba3839ed0159aa1a7d53fba916d63e1ce6481af74d56158&scene=126&sessionid=1750474128#rd)
 
 
 
@@ -913,6 +987,7 @@
 ## P. PDF处理
 
 - [用C#写个PDF批量合并工具简化日常工作 (qq.com)](https://mp.weixin.qq.com/s/MW5HFdu3jJTJ6TMpa36tXw)
+- [WinForm中实现Adobe PDF Reader实现旋转PDF功能 - 我本梁人 - 博客园](https://www.cnblogs.com/wofeiliangren/p/18923487)
 
 
 
@@ -1003,6 +1078,17 @@
 
 
 
+## R. 软件工程
+
+- [C#代码如何影响CPU缓存速度？](https://mp.weixin.qq.com/s/Mjv7KyWan-oVJt-nlPR_PA)
+
+
+
+## R. React
+
+- [ASP.NET Core WebApi+React UI开发入门详解](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514765&idx=3&sn=85ecfef9387936374885dc699b995569&chksm=963fef45833dc5ab4e5eab3b1ddd4551cc04d401ee00f7631a421abe169c41afdfaa461b399b&scene=126&sessionid=1750985256#rd)
+
+
 
 ## S. 算法
 
@@ -1023,13 +1109,13 @@
 - [面试官：数据库的隔离是什么意思？ (qq.com)](https://mp.weixin.qq.com/s/lGCBVqLrn1gsih9PEOYbgg)
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&scene=21#wechat_redirect)
 - [工作面试必备：SQL 中的各种连接 JOIN 的区别总结！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511537&idx=1&sn=9acaa59e433339ca24c159ef452d5825&chksm=96a05a9380059117e5ccd4ab46999ea33c07ca29119a68b96ca747abe84dc84f051449672360&scene=126&sessionid=1742173108#rd)
+- [SQL常见100面试题解析](https://mp.weixin.qq.com/s/39VVuwQcWYWSmaCAUssQ5w)
 - [ADO.NET中SQL绑定变量方式总结 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/18774515)
 - **关系型数据库**
   - **SQL Server**
     - [微软正式发布 SQL Server 2025 公开预览版，深度集成AI功能](https://mp.weixin.qq.com/s/eS6CR6X1TMy5H6YAnT1zxA)
   - **SQLite**
     - [sqlite-vec：谁说SQLite不是向量数据库？](https://mp.weixin.qq.com/s/vgnhoVJQcaYXsSguJ9m2Jw)
-  
 - **MySQL**
   - [后端程序员必备：15个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507055&idx=3&sn=c23ad53890f8f008e86d02a8e2747c0c&chksm=96ef2fb68f2a59a311f61f4b44d32392db93b1e98cb53f6b7f92c2ec8e2bfcc5de83a1939d3a&scene=126&sessionid=1730854499#rd)
   - [MySQL高性能体系结构](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511983&idx=2&sn=d94c4441a43a6906007bec03a65249db&chksm=9629334dedd69fb3765672ebf47c77692bb22c5c99dcb9381fbeeddfd3a2535ac5e4387b2eb2&scene=126&sessionid=1743556275#rd)
@@ -1115,18 +1201,30 @@
     - [使用Visual Studio分析.NET Dump，快速排查内存泄漏问题！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507622&idx=1&sn=4e1ea321ea7bb0625df3b4096bdfa5f0&chksm=96d1669d120b169df8689bd1148063e2769206a4b539cd97b054002d2b2b27d04647013368fc&scene=126&sessionid=1732151313#rd)
     - [.NET开发必备技巧：使用Visual Studio分析.NET Dump，快速查找程序内存泄漏问题！ (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504555&idx=1&sn=aa0780c9fd33e8d32601db2781cd4225&chksm=965ce7cf5f928550647ab8488e6f3dc088fea8d36ce935ed08d410bb49e0b6c77b86b2729275&scene=126&sessionid=1724978463#rd)
     - [记一次 .NET某数字化协同管理系统 内存暴涨分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18681199)
-    
+    - [.NET Core 内存泄漏排查实战指南](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514939&idx=2&sn=a3859998c5e021a9df739582c060bc4b&chksm=968929ba473d2d6c1401bb697d9417ee5d0973a15bbfa45cece50377fc53bb8590c1bd5e0488&scene=126&sessionid=1751590889#rd)
+  
   - **程序卡死问题分析**
+  
     - [一个超经典WinForm,WPF卡死问题的终极反思](https://mp.weixin.qq.com/s/OFhf0rtbo9XdbcesD67j_Q)
-    
+  
   - **CPU爆高分析（程序卡慢）**
     - [记一次 .NET某云HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512298&idx=2&sn=e1ccdce6d06717d42e84943d265fe24e&chksm=9696f438e862718e435d26950927b18e821e71e4eb36131a076404bd9c4416647375f68755b7&scene=126&sessionid=1744506245#rd)
-    
+  
     - [记一次 .NET某固高运动卡测试 卡慢分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512493&idx=2&sn=36fcace87427e4ee263c0b808f522caa&chksm=9626507cb3c9cd47ec6cc470ff8358295bf92fdca02ee03e34fc235036b6ebbcbe6ef5b7af8e&scene=126&sessionid=1745155285#rd)
-    
+  
     - [WinDbg 分析 .NET Dump 线程锁问题 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18894206)
-    
+  
       > 在定位 .NET 应用程序中的高 CPU 占用问题时，WinDbg 是非常强大的工具之一，尤其配合 SOS 扩展使用可以快速锁定“忙线程”或死锁等问题。本文将基于一次实际的分析流程，演示如何一步步定位由线程锁引起的 CPU 高占用。
+      
+    - [记一次 .NET 某无语的电商采集系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514604&idx=3&sn=c29c1069b4cd69695afbbf8f38ac3b20&chksm=9668f60ccb222faef33bbd1cc537e8b0d0d168383aed6a942f1b06d8487484208c1e57a330c9&scene=126&sessionid=1750330396#rd)
+  
+  - **程序奔溃**
+  
+    - [记一次 .NET 某发证机系统 崩溃分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18932886)
+  
+  - **GC**
+  
+    - [MinHook 如何对 .NET 母体 CoreCLR 进行拦截](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514939&idx=3&sn=6f5705bddb3c5a0fcede2d62aeb35c8f&chksm=96493774034f775137c6d044c1624187a22d615ca9e498a1fb0e31aa224a37dbf9be077ace0d&scene=126&sessionid=1751590889#rd)
 
 
 
@@ -1144,45 +1242,50 @@
 
 - **多线程**
   - [C#实现多线程的几种方式 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500224&idx=1&sn=a5d21a0b42e61f317fc8eaa4168a0ac2&scene=21#wechat_redirect)
-  
+
   - [【译】让多线程调试更有意义 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18846145)
-  
+
     > 调试复杂的程序常常感觉像是在迷宫般的线程和堆栈跟踪中跳转。理解线程行为和跟踪问题的挑战可能令人生畏，这会导致更长的开发时间和更大的挫败感。但是现在，有一个解决方案可以简化这个过程——在 Visual Studio 的并行堆栈窗口中引入 AI 驱动的线程摘要。
-  
+
 - **线程锁**
-  
+
   - **[探索C#中的多线程神器Monitor和Lock](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504171&idx=2&sn=49befd777d9818ff124db42ebe7e1fac&chksm=96338dd7700e9bf2c00c4baee847b07f9855d33dd075bf1b49f64463396ac472940d5a014fac&scene=126&sessionid=1723768329#rd)**
-  
+
 - **线程同步**
   - [C# Barrier进行多线程同步](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504737&idx=3&sn=d33d01d45e30fae85a0b4d6cf1b65b0e&chksm=9699f872d98ed7d09a6c2b0c7bd87bc64180cdf54950e6f0ca1a9b851a7d9c15ae4fd1ea2a8b&scene=126&sessionid=1725718515#rd)
-  
+
 - **异步**
-  
+
   - [揭秘C#异步编程核心机制：从状态机到线程池的全面拆解 - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18909634)
-  
+
     > C#中的异步编程是一个强大且复杂的特性，它允许开发者编写非阻塞的代码，从而显著提升应用程序的响应性和吞吐量。本文将深入剖析异步编程的底层原理，从async和await关键字的工作机制，到状态机、任务调度、线程管理和异常处理等核心概念。
-  
+
   - [聊一聊 C#异步 任务延续的三种底层玩法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=2&sn=64514f54589397a27a9c95a9e78cde16&chksm=9644e747e4c46599bad92880716fbf8b6f15809c94000de722730b42fdaa210398d06bd028b7&scene=126&sessionid=1736503976#rd)
-  
+
   - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
-  
+
   - [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)
-  
+
   - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
-  
+
   - [C#中 Task 结合 CancellationTokenSource的妙用 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18620273)
-  
+
   - [Invoking Async Power: What Awaits WinForms in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/introducing-winforms-async-apis/)
-  
+
   - [聊一聊 .NET在Linux下的IO多路复用select和epoll - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18911996)
-  
+
     > 在windows平台上，相信很多人都知道.NET异步机制是借助了Windows自带的 IO完成端口 实现的异步交互，那在 Linux 下.NET 又是怎么玩的呢？主要还是传统的 select，poll，epoll 的IO多路复用，在 coreclr源代码中我们都能找到它们的影子。
-  
+
   - [一个高频问题：异步操作会创建线程吗？ - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/16085461.html)
-  
+
+  - [C# 异步编程：从 async/await 到 Task 并行库的全面解析 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18932383)
+
 - **并发**
   - [后端思维之高并发处理方案](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511947&idx=2&sn=b78f6ed86f43a99b792a6b009afdac50&chksm=96a5e705d99f22190c90847642318a11162db99581a0d38133834303d5e19297533b48cec601&scene=126&sessionid=1743469108#rd)
 
+- **线程安全**
+
+  - [C# 锁机制全景与高效实践：从 Monitor 到 .NET 9 全新 Lock - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18924622)
 
 
 
@@ -1257,8 +1360,14 @@
 ## W. WebAPI
 
 - [细聊ASP.NET Core WebAPI格式化程序 (qq.com)](https://mp.weixin.qq.com/s/_fGnrUd-fNGdU6CUbj4uVQ)
+
 - [C# WebAPI 插件热插拔 - 黄金程序员 - 博客园](https://www.cnblogs.com/BFMC/p/18687474)
+
 - [MySurvey 问卷调查, 一个简单的Biwen.QuickApi示例项目 - 万雅虎 - 博客园](https://www.cnblogs.com/vipwan/p/18808244)
+
+- [C# 与低代码平台的融合：以活字格为例的 Web API 开发实践 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18924171)
+
+  > 在当今软件开发领域，低代码平台凭借其高效、便捷的特性逐渐成为开发的主流趋势。而 C# 作为一种功能强大的编程语言，在服务端开发中有着广泛的应用。将 C# 与低代码平台相结合，能够充分发挥两者的优势，快速开发出高质量的应用程序。本文将以葡萄城公司的企业级低代码平台 —— 活字格为例，详细介绍如何使用 C# 进行接口扩展，创建服务端 Web API。
 
 
 
@@ -1277,6 +1386,7 @@
 ## W. 委托
 
 - [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18594690)
+- [C# 中委托和事件的深度剖析与应用场景 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18926505)
 
 
 
@@ -1298,6 +1408,26 @@
 - [在 Windows 11 上为 WD 窗口启用 Snap 功能](https://mp.weixin.qq.com/s/LVcPToqTQZUMPJ-nU6uuEQ)
 - [WPF 在 Windows 实现任务栏缩略图](https://mp.weixin.qq.com/s/bggT2J5qLXT8QvsVG-akLQ)
 - [WPF 使用GDI+提取图片主色调并生成Mica材质特效背景](https://mp.weixin.qq.com/s/8hF85IoP1LiBSk0QKLGiAQ)
+
+
+
+## W. 文件处理
+
+- **电子表格**
+
+  - [基于 C# 和 .NET 的 Spread.NET 数据处理实战 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18930958)
+
+    > Spread.NET 是一款全面的 .NET 表格控件，它支持多种数据绑定方式，能够与各种数据源（如数据库、XML 文件等）进行无缝集成。同时，它提供了丰富的单元格样式设置、公式计算、数据验证、排序和筛选等功能，可满足不同场景下的数据处理需求。其界面友好，易于使用，无论是简单的数据展示还是复杂的数据分析，Spread.NET 都能提供出色的解决方案。
+
+  - [C# 将 CSV 转化为 Excel - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18934279)
+
+    > 在数据处理和交换的过程中，CSV（逗号分隔值）格式和 Excel 文件格式都是非常常见的。CSV 文件以纯文本形式存储表格数据，易于生成和处理；而 Excel 文件则提供了更丰富的功能，如数据可视化、公式计算等。在实际应用中，我们经常需要将 CSV 文件转化为 Excel 文件，以利用 Excel 的强大功能进行数据分析和展示。本文将介绍如何使用合适的技术手段在 C# 中实现将 CSV 文件转化为 Excel 文件的功能。
+
+
+
+## W. WMI
+
+- [记录.Net 8 发布增加 PublishTrimmed 裁剪选项，调用WMI 的ManagementObject 异常 - wuty007 - 博客园](https://www.cnblogs.com/wuty/p/18931865)
 
 
 
@@ -1351,7 +1481,15 @@
 ## Y. 音频/视频
 
 - [【音视频通话】使用asp.net core 8+vue3 实现高效音视频通话 - 四处观察 - 博客园 (cnblogs.com)](https://www.cnblogs.com/1996-Chinese-Chen/p/18384394)
+
 - [.NET 摄像头采集 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18385599)
+
+- **音频**
+
+  - [C#实现语音预处理：降噪、静音检测、自动增益（附Demo源码） - zhuweisky - 博客园](https://www.cnblogs.com/zhuweisky/p/18936492)
+
+    > 无论是在音视频录制系统，还是音视频通话系统、或视频会议系统中，对从麦克风采集到的说话的声音数据进行预处理，都是是非常必要的。语音数据预处理主要包括：降噪（Noise Reduction）、静音检测（Silence Detection/VAD）、自动增益（Automatic Gain Control, AGC）。
+
 
 
 

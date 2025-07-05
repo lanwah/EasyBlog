@@ -824,6 +824,12 @@ Windows PowerShell ISE 作为经典脚本工具，凭借易用性和轻量化在
 
 
 
+## PowerShell Studio
+
+[Welcome to PowerShell Studio](https://info.sapien.com/manuals/powershell_studio/index.html)
+
+
+
 # 相关书籍
 
 

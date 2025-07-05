@@ -16,3 +16,4 @@ MSDoc：[UTF8Encoding 类](https://learn.microsoft.com/zh-cn/dotnet/api/system.t
 16进制：EF-BB-BF
 
 ==注意==：使用 Encoding.UTF8 时，对应的编码方式为 <span style="color:blue;">UTF-8-BOM</span> 。
+
