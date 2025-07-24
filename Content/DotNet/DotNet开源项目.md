@@ -125,6 +125,8 @@
 | **Git:[MudBlazor](https://github.com/MudBlazor/MudBlazor)**  | [MIT license](https://github.com/MudBlazor/MudBlazor#MIT-1-ov-file) | MudBlazor是一个基于Material Design风格开源、免费（MIT License）、<br />功能强大的Blazor组件框架，注重易用性和清晰的结构。<br />它非常适合想要快速构建Web应用程序的 .NET 开发人员，无需费力地处理 CSS 和 JavaScript。<br />由于MudBlazor完全使用C#编写，因此你可以自由地调整、修复或扩展该框架。<br />文档中有大量示例代码，能够帮助开发者快速理解和学习MudBlazor框架。<br />[在线文档](https://mudblazor.com/docs/overview) |
 | Git:[MatBlazor](https://github.com/SamProf/MatBlazor)        | [MIT license](https://github.com/SamProf/MatBlazor#MIT-1-ov-file) | 今天大姚给大家分享一套基于 Material Design 规范实现的、开源（MIT license）<br />且免费的 Blazor 和 Razor 通用组件库：MatBlazor。 |
 | Git:[fluentui-blazor](https://github.com/microsoft/fluentui-blazor) | [MIT license](https://github.com/microsoft/fluentui-blazor#MIT-1-ov-file) | Fluent UI Blazor是一个由微软官方开源（MIT License）、免费的Blazor UI组件库，<br />提供了一系列的UI组件以及Fluent UI的设计系统。<br />该库可以帮助开发人员快速构建现代化的 Web 应用程序，并且与 Blazor 技术相结合，<br />可以实现高效而灵活的单页应用程序开发。 |
+| **Gitee:[bulmarazor](https://gitee.com/loogn/bulmarazor)**   | MIT                                                          | BulmaRazor 是一套基于 Bulma 和 Blazor 的开源（MIT）、免费、轻量级组件库。<br />它利用 Blazor 框架的优势，使用 C# 代替 JavaScript 来创建丰富的交互式 UI，<br />并共享使用 .NET 编写的服务器端和客户端应用逻辑。通过封装 Bulma 样式，<br />BulmaRazor 提供了一组稳定、功能丰富且易用的 UI 组件，<br />助力开发者快速构建现代化的 Web 应用。 |
+| Git:[MASA.Blazor](https://github.com/masastack/MASA.Blazor)  | MIT License                                                  | MASA Blazor 是一个遵循 Material Design 设计规范、<br />开源免费（MIT License）的 Blazor 组件库。它提供如布局、弹框标准、Loading、<br />全局异常处理等标准场景的预置组件，从更多实际场景出发，<br />满足更多用户和场景的需求，最大的减少开发者的时间成本。<br />缩短开发周期提高开发效率。 |
 
 ### 相关参考
 
@@ -134,6 +136,9 @@
 - [MudBlazor：基于Material Design风格开源且强大的Blazor组件库【MudBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=1&sn=db13e3d5e01929862b1289150408a3dc&chksm=96816cabe24edb96c73d10cdc57c6c2c20707f9df0f1fb4b49a311667a2090046361088a6e9f&scene=126&sessionid=1731206998#rd)
 - [一套基于 Material Design 规范实现的 Blazor 和 Razor 通用组件库【MatBlazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510824&idx=1&sn=5b6f147d2c47b16c90a1c426ed17452c&chksm=9648c227ad4bdb8f6d53c78a80c16ec60fa9b87b15ea59400e52de0403e53736d8f9434ee89f&scene=126&sessionid=1740617026#rd)
 - [精选 5 款开源、免费、美观的 .NET Blazor UI 组件库【Fluent UI Blazor】【BootstrapBlazor】【Ant Design Blazor】【MudBlazor】【MatBlazor】](https://mp.weixin.qq.com/s/z2gMth_M2HWOz0st-5Shww)
+- [推荐 7 款开源、免费、美观的 .NET Blazor UI 组件库【BootstrapBlazor】【Ant Design Blazor】【MASA Blazor】【Fluent UI Blazor】【MudBlazor】【MatBlazor】【BulmaRazor】](https://mp.weixin.qq.com/s/3Ra3-hBkaUmpsId01x9sUg?scene=0&subscene=90)
+- [一套基于 Bulma 和 Blazor 的轻量级组件库【BulmaRazor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247515028&idx=2&sn=2c3bb69deaf3194a36148091902a244a&chksm=9622aad86ae79e1eb3aad137840b51d9f57f976bf5df682598155e32bc739a7704f6146330f7&scene=126&sessionid=1752022453#rd)
+- [一个遵循 Material Design 设计规范、开源免费的 Blazor 组件库【MASA Blazor】](https://mp.weixin.qq.com/s/zjwzr0KZQGp1HoJtWjmp7g)
 
 
 
@@ -242,6 +247,7 @@
 - [使用 BenchmarkDotNet 对 .NET 代码进行性能基准测试【BenchmarkDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=1&sn=e74b6a3d66776cd3e63a806a0cbf4d6b&chksm=96e0a775ac2fb867a483014f6d874334cdac6dcb2a1d80136d44a0cdb6480880a74295ff411a&scene=126&sessionid=1732668893#rd)
 - [一个基于.NET开源、功能全面、易于使用的性能基准测试框架【BenchmarkDotNet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509011&idx=1&sn=9a445926f7512292891d2eebfa4ffb6b&chksm=96e8ff6ac94129e1117730275bd5525e34d8b55fd92d98f68633dfe1a8dedb48678e1188a62c&scene=126&sessionid=1736080476#rd)
 - [使用 xUnit 快速编写 .NET 应用单元测试【xUnit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514754&idx=1&sn=c9a6ee07e6f1d36c2b28b977886cbabe&chksm=9697ea46e352cccee1d7a82d8bfb5506b44d9580a016931cd2b105df29bc15ccaf94eae8d5c8&scene=126&sessionid=1750814088#rd)
+- [一个 .NET 开源、免费、以社区为中心的单元测试框架【xunit】](https://mp.weixin.qq.com/s/SZ5ZEoIJ-N35egPt2piy_w)
 
 
 
@@ -390,6 +396,22 @@
 ### 相关参考
 
 - [一个开源、强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计！【FormCreate】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512433&idx=2&sn=90c18223490165689dcf0c2159a0ac54&chksm=96c777034a085268b0bea29a148afc145719a21a0dcb50a4154c5dd8af4987755ecb35e8ebe0&scene=126&sessionid=1744678388#rd)
+
+
+
+## D. Docker
+
+| 项目名称                                            | 使用的协议                                                   | 功能说明/介绍                                                |
+| --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Docker Desktop                                      | [下载地址](https://www.docker.com/products/docker-desktop)   | Docker Desktop 是 Docker 公司提供的一款用于 Windows 、<br />Mac和Linux 操作系统的桌面应用程序，它简化了在本地开发和部署应用程序的过程。<br />通过 Docker Desktop，开发人员可以更轻松地创建、测试和运行容器化应用程序。 |
+| [portainer](https://github.com/portainer/portainer) |                                                              | Portainer 社区版是一个面向容器化应用程序的轻量级服务交付平台，<br />可用于管理 Docker、Swarm、Kubernetes 和 ACI 环境。<br />它的设计宗旨是部署简单，使用方便。<br />该应用程序允许您通过智能图形用户界面和/或广泛的 API 管理所有协调器资源<br />（容器、镜像、卷、网络等）。 |
+| [dpanel](https://github.com/donknap/dpanel)         |                                                              | DPanel 是一款开源、轻量化的 Docker 可视化管理面板，原生的中文的界面，<br />更适合中文环境使用。同时支持英文、日文等多种语言。安装简单，占用资源极低，<br />更适合各种 Nas 设备、盒子以及小型服务器。面板以容器的方式运行，<br />不需要特权，对宿主机没有依赖及侵入，安全可靠。<br />面板提供了容器、Compose、镜像等容器管理的基础功能。 |
+| [docker.ui](https://github.com/gohutool/docker.ui)  |                                                              | DockerUI 是一个易于使用且轻量级的Docker管理工具。<br />通过Web界面的操作，可以更方便地让不熟悉Docker指令的用户更快地进入Docker世界。<br />DockerUI覆盖了Docker CLI命令行的95％以上的命令功能。<br />通过DockerUI界面提供的可视化操作功能，<br />可以轻松执行Docker环境和Docker Swarm群集环境的管理和维护功能。 |
+| [dockge](https://github.com/louislam/dockge)        | [MIT license](https://github.com/louislam/dockge#MIT-1-ov-file) | Dockge 是一个开源免费（MIT license）、<br />易于使用且响应迅速的自托管 docker compose.yaml 堆栈型管理器。<br />通过 Dockge 可以轻松的管理你的 compose.yaml 文件（创建、编辑、启动、停止、重启和删除），<br />提供 compose.yaml 交互式编辑器、交互式网页终端等功能。 |
+
+### 相关参考
+
+- [推荐 5 款实用的 Docker 可视化管理工具，工作效率翻倍！【Docker Desktop】【Portainer】【DPanel】【DockerUI】【Dockge】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247515310&idx=1&sn=0eb2f9668f99fed27724ee72c757e2b7&chksm=964fcdd911247d2f932a4ad69e596a6ec49392432da2b3308592379d7b6cfa6d019e9f6f1943&scene=126&sessionid=1752384586#rd)
 
 
 
@@ -561,6 +583,8 @@
 | Git:[soybean-admin](https://github.com/soybeanjs/soybean-admin) | [MIT license](https://github.com/soybeanjs/soybean-admin#MIT-1-ov-file) | SoybeanAdmin是一个清新优雅、高颜值且功能强大的后台管理模板，<br />基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia 和 UnoCSS。<br />它内置了丰富的主题配置和组件，代码规范严谨，实现了自动化的文件路由系统。<br />此外，它还采用了基于 ApiFox 的在线Mock数据方案。<br />SoybeanAdmin 为您提供了一站式的后台管理解决方案，无需额外配置，<br />开箱即用。同样是一个快速学习前沿技术的最佳实践。 |
 | Git:[SnowAdmin](https://github.com/WANG-Fan0912/SnowAdmin)   | [MIT license](https://github.com/WANG-Fan0912/SnowAdmin#MIT-1-ov-file) | SnowAdmin 是一款基于 Vue3、TypeScript、Vite5、Pinia、<br />Arco-Design 的开源后台管理框架。它以其清新优雅、高颜值且功能强大的特点，<br />为开发者提供了一站式的后台管理解决方案。<br />SnowAdmin 内置了丰富的主题配置和组件，代码规范严谨，<br />并实现了自动化的文件路由系统，使得开发者能够快速上手并进行二次开发。 |
 | **Gitee:[Caviar-Blazor](https://gitee.com/Cherryblossoms/caviar)** | Apache-2.0                                                   | Caviar 是一个基于 .NET 8 + Ant Design Blazor 开发的、<br />基于 Apache-2.0 协议开源的后台管理框架，使用简洁架构，简单大方现代，<br />包含了后台管理基础功能，在开发上为了方便，封装了很多Ant Design组件，<br />包含了自动列表、高级搜索、自动化菜单、布局等。<br />此外，该框架在代码生成上实现了100%的代码隔离，<br />确保修改和重新生成代码不会对开发者造成任何影响，同时保持了开发的灵活性。 |
+| **Gitee:[vue-naive-admin](https://gitee.com/isme-admin/vue-naive-admin)** | MIT                                                          | Vue Naive Admin 是一款开源（MIT License）、极简风格的后台管理模板，<br />包含前后端解决方案，前端使用 Vite + Vue3 + Pinia + Unocss，<br />后端使用 Nestjs + TypeOrm + MySql，简单易用，赏心悦目，<br />历经十几次重构和细节打磨，诚意满满！ |
+| **Gitee：[fancyx-admin](https://gitee.com/fancyxnet/fancyx-admin)** | MIT                                                          | 风汐管理系统一款开源的通用后台权限解决方案，<br />由作者独立设计并实现，未使用任何第三方Admin框架。<br />其核心目标是为个人开发与企业提供一套高效、美观、<br />易上手的管理系统基座。系统深度集成RBAC（基于角色的访问控制）模型，<br />支持细粒度的按钮操作权限与数据范围权限，并内置多租户隔离机制，<br />满足SaaS化部署需求。<br />项目采用严格挑选的稳定技术栈（.NET 9 + React 18），<br />确保代码具有优秀的扩展性、可维护性与快速定制能力，<br />在为.NET + React 技术生态贡献高质量实践范例。 |
 
 ### 相关参考
 
@@ -571,11 +595,14 @@
 - [Vben Admin：一个开箱即用的大型中后台管理系统解决方案【Vue Vben Admin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=3&sn=db45585b3a315e14fd5a09d1481af9b2&chksm=96c0017e41a96e424b4cff0e4f33b38c7b6cbf5f2a3eeebcea4607c4b9575eb85f3babd90d36&scene=126&sessionid=1729426307#rd)
 - [2024年值得推荐的6款 Vue 后台管理系统模板，开源且免费！【vue-element-admin】【Naive Ui Admin】【Ant Design Vue Pro】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507867&idx=1&sn=95eedb4ba67fbcf3ddc04443ef8c9602&chksm=962c08fbe2f25995e349b7f73d1da0ce8e982e1e874337da2330d8c3b5ec922ed8bf770dab98&scene=126&sessionid=1733100642#rd)
 - [一个使用 WPF 开发的管理系统【WPFManager】](https://mp.weixin.qq.com/s/FWO-3d8G3i1Ve_QPlIpiXA)
+- [一款基于 WPF 开发的管理系统！【WPFManager】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247515310&idx=2&sn=8dc40f982f390690094663c1786f8ebe&chksm=960bc68d9dc7d67987afd43f45eeee40bbc89d6f580fface7aa9c3a32d246a49e5ee0aa47d6c&scene=126&sessionid=1752384586#rd)
 - [一款开源免费、美观实用的后台管理系统模版，简单轻量、开箱即用！【Art Design Pro】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511807&idx=3&sn=03e8bfb14ff6c2a9e228dbfb2be4d51b&chksm=961f50706b65eff53ba9523360260b1bd69997b8bf18fb492b43d93b7eb9e4e27d5400fbc89e&scene=126&sessionid=1742951008#rd)
 - [一款基于 .NET 8 + Vue 开源的、企业级中后台权限管理系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512130&idx=1&sn=91f7d557891cfd4b471dc69182291db8&chksm=96a740e8e515f10d617173c5354615233036d4e13f6697c69913fad6d9cd6d4a1ba5f188000b&scene=126&sessionid=1744159839#rd)
 - [精选 12 款开源、免费、美观的 Vue 后台管理系统模板！【vue-element-admin】【Art Design Pro】【Naive Ui Admin】【vue-element-plus-admin】【Ant Design Vue Pro】【Geeker Admin】【SoybeanAdmin】【vue-vben-admin】【Arco Design Pro Vue】【vue-pure-admin】【TDesign Vue Next Starter】【SnowAdmin】](https://mp.weixin.qq.com/s/tAoSd_r6sjMx23sYiwcJWQ)
 - [一个清新优雅、高颜值且功能强大的 Vue3 后台管理模板，无需额外配置，开箱即用！【SnowAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514224&idx=2&sn=cca4d1c96380e0f55d1d6733369d08dd&chksm=960bd2de55cb76ca55f5f9342d1bd6ffb3887c212a267af703d9ccefd5131b6bae1fec258ad6&scene=126&sessionid=1749371092#rd)
 - [一个基于 .NET 8 + Ant Design Blazor 开发的简洁现代后台管理框架【Caviar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514341&idx=1&sn=1f9af6f5c00ba822a4e46735df706273&chksm=96146c5f794e9946c2b07e183de9fcc90eadccb337c57a45e1128ac9462130736304e0a2f681&scene=126&sessionid=1749802792#rd)
+- [一款轻量、简洁、优雅的 Vue3 中后台管理模板，开源免费可商用！【Vue Naive Admin】](https://mp.weixin.qq.com/s/Z9D1MQVkvurv1t1G16Mr6g?scene=0&subscene=90)
+- [.NET 9 + React 开发的企业级后台权限管理系统，文档齐全，轻松上手 - 小码编匠 - 博客园【风汐管理】](https://www.cnblogs.com/1312mn/p/18974282)
 
 
 
@@ -716,15 +743,16 @@
 
 ## J. 交易引擎
 
-| 项目名称                                         | 使用的协议                                                   | 功能介绍/说明                                                |
-| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Git:[Lean](https://github.com/QuantConnect/Lean) | [Apache-2.0 license](https://github.com/QuantConnect/Lean#Apache-2.0-1-ov-file) | Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、<br />采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），<br />该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。<br />它允许开发者直接从终端管理项目、运行回测、<br />部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、<br />实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。<br />它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。 |
-|                                                  |                                                              |                                                              |
-|                                                  |                                                              |                                                              |
+| 项目名称                                                    | 使用的协议                                                   | 功能介绍/说明                                                |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[Lean](https://github.com/QuantConnect/Lean)            | [Apache-2.0 license](https://github.com/QuantConnect/Lean#Apache-2.0-1-ov-file) | Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、<br />采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），<br />该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。<br />它允许开发者直接从终端管理项目、运行回测、<br />部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、<br />实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。<br />它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。 |
+| Git:[TradingSystem](https://github.com/oybab/TradingSystem) | Oybab Trading System License                                 | TradingSystem 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统，<br />旨在为餐厅、超市、酒店等多种商业场景提供一体化的解决方案。<br />该系统涵盖了服务器端、PC 客户端和手机客户端的全面源码，支持中文界面，<br />功能丰富且易于扩展。无论是日常交易管理、会员管理，<br />还是打印小票和生成统计报表，TradingSystem 都能提供高效、便捷的服务。 |
+|                                                             |                                                              |                                                              |
 
 ### 相关参考
 
 - [一个基于 C# 编写的事件驱动、具备专业水准的算法交易平台（量化交易引擎）【Lean】](https://mp.weixin.qq.com/s/MDn-Z1TB3qQn7yqfcP5Eug)
+- [一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统【TradingSystem】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247515383&idx=1&sn=9348e8fd71b4d1613b8ea34d00ddf69b&chksm=9630906ba6ad1f15623f133e2e3d66f0675cf41c9f92908466d48b39d559874234fef72d894f&scene=126&sessionid=1752712500#rd)
 
 
 
@@ -1120,8 +1148,10 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[QuestPDF](https://github.com/QuestPDF/QuestPDF)**     | [QuestPDF License](https://github.com/QuestPDF/QuestPDF?tab=License-1-ov-file#readme) | QuestPDF 是一个用于生成 PDF 文档的现代开源 .NET 库。<br />QuestPDF 由简洁易用的 C# Fluent API 提供全面的布局引擎。<br />轻松生成 PDF 报告、发票、导出等。QuestPDF它提供了一个布局引擎，<br />在设计时考虑了完整的分页支持。与其他库不同，它不依赖于 HTML 到 PDF 的转换，<br />这在许多情况下是不可靠的。相反，它实现了自己的布局引擎，该引擎经过优化，<br />可以满足所有与分页相关的要求。 |
 | **Git:[sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)** | GPL-3.0, Unknown licenses found                              | SumatraPDF是一个功能强大、易于使用的多格式文档阅读器，<br />适合在Windows平台上阅读各种类型的文档。 |
+| [Caly](https://github.com/CalyPdf/Caly)                      | [MIT license](https://github.com/CalyPdf/Caly#MIT-1-ov-file) | Caly 是一款 .NET 开源免费（MIT license）、轻量快速、跨平台的 PDF 阅读器，<br />工具性能和效率是其核心设计理念。Caly 利用 Avalonia UI、<br />SkiaSharp 和 PdfPig 的强大功能，可在 Windows、macOS 和 Linux 上无缝运行。 |
 | **Git:[PDFPatcher](https://github.com/wmjordan/PDFPatcher)** |                                                              | PDF 补丁丁（PDFPatcher）是一个.NET开源、功能强大的 PDF 处理工具，<br />旨在为用户提供便捷、高效的 PDF 编辑和管理体验。该项目不仅支持对 <br />PDF 文档进行多种修改和定制操作，还包含了书签编辑、PDF 制作、<br />文件拆分与合并、图片导出、字体替换等实用功能。 |
 | PDF Arranger                                                 |                                                              | PDF Arranger 是一款功能强大、易于使用的 PDF 文件整理工具，<br />它提供了丰富的功能和直观的界面，能够满足用户在处理 PDF 文件时的各种需求。<br />无论是合并、拆分、旋转、裁剪还是重新排列页面，<br />PDF Arranger 都能够轻松胜任。<br />[下载地址](https://github.com/pdfarranger/pdfarranger/releases) |
+| [docnet](https://github.com/GowenGit/docnet)                 | [MIT license](https://github.com/GowenGit/docnet#MIT-1-ov-file) | DocNET 是一个基于 .NET 开源（MIT license）、<br />跨平台（支持Windows、Linux和macOS平台）的旨在提供<br />快速 PDF 编辑和数据提取的操作库。<br />它是基于 Chromium 所使用的 PDFium C++ 库开发的 .NET Standard 2.0 封装库。 |
 
 ### 相关参考
 
@@ -1131,6 +1161,8 @@
 - [SumatraPDF：一款轻量级、开源、免费的PDF阅读器 【SumatraPDF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=4&sn=350ef79b1b9002ffdd89c68ceb41246c&chksm=96d5d7d905aaee8a39a71d45bfdf1bc48642007efee193f0e74ff7b06435e49e3cd3200b1e36&scene=126&sessionid=1729127563#rd)
 - [一个.NET开源、功能强大的 PDF 处理工具【PDFPatcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=3&sn=8dde60c794127e94e0c909fce8cc26fc&chksm=9672d66ab58fc2a16481034e15cb0913c4f3ff58d10a40b4b0ad2a97bcf7434cbc4322cd49d8&scene=126&sessionid=1729127563#rd)
 - [一个.NET开源、免费、功能强大的 PDF 处理工具【PDFPatcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508042&idx=1&sn=fac71aa9191304ac97577a6204464170&chksm=964fcddd238653f968efbec414e916b72f72459a4dad89c1d151988914dc83a2966cd79b5436&scene=126&sessionid=1733706081#rd)
+- [.NET 使用 DocNET 库快速高效的操作 PDF 文档【DocNET】](https://mp.weixin.qq.com/s/qJloEWIhCx7YY2w3lfTB9g?scene=0&subscene=90)
+- [一款基于 .NET 开源免费、轻量快速、跨平台的 PDF 阅读器【Caly】](https://mp.weixin.qq.com/s/UFMcp-O0Ij1daFI_mN-y5Q?scene=0&subscene=90)
 
 
 
@@ -1182,6 +1214,7 @@
 - **[一款实用的.NET权限工作流框架【OpenAuth.Net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503793&idx=3&sn=0adf991bf4d2ad366d0dc8deb37dfefa&chksm=963765a831870ac57c96a223b7a8451f585adebeb3591022754d914478ac5bbeec968576f972&scene=126&sessionid=1722904874&poc_token=HDhxsWajsQBLJEfI8mvBoElQmLAMOD2FVoVRKGT8)**
 - [一套.NET开源且好用的权限工作流系统【OpenAuth.Net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507032&idx=3&sn=247a75b00d03a9c5718c4d6070fef6f0&chksm=965469defe0bc67fb96293d1880cdb9e5300ee21ec7ca8078d6da42b851db7df1e36f87357ef&scene=126&sessionid=1730854499#rd)
   - [我的开源十年【OpenAuth.Net】](https://mp.weixin.qq.com/s/uFsmazI07_SXS2M40RELWg)
+  - [使用 OpenAuth.Net 快速搭建 .NET 企业级权限工作流系统【OpenAuth.Net】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247515220&idx=1&sn=2a0bb2c950d1e4ea281faca72a3cbd01&chksm=9606f2b2fdc031eea104349d17cca8f0dbb8bf28707429fc6352dc67d2d964967fff148d7155&scene=126&sessionid=1752022453#rd)
 - **[.NET开源的简单、快速、强大的前后端分离后台权限管理系统【Admin.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496023&idx=1&sn=5d73769113d69c06565d63b09947def9&scene=21#wechat_redirect)**
 - **[开箱即用的企业级前后端分离【.NET Core6.0 Api + Vue 2.x + RBAC】权限框架【Blog.Core】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490524&idx=1&sn=746b3b581603b569106e22fa2455854a&scene=21#wechat_redirect)**
 - **[一款基于.NET Core Web + Bootstrap的企业级快速开发框架【YiShaAdmin】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500620&idx=1&sn=311bb3529e3b79e3c29ded1a6ac9658e&scene=21#wechat_redirect)**
@@ -1563,10 +1596,12 @@
 ### 相关参考
 
 - [精选6款.NET开源图表库：免费、高效且功能强大！](https://mp.weixin.qq.com/s/nohV4mO1rmkFkK1HglXzvg)
-- **[LiveCharts2：一个.NET开源、美观、功能强大的.NET图表库【LiveCharts2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=2&sn=ae85d302de7455cfacfb3d02b4626df8&chksm=967c22f1fa95b9356205d80d435824c2aa04a65cc920c51d954f7f5116e83497fef2005682bf&scene=126&sessionid=1721867131#rd)**
 - [推荐7款.NET开源且功能强大图表库，效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/V1pewGJmnygq8ig2Zo_cVQ)
 - [ScottPlot：一个开源且免费的 .NET 绘图库 【ScottPlot】](https://mp.weixin.qq.com/s/G8DeUNu0mw9_HXQXdw80-Q)
 - [2025年全面的 .NET 图表构建解决方案【ScottPlot】【OxyPlot】【LiveCharts2】【XCharts】【ReoGrid】【Blazor-ApexCharts】【BlazorChartjs】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509238&idx=1&sn=236dc9889a61fce59bfce5c1d2b90773&chksm=96d2499a09a373e70485b427d840a0f522b3d98c55d4e447680efab44c27b00ea88acb495ec9&scene=126&sessionid=1736991133#rd)
+- **[LiveCharts2：一个.NET开源、美观、功能强大的.NET图表库【LiveCharts2】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503358&idx=2&sn=ae85d302de7455cfacfb3d02b4626df8&chksm=967c22f1fa95b9356205d80d435824c2aa04a65cc920c51d954f7f5116e83497fef2005682bf&scene=126&sessionid=1721867131#rd)**
+- [一个 .NET 开源美观、灵活易用、功能强大的图表库【LiveCharts2】](https://mp.weixin.qq.com/s/esXBnwqpCruN7sPBut6vYQ?scene=0&subscene=90)
+- [【开源力荐】一个 .NET 开源、快速、功能强大的电子表格组件库【ReoGrid】](https://mp.weixin.qq.com/s/WqPKDD841rlx8jhXmmWkxw)
 - **[一个使用WPF开发的画板工具（包含流程图FlowChart，思维导图MindEditor）【AIStudio.Wpf.Diagram】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503406&idx=3&sn=24dd5a0900768a64a4e0c2a7e907c2e8&chksm=96ab239be0b8e19c69f246b2d12f98f45fc54fc306edb12cf3d9477685355689ee40a5cb4d83&scene=126&sessionid=1722213176#rd)**
 - [一个使用 WPF 开发的 Diagram 画板工具（包含流程图FlowChart，思维导图MindEditor）【AIStudio.Wpf.Diagram】](https://mp.weixin.qq.com/s/dAyNl_8vuKD1-qVvUY044g)
 
@@ -1600,12 +1635,12 @@
 ### 相关参考
 
 - **[C# OnnxRuntime 轻量实时的M-LSD直线检测](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503724&idx=3&sn=fd83d708e218ecb2ee96fa8276261b67&chksm=96f4439a38b6ad7b2ba6cedbd17bb13b292edc3718996116488d31f08ed33cc6521f08cd00a7&scene=126&sessionid=1722818981#rd)**
-
+- [C# OnnxRuntime DIS高精度图像二类分割 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505971&idx=3&sn=b68319b4950810e959a46f56d3ed78a6&chksm=96b1e6b6325b17ed91c5abe17715cc68913f7acf14f242178fc10b25bfbe9c3b1bded8e9ccb0&scene=126&sessionid=1728380448#rd)
+   - [图像分割基本概念看这篇就行 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/624568476#:~:text=我们知道一张图片是由一堆像素构成的，那么图像分割 (Image Segmentation)可以理解成对每一个像素进行分类的任务。 有两种最常见的图像分割技术：语义分割 (Semantic,Segmentation) 和实例分割 (Instance Segmentation)。 语义分割时，在一张图片中有多个同一类物体的时候，这两个物体不用被明确的区分开，他们的像素标签都会是同一类别。 而实例分割时，当一张图片中有多个同一类物体时，不仅需要识别出物体的类别，还需要把两个同类物体给区分开。)
+- [C# OnnxRuntime 动漫人物人脸检测【OnnxRuntime】](https://mp.weixin.qq.com/s/carDenB85DHFe4zjlvrobg)
 - **[78k+ Star 免费且强大的绘图神器，手绘风格，泰酷辣！【excalidraw】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503770&idx=2&sn=1e9af008ff89a6897d061c950ea16d51&chksm=967e0cfecabab7853eb01fce5da02045d981d062c6f1ddfca939bcca44ee46d189251a24c207&scene=126&sessionid=1722818981#rd)**
 - **[告别加载等待：.NET图片秒转WebP的黑科技！【ImageMagick】【SkiaSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503703&idx=3&sn=0579b4cfd22d32ccb83c390c57c1049f&chksm=9636331b7e239bd6460d7f6949d9f8f3c998e51be9235bb2dcad778266d7c282a9ea487b8a2b&scene=126&sessionid=1722818981#rd)**
 - **[一款.NET开发的AI无损放大工具【AI-Lossless-Zoomer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503897&idx=1&sn=8109b1fe27f45e983f2f495c039a5fcb&chksm=9668287ba6c322e9386ce4cdb1af24a4ea491ce6ffe6ea8de6e7d38bc35d0b5ead0f71546778&scene=126&sessionid=1723163189#rd)**
-- [C# OnnxRuntime DIS高精度图像二类分割 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505971&idx=3&sn=b68319b4950810e959a46f56d3ed78a6&chksm=96b1e6b6325b17ed91c5abe17715cc68913f7acf14f242178fc10b25bfbe9c3b1bded8e9ccb0&scene=126&sessionid=1728380448#rd)
-   - [图像分割基本概念看这篇就行 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/624568476#:~:text=我们知道一张图片是由一堆像素构成的，那么图像分割 (Image Segmentation)可以理解成对每一个像素进行分类的任务。 有两种最常见的图像分割技术：语义分割 (Semantic,Segmentation) 和实例分割 (Instance Segmentation)。 语义分割时，在一张图片中有多个同一类物体的时候，这两个物体不用被明确的区分开，他们的像素标签都会是同一类别。 而实例分割时，当一张图片中有多个同一类物体时，不仅需要识别出物体的类别，还需要把两个同类物体给区分开。)
 
 
 - [YoloDotNet v2.1：实时物体检测的利器【YoloDotNet 】](https://mp.weixin.qq.com/s/kx6bzmHkfGVY6E6PFZJLMg)
@@ -1621,6 +1656,7 @@
    - [Plotly c# graphing library in Csharp](https://plotly.com/csharp/)
 - **图像处理**
    - [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）【OpenCvSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&chksm=968d680b30460591cc5419e03f964c27a1ec56387009327fe4020bf883bf279ed65f74c9b9de&scene=126&sessionid=1739148312#rd)
+     - [免费开源 .NET OpenCV 迷你运行时全平台发布 - .NET骚操作 - 博客园](https://www.cnblogs.com/sdcb/p/18963793/opencvsharp4-mini-all-platforms-published)
    - [一款开源、免费、AI驱动的图像修复、去水印神器，好用到爆！【IOPaint】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513546&idx=2&sn=d34fd4c44a81f67808c394917280ce17&chksm=96eaa35bc0ec3ecfecd4afb1c5a0250221ce788d42503fe911fcfd0eec89cf3bfc166df91c2d&scene=126&sessionid=1747012388#rd)
 - **绘图**
 
@@ -1716,7 +1752,7 @@
 | **Git:[WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)** | [MIT license](https://github.com/WPFDevelopersOrg/WPFDevelopers#MIT-1-ov-file) |                                                              |
 | **Gitee:[CookPopularUI](https://gitee.com/CookCSharp/CookPopularUI)** | MIT                                                          | CookPopularUI是一款流行、免费、组件丰富的WPF控件库，<br />提供了100多款控件。专为.NET开发者设计，旨在提供丰富多样的控件和工具，<br />以简化WPF应用程序的开发过程。 |
 | Git:[MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | [MIT license](https://github.com/MahApps/MahApps.Metro#MIT-1-ov-file) | MahApps.Metro 是一个开源、免费、Metro风格的 WPF UI 控件库，<br />提供了现代化、平滑和美观的控件和样式，<br />帮助开发人员轻松创建具有现代感的 Windows 桌面应用程序。<br />[在线文档](https://mahapps.com/docs/controls) |
-| [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)    |                                                              | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，<br />专为打造新一代 Windows 应用程序而设计。<br />它能帮助开发者构建经典且外观专业的 WPF 应用程序，<br />对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 |
+| Git:[wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) |                                                              | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，<br />专为打造新一代 Windows 应用程序而设计。<br />它能帮助开发者构建经典且外观专业的 WPF 应用程序，<br />对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 |
 | Git:[WPF-ControlBase](https://github.com/HeBianGu/WPF-ControlBase) | [MIT license](https://github.com/HeBianGu/WPF-ControlBase#MIT-1-ov-file) | Wpf封装的自定义控件资源库                                    |
 | Git:[wpf-uidesign](https://github.com/HenJigg/wpf-uidesign)  | [MIT license](https://github.com/HenJigg/wpf-uidesign#MIT-1-ov-file) | wpf-uidesign 是一个基于 <br />WPF (Windows Presentation Foundation) 的 UI 设计项目，旨在提供一个高效、<br />可定制的用户界面设计方案。作为 WPF 技术学习和研究的参考项目，<br />帮助开发者深入理解 WPF 框架。 |
 
@@ -1726,6 +1762,7 @@
 - [一套开源、强大且美观的WPF UI控件库【HandyControl】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247493994&idx=1&sn=afaa764eb31c01fc9260673c869cc5e6&scene=21#wechat_redirect)
 - [一套开源、免费、高颜值的 WPF 控件库，它几乎重写了所有原生样式，同时包含80余款自定义控件！【HandyControl】](https://mp.weixin.qq.com/s/ii8bxSXwIMoCTdwftbdq8g)
 - **[一款免费通用的WPF主题和控件库【Rubyer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503331&idx=2&sn=23825dd18deb27d5e6e227b3750bb263&chksm=96ca92e0aff149efaf1bdafeb1b3ce9361f3ce71d1af62f0a53b9af84a997e7a72d618d5c9de&scene=126&sessionid=1721781073#rd)**
+- [一款开源免费、通用的 WPF 主题控件包【Rubyer WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514999&idx=1&sn=3a2745bd706a7a561cca3568f994db48&chksm=96e151e82b7912ba521d160aaf79503fadaf413e0c8e2af8db0d15cb581c9c67f24068a60241&scene=126&sessionid=1751808167#rd)
 - **[一款基于Fluent设计风格、现代化的WPF UI控件库【wpfui】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503534&idx=2&sn=30e9087ac8cc34000187f5413f9a36e7&chksm=96e6a9480ff3f66c5d99b9270c0544ac58c7f8a0bd74c212d794a19d753cca5dfdc88e0e228c&scene=126&sessionid=1722302129#rd)**
 - **[基于Material Design风格开源、易用、强大的WPF UI控件库【MaterialDesignInXamlToolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498671&idx=1&sn=3034c3c23ebeb60f83fea60891ba021f&scene=21#wechat_redirect)**
 - **[一款开源、免费、现代化风格的WPF UI控件库【ModernWpf】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502057&idx=1&sn=667ebfc1c8800c7ea0144059d7fa0bda&scene=21#wechat_redirect)**
@@ -1739,10 +1776,9 @@
 - [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
 - [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！【Extended.Wpf.Toolkit/wpftoolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513068&idx=1&sn=94738b51ec27db2454c8d1caa30d5050&chksm=9628dc98fb01a0157e96b0a14d9e858e9a8ff84463caf780a52532eee2fcf74597599b44145a&scene=126&sessionid=1745715139#rd)
 - [一个开源免费、功能丰富的 WPF 自定义控件资源库【WPF-ControlBase】](https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ)
+- [精选 10 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【WPF UI】【ModernWpf】【Rubyer WPF】【Extended.Wpf.Toolkit】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/9ARSnNauXDuzLdT6liI0sQ?scene=0&subscene=90)
 - **设计案例**
   - [分享一些使用 WPF 创建的精美 UI 设计案例【wpf-uidesign】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514765&idx=2&sn=bdf24cd7f96f9744d91e4592cf32a1c5&chksm=966bdab64a144a9efba9570f67182275c6db898b386bae0dd79fedfc9813fd554655303ebe58&scene=126&sessionid=1750985256#rd)
-
-
 
 
 
@@ -2018,6 +2054,7 @@
 
 - **[一款适用于 Windows 的免费开源远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503263&idx=3&sn=89e1574c9a72d067f83097e906c67cae&chksm=96ec7e1b4c03a783b0adc19a1192cbd5c42aafa36dc97a9af32b0143e36cd1f2573ef9ce87d3&scene=126&sessionid=1721608423#rd)**
 - **[一个.NET开源、免费的Windows远程管理工具【Quasar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=2&sn=226bd341796686f4fa8748d8c89bf461&chksm=96ab8586bb7306020283b24304b9dbbd5d22cfa99ba19448fff3e67ab1f4a2b6c8b01f5f10ea&scene=126&sessionid=1726793679#rd)**
+- [9.4k+ Star，一款基于 .NET 开源免费、功能强大的 Windows 远程管理神器【Quasar】](https://mp.weixin.qq.com/s/ahkr4WFW3GH7KtwOMtEpuw?scene=0&subscene=90)
 - **[Windows 远程不要再用 mstsc 了，这款.NET开源工具更好用！【1Remote】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503805&idx=2&sn=ddbf05075b3d6715758456d6499a6208&chksm=96db395f69df2474ac59419f855682630adcd0cad201c465ab9b56c9df6b70c516b864e1ad12&scene=126&sessionid=1722990823#rd)**
 - **[1Remote官网](https://1remote.org/)**， **[1Remote下载](https://github.com/1Remote/1Remote/releases/tag/Nightly)**
 - **[一个.NET开发且功能强大的Windows远程控制系统【SiMayRemotelyOS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505241&idx=2&sn=443928ff8120baf498f1e1933c1a2015&chksm=9607281308d6ff4102bf0aac2275f9157e0afbbcea5e39800dbd15246e5e060f8ed53e17f2ae&scene=126&sessionid=1726414371#rd)**
@@ -2036,12 +2073,16 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[HospitalManagementSystem-WPF](https://github.com/zjxi/HospitalManagementSystem-WPF)** | [Apache-2.0 license](https://github.com/zjxi/HospitalManagementSystem-WPF#Apache-2.0-1-ov-file) | 医疗信息管理系统，基于WPF (XAML前端+C#后台)，<br />内附SQL Server 2012数据库，界面友好，功能实用。 |
 | **Gitee:[DicomSCP](https://gitee.com/fightroad/DicomSCP)**   | MIT                                                          | DicomSCP是一款开源（MIT License开源协议）、免费、完善、<br />轻量级的医疗影像PACS系统，<br />基于.NET Core 的 DICOM SCP（Service Class Provider）服务器，<br />提供 DICOM 存储、工作列表、查询检索服务，打印服务，<br />WADO/DicomWeb服务，集成了功能强大的DICOM 桌面和Web查看器。 |
-|                                                              |                                                              |                                                              |
+| Git:[Dorisoy.SIOT](https://github.com/dorisoy/Dorisoy.SIOT)  |                                                              | 一款利用.NET 8.0和MAUI框架打造的跨平台牙科治疗机物联网移动端应用，<br />实现了对水温Speedometer监测、高速手机转速RadialGauge显示、<br />电动马达功率检测以及光纤灯光亮度调节等功能的数据采集与仪表盘实时展示，<br />同时支持数据可视化检测和远程操控管理。 |
 
 ### 相关参考
 
-1. [一个基于 WPF 开发的医院管理系统 【HospitalManagementSystem-WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=3&sn=f19512ed89460c9303c1770aaa167137&chksm=9649381d0a1e3a2d5bbf6a9db55c5216a196a55f06e47e602f4fc8061e96b266b85f43289b9c&scene=126&sessionid=1726793679#rd)
-1. [一款 .NET 开源、完善、轻量级的医疗影像PACS系统【DicomSCP】](https://mp.weixin.qq.com/s/G8XvIOLJjL-_jecfMQh6VA)
+- [一个基于 WPF 开发的医院管理系统 【HospitalManagementSystem-WPF】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505359&idx=3&sn=f19512ed89460c9303c1770aaa167137&chksm=9649381d0a1e3a2d5bbf6a9db55c5216a196a55f06e47e602f4fc8061e96b266b85f43289b9c&scene=126&sessionid=1726793679#rd)
+- [一款 .NET 开源、完善、轻量级的医疗影像PACS系统【DicomSCP】](https://mp.weixin.qq.com/s/G8XvIOLJjL-_jecfMQh6VA)
+- [一款开源、跨平台的牙科治疗机物联网移动端应用【Dorisoy.SIOT 】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247515015&idx=2&sn=9f95ea763c16115e29ab19f61b9179f7&chksm=96914dd0dc98916542245e8a441550e360f48580fbdda59167d28185218ba62f7a4280d90786&scene=126&sessionid=1752022453#rd)
+- 
+
+
 
 
 

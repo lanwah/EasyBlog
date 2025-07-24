@@ -171,3 +171,11 @@ git config --show-origin core.autocrlf
 // Mac/Linux:core.autocrlf input
 ```
 
+
+
+# git config credential.helper
+
+查看Git凭证存储模式
+
+- [git config credential.helper 记住保存账号密码、关闭取消密码自动存储 - 悟透 - 博客园](https://www.cnblogs.com/wutou/p/17585668.html)
+- [git跳过用户名密码验证，以及配置credential helper - 简书](https://www.jianshu.com/p/8d8fb86e415a)

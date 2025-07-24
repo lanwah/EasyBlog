@@ -79,6 +79,8 @@
 | `Shift + Esc`              | 关闭相关视图窗口                                             |          |
 | `F4`                       | 属性窗口                                                     |          |
 | `Ctrl + W + P`             | 属性窗口                                                     |          |
+| Ctrl + R + W               | 切换显示缩进符号                                             |          |
+|                            |                                                              |          |
 
 
 
@@ -116,12 +118,12 @@
 ## Visual Studio 插件
 
 - [2024年最新最全Visual Studio实用插件推荐！ (qq.com)](https://mp.weixin.qq.com/s/A5mMJZkcUMdfkJFNG7sEWQ)
+- [2025 年全面且实用的 Visual Studio 插件推荐，开发效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512882&idx=1&sn=ac6aa49f58a210e0397eef9853ff54a0&chksm=962c6ebc254cccce4f8e8c4654bf5410d2f6b5613d875e0887b3007440885e0ac4a0d25fa346&scene=126&sessionid=1745456006#rd)
 - [开发效率提升利器：5款支持C#语言的AI辅助编程工具](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=1&sn=53da5ec1a1dd8cf6c325d062ad4e7f3d&chksm=96faa2572620b58390a2279a909aa2a06771ad74194d998fbf3f6257523ec04b5f2531569c49&scene=126&sessionid=1722213176#rd)
 - [6款支持C#语言的AI辅助编程工具，开发效率提升利器！ (qq.com)](https://mp.weixin.qq.com/s/09B6fKbGgQU90VNK74uPCg)
 - [一个.NET开源的 Git 图形用户界面（GUI）工具 【Git Extensions】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504786&idx=1&sn=2de96ff67d8ae52e321d8253dfc3313b&chksm=967394d5b92ba761cd9913eacf575433b0366eaeac410d959eae91cd59d45a50a35cde4d894a&scene=126&sessionid=1725842446#rd)
 - [CodeMaid：一款基于.NET开发的Visual Studio代码简化和整理实用插件 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505738&idx=1&sn=0d56b52d12141ea48334d2236f59cbb8&chksm=965c6d42d76ffbe56cfc3c80c1ac84d21826f2fb159bf09db9721bcdcea8814d2ba47017226a&scene=126&sessionid=1727138667#rd)
 - [好消息，在 Visual Studio 中可以免费使用 GitHub Copilot 了！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508650&idx=1&sn=94bf5d51db25746b0e7d34c20c6c66ad&chksm=968d71b48d47932cc6b36649de5e365f8dd15b65dbe14c05b02ee2b20d82203a931321f2587a&scene=126&sessionid=1734694164#rd)
-- [2025 年全面且实用的 Visual Studio 插件推荐，开发效率提升利器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512882&idx=1&sn=ac6aa49f58a210e0397eef9853ff54a0&chksm=962c6ebc254cccce4f8e8c4654bf5410d2f6b5613d875e0887b3007440885e0ac4a0d25fa346&scene=126&sessionid=1745456006#rd)
 
 
 
