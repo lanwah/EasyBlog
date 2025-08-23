@@ -303,3 +303,4 @@ NuGet 行为由不同 `NuGet.Config` 或 `nuget.config` 文件中的设置来控
 1. [PowerShell 参考](https://learn.microsoft.com/zh-cn/nuget/reference/powershell-reference)
 1. [修改项目中packages包目录](https://www.cnblogs.com/lanwah/p/18005414)
 1. [NuGet的使用、部署、搭建私有服务](https://www.cnblogs.com/Jack-Blog/p/7890369.html)
+1. [Nuget常用命令 - Programmer\_Life - 博客园](https://www.cnblogs.com/zlgan/p/12129003.html)

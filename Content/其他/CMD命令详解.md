@@ -227,6 +227,41 @@ Windows CMD（命令提示符）是 Windows 操作系统中的一个命令行工
 
 
 
+## 4、netstat
+
+显示活动TCP连接、计算机正在侦听的端口、以太网统计信息、IP路由表、IPv4统计信息（IP、ICMP、TCP和UDP协议）和IPv6统计信息（IPv6、ICMPv6、TCP over IPv6和UDP over IPv6协议）。当不带参数时，该命令显示活动的TCP连接。
+
+[netstat | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netstat)
+
+```cmd
+# 显示 tcp/udp 统计信息
+netstat -n -a
+# 等同于
+netstat -na
+
+# 显示 tcp 统计信息
+netstat -n -p tcp
+```
+
+**其他参考**
+
+- [Windows 查看端口是否已打开\_如何查看当前端口开放情况-CSDN博客](https://blog.csdn.net/shenhaiwen/article/details/74252685)
+
+
+
+## 5、telnet
+
+测试端口是否可用
+
+[telnet | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
+
+**如何退出 telnet**
+
+- 按下 **Ctrl + ]* 组合键，这将进入 Telnet 的命令模式。
+- 按下 **q** 或 **quit**
+
+
+
 # 其他参考
 
 - [批处理中setlocal enabledelayedexpansion的作用详细整理_set local enabledelayedexpansion-CSDN博客](https://blog.csdn.net/rhcgrys/article/details/124283862)
