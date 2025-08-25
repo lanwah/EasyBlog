@@ -1,8 +1,8 @@
 {
-  "Name": "EasyBlog",
+  "Name": "EasyDocs",
   "Description": "\uD83D\uDDFDto be a human",
   "AuthorName": "NilTor",
-  "BaseHref": "/EasyBlog/",
+  "BaseHref": "/EasyDocs/",
   "ContentPath": "./Content",
   "OutputPath": "./WebApp",
   "Domain": "https://aterdev.github.io/",
