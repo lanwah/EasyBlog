@@ -1,4 +1,4 @@
-# EasyBlog
+# EasyDocs
 
 This tool generates a `pure static` blog website from a `markdown` document through commands. With the help of `GitHub Pages`, you can have a personal blog for free in 5 minutes.It has the following characteristics
 
@@ -29,7 +29,7 @@ Currently, the tool has been released in the form of 'dotnet tool'.You can easil
 First, confirm that you have installed the `dotnet sdk` version 8.0 or higher, and then proceed to install it on the command line
 
 ```dotnetcli
-dotnet tool install -g Ater.EasyBlog --preview
+dotnet tool install -g Ater.EasyBlogs --preview
 ```
 
 After installation, you can use the `ezblog` command to operate.

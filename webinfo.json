@@ -2,6 +2,21 @@
   "Name": "EasyBlog",
   "Description": "\uD83D\uDDFDto be a human",
   "AuthorName": "NilTor",
-  "BaseHref": "/EasyBlog/",
-  "Domain": "https://aterdev.github.io/"
+  "BaseHref": "/",
+  "ContentPath": "./Content",
+  "OutputPath": "./WebApp",
+  "Domain": "https://aterdev.github.io/",
+  "DocInfos": [
+    {
+      "Name": "EasyDoc",
+      "Languages": [
+        "zh-cn",
+        "en-us"
+      ],
+      "Versions": [
+        "2.0",
+        "1.0"
+      ]
+    }
+  ]
 }

@@ -8,6 +8,10 @@
     }
 }
 
+.markdown-content {
+    font-family: Segoe UI, SegoeUI, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
 .code-action-bar {
     background-color: #222224;
     padding: 4px 12px;
@@ -26,8 +30,8 @@ a {
 }
 
 h1 {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1.75rem;
     font-size: 3rem;
     line-height: 1;
     font-weight: 600;
@@ -107,7 +111,6 @@ h5 {
 }
 
 .toc-block {
-    border: 1px solid #808080;
     border-radius: 5px;
     padding: 8px;
     height: fit-content;
@@ -561,6 +564,7 @@ pre {
     }
 
     &>.comment,
+    &>.htmlComment,
     &>.prolog,
     >.xmlDocComment {
         color: #6a9955;
@@ -702,7 +706,8 @@ pre {
         color: #d7ba7d;
     }
 
-    &>.tag {
+    &>.tag,
+    &>.htmlTagDelimiter {
         color: #569cd6;
 
         &>.punctuation {
@@ -715,11 +720,13 @@ pre {
         color: #808080;
     }
 
-    &>.attr-name {
+    &>.attr-name,
+    &>.htmlAttributeName {
         color: #9cdcfe;
     }
 
     &>.attr-value,
+    &>.htmlAttributeValue,
     &>.attr-value .punctuation {
         color: #ce9178;
 
@@ -729,7 +736,8 @@ pre {
 
     }
 
-    &>.entity {
+    &>.entity,
+    &>.htmlElementName {
         color: #569cd6;
     }
 
@@ -776,4 +784,6 @@ div[class*="language-html"] {
 div[class*="language-"]>pre {
     position: relative;
     z-index: 1;
+    white-space: pre-wrap;
+    overflow: auto;
 }

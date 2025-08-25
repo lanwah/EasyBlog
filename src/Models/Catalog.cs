@@ -11,23 +11,50 @@ public class Catalog
     /// </summary>
     public required string Name { get; set; }
 
+    public required string Path { get; set; }
+
     public ICollection<Catalog> Children { get; set; } = [];
 
-    public ICollection<Blog> Blogs { get; set; } = [];
+    public ICollection<Doc> Docs { get; set; } = [];
 
     public Catalog? Parent { get; set; }
 
-
-
-    public List<Blog> GetAllBlogs()
+    /// <summary>
+    /// 获取Catalog所有文档
+    /// </summary>
+    /// <returns></returns>
+    public List<Doc> GetAllDocs()
     {
-        var blogs = new List<Blog>();
+        var docs = new List<Doc>();
 
-        blogs.AddRange(Blogs);
+        docs.AddRange(Docs);
         foreach (var catalog in Children)
         {
-            blogs.AddRange(catalog.GetAllBlogs());
+            docs.AddRange(catalog.GetAllDocs());
         }
-        return blogs;
+        return docs;
     }
+
+    /// <summary>
+    /// 查找子Catalog
+    /// </summary>
+    /// <param name="path"></param>
+    /// <returns></returns>
+    public Catalog? FindCatalog(string path)
+    {
+        if (Path == path)
+        {
+            return this;
+        }
+        foreach (var catalog in Children)
+        {
+            var result = catalog.FindCatalog(path);
+            if (result != null)
+            {
+                return result;
+            }
+        }
+        return null;
+    }
+
 }
