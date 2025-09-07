@@ -26,6 +26,10 @@
 - [AOT编译Avalonia应用：StarBlog Publisher项目实践与挑战 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/18797316)
 
   > AOT编译Avalonia应用 StarBlog Publisher 项目实践与挑战
+  
+- [WPF 引用 ASP.NET Core 的 AOT 版本！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247516218&idx=2&sn=54e7f9a72a08306a626e8e3fc3ca9f5c&scene=21&poc_token=HLOkr2ijR-CwlkZXxJvcvjMPy0yhWqH8j_K-DY_Q)
+
+  > 现在 ASP.NET Core 早已支持 AOT 发布了，只是绝大部分教程都是教大家将其作为应用发布。在本文里面，咱将尝试进行类库发布，发布之后是一个 DLL 文件。通过 UnmanagedCallersOnly 导出函数被其他应用程序所使用混合 WPF 和 ASP.NET Core 两个框架到一个进程里面是比较舒服的事情，让 WPF 负责界面显示逻辑和一些交互控制，让 ASP.NET Core 负责提供 HTTP 服务，各干各的，各自发挥优势。
 
 
 
@@ -198,6 +202,10 @@
   - [通过 .NET Aspire 使用本地 AI 模型 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18976279)
 
     > 在当今快速发展的 AI 领域，开发人员经常需要在本地环境中实验和测试 AI 模型，然后再将其部署到云端。使用本地 AI 模型不仅能够节省云资源成本，还能提供更快的迭代速度和更好的隐私保护。本文将介绍如何利用 .NET Aspire 框架结合 Ollama 在本地运行 AI 模型，并通过 Microsoft.Extensions.AI 抽象层实现从本地开发到云部署的无缝过渡。
+    
+  - [Getting Started with the Aspire CLI - .NET Blog](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/)
+  
+    > Aspire CLI 是一款强大的跨平台工具，旨在简化应用系统的开发、管理和部署。无论您是在构建一个简单的网站，还是企业级的分布式微服务应用（包含队列和数据库），Aspire CLI 都提供以交互为先的体验，帮助您轻松创建、运行和发布项目。
 
 
 - **Ollama**
@@ -369,6 +377,12 @@
   - [Announcing the NuGet MCP Server Preview - .NET Blog](https://devblogs.microsoft.com/dotnet/nuget-mcp-server-preview/)
 
     > 上个月，我们宣布支持使用.NET 构建自定义 MCP 服务器，并将其发布到 NuGet。在此基础上，今天我们正式宣布 NuGet MCP 服务器，它使您能够将实时 NuGet 包信息和管理工具直接集成到您的 AI 驱动开发工作流程中。
+    
+  - [Model Context Protocol (MCP) is Now Generally Available in Visual Studio 🎉 - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/mcp-is-now-generally-available-in-visual-studio/)
+
+    - [【译】模型上下文协议（MCP）现已在 Visual Studio 中正式发布 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/19057008)
+
+      > 模型上下文协议（MCP）是一种开放标准，它能让人工智能 Agent 轻松连接外部工具和服务 —— 可以把它想象成 HTTP，但适用于支持人工智能的开发者工作流。无需为每个工具构建自定义集成，MCP 让您能够通过一种一致、安全的协议，接入数据库、代码搜索、部署流水线等强大的服务器端点。随着 Visual Studio 中正式发布的支持，您将找到连接、配置和控制 MCP 服务器的新方法，此外还有一系列不断增加的功能，让设置过程更加无缝且具备企业级可用性。
 
 - **大模型项目**
 
@@ -383,6 +397,8 @@
 - [Abp vNext -动态 C# API 实现原理解析 - yuyuyui - 博客园](https://www.cnblogs.com/yuxl01/p/18092437)
 
   > 作为铺垫后续阅读源码的一些帮助，开始想直接开始尝试读源码，但是发现上下文连接不紧密，很突兀，所以还是简单介绍下如何使用。最起码从0-1。然后发现他解决的问题, 其实官方文档是有介绍如何使用的，只是比较浅显，想深入理解和发掘它的一些扩展性，还是需要自己多下功夫的，不过经过总结出的经验来说，只要你想学习某一项技术，但凡认真的看过它的官方文档，你就已经超过了60%的人了.
+  
+- [如何做一个纯净版的ABP vNext 脚手架 - 张飞洪[厦门] - 博客园](https://www.cnblogs.com/jackyfei/p/19047483)
 
 
 
@@ -440,6 +456,14 @@
 
 - [.NET 单文件执行程序拆解器 SingleFileExtractor - 冠军 - 博客园](https://www.cnblogs.com/haogj/p/18618295)
 - [C# 使用Costura.Fody插件将自己写的程序打包成一个可以独立运行的EXE文件 - 多见多闻 - 博客园](https://www.cnblogs.com/guangzhiruijie/p/17143563.html)
+
+
+
+## C. 程序集
+
+- [聊一聊 .NET 的 AssemblyLoadContext 可插拔程序集](https://mp.weixin.qq.com/s/rjwsTg31s_dq7dw3HiJR6w)
+
+  > 最近在分析一个崩溃dump时，发现祸首和AssemblyLoadContext有关，说实话这东西我也比较陌生，后来查了下大模型，它主要奔着替代 .NetFrameWork 时代的 AppDomain 的，都是用来做晚期加卸载，实现对宿主程序的可插拔，AppDomain.Create 是在AppDomain级别上，后者是在 Assembly 级别上。
 
 
 
@@ -529,11 +553,16 @@
 
   - [DiagnosticSource 类 (System.Diagnostics) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/system.diagnostics.diagnosticsource?view=net-9.0)
 
+- [使用c#强大的SourceGenerator现对象的深克隆 - a1010 - 博客园](https://www.cnblogs.com/gmmy/p/19064599)
 
+  > 去年的时候写了一篇用使用c#强大的表达式树实现对象的深克隆. 最近又看到园子里的另外一篇吐槽automapper性能的文章。正好闲来无事，就想着看如果用Source Generator来实现深克隆，性能上会不会比表达式树更强劲呢，于是有了这篇文章。
+
+  - [使用c#强大的表达式树实现对象的深克隆 - a1010 - 博客园](https://www.cnblogs.com/gmmy/p/18186750)
 
 - **开发经验/技巧**
   - [代码 vs. 经验：真正优秀的.NET开发者必须懂的16条关键实践](https://mp.weixin.qq.com/s/ST4gjQ_pWu8ju5dPrPpbYA)
-
+  - [C# 开发必备的 10 个实用小技巧](https://mp.weixin.qq.com/s/gaa2wD-JnUheH0w9E7b3PQ)
+  
 - **关键字**
 
   - [C# 关键字 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/)
@@ -638,6 +667,10 @@
       
     - [.NET 10 中的 dnx](https://mp.weixin.qq.com/s/9eIHTWF_bJQpLxEehCz-WA?scene=0&subscene=90)
     
+    - [.NET 10 Preview 7 Delivers ASP.NET Core, Blazor, and MAUI Enhancements, with C# 14 Feature Complete - InfoQ](https://www.infoq.com/news/2025/08/dotnet-10-preview-7/)
+    
+      - [.NET 10 预览版 7 增强 ASP.NET Core、Blazor 和 MAUI，并实现 C# 14 的全部功能\_科技新闻\_博客园](https://news.cnblogs.com/n/799586/)
+    
     - [C# 14 新增功能实操！](https://mp.weixin.qq.com/s/jrp8MFRmgApV-dFSfh9MAQ?scene=0&subscene=90)
     
     - [那些被推迟的 C# 14 特性及其背后的故事](https://mp.weixin.qq.com/s/Cgmi8wLzPmHb2cnUHtwauQ?scene=0&subscene=90)
@@ -650,6 +683,11 @@
   
 - **序列化/反序列化**
   - [2025年：是时候重新认识System.Text.Json了](https://mp.weixin.qq.com/s/bymE3eQTjvwtA-qyGXqkCA?scene=0&subscene=90)
+  
+- **GitHub Copilot**
+
+  - [Improving Codebase Awareness in Visual Studio Chat - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/improving-codebase-awareness-in-visual-studio-chat/)
+    - [【译】增强 Visual Studio 聊天中的代码库感知能力 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/19054437)
 
 
 
@@ -680,9 +718,22 @@
 
 - [一个被BCL遗忘的高性能集合：C# CircularBuffer<T>深度解析 - .NET骚操作 - 博客园](https://www.cnblogs.com/sdcb/p/19019424/csharp-circular-buffer)
 
+- [CircularBuffer<T> 类 (Microsoft.VisualStudio.Utilities) | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/api/microsoft.visualstudio.utilities.circularbuffer-1?view=visualstudiosdk-2022)
+
+- [CircularBuffer-CSharp/CircularBuffer/CircularBuffer.cs at master · joaoportela/CircularBuffer-CSharp](https://github.com/joaoportela/CircularBuffer-CSharp/blob/master/CircularBuffer/CircularBuffer.cs)
+
 - [不要再用循环了：用 Dictionary<Guid, T> 高效访问实体对象！让查找飞起来](https://mp.weixin.qq.com/s/JPHDUqz86unzofqdpkc2zg?scene=0&subscene=90)
 
 - [抽象与性能：从 LINQ 看现代 .NET 的优化之道 - .NET骚操作 - 博客园](https://www.cnblogs.com/sdcb/p/19013541/linq-abstraction-and-perf-modern-programming-language)
+
+- [聊一聊 .NET 中的 CancellationTokenSource](https://mp.weixin.qq.com/s/aroutUAWHooxlXpiDmW4Iw)
+
+- **数据处理**
+
+  - [C# SIMD编程实践：工业数据处理性能优化案例 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/19062068)
+
+    > 想象一下这样的场景：一台精密的工业扫描设备每次检测都会产生200万个浮点数据，需要我们计算出最大值、最小值、平均值和方差来判断工件是否合格。使用传统的C#循环处理，每次计算需要几秒钟时间，严重影响生产线效率。但是，通过SIMD优化后，同样的计算只需要几十毫秒！这不是魔法，这是现代CPU并行计算能力的体现。今天，我们就来揭秘这个性能奇迹背后的技术原理。
+
 
 
 
@@ -800,6 +851,7 @@
 - [一张图带你了解.NET终结(Finalize)流程 - 叫我安不理 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lmy5215006/p/18456380)
 - [.NET Core GC计划阶段(plan_phase)底层原理浅谈 - 叫我安不理 - 博客园](https://www.cnblogs.com/lmy5215006/p/18668721)
 - [C#中CLR核心机制解析：垃圾回收与标准Dispose模式_c# clr-CSDN博客](https://blog.csdn.net/2301_79251107/article/details/132113846)
+- [C#开发必备：IDisposable接口的完整实战指南](https://mp.weixin.qq.com/s/fSZ0RelzdFL_bLO2MDLxKA)
 - [.NET 的全新低延时高吞吐自适应 GC - Satori GC](https://mp.weixin.qq.com/s/Wu0QUjUkLTRY_J1NV7a54g)
 
 
@@ -876,6 +928,7 @@
 ## H. Http/Https
 
 - [字节校招一面：聊聊https 原理 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505852&idx=4&sn=4079b24a04b49f05ab531febe96f3836&chksm=965a2837b724b7e95a6d62614dee9823029798dd7abbb276e1dbd48b84dfc97d10fee610eafe&scene=126&sessionid=1727311494#rd)
+- [C# 网络请求大比拼：HttpClient、WebClient 和 RestSharp 哪个最适合你的项目？](https://mp.weixin.qq.com/s/kUs--Tlryz-63U4l6rGcxw)
 
 
 
@@ -1111,6 +1164,10 @@
   -  [How the .NET MAUI Team uses GitHub Copilot for Productivity - .NET Blog](https://devblogs.microsoft.com/dotnet/maui-team-copilot-tips/)
   
     > 本文主要概述 .NET MAUI 团队如何使用 GitHub Copilot 提高生产力。
+    
+  - [MauiReactor: An MVU Approach for .NET MAUI - .NET Blog](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/)
+  
+    > 我是一名来自意大利的全栈开发者，主要专注于微软技术栈，涵盖从基于.NET MAUI的跨平台应用到部署在Azure上的ASP.NET Core后端服务。我是MauiReactor的创建者——这款面向.NET MAUI的UI库将模型-视图-更新（MVU）模式引入跨平台开发领域。
 
 
 
@@ -1255,18 +1312,24 @@
   - [【EF Core】带主键实体与无主键实体 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/18993171)
   
     > 上一次老周已介绍了 EF Core 框架自动发现实体和实体成员的原理。涉及到对源码的分析，可能大伙伴们都看得气压升高了。故这一次老周不带各位去分析源码了，咱们聊一聊熟悉又陌生的关键词——主键。说它熟悉，是因为只要咱们创建数据表，99%会用到；说它陌生，是指在 EF Core 中与主键相关的细节。
-  
-  - **MySQL**
-  
-    - [在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior](https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA)
     
   - [【EF Core】为 DatabaseFacade 扩展“创建”与“删除”数据表功能 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/19007218)
   
     > 对于玩 EF 的大伙伴来说，对 DatabaseFacade 类的 EnsureCreated 和 EnsureDeleted 方法应该很熟悉。这对方法可在运行阶段创建或删除数据库。创建数据库时，会连同数据表一起创建；至于说删除数据库时嘛……库都没了，哪还有表呢。不过，有些时候，不，不是有些时候，很多时候我们其实只想删除数据表。比如要初始化应用程序；或者数据库已存在的情况下，咱们只考虑判断数据表是否存在，不存在的话就创建表。最简单的方法是直接发送 SQL 语句——如 DROP TABLE、DROP DATABASE 等。这个不在本文的讨论范围内。老周这次讨论的是运用 EF Core 自身的功能去实现。
+    
+  - [【EF Core】使用外部 Model - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/19054696)
+  
+  - [EFCore.Visualizer - View Entity Framework Core query plan inside Visual Studio - .NET Blog](https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/)
+  
+    > Entity Framework Core 是一个功能强大、特性丰富的 ORM，为当今许多应用程序提供支持。通过 EF Core，开发者编写强类型 LINQ 查询，该框架将其转换为针对目标数据库的 SQL 查询。凭借包括嵌套集合和懒加载等高级功能，Entity Framework Core 使开发者摆脱了编写样板数据访问代码的负担。
+  
+  
+  - **MySQL**
+  
+    - [在 .NET 中将 EF Core 升级到 9.0.5 MySQL 连接提示 get_LockReleaseBehavior](https://mp.weixin.qq.com/s/QjztDCuuy49xsi6GpyE1wA)
   
 - **ShadowSql**
   - [ShadowSql之.net sql拼写神器 - xiangji - 博客园](https://www.cnblogs.com/xiangji/p/18806891)
-
 
 
 
@@ -1440,6 +1503,13 @@
 - **查询优化**
   - [SQL优化极简法则，还有谁不会？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512009&idx=3&sn=828d2dcc050b544a137d83ac148ee10f&chksm=96f073c97b0c8ad0be31d297e6c9227be8ec6e07cdefbd31d30a1df6d3fb8057b219fc4c1e2d&scene=126&sessionid=1743642645#rd)
   - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
+- **国产化**
+  - [墨天轮数据库社区 - 乐知乐享，同心共济](https://www.modb.pro/)
+    - [中国数据库排行 - 墨天轮](https://www.modb.pro/dbRank)
+
+  - [2025年9月国产数据库流行度排行榜：达梦跃升第二，崖山挺进前十](https://mp.weixin.qq.com/s/TXEsbYArkuummbpKO59J-w)
+  - 
+
 
 
 
@@ -1501,6 +1571,10 @@
 
   - [高效调试指南：用 Visual Studio 提升代码排错效率的 N 个技巧（上）](https://mp.weixin.qq.com/s/kFWnNfalz0gQAQDGEGOGFg)
 
+- **日志**
+
+  - [C# Trace实践AOT、跨平台](https://mp.weixin.qq.com/s/cqD1AMmUcZkyT_9NQFzNSg)
+
 - **Linux**
 
   - [Linux系列：如何用perf跟踪.NET程序的mmap泄露](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=2&sn=704192970b9ecf59cbf98f0f522abf60&chksm=96e503a4f971e4b62a9b42caff6ad2f083a0e7598357da3e9a513b362b90b85cfc50799c5e33&scene=126&sessionid=1747097371#rd)
@@ -1524,25 +1598,31 @@
     - [一个超经典WinForm,WPF卡死问题的终极反思](https://mp.weixin.qq.com/s/OFhf0rtbo9XdbcesD67j_Q)
 
     - [记一次 .NET 某汽车控制焊接软件 卡死分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/19033409)
-  
+
       > 前些天有位朋友找到我，说他们开发的在客户工厂里的窗体程序出现了卡死情况，并且 Ctrl+C 也退不出来，自己分析了下也没找出是什么原因，后来在网络上就找到了我，让我帮忙看下怎么回事？ 毕竟我在这一块是专业的。。。 哈哈，既然有dump，那就拿出来分析一下。
       
     - [记一次 .NET 某光谱检测软件 内存暴涨分析](https://mp.weixin.qq.com/s/hYldmySeP-m5F1yU_OJskA)
+
+    - [记一次 .NET 某放射治疗光学定位软件 卡死分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/19061454)
+  
+      > 前段时间微信上有位非调试训练营学员找到我，说他们的医疗软件有点问题，有时候卡了一会就好了，有时候卡了很久，让我帮忙看下怎么回事，我让这位朋友在卡的时候抓一个dump给我，我分析看看。
   
   - **CPU爆高分析（程序卡慢）**
     - [记一次 .NET某云HIS系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512298&idx=2&sn=e1ccdce6d06717d42e84943d265fe24e&chksm=9696f438e862718e435d26950927b18e821e71e4eb36131a076404bd9c4416647375f68755b7&scene=126&sessionid=1744506245#rd)
-  
-    - [记一次 .NET某固高运动卡测试 卡慢分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512493&idx=2&sn=36fcace87427e4ee263c0b808f522caa&chksm=9626507cb3c9cd47ec6cc470ff8358295bf92fdca02ee03e34fc235036b6ebbcbe6ef5b7af8e&scene=126&sessionid=1745155285#rd)
 
-    - [WinDbg 分析 .NET Dump 线程锁问题 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18894206)
+    - [记一次 .NET某固高运动卡测试 卡慢分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512493&idx=2&sn=36fcace87427e4ee263c0b808f522caa&chksm=9626507cb3c9cd47ec6cc470ff8358295bf92fdca02ee03e34fc235036b6ebbcbe6ef5b7af8e&scene=126&sessionid=1745155285#rd)
   
+    - [WinDbg 分析 .NET Dump 线程锁问题 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18894206)
+
       > 在定位 .NET 应用程序中的高 CPU 占用问题时，WinDbg 是非常强大的工具之一，尤其配合 SOS 扩展使用可以快速锁定“忙线程”或死锁等问题。本文将基于一次实际的分析流程，演示如何一步步定位由线程锁引起的 CPU 高占用。
       
     - [记一次 .NET 某无语的电商采集系统 CPU爆高分析](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514604&idx=3&sn=c29c1069b4cd69695afbbf8f38ac3b20&chksm=9668f60ccb222faef33bbd1cc537e8b0d0d168383aed6a942f1b06d8487484208c1e57a330c9&scene=126&sessionid=1750330396#rd)
-
-  - **程序奔溃**
   
+  - **程序奔溃**
+
     - [记一次 .NET 某发证机系统 崩溃分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/18932886)
+    - [记一次 .NET 某CRM物流行业管理系统 崩溃分析](https://mp.weixin.qq.com/s/0GP0a2gxNIuJEDS5I40rag)
+      - [聊一聊 .NET 的 AssemblyLoadContext 可插拔程序集](https://mp.weixin.qq.com/s/rjwsTg31s_dq7dw3HiJR6w)
   
   - **GC**
   
@@ -1608,6 +1688,10 @@
 
   - [.NET 开发者最容易踩坑的6个async/await 使用错误](https://mp.weixin.qq.com/s/tdIX8uF8DYjrKcGMMzsmZQ)
 
+  - [深入理解 C# 异步编程：同步、Task.Wait () 与 await 的本质区别及实践指南 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/19048634)
+
+  - [聊一聊 .NET 中的 CancellationTokenSource](https://mp.weixin.qq.com/s/aroutUAWHooxlXpiDmW4Iw)
+
 - **并发**
   - [后端思维之高并发处理方案](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511947&idx=2&sn=b78f6ed86f43a99b792a6b009afdac50&chksm=96a5e705d99f22190c90847642318a11162db99581a0d38133834303d5e19297533b48cec601&scene=126&sessionid=1743469108#rd)
 
@@ -1621,8 +1705,15 @@
 
 - **ModBus**
   - [零基础学习Modbus通信协议 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18411953)
+  
   - [C#轻松实现Modbus通信 - 付工上位机 - 博客园 (cnblogs.com)](https://www.cnblogs.com/xiketangedu/p/18461727)
+  
   - [ModbusRTU通信协议报文剖析 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18430033)
+  
+  - [上位机开发之假装有设备，使用 C# 模拟串口设备](https://mp.weixin.qq.com/s/_b-ge-sIvpsKGxneqaR2lA)
+  
+    > 这次的需求很简单，用 C# 模拟一个设备协议，实现不用去现场对接设备，也能先开发和调试上位机程序。实际设备是用 RS-485 标准进行通信，模拟跑通之后，到现场只需要把RS-485 总线（A/B 差分线）插到 USB-RS485 转换器上就可以实现数据读取和指令下发了。
+  
 - **Socket**
   - [c#构建具有用户认证与管理的socks5代理服务端 - BruceNeter - 博客园](https://www.cnblogs.com/qwqwQAQ/p/17410319.html)
   - [c#开发完整的Socks5代理客户端与服务端——客户端（已完结） - BruceNeter - 博客园](https://www.cnblogs.com/qwqwQAQ/p/18867762)
@@ -1825,6 +1916,8 @@
 - [【音视频通话】使用asp.net core 8+vue3 实现高效音视频通话 - 四处观察 - 博客园 (cnblogs.com)](https://www.cnblogs.com/1996-Chinese-Chen/p/18384394)
 
 - [.NET 摄像头采集 - 唐宋元明清2188 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kybs0/p/18385599)
+
+- [C#实现屏幕墙：同时监控多个电脑桌面（支持Windows、信创Linux、银河麒麟、统信UOS） - zhuweisky - 博客园](https://www.cnblogs.com/zhuweisky/p/19046370)
 
 - **音频**
 
