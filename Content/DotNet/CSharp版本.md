@@ -83,3 +83,5 @@
 - **[.NET Standard(.net standard 与Framework和.net core之间的关系)](https://dotnet.microsoft.com/en-us/platform/dotnet-standard)**
 - **[C# language versioning](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-versioning#defaults)**
 - **[Time.Graphics Embed Timeline](https://time.graphics/embed?v=1&id=593132)**
+- [[转] C# 语言版本控制-请使用 9.0 或更高的语言版本。 - z5337 - 博客园](https://www.cnblogs.com/z5337/p/18053370)
+- [配置语言版本 - C# reference | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/configure-language-version)

@@ -41,3 +41,12 @@
 
 - [ProcDump工具使用手册 - 隨風.NET - 博客园](https://www.cnblogs.com/xinzhyu/p/15407408.html)
 - [介绍一个好用的抓取dump的工具-ProcDump - 中道学友 - 博客园](https://www.cnblogs.com/awpatp/archive/2010/12/20/1911122.html)
+
+
+
+## VMMap
+
+[VMMap - Sysinternals | Microsoft Learn](https://learn.microsoft.com/zh-cn/sysinternals/downloads/vmmap)
+
+
+

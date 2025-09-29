@@ -50,3 +50,23 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor\PathCompletionChar
 [A](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#a) | [B](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#b) | [C](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#c) | [D](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#d) | [E](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#e) | [F](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#f) | [G](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#g) | [H](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#h) | [I](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#i) | [J](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#j) | [K](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#k) | [L](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#l) | [M](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#m) | [N](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#n) | [O](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#o) | [P](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#p) | [Q](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#q) | [R](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#r) | [S](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#s) | [T](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#t) | [U](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#u) | [V](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#v) | [W](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#w) | [X](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#x) | Y | Z
 
 [MS Doc：命令行参考 A-Z](https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands#command-line-reference-a-z) 
+
+
+
+## S
+
+- [shutdown | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown)
+
+  - [cmd 中 shutdown 命令总结 - GOD\_HJ - 博客园](https://www.cnblogs.com/GOD-HJ/p/17462915.html)
+
+    > ```cmd
+    > // 立即关闭电脑，并强制关闭正在运行的应用程序，不等待计时器倒计时。
+    > shutdown /s /f /t 0
+    > 
+    > // 立即关闭电脑并关机。
+    > shutdown /s
+    > 
+    > // 注销当前用户并返回登录页面。
+    > shutdown /l
+    > ```
+

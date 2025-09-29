@@ -164,6 +164,7 @@
 | Git:[NetPad](https://github.com/tareqimbasher/NetPad)        | [MIT license](https://github.com/tareqimbasher/NetPad#MIT-1-ov-file) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，<br />它允许用户立即运行C#代码，无需创建和管理项目。 |
 | Git:[CsvTextEditor](https://github.com/WildGums/CsvTextEditor) | MIT                                                          | CsvTextEditor是一个基于 C# 开源（MIT License）、免费、<br />易于使用的 CSV 文本编辑器应用程序，<br />使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。 |
 | Git:[DCWriterLite](https://github.com/dcsoft-yyf/DCWriterLite) | [Apache-2.0 license](https://github.com/dcsoft-yyf/DCWriterLite#Apache-2.0-1-ov-file) | DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、<br />功能强大的在线文档编辑器，<br />与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，<br />DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，<br />并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。<br />这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，<br />例如实时分页、可靠的重做/撤消功能和强大的表单字段。 |
+| .NET Fiddle                                                  |                                                              | .NET Fiddle 是一个在线的.NET代码编辑工具，<br />可以帮助 .NET 开发人员在浏览器中编写、运行和共享 .NET 代码。<br />它提供了一个简单易用的界面和丰富的代码编辑功能<br />（如代码高亮、智能提示、多框架版本支持、NuGet 包引用等），<br />让用户可以直接在浏览器中编写和测试.NET代码，而无需安装本地的开发环境。<br />[在线访问地址](https://dotnetfiddle.net) |
 
 ### 相关参考
 
@@ -194,6 +195,11 @@
   - [微信公众号作者必备的一款高度简洁的微信 Markdown 编辑器，功能又多又实用！【WeChat Markdown Editor】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505925&idx=2&sn=f00796c68f7af0e6fdcdb3a9a3d73453&chksm=962ccc55b52d4642ab7d561fb6dbbe87766f652f5fa1f4b5d61197e246e9b8ea868db1550655&scene=126&sessionid=1727398833#rd)
   - [一款基于 WPF 开源、轻量级的 Markdown 编辑器【MdXaml】](https://mp.weixin.qq.com/s/wad9ACh8iPfSxPq_HHMOxQ?scene=0&subscene=90)
   - [再见Typora，一款开源免费、轻灵、安全的 Markdown 编辑器神器！【MiaoYan】](https://mp.weixin.qq.com/s/P8pN825in8loTxp5KBXlbw)
+  
+- **在线编辑器**
+
+  - [.NET Fiddle：一个方便易用的在线.NET代码编辑工具【.NET Fiddle】](https://mp.weixin.qq.com/s/jjcFweq6lmX6W9nKNa_diQ)
+
 
 
 
@@ -291,15 +297,16 @@
 
 
 
-| 项目名称                                                   | 使用的协议                                                   | 最新版本                     | 功能说明/介绍                                                |
-| ---------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| [**JIEJIE.NET**](https://github.com/dcsoft-yyf/JIEJIE.NET) | [GPL-2.0 license](https://github.com/dcsoft-yyf/JIEJIE.NET#GPL-2.0-1-ov-file) | 最后更新日期：2024年02月01日 | [**一个开源的.NET程序集混淆工具 - JIEJIE.NET**](https://mp.weixin.qq.com/s/sf-m4qyhkdflaYFEG76SAA) |
-|                                                            |                                                              |                              |                                                              |
-|                                                            |                                                              |                              |                                                              |
+| 项目名称                                                   | 使用的协议                                                   | 功能说明/介绍                                                |
+| ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | [GPL-2.0 license](https://github.com/dcsoft-yyf/JIEJIE.NET#GPL-2.0-1-ov-file) | [**一个开源的.NET程序集混淆工具 - JIEJIE.NET**](https://mp.weixin.qq.com/s/sf-m4qyhkdflaYFEG76SAA) |
+|                                                            |                                                              |                                                              |
+|                                                            |                                                              |                                                              |
 
 ### 相关参考
 
-1. [**一个开源的.NET程序集混淆工具 - JIEJIE.NET**](https://mp.weixin.qq.com/s/sf-m4qyhkdflaYFEG76SAA)
+- [**一个开源的.NET程序集混淆工具 - JIEJIE.NET**](https://mp.weixin.qq.com/s/sf-m4qyhkdflaYFEG76SAA)
+- [一个开源、轻量级、快速的 .NET 程序集混淆工具，帮助你保护你的版权！【JIEJIE.NET】](https://mp.weixin.qq.com/s/C2sIvJAohKXuRKiycy3Rrw)
 
 
 
@@ -327,13 +334,18 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[FreeScheduler](https://github.com/2881099/FreeScheduler)** | [MIT](https://github.com/2881099/FreeScheduler/blob/master/LICENSE) |                                                              |
 | **Git:[Quartz.NetUI](https://github.com/cq-panda/Quartz.NetUI)** |                                                              | 项目 Quartz.NetUI 是一个基于 Quartz.NET <br />的任务调度系统，它使用 .NET Core 3.1 开发，<br />提供了一套可视化的界面来管理和操作任务调度。 |
+| Git:[GZY.Quartz.MUI](https://github.com/l2999019/GZY.Quartz.MUI) | [MIT license](https://github.com/l2999019/GZY.Quartz.MUI#MIT-1-ov-file) | 基于Quartz的轻量级,注入化的UI组件                            |
 | **Git:[Hangfire](https://github.com/HangfireIO/Hangfire)**   |                                                              | Hangfire 是一个开源的 .NET 任务调度框架，它允许开发人员轻松地将长时间运行的任务、<br />定时任务和其他后台处理从主线程中分离出来，以提高应用程序的响应速度和性能<br />[官网地址](https://www.hangfire.io/)<br />[文档](https://docs.hangfire.io/en/latest/index.html) |
 | **Gitee:[Sundial](https://gitee.com/dotnetchina/Sundial)**   | MIT                                                          | Sundial 是一个基于 .NET 开源（MIT License）、<br />功能齐全的分布式作业调度系统，它可从最小的应用程序到大型企业系统使用。 |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
 - **[.NET开源轻量化的定时任务调度框架【FreeScheduler】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503534&idx=3&sn=478265bd63d3fe9944baede770d4aace&chksm=9690883c27c58b2de125181d36f6fd9bfbd188728019f56909755a4056f4ac8a2ad5306c87b0&scene=126&sessionid=1722302129#rd)**
 - [基于.NetCore + Quartz.Net + Vue + IView开箱即用的定时任务UI【Quartz.NetUI】](https://mp.weixin.qq.com/s/K0PiXf4oDM7HoTv74TRIVA)
+- [.NET Core 基于Quartz的UI可视化操作组件 GZY.Quartz.MUI 简介 - GuZhenYin - 博客园【GZY.Quartz.MUI】](https://www.cnblogs.com/GuZhenYin/p/15411316.html#!comments)
+  - [GZY.Quartz.MUI(基于Quartz的UI可视化操作组件) 2.8.0发布 新增仪表盘和检索功能 - GuZhenYin - 博客园](https://www.cnblogs.com/GuZhenYin/p/19093054)
+
 - [NET任务调度框架Hangfire使用指南【Hangfire】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508560&idx=2&sn=8d4ca46a0c910c688e83594e1a2efc25&chksm=96a3a3c7b563a9da378a35c0842e5c7190700c1ed2c86da07d0e3d7e5cc15305d693a4cfe457&scene=126&sessionid=1734484256#rd)
 - [基于 .NET 开源、功能齐全的分布式作业调度系统【Sundial】](https://mp.weixin.qq.com/s/36EH7J5DUZPaymPTTofs3w?scene=0&subscene=90)
 
@@ -507,6 +519,7 @@
 | Git:[sqids-dotnet](https://github.com/sqids/sqids-dotnet)    | [MIT license](https://github.com/sqids/sqids-dotnet#MIT-1-ov-file) | Sqids 是一个基于 C# 编写、开源的轻量级工具库，<br />它允许你从数字生成类似 YouTube 的 ID。<br />它可以将数字（如 127）编码为字符串（如 yc3），<br />然后你可以将这些字符串解码回原始数字。<br />当你想要将数字（如顺序数值 ID）混淆为看似随机的字符串，<br />以便在 URL 和其他地方使用时，Sqids 就非常派得上用场。 |
 | Git:[DistributedLock](https://github.com/madelson/DistributedLock) | [MIT license](https://github.com/madelson/DistributedLock#MIT-1-ov-file) | DistributedLock 是一个 .NET 开源的库，<br />它基于多种底层技术提供了强大且易于使用的分布式互斥锁、<br />读写锁和信号量。确保多个线程、进程或服务能够安全、<br />协调地访问共享资源，防止竞态条件，维护数据一致性。 |
 | Git:[Bing.Utils](https://github.com/bing-framework/Bing.Utils) | [MIT license](https://github.com/bing-framework/Bing.Utils#MIT-1-ov-file) | Bing.Utils 是一个基于 .NET Core 平台开源（MIT License）、<br />免费的工具库，旨在提升小型团队的开发输出能力，<br />由常用公共操作类（工具类、帮助类）、分层架构基类，<br />第三方组件封装，第三方业务接口封装等组成。 |
+| Git:[markdig](https://github.com/xoofx/markdig)              | [BSD-2-Clause license](https://github.com/xoofx/markdig#BSD-2-Clause-1-ov-file) | **Markdig** 是一款非常强大的 Markdown 解析器，<br />它不仅支持标准的 Markdown 语法，还提供了许多扩展功能，<br />让开发者能够灵活地定制 Markdown 文本的解析与渲染。 |
 
 ### 相关参考
 
@@ -531,10 +544,14 @@
 - [.NET 使用 MethodTimer 进行运行耗时统计提升代码的整洁性与可维护性！【MethodTimer】](https://mp.weixin.qq.com/s/Txn9cNZsgEnnzxs1_4C1IQ?scene=0&subscene=90)
 - [一款C#开源的、跨平台的GitHub加速神器&Steam工具箱【Watt Toolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508562&idx=2&sn=6c63c6cfd01792c1a946d9ecc6f7b4d1&chksm=9682ce56014e96b0b6f51045fb851ae3375cad3a4b2a6fa1f63ff986867b411864f8d85f22f0&scene=126&sessionid=1734571044#rd)
 - [一款C#开源的、跨平台的GitHub加速神器&Steam工具箱【Watt Toolkit/SteamTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513692&idx=2&sn=525165b9fe8031fadf3cf8f2417fa292&chksm=965ed035e946253853812a82c55085c768a4a4d6643e61728a2149a36729d47cd17d660e1caa&scene=126&sessionid=1747493051#rd)
+- [GitHub 访问下载不再龟速，一个开源、免费、跨平台的 GitHub 访问下载加速神器！【Watt Toolkit】](https://mp.weixin.qq.com/s/Mn6BxXrGT2V4ChSi-XGtRA)
 - [[.NET\] 单位转换实践：深入解析 Units.NET - MadLongTom - 博客园【Units.NET】【UnitsNet】](https://www.cnblogs.com/madtom/p/18653522)
 - [在 .NET 中使用 Sqids 快速的为数字 ID 披上神秘短串，轻松隐藏敏感数字！【Sqids】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513529&idx=1&sn=5e1a823c7f162bd7f606062ccda8c3a5&chksm=96c3b47ef5f74d39c708d24d514304388339c61832601944a153af67baa0e7a55f3b704cec97&scene=126&sessionid=1746751404#rd)
 - [.NET应用中的高效分布式同步解决方案【DistributedLock】](https://mp.weixin.qq.com/s/3P3rkVE4j39knCtpRVtzDg)
 - [精选 4 款基于 C# 开源、实用的工具类库，开发效率提升利器！【Masuit.Tools】【Z.ExtensionMethods】【Common.Utility】【Bing.Utils】](https://mp.weixin.qq.com/s/0ae04FPtJTOMi3MP0m6o3A)
+- **Markdown**
+  - [Markdig：强大的 .NET Markdown 解析器详解 - 努力，努力再努力 - 博客园【Markdig】](https://www.cnblogs.com/forges/p/18774295)
+
 
 
 
@@ -629,6 +646,7 @@
 | **Gitee:[vue-naive-admin](https://gitee.com/isme-admin/vue-naive-admin)** | MIT                                                          | Vue Naive Admin 是一款开源（MIT License）、极简风格的后台管理模板，<br />包含前后端解决方案，前端使用 Vite + Vue3 + Pinia + Unocss，<br />后端使用 Nestjs + TypeOrm + MySql，简单易用，赏心悦目，<br />历经十几次重构和细节打磨，诚意满满！ |
 | **Gitee：[fancyx-admin](https://gitee.com/fancyxnet/fancyx-admin)** | MIT                                                          | 风汐管理系统一款开源的通用后台权限解决方案，<br />由作者独立设计并实现，未使用任何第三方Admin框架。<br />其核心目标是为个人开发与企业提供一套高效、美观、<br />易上手的管理系统基座。系统深度集成RBAC（基于角色的访问控制）模型，<br />支持细粒度的按钮操作权限与数据范围权限，并内置多租户隔离机制，<br />满足SaaS化部署需求。<br />项目采用严格挑选的稳定技术栈（.NET 9 + React 18），<br />确保代码具有优秀的扩展性、可维护性与快速定制能力，<br />在为.NET + React 技术生态贡献高质量实践范例。 |
 | Git:[tdesign-vue-starter](https://github.com/Tencent/tdesign-vue-starter) | [MIT license](https://github.com/Tencent/tdesign-vue-starter#MIT-1-ov-file) | TDesign Vue Starter作为腾讯的开源项目，完全免费（MIT license协议开源）<br />向公众开放。同时，它采用了TDesign设计体系，<br />以简洁、直观、美观的界面设计，为用户提供了极佳的视觉体验。<br />无论是项目的整体布局，还是各个组件的细节处理，<br />都体现了腾讯对设计的高水准要求。 |
+| Git:[naive-ui-pro](https://github.com/Zheng-Changfu/naive-ui-pro) | [MIT license](https://github.com/Zheng-Changfu/naive-ui-pro#MIT-1-ov-file) | Naive UI Pro 是一款基于 Vue 3、Vite、Pro-Naive-UI 和 TypeScript 的<br />中后台管理模板。与市面上其他开源 Admin 模板不同，<br />Naive UI Pro 创新性地采用了基于路由的插件化架构，<br />使得管理员可以像搭积木一样轻松构建和管理后台系统。同时，<br />项目还封装了大量基于 Naive UI 的组件，并提供了高级组件的代码示例，<br />方便开发者快速上手和定制。 |
 
 ### 相关参考
 
@@ -648,6 +666,7 @@
 - [一款轻量、简洁、优雅的 Vue3 中后台管理模板，开源免费可商用！【Vue Naive Admin】](https://mp.weixin.qq.com/s/Z9D1MQVkvurv1t1G16Mr6g?scene=0&subscene=90)
 - [.NET 9 + React 开发的企业级后台权限管理系统，文档齐全，轻松上手 - 小码编匠 - 博客园【风汐管理】](https://www.cnblogs.com/1312mn/p/18974282)
 - [腾讯开源力作！一套免费美观、开箱即用、可扩展的企业级中后台项目管理模板【TDesign Vue Starter】](https://mp.weixin.qq.com/s/Dy5fQ7eu1NwOloz7YgijVA?scene=0&subscene=90)
+- [一款基于 Vue3 完全开源免费、界面精美的后台管理模板，开箱即用！【Naive UI Pro】](https://mp.weixin.qq.com/s/2L-TM27ALDKXkmaL9-50Bg)
 
 
 
@@ -682,22 +701,23 @@
 
 ## I. IoT项目
 
-| 项目名称                                                     | 使用的协议                                                   | 最新版本                     | 帮助文档                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)**  | MIT                                                          | 最后更新日期：2024年06月10日 | IoTGateway是一个<br />基于.NET6的跨平台物联网网关。<br />通过可视化配置，轻松的连接到<br />你的任何设备和系统(如PLC、扫码枪、<br />CNC、数据库、串口设备、上位机、<br />OPC Server、OPC UA Server、Mqtt Server等)，<br />从而与 Thingsboard、<br />IoTSharp或您自己的物联网平台(MES、<br />SCADA)进行双向数据通讯。提供简单的驱动开发接口；<br />当然也可以进行边缘计算。 |
-| **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)**  | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | 最后更新日期：2022年10月25日 | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
-| **Git:[IoTSharp](https://github.com/IoTSharp/IoTSharp)**     | [Apache-2.0 license](https://github.com/IoTSharp/IoTSharp#Apache-2.0-1-ov-file) | 最后更新日期：2024年08月03日 | [在线文档](https://docs.iotsharp.net/docs/intro)             |
-| **Gitee:[ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)** | Apache-2.0                                                   | 最后更新日期：2024年8月13日  | ThingsGateway是一个基于.NET8的<br />跨平台高性能边缘采集网关，主要面向物联网（IOT）<br />和边缘计算领域。提供底层PLC通讯库、通讯调试软件等，<br />便于集成和调试。 |
+| 项目名称                                                     | 使用的协议                                                   | 帮助文档                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Gitee:[iotgateway](https://gitee.com/iioter/iotgateway)**  | MIT                                                          | IoTGateway是一个<br />基于.NET6的跨平台物联网网关。<br />通过可视化配置，轻松的连接到<br />你的任何设备和系统(如PLC、扫码枪、<br />CNC、数据库、串口设备、上位机、<br />OPC Server、OPC UA Server、Mqtt Server等)，<br />从而与 Thingsboard、<br />IoTSharp或您自己的物联网平台(MES、<br />SCADA)进行双向数据通讯。提供简单的驱动开发接口；<br />当然也可以进行边缘计算。 |
+| **Git:[IoTClient](https://github.com/zhaopeiym/IoTClient)**<br />**Gitee:[IoTClient](https://gitee.com/zhaopeiym/IoTClient)** | [MIT license](https://github.com/zhaopeiym/IoTClient#MIT-1-ov-file) | [中文文档](https://github.com/zhaopeiym/IoTClient/blob/master/README-zh_CN.md) |
+| **Git:[IoTSharp](https://github.com/IoTSharp/IoTSharp)**     | [Apache-2.0 license](https://github.com/IoTSharp/IoTSharp#Apache-2.0-1-ov-file) | [在线文档](https://docs.iotsharp.net/docs/intro)             |
+| **Gitee:[ThingsGateway](https://gitee.com/dotnetchina/ThingsGateway)** | Apache-2.0                                                   | ThingsGateway是一个基于.NET8的<br />跨平台高性能边缘采集网关，主要面向物联网（IOT）<br />和边缘计算领域。提供底层PLC通讯库、通讯调试软件等，<br />便于集成和调试。 |
 
 ### 相关参考
 
-1. **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
-1. **[IoTGateway：一个.NET开源、免费的跨平台物联网网关【IoTGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504456&idx=1&sn=b8485deb35307c1a06b162b5aacd826c&chksm=96effed0299e0594ed8a39a3da76acacd35667d8310ba95193937591c5991d92e477fd1dcfc5&scene=126&sessionid=1724720195#rd)**
-1. [一个基于 .NET 开源、跨平台的工业物联网网关，通过可视化配置，能够轻松连接到各种设备和系统！【IoTGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514621&idx=2&sn=eecf006745c314a25630743a1f196f21&chksm=96a5ff0409f1c02675289311441128069cb01b8801ae472a498b45478e956c0c61bb49e48b8f&scene=126&sessionid=1750383530#rd)
-1. **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
-1. **[一个基于.Net Core 开源的物联网基础平台【IoTSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=3&sn=7caa5aa3a46e5c3d0199815c5b0f4d3e&chksm=96ffee3d20491289fa8ced405dc5073dd6528f83968406e7f227d4275cea3f51d8b2bc0741c0&scene=126&sessionid=1723383964#rd)**
-1. **[一款基于.NET8的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=2&sn=6caa19725f253bd990d534f69007cebd&chksm=9658a6220f578a6af7dabaf592bc579c02aa590b075136a2db6e5239efde18493b7239409142&scene=126&sessionid=1723511292#rd)**
-1. **[一款基于.NET8开源的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=1&sn=264668f0118d76efabb225b65a5bd54f&chksm=96ca5fee1d70b2e046ccac224d36eeee946bf81c18a4724ececde2964cd3cdfd46eb86082245&scene=126&sessionid=1724241646#rd)**
+- **[基于.NET开源、免费、功能强大的跨平台物联网网关 (iotgateway)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247502999&idx=2&sn=2048645f01905eceb5018648a1a2bae1&chksm=962f7e4c41af5f48b82fda5b483d085de4a5c4f6260774d32e218532b8bbc2e101c83219d47f&scene=126&sessionid=1720745568#rd)**
+- **[IoTGateway：一个.NET开源、免费的跨平台物联网网关【IoTGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504456&idx=1&sn=b8485deb35307c1a06b162b5aacd826c&chksm=96effed0299e0594ed8a39a3da76acacd35667d8310ba95193937591c5991d92e477fd1dcfc5&scene=126&sessionid=1724720195#rd)**
+- [一个基于 .NET 开源、跨平台的工业物联网网关，通过可视化配置，能够轻松连接到各种设备和系统！【IoTGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514621&idx=2&sn=eecf006745c314a25630743a1f196f21&chksm=96a5ff0409f1c02675289311441128069cb01b8801ae472a498b45478e956c0c61bb49e48b8f&scene=126&sessionid=1750383530#rd)
+- **[.NET 开源 IoTClient：高效稳定的物联网通信协议客户端【IoTClient】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503495&idx=2&sn=9477afc05ea19a26deb94e069eb012ac&chksm=962045c753810c8428ac73c6f83e7f222af9e7440f0b2024b1b1a968ed4552ddb736a10f30f4&scene=126&sessionid=1722213176#rd)**
+- [一个 .NET 开源免费、高效稳定的物联网通信协议客户端](https://mp.weixin.qq.com/s/snQ_ObnahAl6INfBNRdk8g)
+- **[一个基于.Net Core 开源的物联网基础平台【IoTSharp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503963&idx=3&sn=7caa5aa3a46e5c3d0199815c5b0f4d3e&chksm=96ffee3d20491289fa8ced405dc5073dd6528f83968406e7f227d4275cea3f51d8b2bc0741c0&scene=126&sessionid=1723383964#rd)**
+- **[一款基于.NET8的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504050&idx=2&sn=6caa19725f253bd990d534f69007cebd&chksm=9658a6220f578a6af7dabaf592bc579c02aa590b075136a2db6e5239efde18493b7239409142&scene=126&sessionid=1723511292#rd)**
+- **[一款基于.NET8开源的跨平台高性能边缘采集网关【ThingsGateway】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504348&idx=1&sn=264668f0118d76efabb225b65a5bd54f&chksm=96ca5fee1d70b2e046ccac224d36eeee946bf81c18a4724ececde2964cd3cdfd46eb86082245&scene=126&sessionid=1724241646#rd)**
 
 
 
@@ -851,6 +871,7 @@
 | Git:[netcorepal-cloud-framework](https://github.com/netcorepal/netcorepal-cloud-framework) | [MIT license](https://github.com/netcorepal/netcorepal-cloud-framework#MIT-1-ov-file) | netcorepal-cloud-framework 是一个基于 ASP.NET Core <br />实现的领域驱动设计落地战术框架。框架核心特性，<br />领域驱动设计实践支持 + CQRS + Event Driven + 分布式事务<br />（事件处理的最终一致性） + 多租户 + 多环境（灰度发布）。 |
 | Git:[netcorepal-cloud-template](https://github.com/netcorepal/netcorepal-cloud-template) | [MIT license](https://github.com/netcorepal/netcorepal-cloud-template#MIT-1-ov-file) | 基于netcorepal-cloud-framework的项目模板工具                 |
 | **Git:[TulingMember](https://gitee.com/a106_admin/tuling-member)** | MulanPSL-2.0                                                 | TulingMember 是一款使用 .NET 6 开发，<br />基于 Furion 框架与 ViewUI 构建的极简进销存管理系统。<br />该项目旨在为企业提供一套轻量级、易扩展、易维护的进销存解决方案，<br />帮助企业高效管理商品、销售、采购、库存及财务等核心业务。 |
+| **Gitee:[JxcLite](https://gitee.com/known/JxcLite)**         | Apache-2.0                                                   | JxcLite 是一个基于 Known 框架开发（基于 .NET Blazor 轻量级、<br />跨平台、低代码、易扩展的插件开发框架）、<br />Apache License 开源的简易、轻量级的进销存管理系统。 |
 
 ### 相关参考
 
@@ -883,7 +904,10 @@
 - [一个基于 Vue3 开源、免费、高颜值的中后台模版，开箱即用！【Gi Admin Pro/gi-demo】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513157&idx=2&sn=b38820a43906debac0faa5fea5eda248&chksm=96cf4abc95359428a0f5aa4272e5b4bd672f2a5b18a657af3f76c51eb05bf111d43d060c6f00&scene=126&sessionid=1745886966#rd)
 - [传统开发被淘汰？Akka.NET 带你进入真正的响应式时代](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513383&idx=2&sn=5b515cd330bd2dc1d6f957810a6e59b1&chksm=9644f97fb0878fc418f24495a11581be6321d744878b806537871c761069cb8d44479a3f8f6e&scene=126&sessionid=1746578976#rd)
 - [.NET 开源、快速开发框架选型看这里就够了，开发效率翻倍！【ZR.Admin.NET】【Vue.NetCore】【Admin.Core】【WaterCloud】【DncZeus】【ApeVolo.Admin】【WalkingTec.Mvvm】【YiShaAdmin】【YuebonNetCore】【Known】【Platform】【Caviar】【】【】【】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514836&idx=1&sn=eebcfc6b1327912b6f3d56186b23afd4&chksm=96584157f4e865ee03796cc96ac703e0759b5ce2c2dc466be5925bc78877d5729b738fea272a&scene=126&sessionid=1751201346#rd)
-- [【开源力荐】一款基于 .NET + Vue 开发、可商用的极简进销存管理系统【TulingMember】](https://mp.weixin.qq.com/s/_FMpo53ahk52G4x6siFVzw?scene=0&subscene=90)
+- **进销存管理系统**
+  - [【开源力荐】一款基于 .NET + Vue 开发、可商用的极简进销存管理系统【TulingMember】](https://mp.weixin.qq.com/s/_FMpo53ahk52G4x6siFVzw?scene=0&subscene=90)
+  - [一个基于 .NET 开源、简易、轻量级的进销存管理系统【JxcLite】](https://mp.weixin.qq.com/s/ROkptFQUo6m4mwG1ZADHMw)
+
 - **领域驱动**
   - [一个基于 ASP.NET Core 实现的领域驱动设计落地战术框架【netcorepal-cloud-framework】【netcorepal-cloud-template】](https://mp.weixin.qq.com/s/Yj5wCjCFsR58MHdiUlXo1g)
 
@@ -904,6 +928,7 @@
 | **Git:[gtksystem-windows-forms](https://github.com/easywebfactory/gtksystem-windows-forms)** | [LGPL-3.0 license](https://github.com/easywebfactory/gtksystem-windows-forms#LGPL-3.0-1-ov-file) | GTKSystem.Windows.Forms是一个C#桌面应用程序跨平台（Windows、Linux、macOS）<br />开发框架，基于GTK组件开发。使用该框架开发项目时，<br />Visual Studio可以使用C#的原生WinForms表单窗体设计器，<br />保持与原生WinForms相同的属性、方法和事件，无需额外学习。通过一次编译，<br />可以实现跨平台运行，便于开发跨平台WinForms软件，<br />以及将现有的C# WinForms软件升级为跨平台软件。 |
 | Git:[Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) | [View license](https://github.com/xamarin/Xamarin.Forms#License-1-ov-file) | Xamarin 是一个开放源代码平台，用于通过 .NET 构建适用于 iOS、<br />Android 和 Windows 的新式高性能应用程序。Xamarin 是一个抽象层，<br />可管理共享代码与基础平台代码的通信。Xamarin 在提供便利<br />（如内存分配和垃圾回收）的托管环境中运行。 |
 | [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) | [MIT license](https://github.com/BAndysc/Classic.Avalonia#MIT-1-ov-file) | Classic.Avalonia 是一款 .NET 开源（MIT license）、<br />超级经典复古的 Windows 9x （Windows 9x 是指对 Windows 95 及 Windows 98、<br />Windows Me 等及其中的非主流版本的的通称）主题风格 Avalonia UI 控件库。 |
+| Git:[maui-toolkit](https://github.com/syncfusion/maui-toolkit) | [MIT license](https://github.com/syncfusion/maui-toolkit#MIT-1-ov-file) | Syncfusion.Maui.Toolkit 是一套开源（MIT license）、免费、美观、<br />高性能的跨平台 .NET MAUI 控件库，旨在简化 Android、iOS、<br />macOS 和 Windows 跨平台应用开发。通过使用此工具包，<br />开发者可以轻松构建美观且功能丰富的应用程序，从而缩短开发时间，<br />同时确保跨平台的无缝和引人入胜的用户体验。 |
 
 ### 相关参考
 
@@ -924,6 +949,9 @@
    -  [一款基于 Ant Design 设计语言实现、漂亮的 .NET Avalonia UI 控件库【AtomUI】](https://mp.weixin.qq.com/s/QMjNkb-YQXAfHKKLaH23tQ)
    -  [.NET Avalonia开源、免费的桌面UI库 - SukiUI【SukiUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506318&idx=2&sn=55b8865598960dfa3433e1a9e7903186&chksm=96fdf41aeb5cf951a10a1e1f1a27775fdc0464c25b8118c09cb840206cb5f8da7ee3c1479cd8&scene=126&sessionid=1729127563#rd)
    -  [一个 .NET Avalonia 开源、免费的桌面 UI 库【SukiUI】](https://mp.weixin.qq.com/s/VW45isjAta7Cv6aKDh1wIg)
+-  **MAUI**
+   -  [一套开源、美观、高性能的跨平台 .NET MAUI 控件库，助力轻松构建美观且功能丰富的应用程序！【Syncfusion.Maui.Toolkit】](https://mp.weixin.qq.com/s/oA4LBFr3Tr0vlblenu5liw)
+
 
 
 
@@ -940,6 +968,20 @@
 
 - [一款基于.NET开源且免费的在线考试系统【ExamKing】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506666&idx=3&sn=515c6643f1edb2a052b59e861b9fe790&chksm=96b4827f4ee5747b7bf219c72e46b44b0fc18996c9dca74ba659df1fa0532411214138ddc7a0&scene=126&sessionid=1730251771#rd)
 - [一款基于 .NET8 + Vue 开源、免费、跨平台的企业级在线考试系统【XBLMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509039&idx=1&sn=63558f7c6acfeee54e821af30637505f&chksm=96e1a1f70d95dd66d7a135c2d1d04fb4ea9df9d10954e7cfdf6a44b9955dd9eb0ec081835183&scene=126&sessionid=1736211021#rd)
+
+
+
+## K. 开发环境管理平台
+
+| 项目名称                                          | 使用的协议 | 项目功能/介绍                                                |
+| ------------------------------------------------- | ---------- | ------------------------------------------------------------ |
+| Git:[ServBay](https://github.com/ServBay/ServBay) |            | ServBay 是一款功能强大且全面的本地 Web 开发环境管理工具，<br />专为专业 Web 开发人员设计，现已支持 **macOS 和 Windows**。<br />ServBay 支持多种开发语言、数据库、Web 服务器、邮件服务器、DNS 服务器和反向代理。<br />现在，它还集成了 Ollama 的 AI 开发功能、MinIO 的对象存储、<br />Typesense 和 Meilisearch 的强大搜索功能，以及一个健壮的备份系统。<br />您进行 Web 开发所需的一切都在这里。只需 3 分钟即可搭建专业的本地开发环境。 |
+|                                                   |            |                                                              |
+|                                                   |            |                                                              |
+
+### 相关参考
+
+- [ServBay/README\_zh-CN.md at main · ServBay/ServBay【ServBay】](https://github.com/ServBay/ServBay/blob/main/README_zh-CN.md)
 
 
 
@@ -1111,6 +1153,7 @@
 | **Gitee:[FytSoaCms](https://gitee.com/feiyit/FytSoaCms)**    | MIT                                                          | FytSoaCms是一款基于.NET Core2.2/3.1（Razor Page）开源、<br />免费（MIT License）、功能强大的Cms建站系统，支持前后端分离。<br />它拥有强大的功能和模块化的设计，便于灵活扩展和二次开发。 |
 | Git:[cofoundry](https://github.com/cofoundry-cms/cofoundry)  | [MIT license](https://github.com/cofoundry-cms/cofoundry#MIT-1-ov-file) | Cofoundry是一个开源且免费的 .NET CMS 和应用程序框架，<br />专注于代码优先的开发模式、无侵入的集成方式、<br />可扩展且灵活的架构以及简单且用户友好的内容管理。 |
 | Git:[FluentCMS](https://github.com/fluentcms/FluentCMS)      | [MIT license](https://github.com/fluentcms/FluentCMS#MIT-1-ov-file) | FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），<br />它基于强大的 ASP.NET Core + Blazor技术构建。<br />FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，<br />不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），<br />使其非常适合各种数字应用场景。 |
+| Git:[OrchardCore](https://github.com/OrchardCMS/OrchardCore) | [BSD-3-Clause license](https://github.com/OrchardCMS/OrchardCore#BSD-3-Clause-1-ov-file) | OrchardCore 是一个开源的（BSD-3-Clause license）、<br />模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。<br />同时，它也是一个基于该框架的内容管理系统（CMS）。 |
 
 ### 相关参考
 
@@ -1127,6 +1170,9 @@
 - [精选5款基于.NET开源、免费、功能强大的CMS内容管理系统【SSCMS】【lin-cms-dotnetcore】【Umbraco CMS】【Cofoundry】【FytSoaCms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511347&idx=1&sn=8e69b90393cc09e860d8ecc8cbab5424&chksm=9622d1feb8494dd4143afcc52160fbc3d4a7a9efb42308da5624d4ebdc6c815d08fc031a989b&scene=126&sessionid=1742126430#rd)
 - [不写一行代码 .NET 使用 FluentCMS 快速构建现代化内容管理系统（CMS）【FluentCMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514252&idx=1&sn=7329476729b74e646ddf25474b58c286&chksm=966c4a0aa021bac0afa0c263a66562b0223ee06dc83533e14e7887dd27a7038d9e63c049838a&scene=126&sessionid=1749548903#rd)
 - [精选 6 款基于 .NET 开源免费、功能强大的内容管理系统【FluentCMS】【Umbraco CMS】【SSCMS】【lin-cms-dotnetcore】【Cofoundry】【FytSoaCms】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514933&idx=1&sn=e4b1e0b7303e472990019ad046be8a1a&chksm=96d7c52143af08bf8559f5621eb009664d15223cdf9862fe9115da7f4aaf33868f6b02510f79&scene=126&sessionid=1751440063#rd)
+- [10 分钟使用 OrchardCore 快速构建 .NET 内容管理系统（CMS)【OrchardCore】](https://mp.weixin.qq.com/s/NbiaY9kjQauPkM_Qi9yPrg)
+  - [Orchard Core 中文文档](https://docs.orchardcore.net/zh-cn/latest/)
+
 
 
 
@@ -1136,7 +1182,7 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | **Gitee:[MiniExcel](https://gitee.com/dotnetchina/MiniExcel)** | Apache-2.0 |                                                              |
 | **Gitee:[MiniWord](https://gitee.com/dotnetchina/MiniWord)** | Apache-2.0 | MiniWord是一个基于.NET开源、易于使用的.NET Word模板导出引擎，<br />无需安装Office COM+，适用于Windows、Linux和Mac。 |
-|                                                              |            |                                                              |
+| **Gitee:[MudTools.OfficeInterop](https://gitee.com/mudtools/OfficeInterop)** | MIT        | 一套针对 Microsoft Office/WPS Office 应用程序<br />（包括 Excel/ET、Word/WPS、PowerPoint/WPP ）的 .NET 封装库。<br />通过提供简洁、统一的 API 接口，大大降低直接使用 Office COM 组件的复杂度，<br />能够轻松地在 .NET 应用程序中集成和操作 Office文档。 |
 
 ### 相关参考
 
@@ -1144,6 +1190,8 @@
 - **[一个简单、高效、低内存的.NET处理Excel查、写、填充数据工具类库【MiniExcel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503180&idx=3&sn=c832c391147782c0305a28abe843ff94&chksm=964efc7a9e780f00c6c139dc87d7074e829eca66fa54e29d63fb763791d47f5cfccfaefb10ea&scene=126&sessionid=1721177969#rd)**
 - [一个简单高效、低内存的 .NET 处理 Excel 文件的实用类库【MiniExcel】](https://mp.weixin.qq.com/s/BvxjzwhClCV1PCsbkqWAKg)
 - [.NET使用MiniWord高效生成Word文件【MiniWord】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507696&idx=1&sn=d52c096c503c9d1987a6bb11b3660e18&chksm=96796b4e52b6138b71a3fd0e0c8f3a587f0cb3ff0e1fcf9e3b016fdbb298d067bc480edaba7f&scene=126&sessionid=1732495973#rd)
+- [开源一套.NET平台的Excel COM 组件二次封装库 - 玩泥巴的 - 博客园【MudTools.OfficeInterop】](https://www.cnblogs.com/mudtools/p/19060706)
+- [第一个Excel自动化程序 | MudTools For Office【MudTools.OfficeInterop】](https://www.mudtools.cn/documents/guides/excel/excel-guide-part2.html)
 
 
 
@@ -1314,7 +1362,6 @@
 | **Git:[CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher)** | [MIT license](https://github.com/OrgEleCho/CurvaLauncher#MIT-1-ov-file) |                                                              |
 | **Git:[PasteEx](https://github.com/huiyadanli/PasteEx)**     | [GPL-3.0 license](https://github.com/huiyadanli/PasteEx#GPL-3.0-1-ov-file) | Paste As File 把剪贴板的内容直接粘贴为文件                   |
 | uTools                                                       |                                                              | uTools是一款功能丰富、高度可定制的桌面软件（实用工具箱）支持Windows, Mac, Linux版本，<br />通过集成多种实用插件，为用户提供了一个便捷高效的工作平台。无论是专业人士还是普通用户，<br />都能在uTools中找到适合自己的功能，提高工作效率和生活品质。<br />如果你正在寻找一款能够提升工作效率的桌面软件，uTools绝对是一个值得尝试的选择。<br /><br />[官网地址](https://u.tools/)<br />[下载地址](https://u.tools/download/) |
-| **Git:[qttabbar](https://github.com/indiff/qttabbar)**       | [GPL-3.0 license](https://github.com/indiff/qttabbar#GPL-3.0-1-ov-file) | QTTabBar是一款基于.NET开发的可以让你在Windows资源管理器中使用<br />Tab多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，<br />还有给力的文件夹预览功能，大大提高了你工作的效率。就像IE 7和Firefox、<br />Opera那样的。QTTabBar还提供了一些功能插件，<br />如：文件操作工具、树型目录、显示状态栏等等。 |
 | Git:[PowerToys](https://github.com/microsoft/PowerToys)      | [MIT license](https://github.com/microsoft/PowerToys#MIT-1-ov-file) | Microsoft PowerToys 是使用 C++ 和 C# 编程语言开发的。<br />它利用了 Windows 操作系统的底层功能和 API，<br />以及 Microsoft 开发的一些开源库和工具来实现其功能，集成了20多个实用工具。 |
 
 #### 相关参考
@@ -1323,7 +1370,6 @@
 - [一款.NET开源、免费、功能强大的 Windows 文件搜索和应用程序启动器【Flow.Launcher】](https://mp.weixin.qq.com/s/OMd07mRMJXjL9Av10UsBYA)
 - [PasteEx：一款.NET开源的Windows快捷粘贴神器【PasteEx】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507675&idx=1&sn=8e0e8e23beaf7717e66dea37702c80e1&chksm=96b53473351b35e5b0ae6c499b3cfb3c21f8d94b5d06bb89d5be4708aad97862a4c26e243777&scene=126&sessionid=1732495973#rd)
 - [uTools：新一代效率工具平台，自由组合插件应用，打造专属你的趁手工具集！【uTools】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507770&idx=2&sn=965438b1bb24008ad4977a3f8d1936bc&chksm=9697c8284e4dcc9d3962815dc11c139022bbf5067a36fc77ff5c075c47d69b5951d689068aef&scene=126&sessionid=1732756371#rd)
-- [一款.NET开源的Windows资源管理器标签页工具【QTTabBar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=1&sn=4cca6bd6f556bdadc67d2f4d5aa7a824&chksm=963d8a5009377e6b7312a8053271d9dad48980c48fb0e3b65e84dd6ba4b434cc47b63a463ee5&scene=126&sessionid=1733100642#rd)
 - [微软官方发布的C#开源、免费、实用的Windows工具箱【Microsoft PowerToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247494950&idx=1&sn=a697a3daf988c05b8decbe074f0a3734&scene=21#wechat_redirect)
 
 
@@ -1333,7 +1379,9 @@
 | 项目名称                                                     | 使用的协议                                                   | 功能说明/介绍                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Git:[SophiApp](https://github.com/Sophia-Community/SophiApp)** | [MIT license](https://github.com/Sophia-Community/SophiApp#MIT-1-ov-file) | SophiApp是一个免费且开源的应用程序，<br />旨在为Windows 10和Windows 11用户提供精细的调整和优化功能。 |
-| **Git:[QuickLook](https://github.com/QL-Win/QuickLook)**     | [GPL-3.0 license](https://github.com/QL-Win/QuickLook#GPL-3.0-1-ov-file) | QuickLook 是一个旨在为 Windows 用户提供类似于 macOS 中 Quick Look 功能的<br />应用程序。Quick Look 允许用户仅通过按下空格键快速预览文件内容，<br />而 Windows 原生并不具备这一便捷功能。该项目通过开发一个第三方应用程序，<br />为 Windows 用户带来了这一实用的预览体验。 |
+| Git:[ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize) |                                                              | ZyperWin++ 是一个基于 .NET + SunnyUI 开源、轻便、<br />简洁美观的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化，<br />包括性能优化、服务项优化、垃圾清理、资源管理器管理、<br />安全设置、隐私设置、更新设置、Appx管理策略优化等操作，<br />还支持系统激活和Office快速安装。 |
+| Git:[optimizer](https://github.com/hellzerg/optimizer)       | [GPL-3.0 license](https://github.com/hellzerg/optimizer#GPL-3.0-1-ov-file) | Optimizer 是一款基于 .NET 开源（GPL-3.0 license）、<br />功能强大的 Windows 系统优化工具，可帮助用户提高计算机性能、<br />加强隐私和安全保护。该工具支持22种语言，同时提供了许多实用的功能，<br />如关闭不必要的 Windows 服务、停止 Windows 自动更新、<br />卸载UWP应用、<br />清理系统垃圾文件和浏览器配置文件、修复常见的注册表问题等。<br />此外，Optimizer 还提供了硬件检测工具、IP 连通性和延迟测试工具、<br />快速更改 DNS 服务器、编辑 HOSTS 文件、<br />识别和终止文件锁定句柄等实用工具。 |
+| Git:[WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | [GPL-3.0 license](https://github.com/IgorMundstein/WinMemoryCleaner#GPL-3.0-1-ov-file) | WinMemoryCleaner 是一款 .NET 开源免费（GPL-3.0 license）、<br />界面简洁、小巧智能的 Windows 内存清理工具，<br />它通过调用 Windows 系统原生接口，有效优化内存使用。<br />当某些程序未能正确释放已分配的内存时，<br />使用 WinMemoryCleaner 可以帮助提升系统性能。 |
 | **Ditto**                                                    | [下载地址](https://ditto-cp.sourceforge.io/)                 | Ditto作为一款开源、免费且功能强大的剪贴板增强工具，凭借其丰富的功能和<br />高度的可定制性，成为了众多用户提升工作效率和创作体验的得力助手。<br />无论是办公人士还是写作爱好者，都可以通过Ditto来更好地管理自己的剪贴板内容，<br />提高工作效率和创作质量。 |
 | **Gitee:[ModengTerm](https://gitee.com/zyfalreadyexsit/terminal)** | GPL-3.0                                                      | ModengTerm是一个用WPF开发的终端模拟器，它拥有类似于XShell的强大功能，<br />并且它是开源和免费使用的。它的最终目标可以作为XShell的平替产品，<br />让你拥有一个免费，安全，放心使用的虚拟终端软件。 |
 | Git:[DevHub](https://github.com/jaywcjlove/DevHub)           |                                                              | DevHub是一个免费开发者工具箱 100+ 实用小工具合集 (Mac / 离线使用)，经过精心打造，<br />旨在支持开发人员的日常任务，并确保其数据的最高安全性。<br />应用场景非常广泛，重点是可以离线使用。 |
@@ -1363,9 +1411,6 @@
 
 #### 相关参考
 
-- **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
-- [一款基于 .NET 开源、免费、功能强大的 Windows 系统优化工具【SophiApp】](https://mp.weixin.qq.com/s/zNJqynL9idNFQWo-OsZBtw)
-- [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
 - [摆脱低效复制粘贴，使用 Ditto 提高效率！！【Ditto】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506376&idx=3&sn=eccc49bdb632904825a8487c40a97676&chksm=9639d31dcf59aeaf90640d14ece2ba15e293461c72fd0a61a7ebb5dcd915b4f9d7a8a3fba875&scene=126&sessionid=1729426307#rd)
 - [一个 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506415&idx=2&sn=c85402b8269eb3d88d245eff0842db70&chksm=96793cd4db5942d5723485a5398ad3a118cbf6c1492169e258d707de0e5e3b5bb17a8e0f25b2&scene=126&sessionid=1729559254#rd)
 - [基于 WPF 开发的简约，功能强大的终端模拟器【ModengTerm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508806&idx=1&sn=988fd980c41c8952cd915d8976f2a8b7&chksm=964bf48177ec51b4e4423dea841e70d864d84b78ae752726f7836298d1f2969a984926079ebd&scene=126&sessionid=1735476661#rd)
@@ -1378,9 +1423,16 @@
 - [一款 .NET 开源、免费的适用于 Windows 下 PC 版微信/QQ/TIM的防撤回补丁（我已经看到了，撤回也没用了）！！【RevokeMsgPatcher】](https://mp.weixin.qq.com/s/a6ZtLbm4Ybj9HIf2fIk2VQ)
 - [一款开源免费、支持一键轻松将任意网站/Vue/React 等项目构建为轻量级(小于 5M)多端桌面应用和手机应用！【PakePlus】](https://mp.weixin.qq.com/s/14o31TknhHMbs3571EzVHg?scene=0&subscene=90)
 - [纯 C#实现+AOT 打造的智能PDF目录提取工具 PdfTocExtractor - 程序设计实验室 - 博客园【PdfTocExtractor】](https://www.cnblogs.com/deali/p/19048154/csharp-pdf-toc-extractor)
+- **Windows 优化工具**
+  - **[C#编写的一款强大的 Windows 微调工具【SophiApp】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505156&idx=2&sn=4f96c1d340ebd62991f2a840d92402d6&chksm=967ef811f7832451355a6e7258d39a1001540fc65b384eb236d39e5076c5d39e77f45bb0ac13&scene=126&sessionid=1726188991#rd)**
+  - [一款基于 .NET 开源、免费、功能强大的 Windows 系统优化工具【SophiApp】](https://mp.weixin.qq.com/s/zNJqynL9idNFQWo-OsZBtw)
+  - [一个基于 .NET 开源、轻便的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化！【ZyperWin++】](https://mp.weixin.qq.com/s/ndD-06WHiI5z0P9VQGpyEw)
+  - [精选 4 款基于 .NET 开源、功能强大的 Windows 系统优化工具，助力轻松提升 Windows 系统性能与使用体验！【Optimizer】【SophiApp】【WinMemoryCleaner】【ZyperWin++】](https://mp.weixin.qq.com/s/Tf8sOVMp-VDnTwOvP4rRTg)
+  
 - **快速启动**
   - [斩获 48K 星！让你 Windows 起飞【Wox】【TranslucentTB】【Seelen-UI】](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247522727&idx=1&sn=a97cbc7965023ea08c998defe8bea8c9&chksm=f847c660df330f08500b8d2fb3fd1e3da43b3b5c303f8f38c5785db5ff8e7c83a9bea1714e3e&scene=126&sessionid=1742448569#rd)
   - [.NET开源免费的Windows快速文件搜索和应用程序启动器【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497839&idx=1&sn=6cd45d43b563cf6a52d9f905967fdb04&scene=21#wechat_redirect)
+  - [一款基于 .NET 编写比 Everything 更好用的开源平替工具！【Flow Launcher】](https://mp.weixin.qq.com/s/uFpyRjsbAqb0aXZ5eIPpKw)
 - **截图，录屏，Gif动画制作工具**
   - [.NET开源免费、功能强大的 Windows 截图录屏神器【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247498143&idx=1&sn=6474b7a9ca8527744f024e301218a793&scene=21#wechat_redirect)
   - [3款.NET开源、功能强大的屏幕录制工具【ScreenToGif】【Captura】【ShareX】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509007&idx=1&sn=6df82c91eb760da293bb5ea4f3cbdc16&chksm=9605beab97859b5bcb97b66c09be0b8f517a0bfc9a47463c3caba99fee43bb265e05eeda1aea&scene=126&sessionid=1735740851#rd)
@@ -1389,6 +1441,7 @@
   - [一个.NET开源、易于使用的屏幕录制工具【Captura】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508651&idx=1&sn=39fe476367d561a4c91379819a80a4da&chksm=96ab7326754d7ddc172c6a14e61e420f529da59561834e9fe9f46636cbbcb9777534baf6c4e6&scene=126&sessionid=1734914402#rd)
 - **Windows工具箱**
   - [C#开源免费的开发效率提升利器：DevToys开发人员的瑞士军刀！【DevToys】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247496113&idx=1&sn=73289a58f2ffca29f6fc55318f4f3f73&scene=21#wechat_redirect)
+  - [官方出品！一款基于 C# 开源免费、功能齐全的 Windows 开发者工具箱，开发者的瑞士军刀！！！【DevToys】](https://mp.weixin.qq.com/s/ZRh6Y9Pxj2DUjkhXGcTYMg)
   - [一个强大且灵活的 Windows 系统管理工具，开源免费！【Winutil】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=2&sn=a4c89f9ef6ec6f2d187cdab948916f2a&chksm=961c13dbd9100350ed27c4ee1e0272725f571026f3b1664cb157c9c0c84669e76173b6913bf1&scene=126&sessionid=1743123644#rd)
   - [FluentTerminal：一个基于 UWP 开发的现代化 Windows 终端应用【FluentTerminal】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513520&idx=1&sn=9a3edd350baf796fd9ef08eba26ff6bd&chksm=96bd6f0918d9691a441a828fa6ff7aa236b083ced6aae6b0fcedf6b2c6573f1cf770398d5c30&scene=126&sessionid=1746879575#rd)
 - **文件搜索**
@@ -1433,6 +1486,24 @@
 - [【开源力荐】一个 .NET 开源、免费、使用简单的人脸识别库【FaceRecognitionDotNet】](https://mp.weixin.qq.com/s/s9m39IyrEOgzxMlCSUf_ZQ)
 - [C# OpenCvSharp 部署3D人脸重建3DDFA-V3【OpenCvSharp】](https://mp.weixin.qq.com/s/h8dKMN2sCAy-BwO7wK2BvA)
 - [C# OpenCvSharp 部署读光-票证检测矫正模型（cv_resnet18_card_correction）](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247510017&idx=2&sn=049596802ba3d613538e6b9fa596922e&scene=21#wechat_redirect)
+
+
+
+## R. RAG
+
+| 项目名称                                             | 使用的协议                                                   | 功能说明/介绍                                                |
+| ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git:[ragflow](https://github.com/infiniflow/ragflow) | [Apache-2.0 license](https://github.com/infiniflow/ragflow/tree/main#Apache-2.0-1-ov-file) | [RAGFlow](https://ragflow.io/) 是一款领先的开源检索增强生成（RAG）引擎，<br />通过融合前沿的 RAG 技术与 Agent 能力，为大型语言模型提供卓越的上下文层。<br />它提供可适配任意规模企业的端到端 RAG 工作流，<br />凭借融合式上下文引擎与预置的 Agent 模板，<br />助力开发者以极致效率与精度将复杂数据转化为高可信、生产级的人工智能系统。 |
+|                                                      |                                                              |                                                              |
+|                                                      |                                                              |                                                              |
+
+### 相关参考
+
+- [ragflow/README\_zh.md at main · infiniflow/ragflow【RAGFlow】](https://github.com/infiniflow/ragflow/blob/main/README_zh.md)
+  - [RAGFlow | RAGFlow 引擎](https://ragflow.com.cn/)
+    - [快速入门 | RAGFlow 引擎【RAGFlow】](https://ragflow.com.cn/docs/dev/)
+    - [博客 | RAGFlow 引擎](https://ragflow.com.cn/blog)
+    - [部署本地模型 | RAGFlow 引擎](https://ragflow.com.cn/docs/dev/deploy_local_llm)
 
 
 
@@ -1640,6 +1711,7 @@
 | **Modbus相关**                                               |                                                              |                                                              |
 | Git:[NModbus4](https://github.com/NModbus4/NModbus4)         | [MIT license](https://github.com/NModbus4/NModbus4#MIT-1-ov-file) | NModbus4是一个用于.NET平台的开源Modbus库。                   |
 | **Gitee:[Ormon-HostLinkLib](https://gitee.com/dragonet-Z/ormon-hostlinklib)** | MIT                                                          | HostLink 协议是欧姆龙 PLC 与主机通讯的一种公开协议，<br />PC 可通过 HostLink 命令对 PLC 的运行状态、I/O 点位的读写 |
+| Git:[SuperCom](https://github.com/SuperStudio/SuperCom)      | [GPL-3.0 license](https://github.com/SuperStudio/SuperCom#GPL-3.0-1-ov-file) | SuperCom 是一款基于 .NET 开源（GPL-3.0 license）、美观、<br />流畅、高效、功能丰富的串口调试工具，<br />主要用于 Window 串口日志的采集、存储、可视化等功能。 |
 
 ### 相关参考
 
@@ -1664,6 +1736,8 @@
 - **Modbus**
   - [从0到1：工业通信的秘密武器 - NModbus4全解析【NModbus4】](https://mp.weixin.qq.com/s?__biz=MzUxMjI3OTQzMQ==&mid=2247494853&idx=1&sn=0e7132676c913a630b7ae1344e777be8&chksm=f9647a2dce13f33b527f65ea7f76db8abae73b7b3c1ba1a379121c9799ceafd030f906bc5ef7#rd)
   - [C#实现欧姆龙 HostLink 通讯协议库 - Dragonet-Z - 博客园【Ormon-HostLinkLib】](https://www.cnblogs.com/dragonet-Z/p/18928900)
+  - [一款基于 .NET 开源美观、功能丰富的串口调试工具【SuperCom】](https://mp.weixin.qq.com/s/mkon5HoazmKd2iQLgq-Ivg)
+  - [一款开源免费、美观流畅、功能丰富的 .NET串口调试神器【SuperCom】](https://mp.weixin.qq.com/s/kYp7yQekl1SqlJFF1Lxj-g)
 
 
 
@@ -1854,6 +1928,7 @@
 | Git:[wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) |                                                              | Extended.Wpf.Toolkit是一款开源、经典、易于使用的 WPF 控件、组件和实用工具集合，<br />专为打造新一代 Windows 应用程序而设计。<br />它能帮助开发者构建经典且外观专业的 WPF 应用程序，<br />对于想要自己编写 WPF UI 界面的同学可以参考借鉴学习。 |
 | Git:[WPF-ControlBase](https://github.com/HeBianGu/WPF-ControlBase) | [MIT license](https://github.com/HeBianGu/WPF-ControlBase#MIT-1-ov-file) | Wpf封装的自定义控件资源库                                    |
 | Git:[wpf-uidesign](https://github.com/HenJigg/wpf-uidesign)  | [MIT license](https://github.com/HenJigg/wpf-uidesign#MIT-1-ov-file) | wpf-uidesign 是一个基于 <br />WPF (Windows Presentation Foundation) 的 UI 设计项目，旨在提供一个高效、<br />可定制的用户界面设计方案。作为 WPF 技术学习和研究的参考项目，<br />帮助开发者深入理解 WPF 框架。 |
+| Git:[Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) | [MIT license](https://github.com/fluentribbon/Fluent.Ribbon#MIT-1-ov-file) | Fluent.Ribbon 一个为 Windows Presentation Foundation（WPF）<br />实现类 Office 开源（MIT license）、免费的用户界面控件库，<br />提供了诸如 RibbonTabControl（功能区选项卡控件）、<br />Backstage（后台视图）、Gallery（画廊控件）、<br />QuickAccessToolbar（快速访问工具栏）、ScreenTip（屏幕提示）等控件。 |
 
 #### 相关参考
 
@@ -1871,14 +1946,15 @@
 - **[推荐7款美观且功能强大的WPF UI库](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504372&idx=1&sn=5d9d5939253d71d5c88dc5e60d7fff35&chksm=96ae5c94c475565ce828cb1e926f5028fe56d9d676a3252d1d0853c96836297ca74b64397878&scene=126&sessionid=1724373028#rd)**
 - [WPF 实现饼状统计图【WPFDevelopers】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=2&sn=5982a6199b9abbedcc26002e3a6749e1&chksm=96c507559109e62a789e4f5774f68e5ac6b1a8940f33213951deb84c5c2b5147f9101a008501&scene=126&sessionid=1728350900#rd)
 - [一款流行且丰富的WPF控件库，提供了100多款控件！【CookPopularUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=2&sn=999dbf9f54f280dd1f554fd5c1187908&chksm=961a78b7776c49904b5ea8abf86d5c1de3563732de689caadb074ec9d2b8cf0ce874593c7561&scene=126&sessionid=1732668893#rd)
+- [一款开源免费、组件丰富的 WPF UI 控件库，提供了 100 多款常用控件！【CookPopularUI】](https://mp.weixin.qq.com/s/zIM0NxsLwY1GqEo7_LIT4Q)
 - [一组开源、免费、Metro风格的 WPF UI 控件库 - MahApps.Metro](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509687&idx=1&sn=df81259ca4234c064b31920a64bb1337&chksm=96239dba6fc872ef43187028c0bb91d9bb56f93f84af94ef6530aac5aa8075a7bbf36a41d466&scene=126&sessionid=1737593066#rd)
 - [2025年值得推荐的 8 款 WPF UI 控件库【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【wpfui】【ModernWpf】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/jilDvT1OczvfFkdCoQpUcw)
 - [一个开源、经典的 WPF 控件、组件和实用工具集合，值得参考学习！【Extended.Wpf.Toolkit/wpftoolkit】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513068&idx=1&sn=94738b51ec27db2454c8d1caa30d5050&chksm=9628dc98fb01a0157e96b0a14d9e858e9a8ff84463caf780a52532eee2fcf74597599b44145a&scene=126&sessionid=1745715139#rd)
 - [一个开源免费、功能丰富的 WPF 自定义控件资源库【WPF-ControlBase】](https://mp.weixin.qq.com/s/-KqyJ0X7xxtKFuEt8pUmlQ)
 - [精选 10 款开源美观、简单易用的 WPF UI 控件库，让 WPF 应用界面焕然一新！【MaterialDesignInXamlToolkit】【HandyControl】【MahApps.Metro】【WPF UI】【ModernWpf】【Rubyer WPF】【Extended.Wpf.Toolkit】【Panuon.WPF.UI】【AduSkin】【LayUI-WPF】](https://mp.weixin.qq.com/s/9ARSnNauXDuzLdT6liI0sQ?scene=0&subscene=90)
+- [一款专门为 WPF 打造的开源 Office 风格用户界面控件库【Fluent.Ribbon】](https://mp.weixin.qq.com/s/3eWhAepiyoRpa7d2cNYNtA)
 - **设计案例**
   - [分享一些使用 WPF 创建的精美 UI 设计案例【wpf-uidesign】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514765&idx=2&sn=bdf24cd7f96f9744d91e4592cf32a1c5&chksm=966bdab64a144a9efba9570f67182275c6db898b386bae0dd79fedfc9813fd554655303ebe58&scene=126&sessionid=1750985256#rd)
-
 
 
 
@@ -2011,6 +2087,7 @@
 - **[一款.NET开源、跨平台的内网穿透工具【NSmartProxy】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247504469&idx=1&sn=81648ae23f5beab92da10249e09661f1&chksm=96f30235d0f6926354b217fb0a7a71dbc147bb493610ec039057daf33188bc4ccc05bfb456c1&scene=126&sessionid=1724806111#rd)**
 - [一款基于.NET开源、强大的网络管理和网络问题排查工具！【NETworkManager】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511096&idx=1&sn=f8472d000e0484a641e52b4545c258ab&chksm=9602bb7af3b9e36faf5f81c700af58eabfb7ebb40a817b578ee23c86f11f3d6f9761ed41b4b2&scene=126&sessionid=1741568037#rd)
 - [一个基于 .NET 开源免费的异地组网和内网穿透工具【linker】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511825&idx=1&sn=ebf9646935c4ba9247031a966f379918&chksm=966365b6cfd8fea00294c6166b8416b2ec24c4eab0168edd7dcf44930f513b40052866f857aa&scene=126&sessionid=1743036165#rd)
+- [一个基于 .NET 开源免费、跨平台、高性能的内网穿透工具【Linker】](https://mp.weixin.qq.com/s/_6DmneZ0N7Un-P-6EL_nXQ)
 - [推荐 3 款 .NET 开源免费、功能强大的内网穿透工具【linker】【NSmartProxy】【FastTunnel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512500&idx=1&sn=5cce8e352e046c7de655ff1c5e7af4b9&chksm=96a9abfb09ef208d1a1bf937b037ec66fae1a8bbc384a49050fc34128b5079fdeff4250de401&scene=126&sessionid=1745063119#rd)
 - [推荐 4 款开源且功能强大的内网穿透工具【frp】【NSmartProxy】【linker】【FastTunnel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514778&idx=1&sn=a359d26c0695f2f3b00d8dd45c5f819c&chksm=96b428dc49e3b676d341a63c9f413b852219d67ddbf4bc1aeaf8cd5d62174b5e2bace44af894&scene=126&sessionid=1751112758#rd)
 - [免费SSL申请并使用Yarp实现支持内网穿透 - 239573049 - 博客园【FastGateway】](https://www.cnblogs.com/token-ai/p/19056197)
@@ -2145,6 +2222,7 @@
 | **Gitee:[AKStream](https://gitee.com/chatop2020/AKStream)**  | MIT                                                          | AKStream是一个基于C#开发的一套全功能的流媒体管理控制接口平台，<br />集成了GB28181、RTSP、RTMP、HTTP等设备的推拉流控制、PTZ控制、<br />音视频文件录制管理、音视频文件裁剪合并等功能。 |
 | **Git:[Bili.Copilot](https://github.com/Richasy/Bili.Copilot)** | [GPL-3.0 license](https://github.com/Richasy/Bili.Copilot/tree/master#GPL-3.0-1-ov-file) | Bili.Copilot是B站第三方 Windows 桌面客户端，专为Windows 11用户设计。<br />该项目基于Windows App SDK进行了重构，旨在以更开放的态度进行开发，<br />并借助社区的力量，共同构建一个有趣且高质量的用户生成内容（UGC）客户端。 |
 | Git:[downkyi](https://github.com/leiurayer/downkyi)          | [GPL-3.0 license](https://github.com/leiurayer/downkyi#GPL-3.0-1-ov-file) | downkyi（哔哩下载姬）是一款基于 .NET 开源、<br />简单易用的哔哩哔哩（B站）视频下载工具，具有简洁的界面，<br />流畅的操作逻辑。哔哩下载姬可以下载几乎所有的 B站视频，<br />并输出mp4格式的文件。采用Aria下载器多线程下载，<br />采用FFmpeg对视频进行混流、提取音视频等操作。 |
+| Git:[BBDown](https://github.com/nilaoda/BBDown)              | [MIT license](https://github.com/nilaoda/BBDown#MIT-1-ov-file) | BBDown 是一款基于 .NET 开源（MIT license）、免费、<br />命令行式的哔哩哔哩视频内容下载工具。它支持从哔哩哔哩平台下载普通视频、<br />番剧、课程、合集、收藏夹等多类型内容，具备强大的解析能力、<br />灵活的配置选项和高度可扩展性。 |
 | **Gitee:[WPF版本视频播放器](https://gitee.com/ahsiang/wpf-media)** | MIT                                                          | 基于WPF开发视频播放器                                        |
 | Git:[NAudio](https://github.com/naudio/NAudio)               | [MIT license](https://github.com/naudio/NAudio#MIT-1-ov-file) | NAudio 是一个开源的 .NET 音频库，由 Mark Heath 开发，<br />开源地址：https://github.com/naudio/NAudio 支持多种音频操作，可实现多种API播放与录制、<br />多种不同音频格式、音频格式转换（重采样、位深、声道等）、音频编码、多通道播放、<br />音频效果处理等等。 |
 
@@ -2160,6 +2238,7 @@
 - [基于 .NET 开发的多功能流媒体管理控制平台【AKStream】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507946&idx=1&sn=8ee209a6ee7dd73c4798c44d3a64b50b&chksm=96aaf46405b09189abf4e960287e2d5e8cf8c062cefd804c59d03fd016a84d3caa07dc829b0b&scene=126&sessionid=1733186985#rd)
 - [B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生高颜值应用【Bili.Copilot】](https://mp.weixin.qq.com/s/DJBp4ytV8wvshgTCsdwyFg)
 - [一款基于 .NET 开源的多功能的 B 站视频下载工具【downkyi】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513371&idx=1&sn=e8752322eb6f6b2e38e73a7c68b70a52&chksm=9670fc12d8e2af32c743c3cf677cc37d843f0ec45a7a28ecd9acef71465e027ac34d18840e7e&scene=126&sessionid=1746578976#rd)
+- [一款基于 .NET 开源、免费、命令行式的哔哩哔哩视频内容下载工具【BBDown】](https://mp.weixin.qq.com/s/fBnf0UgT8mQXPrO_DCnGSA)
 - [基于WPF开发视频播放器【wpf-media】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507916&idx=2&sn=3e62baf4487f2d488923f3355b26eb14&chksm=96b10d4a538dcb5f5aef591fcf4e8892bcc40ab6b95687ae348328db5c42568003b80d816faf&scene=126&sessionid=1733100642#rd)
 - [C# Winform 通过 NAudio 获取控制电脑操作系统音量 - VipSoft - 博客园【NAudio】](https://www.cnblogs.com/vipsoft/p/18674944)
 
@@ -2175,8 +2254,11 @@
 | **Gitee:[SiMayRemotelyOS](https://gitee.com/dotnetchina/SiMayRemoteMonitorOS)** | AGPL-3.0                                                     | SiMayRemoteMonitorOS是一个基于Windows的远程控制系统，<br />完全采用C#.NET开发，遵循AGPL-3.0开源协议。 |
 | **Git:[rustdesk](https://github.com/rustdesk/rustdesk)**     | [AGPL-3.0 license](https://github.com/rustdesk/rustdesk#AGPL-3.0-1-ov-file) | 常见的远程桌面软件有TeamViewer、AnyDesk、ToDesk等。使用这些软件时，<br />通常需要在远程计算机上安装相应的客户端软件，并在本地计算机上使用相应的<br />服务器端或客户端软件来建立连接。今天咱们分享一款TeamViewer的替代品，<br />一个开源免费的远程桌面软件，开箱即用，无需任何配置：RustDesk。 |
 | 网易UU远程                                                   | 原GameViewer远程                                             | 网易UU远程（原GameViewer远程），是一款由网易出品的专业游戏串流远程控制软件，<br />支持手机、平板、电脑、Mac、掌机远程控制电脑，<br />不仅能满足你远程办公、远程协助等需求，超低延迟、高清高帧、操控自如、<br />轻松拓展副屏、一键公网串流等特色功能更能给你带来极致的游戏串流体验！<br />[下载地址](https://uuyc.163.com/download) |
+| ToDesk                                                       |                                                              | ToDesk作为一款安全免费不限速的远程控制软件，<br />通过领先的网络技术搭建并运营自己的网络系统，拥有覆盖全球的多节点、<br />多业务，毫秒级延时应用层路由系统，带给用户像使用本地电脑一样的体验感。<br />支持在任何场景下随时远程连接公司或个人异地设备，不仅具有文件传输、<br />远程打印、远控摄像头、隐私屏、安全验证密保等众多功能，<br />还可以实现对无人值守设备的管理、运维，<br />同时企业业务人员可通过ToDesk远程支持外部合作伙伴、外部设备、客户SOS服务等。<br />[下载地址](https://www.todesk.com/download.html) |
 | Git:[xpipe](https://github.com/xpipe-io/xpipe)               | [Apache-2.0 license](https://github.com/xpipe-io/xpipe#Apache-2.0-1-ov-file) | XPipe 是一个新型的 shell 连接中心和远程文件管理器，<br />允许用户从本地机器访问整个服务器基础架构。它基于已安装的命令行程序工作，<br />不需要在远程系统上进行任何设置。<br />如果你通常使用 CLI 工具（如 ssh、docker、kubectl 等）连接到服务器，<br />那么只需在它们之上使用 XPipe 即可。 |
 | [p2p](https://github.com/miroslavpejic85/p2p)                | [MIT license](https://github.com/miroslavpejic85/p2p#MIT-1-ov-file) | P2P是一个基于 .NET 开源（MIT license）、便捷、高效的远程桌面控制工具，<br />它采用 UDT 协议，并得益于rendezvous 连接技术，<br />能够绕过大多数防火墙规则，就像一个零成本的小型TeamViewer概念！ |
+| Git:[billd-desk](https://github.com/galaxy-s10/billd-desk)   | [MIT license](https://github.com/galaxy-s10/billd-desk#MIT-1-ov-file) | BilldDesk 是一款基于 Vue3 + WebRTC + Nodejs + Electron <br />搭建的远程桌面控制工具，旨在提供类似 ToDesk、向日葵等远程桌面软件的功能，<br />同时保持开源、多端兼容和全能性的特点。 |
+|                                                              |                                                              |                                                              |
 
 ### 相关参考
 
@@ -2192,6 +2274,7 @@
 - [一款革命性的跨平台远程服务器管理与文件管理工具，帮你搞定所有远程连接方式！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511924&idx=2&sn=8caba9a2ff319cf034d38966c82da9b2&chksm=966d166cf0c8d635f17ec4716780ef81882f66d2f5e6de7dc201972618fb0bf7442e78849ef7&scene=126&sessionid=1743383083#rd)
 - [一款 .NET 开源、功能强大的远程连接管理工具，支持 RDP、VNC、SSH 等多种主流协议！【mRemoteNG】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511624&idx=1&sn=a2694446c776b6d948dee632cd14042d&chksm=9693bdcce2b153fa4fbe27b68f74b585fa06699dc7fdba1e97c5bfd6aa09547efb4764ad7559&scene=126&sessionid=1742518244#rd)
 - [一个基于 .NET 开源、便捷、高效的远程桌面控制工具【P2P】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514634&idx=1&sn=3a609a4d711cbea6785e7dd4a6306a91&chksm=960de269b4964c9a886bcbd7689e57d3fc2cfd817e239634eba2aeb1641111a42c29945ffe15&scene=126&sessionid=1750474128#rd)
+- [远程办公必备！8 款免费且强大的远程桌面工具推荐【网易UU远程】【ToDesk】【RustDesk】【BilldDesk】【P2P Remote Desktop】【1Remote】【Quasar】【SiMayRemoteMonitorOS】](https://mp.weixin.qq.com/s/VNfpPy28o84XArAsNDKNdQ)
 
 
 
@@ -2229,6 +2312,22 @@
 
 
 
+## Y. 游戏
+
+| 项目名称                                                     | 使用的协议                                                   | 项目功能/介绍                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ |
+| Git:[chinese-dos-games](https://github.com/rwv/chinese-dos-games) | [GPL-3.0 license](https://github.com/rwv/chinese-dos-games#GPL-3.0-1-ov-file) | Chinese DOS games collections. |
+|                                                              |                                                              |                                |
+|                                                              |                                                              |                                |
+
+### 相关参考
+
+- [狂揽9.3K星 !!! 童年再见 ？不 ! 爷青回 , 2000多款童年游戏，点开就能玩 ！绝了【Chinese DOS Games】](https://mp.weixin.qq.com/s/TCAnGhVOPclkJCtUkY7FsA)
+
+
+
+
+
 ## Z. 桌面工具
 
 | 项目名称                                                   | 使用的协议                                                   | 项目功能/介绍                                                |
@@ -2236,6 +2335,8 @@
 | **Git:[GeekDesk](https://github.com/BookerLiu/GeekDesk)**  | Apache-2.0 license                                           | [中文文档](https://github.com/BookerLiu/GeekDesk/blob/master/README-zh.md)<br />GeekDesk（极客桌面）是一款C#构建的免费、小巧、美观、<br />高度自定义的桌面快速启动管理工具，集成了Everything搜索功能，<br />不仅能帮我们整理桌面，还能快速启动应用程序、管理文件夹。 |
 | Listary                                                    | 软件/工具                                                    | Listary作为一款功能强大、操作简便的Windows本地搜索与管理工具，<br />凭借其快速搜索、智能命令、网络搜索等核心功能以及丰富的个性化设置选项，<br />能够显著提升用户在文件查找和管理方面的效率。对于职场办公人员来说，<br />Listary是提高工作效率的必备工具之一。<br />[下载地址](https://www.listary.com/download) |
 | **Git:[Files](https://github.com/files-community/Files)**  | [MIT license](https://github.com/files-community/Files#MIT-1-ov-file) | Files 是一个现代文件管理器，可帮助用户组织他们的文件和文件夹。<br />Files 的使命是构建适用于 Windows 的最佳文件管理器，我们很自豪<br />能够在公开场合构建它，以便每个人都可以参与其中。用户反馈有助于塑造我们开发的功能，<br />而GitHub上的错误报告有助于使文件更可靠。Files 由开源社区构建和维护，<br />具有强大的多任务处理体验、文件标签、深度集成和直观的设计。 |
+| **Git:[QuickLook](https://github.com/QL-Win/QuickLook)**   | [GPL-3.0 license](https://github.com/QL-Win/QuickLook#GPL-3.0-1-ov-file) | QuickLook 是一个旨在为 Windows 用户提供类似于 macOS 中 Quick Look 功能的<br />应用程序。Quick Look 允许用户仅通过按下空格键快速预览文件内容，<br />而 Windows 原生并不具备这一便捷功能。该项目通过开发一个第三方应用程序，<br />为 Windows 用户带来了这一实用的预览体验。 |
+| **Git:[qttabbar](https://github.com/indiff/qttabbar)**     | [GPL-3.0 license](https://github.com/indiff/qttabbar#GPL-3.0-1-ov-file) | QTTabBar是一款基于.NET开发的可以让你在Windows资源管理器中使用<br />Tab多标签功能的小工具。从此以后工作时不再遍布文件夹窗口，<br />还有给力的文件夹预览功能，大大提高了你工作的效率。就像IE 7和Firefox、<br />Opera那样的。QTTabBar还提供了一些功能插件，<br />如：文件操作工具、树型目录、显示状态栏等等。 |
 | **Git:[xplorer](https://github.com/kimlimjustin/xplorer)** | [Apache-2.0 license](https://github.com/kimlimjustin/xplorer#Apache-2.0-1-ov-file) | Xplorer是一个现代化、可定制且跨平台的文件资源管理器工具。它基于Web技术构建，<br />并使用Tauri框架进行封装，使得用户可以在Windows、MacOS、<br />Linux等多个操作系统上无缝运行。 |
 | Git:[Cloudreve](https://github.com/cloudreve/Cloudreve)    | [GPL-3.0 license](https://github.com/cloudreve/Cloudreve#GPL-3.0-1-ov-file) | Cloudreve 是一个开源（GPL-3.0 license）、免费、功能强大的云端文件管理系统，<br />旨在为用户提供一套私有云存储解决方案。<br />它不仅支持多云存储后端，还提供了丰富的文件管理功能，如在线预览、<br />文件分享、多用户协作等，是替代传统云存储服务（如百度网盘）的理想选择。<br />凭借其高度的可扩展性和易用性，Cloudreve 已迅速成为众多企业和个人用户的首选。 |
 
@@ -2247,6 +2348,11 @@
 - [每天认识一款工具：Files，一个开源的文件管理器，可以让你轻松管理电脑上的内容，提高工作效率！！【Files 】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506322&idx=3&sn=1badff807d16952b9173f1a54e2e9a4c&chksm=96c67f9526733e8fcd2a1866ccbccfaa8bd6a3a61b3e50a11bd990b6d6cdd5dfb454f7adb72e&scene=126&sessionid=1729213064#rd)
 - [一个漂亮的跨平台开源文件管理器！【Xplorer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506835&idx=3&sn=04cfd89dce71bf9d00cda13810d95db5&chksm=96c20779adc5353f667100257ed981138970e16f2978603ddb6bacd638802097a1d89c09e310&scene=126&sessionid=1730422729#rd)
 - [一个开源免费、功能强大的云端文件管理系统，百度网盘完美替代方案！【Cloudreve】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514341&idx=2&sn=39df0aceb85d8c66a51991b3a03b7b09&chksm=964a2a592cb2d5d5b93cb1ec33c0cca74aaa874334c36cb485c0bfc05e7c048d04c14ca1b6c4&scene=126&sessionid=1749802792#rd)
+- [推荐 4 款基于 .NET 开源、功能强大的文件管理工具，助力高效的整理文件与文件夹！【Files】【QuickLook】【QTTabBar】【FileConverter】](https://mp.weixin.qq.com/s/Y5Z0C0c3aoUKCjGHAdLIKg)
+- [.NET开源简洁易用的Windows文件管理器【Files】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247490098&idx=1&sn=e81687de18effeb3f0187b10c4beca73&scene=21&poc_token=HI-K2GijaQ2YV3Xna6n845K5TmNqXPM3PINPTp7B)
+- [每天认识一款工具：QuickLook，一款高效的 Windows 文件快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506341&idx=4&sn=e848cdf1a220f76ac87167370399f895&chksm=96dc92388673bca24b198e4851153efa793a9c84fb63de76ae75baf1c4d98e2343995d27bb09&scene=126&sessionid=1729426307#rd)
+- [C#开源且免费的Windows桌面快速预览神器【QuickLook】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247491776&idx=1&sn=3ad2ed944a0dd5e2cef10472290d10ac&scene=21&poc_token=HBKM2GijMuitWyIYtvgvAp1RU4JVXZyJXLZ9hYVR)
+- [一款.NET开源的Windows资源管理器标签页工具【QTTabBar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507837&idx=1&sn=4cca6bd6f556bdadc67d2f4d5aa7a824&chksm=963d8a5009377e6b7312a8053271d9dad48980c48fb0e3b65e84dd6ba4b434cc47b63a463ee5&scene=126&sessionid=1733100642#rd)
 
 
 

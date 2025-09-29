@@ -16,6 +16,10 @@ PowerShell 是一种跨平台的任务自动化解决方案，由命令行 shell
 $PSVersionTable
 ```
 
+[2 种实用方法：轻松查看 Windows PowerShell 版本号 - 系统极客](https://www.sysgeek.cn/windows-powershell-version-check/)
+
+
+
 ## PowerShell命令参考
 
 [Get-Help](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/get-help?view=powershell-7.4)
@@ -285,6 +289,7 @@ Cmdlet          Wait-Process                 7.0.0.0    Microsoft.PowerShell.Man
 - [探索 PowerShell](https://learn.microsoft.com/zh-cn/powershell/scripting/discover-powershell?view=powershell-7.4)
 - [探究 Windows PowerShell ISE - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/windows-powershell/ise/exploring-the-windows-powershell-ise?view=powershell-5.1)
 - [Powershell - 数组 | Powershell 教程](https://www.w3ccoo.com/powershell/powershell_array.html)
+- [powershell、cmd终端修改编码 - xututu6 - 博客园](https://www.cnblogs.com/xututu6/p/16574454.html)
 
 
 
@@ -615,6 +620,29 @@ Write-Host "abc"
 
 ## 命令
 
+
+
+### ForEach-Object
+
+[ForEach-Object (Microsoft.PowerShell.Core) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/foreach-object?view=powershell-7.5)
+
+```powershell
+# 使用例子
+1, 2, 3 | ForEach-Object {$_}
+```
+
+
+
+### ForEach-Object Parallel
+
+
+
+**相关参考**
+
+- [PowerShell ForEach-Object Parallel Feature - PowerShell Team](https://devblogs.microsoft.com/powershell/powershell-foreach-object-parallel-feature/)
+
+
+
 ### Get-Date/New-TimeSpan
 
 ```powershell
@@ -678,13 +706,19 @@ $date
 
 
 
-### ForEach-Object Parallel
+### Select-Object
+
+选择对象或对象属性，作为一个新的对象返回。
+
+[Select-Object (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.utility/select-object?view=powershell-7.5)
 
 
 
-**相关参考**
+### Where-Object
 
-- [PowerShell ForEach-Object Parallel Feature - PowerShell Team](https://devblogs.microsoft.com/powershell/powershell-foreach-object-parallel-feature/)
+根据集合的属性值从集合中选择对象。
+
+[Where-Object (Microsoft.PowerShell.Core) - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/where-object?view=powershell-7.5)
 
 
 
@@ -835,3 +869,4 @@ Windows PowerShell ISE 作为经典脚本工具，凭借易用性和轻量化在
 
 
 ## [PowerShell 101 | 介绍 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.5)
+

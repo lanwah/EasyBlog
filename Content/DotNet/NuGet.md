@@ -18,7 +18,15 @@
 
 ![hand-right](../Images/Common/hand-right.png) [dotnet nuget](https://learn.microsoft.com/zh-cn/dotnet/core/tools/dotnet-nuget-delete)
 
-![hand-right](../Images/Common/hand-right.png) [PowerShell 参考](https://learn.microsoft.com/zh-cn/nuget/reference/powershell-reference)
+- [PowerShell 参考](https://learn.microsoft.com/zh-cn/nuget/reference/powershell-reference)
+
+  - [NuGet Add-BindingRedirect PowerShell 参考 | Microsoft Learn](https://learn.microsoft.com/zh-cn/nuget/reference/ps-reference/ps-ref-add-bindingredirect)
+
+    > 检查项目的输出路径中的所有程序集，并在必要时将绑定重定向添加到应用程序或 Web 配置文件。 此命令会在安装包时自动运行。
+
+  - [NuGet Get-Package PowerShell Reference | Microsoft Learn](https://learn.microsoft.com/en-us/nuget/reference/ps-reference/ps-ref-get-package)
+
+  - [NuGet Get-Project PowerShell Reference | Microsoft Learn](https://learn.microsoft.com/en-us/nuget/reference/ps-reference/ps-ref-get-project)
 
 ### 1. 推送包到服务器
 
@@ -164,8 +172,8 @@
 >
 > ```shell
 > Get-Package -Source <string> [-ListAvailable] [-Updates] [-ProjectName <string>]
->     [-Filter <string>] [-First <int>] [-Skip <int>] [-AllVersions] [-IncludePrerelease]
->     [-PageSize] [<CommonParameters>]
+>  [-Filter <string>] [-First <int>] [-Skip <int>] [-AllVersions] [-IncludePrerelease]
+>  [-PageSize] [<CommonParameters>]
 > ```
 >
 > **例如：**
@@ -175,11 +183,17 @@
 > # 列出当前解决方案中安装的所有包
 > Get-Package
 > 
-> # 列出安装了某个包的所有项目
+> # 列出安装了某个包的所有项目，PackageName 是模糊匹配
 > Get-Package PackageName
+> 
+> # 查找安装了某个包的所有项目，精确匹配
+> Get-Package | Where-Object Id -EQ Ewell.MCS.EntLib
 > 
 > # Lists the packages installed in a project
 > Get-Package -ProjectName MyProject
+> 
+> # 在某个项目中查找包
+> Get-Package -ProjectName Ewell.MCS.Main | Where-Object Id -EQ Ewell.MCS.EntLib
 > 
 > # Lists packages available in the current package source
 > Get-Package -ListAvailable
