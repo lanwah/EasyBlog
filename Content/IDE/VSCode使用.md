@@ -4,6 +4,12 @@
 
 ---
 
+
+
+[Visual Studio Code 文档 - VSCode 编辑器](https://vscode.js.cn/docs)
+
+
+
 ## 未整理资料
 
 - [2024 最新最全 VS Code 插件推荐！](https://mp.weixin.qq.com/s/vUVDtzuV0IimahHLXHtrIg)
@@ -23,6 +29,7 @@
 | Ctrl + Shift + X | 打开 **扩展** |                           |
 | Ctrl + Shift + F | 打开 **搜索** |                           |
 | Ctrl + Shift + D | 运行和调试    |                           |
+| Alt + Shift + F  | 格式化代码    |                           |
 
 
 

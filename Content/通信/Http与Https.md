@@ -198,6 +198,12 @@ SSL 双向验证和单向验证的不同之处在于：
 5. [浅谈HTTPS的安全性与原理](https://zhuanlan.zhihu.com/p/59061649)
 6. [谈谈 HTTPS 的 SSL 单向验证和双向验证](https://mp.weixin.qq.com/s?__biz=MzI3ODc3NzQ4NQ==&mid=2247488058&idx=1&sn=162cbdd3f4bee5b8946e273f5d4474db&chksm=eb5089d8dc2700ce3a8cb7624c6f1d3b418227d18f339961c4e862ad57d064cf5946f7556b60)
 7. [HTTPS 是怎么保证安全的？可以被中间人攻击吗？](https://mp.weixin.qq.com/s?__biz=MzI3ODc3NzQ4NQ==&mid=2247488043&idx=1&sn=306db317171a36a4762664229a937366&chksm=eb5089c9dc2700df8df6826998dce0866c8fb7e33003b168e4ed138c54951f79f1ef4301b227&scene=21#wechat_redirect)
+8. [C#请求HTTPS地址的故障分析和TLS知识点总结 - 万德福儿 - 博客园](https://www.cnblogs.com/chen943354/p/16456070.html)
+   1. [Transport Layer Security (TLS) best practices with .NET Framework | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/framework/network-programming/tls)
+   2. [TLS/SSL best practices - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/extensions/sslstream-best-practices)
+   3. [Protocols in TLS/SSL (Schannel SSP) - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/secauthn/protocols-in-tls-ssl--schannel-ssp-#tls-protocol-version-support)
+   4. [cn.bing.com -亚数信息-SSL/TLS安全评估报告](https://myssl.com/cn.bing.com?domain=cn.bing.com&port=443)
+
 
 ## Http服务使用Https
 
