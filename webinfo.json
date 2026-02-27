@@ -2,10 +2,10 @@
   "Name": "Fishel Blog",
   "Description": "学如逆水行舟，不进则退；心似平原走马，易放难收",
   "AuthorName": "Fishel",
-  "BaseHref": "/",
+  "BaseHref": "/EasyBlog/",
   "ContentPath": "./Content",
   "OutputPath": "./WebApp",
-  "Domain": "https://github.com/lanwah/EasyBlog.git",
+  "Domain": "",
   "DocInfos": [
     {
       "Name": "EasyBlog",
