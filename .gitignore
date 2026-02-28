@@ -5,7 +5,6 @@
 
 # User-specific files
 WebApp/blogs/
-WebApp/docs/
 WebApp/data/
 *.rsuser
 *.suo

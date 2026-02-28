@@ -5,10 +5,9 @@
 // Copyright (c) 2015 Christopher Pardi.
 
 using System.Collections.Generic;
-using ColorCode.Core;
-using ColorCode.Core.Common;
+using ColorCode.Common;
 
-namespace ColorCode.Core.Compilation.Languages;
+namespace ColorCode.Compilation.Languages;
 
 public class Fortran : ILanguage
 {

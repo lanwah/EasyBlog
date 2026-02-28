@@ -2,9 +2,9 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
-using ColorCode.Core.Parsing;
+using ColorCode.Parsing;
 
-namespace ColorCode.Core.Common;
+namespace ColorCode.Common;
 
 public class TextInsertion
 {

@@ -3,11 +3,11 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Collections.Generic;
-using ColorCode.Core.Compilation;
-using ColorCode.Core.Parsing;
-using ColorCode.Core.Styling;
+using ColorCode.Compilation;
+using ColorCode.Parsing;
+using ColorCode.Styling;
 
-namespace ColorCode.Core;
+namespace ColorCode;
 
 /// <summary>
 /// Creates a <see cref="CodeColorizerBase"/>, for creating Syntax Highlighted code.

@@ -3,10 +3,9 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Collections.Generic;
-using ColorCode.Core;
-using ColorCode.Core.Common;
+using ColorCode.Common;
 
-namespace ColorCode.Core.Compilation.Languages;
+namespace ColorCode.Compilation.Languages;
 
 /// <summary>
 /// Leverage the regex from https://gist.github.com/goodmami/02f344e8c9a22fc9ac879230a9b9e071#version-2

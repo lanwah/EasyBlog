@@ -1,4 +1,4 @@
-# EasyDoc
+# Blog
 
 📘[Englisth](./README.md)   📘[中文](./README_cn.md)
 
@@ -10,7 +10,7 @@ This tool generates a `pure static` blog website from a `markdown` document thro
 - Support search, classification, archiving and screening
 - Customize website name and description, etc
 
-**Demo:** NilTor's Blog: [https://dusi.dev/](https://dusi.dev/)
+**Demo:** NilTor's Blog: [https://blog.dusi.dev/](https://blog.dusi.dev/)
 
 ## 🎖️Features
 

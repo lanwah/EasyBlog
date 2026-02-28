@@ -4,7 +4,7 @@
 
 using System.Collections.Generic;
 
-namespace ColorCode.Core;
+namespace ColorCode;
 
 /// <summary>
 /// Defines how ColorCode will parse the source code of a given language.

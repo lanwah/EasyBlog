@@ -4,7 +4,7 @@
 
 using System.Collections.ObjectModel;
 
-namespace ColorCode.Core.Styling;
+namespace ColorCode.Styling;
 
 /// <summary>
 /// A dictionary of <see cref="Style" /> instances, keyed by the styles' scope name.

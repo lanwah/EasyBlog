@@ -3,10 +3,9 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Collections.Generic;
-using ColorCode.Core;
-using ColorCode.Core.Common;
+using ColorCode.Common;
 
-namespace ColorCode.Core.Compilation.Languages;
+namespace ColorCode.Compilation.Languages;
 
 public class Xml : ILanguage
 {

@@ -1,14 +1,8 @@
-﻿using System.Text;
-using Share;
+﻿using BuildSite;
+using Spectre.Console;
 
-Console.OutputEncoding = Encoding.UTF8;
-Console.InputEncoding = Encoding.UTF8;
 
 ShowLogo();
-#if DEBUG
-Debug();
-#endif
-
 string? command = args.FirstOrDefault();
 
 switch (command)
@@ -17,12 +11,14 @@ switch (command)
         var path = args.Skip(1).FirstOrDefault() ?? Directory.GetCurrentDirectory();
         Command.Init(path);
         break;
-    case "build":
-        var configPath = args.Skip(1).FirstOrDefault();
 
-        if (!string.IsNullOrWhiteSpace(configPath))
+    case "build":
+        var contentPath = args.Skip(1).FirstOrDefault();
+        var outputPath = args.Skip(2).FirstOrDefault();
+
+        if (!string.IsNullOrWhiteSpace(contentPath) && !string.IsNullOrWhiteSpace(outputPath))
         {
-            Command.Build(configPath);
+            Command.Build(contentPath, outputPath);
         }
         else
         {
@@ -37,15 +33,15 @@ switch (command)
 static void ShowHelp()
 {
     var helpContent = """
+
     {0}:
-    init [path]
+    easyblog init [path]
         {1}
 
-    build [contentPath] [outputPath]
+    easyblog build [contentPath] [outputPath]
         {2}
-
     """;
-    Console.Write(helpContent,
+    AnsiConsole.Write(helpContent,
         Language.Get("Command"),
         Language.Get("init"),
         Language.Get("build")
@@ -54,16 +50,10 @@ static void ShowHelp()
 static void ShowLogo()
 {
     var logo = """
-            EasyDocs : The Static Web Builder!
+            EasyBlog : The Static Web Builder!
                —→ for freedom 🗽 ←—
 
             """;
 
     Console.WriteLine(logo);
-}
-
-static void Debug()
-{
-    var configPath = Path.Combine(Directory.GetCurrentDirectory(), "webinfo.json");
-    Command.Build(configPath);
 }

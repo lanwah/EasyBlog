@@ -2,9 +2,9 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 
-using ColorCode.Core.Common;
+using ColorCode.Common;
 
-namespace ColorCode.Core.Styling;
+namespace ColorCode.Styling;
 
 /// <summary>
 /// Defines the Default Dark Theme.

@@ -4,9 +4,9 @@
 
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using ColorCode.Core.Common;
+using ColorCode.Common;
 
-namespace ColorCode.Core.Compilation;
+namespace ColorCode.Compilation;
 
 public class CompiledLanguage
 {

@@ -4,11 +4,11 @@
 
 using System.Collections.Generic;
 using System.Threading;
-using ColorCode.Core.Common;
-using ColorCode.Core.Compilation;
-using ColorCode.Core.Compilation.Languages;
+using ColorCode.Common;
+using ColorCode.Compilation;
+using ColorCode.Compilation.Languages;
 
-namespace ColorCode.Core;
+namespace ColorCode;
 
 /// <summary>
 /// Provides easy access to ColorCode's built-in languages, as well as methods to load and find custom languages.

@@ -3,9 +3,9 @@
 // See the LICENSE file in the project root for more information.
 
 using System.Collections.Generic;
-using ColorCode.Core.Common;
+using ColorCode.Common;
 
-namespace ColorCode.Core;
+namespace ColorCode;
 
 /// <summary>
 /// Defines a single rule for a language. For instance a language rule might define string literals for a given language.

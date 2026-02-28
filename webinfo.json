@@ -1,22 +1,7 @@
 {
-  "Name": "Fishel Blog",
+  "Name": "Lanwah Blog",
   "Description": "学如逆水行舟，不进则退；心似平原走马，易放难收",
-  "AuthorName": "Fishel",
+  "AuthorName": "lanwah",
   "BaseHref": "/EasyBlog/",
-  "ContentPath": "./Content",
-  "OutputPath": "./WebApp",
-  "Domain": "",
-  "DocInfos": [
-    {
-      "Name": "EasyBlog",
-      "Languages": [
-        "zh-cn",
-        "en-us"
-      ],
-      "Versions": [
-        "2.0",
-        "1.0"
-      ]
-    }
-  ]
+  "Domain": ""
 }
