@@ -34,6 +34,7 @@ jobs:
           dotnet-version: '10.x'
           
       - run: dotnet tool install -g Ater.EasyDocs
+      - run: dotnet --version
       - run: ezdoc build ./webinfo.json
 
       - name: Upload artifact
