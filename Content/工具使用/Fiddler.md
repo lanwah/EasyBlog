@@ -160,6 +160,8 @@ Fiddler 启动的时候，会把自己设置为系统代理。
 
 [在Fiddler中捕获IIS / ASP.NET流量 - 玄魄冰 - 博客园 (cnblogs.com)](https://www.cnblogs.com/ksport/p/14134879.html)
 
+[<defaultProxy> 元素（网络设置） - .NET Framework | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/framework/configure-apps/file-schema/network/defaultproxy-element-network-settings)
+
 
 
 ### 常用快捷键

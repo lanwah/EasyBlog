@@ -5,8 +5,14 @@
     - [Java Archive Downloads - Java SE 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
 - [JDK1.8下载、安装与配置完整图文2024最新教程-CSDN博客](https://blog.csdn.net/JH_joker/article/details/140152697)
 - [Java8（jdk1.8u321）下载、安装及配置 - 孤草之魂 - 博客园](https://www.cnblogs.com/kk8085/p/17714268.html)
+- [JDK1.8应下载哪个Eclipse版本？\_编程语言-CSDN问答](https://ask.csdn.net/questions/8788249)
 
 
+
+## Eclipse
+
+- [Eclipse downloads - Select a mirror | The Eclipse Foundation](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2019-06/R/eclipse-inst-win64.exe)
+- [最全Eclipse安装和配置环境教程（图文详解）\_eclipse安装教程-CSDN博客](https://blog.csdn.net/maiya_yayaya/article/details/132208892)
 
 
 
