@@ -631,6 +631,7 @@
 - [微软官方出品的 AI 初学者入门精品课程，21节课程教你构建生成式人工智能应用所需掌握的知识！](https://mp.weixin.qq.com/s/zy16qmxDPbxovRwHvKae6g)
   - [面向初学者的生成式 AI | Microsoft Learn](https://learn.microsoft.com/zh-cn/shows/generative-ai-for-beginners/)
   - [microsoft/Generative-AI-for-beginners-dotnet: Five lessons, learn how to really apply AI to your .NET Applications](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+- [程序员必备：60 个 AI 核心关键词，一网打尽](https://mp.weixin.qq.com/s/d7krCFRxOXZ7EY1CltnqgA)
 
 
 
@@ -1188,6 +1189,7 @@
 - [C# 15 增强的集合表达式](https://mp.weixin.qq.com/s/SRdozFJAOGDfj3XTM7eeGw)
 - [NET 11 Preview 2 到底带来了啥](https://mp.weixin.qq.com/s/YWRGdVdJ4wo2QFh-Av5i1Q)
 - [.NET 11 Preview 3 来了](https://mp.weixin.qq.com/s/x7E9KE91TNmfZ0ORoEgViQ)
+- [.NET 11 Preview 4 正式发布：Runtime-Async 全面启用、Process API 大幅扩展](https://mp.weixin.qq.com/s/FfjqhrcDMaSqayiQxIyIyw)
 
 ### 发布与部署
 
@@ -1272,13 +1274,16 @@
 
 - [C# WinForms 资源文件（Resources）完全指南：从入门到实战](https://mp.weixin.qq.com/s/3cORpcNyFz3-PqEDKHiFSQ)
 
-- [C# Winform GroupBox 分组控件的使用技巧](https://mp.weixin.qq.com/s/atphhpCsxgaQY1xER0ULig)
+- **控件**
+
+  - [C# Winform SplitContainer 分割容器的实现](https://mp.weixin.qq.com/s/Bb8AMS1AomspW-8PXF0pjw)
+  - [C# Winform GroupBox 分组控件的使用技巧](https://mp.weixin.qq.com/s/atphhpCsxgaQY1xER0ULig)
 
 - UI**更新**
 
   - [C# WinForm开发中Invoke与BeginInvoke的区别与应用：让你的界面响应如丝般顺滑](https://mp.weixin.qq.com/s/_dm0kRlhcfyQiNUPCU34Tw)
   - [告别UI卡顿！C#生产者消费者模式让你的WinForm应用丝滑](https://mp.weixin.qq.com/s/Iqyq3Lti47egE5erpQIYAQ)
-  
+
 - **MVVM**
 
   - [C#从"混乱"到"MVVM优雅设计"：工业级监控系统完整解析](https://mp.weixin.qq.com/s/FIHWo4FhNemExF0KF3jc2A)
@@ -1335,10 +1340,18 @@
   - [WPF数据绑定中的"灵魂角色"：DataContext到底怎么玩？](https://mp.weixin.qq.com/s/QcXjibwb6SywRFCnZDVOaA)
   - [C# WPF数据绑定核心：让你的界面"活"起来的INotifyPropertyChanged](https://mp.weixin.qq.com/s/JilY_OtLBaQVlSPiamDYWQ)
 
+- **模板**
+
+  - [C# WPF进阶特性：深入理解样式与模板之控件模板](https://mp.weixin.qq.com/s/2_R_PkfsiTsWSEclCS5zeA)
+
+- **样式**
+
+  - [WPF中的Style样式系统深度解析：让你的界面颜值秒杀同行](https://mp.weixin.qq.com/s/ZE7vpVeRtVUsN1agp0JTJA)
+
 - **通信**
 
   - [C# WPF之UDP通信应用开发：从入门到实战的完整指南](https://mp.weixin.qq.com/s/O1SZZN2Wp4yfbykzHwMS2A)
-  
+
 - **机器视觉**
 
   - [WPF/C#：创建第一个Halcon应用](https://mp.weixin.qq.com/s/xQfuAYfvxTKRmwdTviN56w)
@@ -1651,6 +1664,7 @@
 ## G. 工业控制
 
 - [点胶机控制系统：当"怎么动"遇上"动哪里"，代码架构的分层哲学](https://mp.weixin.qq.com/s/t2qtkIIDgN9AJyMwYddJmQ)
+- [C# WinForms + OPC DA 网关适配器：从零搭建工业数据服务](https://mp.weixin.qq.com/s/ORnxqVl7jMw55rHbTkDuNQ)
 
 
 
@@ -2492,15 +2506,20 @@
   
     > MongoDB 实体框架（EF）核心提供者自 2024 年 5 月起已正式发布。自发布以来，我们对 .NET 开发者社区的积极反响以及其在广泛应用中的日益普及感到非常兴奋。
   
+- **图数据库**
+  
+  - [Memgraph 与 Neo4j 图数据库对比及 .NET 生态适配分析](https://mp.weixin.qq.com/s/MqLjPAxePNS34UXghkfUAA)
+  
 - **查询优化**
+
   - [SQL优化极简法则，还有谁不会？](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512009&idx=3&sn=828d2dcc050b544a137d83ac148ee10f&chksm=96f073c97b0c8ad0be31d297e6c9227be8ec6e07cdefbd31d30a1df6d3fb8057b219fc4c1e2d&scene=126&sessionid=1743642645#rd)
   - [26个SQL优化小技巧，收藏学习！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507728&idx=3&sn=be334a902ac8c786e8c29be082d44f16&chksm=969acb15bee7a2cc50852ddd241418c5f154e8a6d406ad8b078e81f517cbe1beda880988d4d4&scene=126&sessionid=1732668891#rd)
-  
+
 - **国产化**
   - [墨天轮数据库社区 - 乐知乐享，同心共济](https://www.modb.pro/)
     - [中国数据库排行 - 墨天轮](https://www.modb.pro/dbRank)
   - [2025年9月国产数据库流行度排行榜：达梦跃升第二，崖山挺进前十](https://mp.weixin.qq.com/s/TXEsbYArkuummbpKO59J-w)
-  
+
 - **选型建议**
   - [高性能场景为什么推荐使用PostgreSQL，而非MySQL?](https://mp.weixin.qq.com/s/BM9l1dTZ4TF-l3RQhMjrMg)
 
@@ -2759,7 +2778,11 @@
       >
       > **主要区别**
       >
-      > **简洁性**：*Task.Run* 语法更短，适合快速启动任务，尤其是配合 *async/await* 时会自动执行 *Unwrap* 操作，避免返回 *Task<Task<T>>* 的嵌套问题。**灵活性**：*Task.Factory.StartNew* 提供更多重载，可自定义 *TaskCreationOptions*（如 *LongRunning*）、*TaskScheduler*、传递状态对象等。**长时间运行任务**：若需标记任务为长时间运行（避免线程池线程回收），必须使用 *Task.Factory.StartNew* 并指定 *TaskCreationOptions.LongRunning*。**调度控制**：*Task.Run* 固定使用 *TaskScheduler.Default*，而 *StartNew* 可指定自定义调度器。
+      > **简洁性**：*Task.Run* 语法更短，适合快速启动任务，尤其是配合 *async/await* 时会自动执行 *Unwrap* 操作，避免返回 *Task<Task<T>>* 的嵌套问题。**灵活性**：*Task.Factory.StartNew* 提供更多重载，可自定义 *TaskCreationOptions*（如 *LongRunning*）、*TaskScheduler*、传递状态对象等。
+      >
+      > **长时间运行任务**：若需标记任务为长时间运行（避免线程池线程回收），必须使用 *Task.Factory.StartNew* 并指定 *TaskCreationOptions.LongRunning*。
+      >
+      > **调度控制**：*Task.Run* 固定使用 *TaskScheduler.Default*，而 *StartNew* 可指定自定义调度器。
       >
       > **代码示例**
       >
@@ -2767,17 +2790,17 @@
       > // 简单后台任务
       > await Task.Run(async () =>
       > {
-      >    await Task.Delay(1000);
-      >    Console.WriteLine("Task.Run 完成");
+      > await Task.Delay(1000);
+      > Console.WriteLine("Task.Run 完成");
       > });
       > // 高级控制：长时间运行任务
       > Task.Factory.StartNew(() =>
       > {
-      >    for (int i = 0; i < 100; i++)
-      >    {
-      >        // 模拟耗时计算
-      >    }
-      >    Console.WriteLine("长时间运行任务完成");
+      > for (int i = 0; i < 100; i++)
+      > {
+      >     // 模拟耗时计算
+      > }
+      > Console.WriteLine("长时间运行任务完成");
       > }, TaskCreationOptions.LongRunning);
       > ```
       >
@@ -2790,6 +2813,8 @@
       > **避免误用**：*StartNew* 在 *async* 委托中若不调用 *Unwrap*，会返回嵌套任务类型，导致等待逻辑复杂化。
       >
       > 如果你需要**简单启动并等待任务**，用 *Task.Run*；如果你需要**精细化控制任务行为**，用 *Task.Factory.StartNew*。这样既能保持代码简洁，又能在特殊场景下发挥 TPL 的全部能力。
+      
+    - [C# 下 WinForm开发避坑指南：别让Task满天飞！](https://mp.weixin.qq.com/s/GFHWDnvP9LbidWcD79gaDg)
 
 - **并发**
   
@@ -2907,6 +2932,7 @@
   - [C# ScottPlot 5.x + WPF 生产线速度监控：实时曲线与报警阈值](https://mp.weixin.qq.com/s/PgAlJicCnYMSXiKdn3nAcg)
   - [WPF ScottPlot 5.x 实战：多通道传感器数据实时显示与同步](https://mp.weixin.qq.com/s/jGvor6yjhzO6TovaGuye3A)
   - [C# 工业级数据可视化：用ScottPlot让10万个点流畅显示的实战秘籍](https://mp.weixin.qq.com/s/_ldfJUKi6tWy1_5pzMbTxw)
+  - [C# Winform ScottPlot5 高频数据采集显示：优化刷新率与内存管理](https://mp.weixin.qq.com/s/6vTNtkxpXiXERbelxoZ0gQ)
 
 
 

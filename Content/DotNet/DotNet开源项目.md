@@ -1597,6 +1597,7 @@
 | Git:[MWGA](https://github.com/dcsoft-yyf/MWGA)               |                                                              | MWGA，是 Make Winforms Great Again 的缩写，<br />是一个帮助 WinForms 程序快速迁移到 Blazor WASM 平台的高效工具软件。<br />近期，我们借助 MWGA 成功将一个约 7 万行 C# 代码的<br />成熟商业 WinForms 程序迁移至 Web 前端，<br />整个过程快速且代码改动量极小，<br />验证了其在复杂项目迁移中的不可思议的迁移能力。<br />本文将以该案例为基础，概述迁移的核心思路与显著成果。 |
 |                                                              |                                                              |                                                              |
 | Git:[ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | [MIT license](https://github.com/w4po/ExplorerTabUtility#MIT-1-ov-file) | ExplorerTabUtility 是一款使用 C# 编写专为 Windows 11 <br />文件资源管理器设计的增强型工具，开源免费（MIT license），<br />旨在解决原生标签页功能在多窗口管理和工作流组织方面的不足。<br />该工具通过系统级集成与 COM 接口交互，<br />实现了对文件资源管理器窗口行为的精细化控制，<br />显著提升用户在高频文件操作场景下的效率与体验。 |
+| Git:[Winhance](https://github.com/memstechtips/Winhance)     | PolyForm Shield                                              | Winhance 一款基于 C# 开发且开源的 Windows 10/11 系统增强工具。<br />它通过图形化界面整合了应用管理、系统优化、隐私设置、桌面定制、<br />常用软件安装、配置导入导出以及自定义安装介质等能力，<br />帮助用户更高效地完成 Windows 环境配置，实现 **精简、优化、定制一站完成**。 |
 | **Gitee:[ SwashbucklerDiary](https://gitee.com/Yu-core/SwashbucklerDiary)** | AGPL-3.0                                                     | 侠客日记是一个开源、跨平台的本地日记应用，使用MAUI Blazor构建。<br />它不仅是一个记录生活点滴的工具，更是用户书写个人江湖传说的秘籍。 |
 | **MAC**                                                      |                                                              |                                                              |
 | Git:[MacOptimizer](https://github.com/ddlmanus/MacOptimizer) |                                                              | MacOptimizer 是一个用 Swift 和 SwiftUI 编写的 macOS 系统优化工具，<br />它把清理缓存、卸载软件、管理大文件这些常用但零散的操作，<br />都集中到了一个简洁的界面里，目标是让普通用户也能轻松、<br />安全地给 Mac 电脑“减负”和提速 |
@@ -1631,6 +1632,7 @@
   - [一个基于 .NET 开源轻便、简洁美观的 Windows 优化工具，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和【ZyperWin++】【ZyperWinOptimize】](https://mp.weixin.qq.com/s/FdET3VWmBuiQzblyOOfpuw)
   - [精选 4 款基于 .NET 开源、功能强大的 Windows 系统优化工具，助力轻松提升 Windows 系统性能与使用体验！【Optimizer】【SophiApp】【WinMemoryCleaner】【ZyperWin++】](https://mp.weixin.qq.com/s/Tf8sOVMp-VDnTwOvP4rRTg)
   - [一款使用 C# 编写专为 Windows 11 打造的文件资源管理器增强工具！【ExplorerTabUtility】](https://mp.weixin.qq.com/s/eTfj1kjoRHUd4-wrWVF9bQ)
+  - [一款基于 C# 开发的 Windows 10/11 系统增强工具，精简、优化、定制一站完成！【Winhance】](https://mp.weixin.qq.com/s/8XDxwC8mhJMoR3vJ8BEVKg)
 - **快速启动**
   - [斩获 48K 星！让你 Windows 起飞【Wox】【TranslucentTB】【Seelen-UI】](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247522727&idx=1&sn=a97cbc7965023ea08c998defe8bea8c9&chksm=f847c660df330f08500b8d2fb3fd1e3da43b3b5c303f8f38c5785db5ff8e7c83a9bea1714e3e&scene=126&sessionid=1742448569#rd)
   - [.NET开源免费的Windows快速文件搜索和应用程序启动器【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497839&idx=1&sn=6cd45d43b563cf6a52d9f905967fdb04&scene=21#wechat_redirect)
@@ -2679,6 +2681,7 @@
 
 - [一款.NET开源的屏幕实时翻译工具【Translumo】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507108&idx=1&sn=8cda3e07c48c2ad04834fdac34ae286b&chksm=9699e9265d6424165aecd51ee0aa56b56834dd9d4218f402a3a2d1524f9e1a87de99185850e8&scene=126&sessionid=1730941884#rd)
 - [WPF开源的一款免费、开箱即用的翻译、OCR工具【STranslate】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497324&idx=1&sn=a1e104d5c1f6a612e51e2eabce6e0199&scene=21#wechat_redirect)
+- [一款基于 WPF 开发的 Windows 翻译与 OCR 工具【STranslate】](https://mp.weixin.qq.com/s/hIG_-dFHT_RpN2ub9Vzg9g)
 - [分享2款 .NET 开源且强大的翻译工具【STranslate】【Translumo】](https://mp.weixin.qq.com/s/DWAGJGvE5QlZCnlAglKV-g)
 
 
