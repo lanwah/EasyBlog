@@ -59,6 +59,8 @@
 
 - [在Asp.netCore中使用Attribute来描述限流 - jiulang - 博客园](https://www.cnblogs.com/kewei/p/18630545)
 
+- [C# 限流实战：用 .NET 内置 RateLimiter 保护你的 API](https://mp.weixin.qq.com/s/PesIk3sLDPEEptW25l_Ung)
+
 - [【ASP.NET Core】调用 Web API 备份数据库 - 东邪独孤 - 博客园](https://www.cnblogs.com/tcjiaan/p/18907380)
 
   > 今天咱们聊一个很单的主题，写一个 Web API，客户端可以调用它来备份 SQL Server 数据库。不知道大伙伴们有没有做过这活。相信做过的人会比老周更明白，毕竟，老熟人都知道，老周有两大弱项：SQL、汇编。汇编呢，是学生时代没好好学，想当年很轻松地就拿下了二级C++，偏就没学会汇编；而 SQL 呢，本来就学得一般，再加上用得少，忘得差不多了，所以别人给老周安排的项目基本不包括写 SQL 的，最终导致 SQL 方面越来越弱。
@@ -245,6 +247,10 @@
 
 - [如何让你的 Agent 更准确：MCP 工具设计技巧（上）](https://mp.weixin.qq.com/s?__biz=MzkxMTY4NTAyNQ==&mid=2247507655&idx=1&sn=1387fc7fc5adf8b4c8ffc379335ab48f&scene=21&poc_token=HGubvGmje2khiBKQ_LA_IiJC7LXOddOCHSHjBLx1)
 
+### 提示词
+
+- [C# 开发者必读：高级 Prompt 技巧与优化工具实战指南](https://mp.weixin.qq.com/s/Pp3vhGbfZzw7vxT0B_WZzw)
+
 ### **.NET Aspire（Aspire）**
 
 - [微软将.NET Aspire 改名成了Aspire](https://mp.weixin.qq.com/s/kjAceE5Xw6ZT8ppzrXcdwg)
@@ -310,13 +316,16 @@
 - [Microsoft Agent Framework/C#：了解Workflows的几种不同模式 - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/19161043)
 - [WPF/C#：使用Microsoft Agent Framework框架创建一个带有审批功能的终端Agent - mingupupup - 博客园](https://www.cnblogs.com/mingupupu/p/19149202)
 - [.NET+AI | 基于 Microsoft Agent Framework 一步步集成 Agent Skills，让你的 AI Agent 更智能](https://mp.weixin.qq.com/s/ba1ZSOoMQ-us1ByayFN4xw)
-- **Semantic Kernel**
-  - [从零到一：为什么说 Semantic Kernel 是 C# 开发者的 AI 时代入场券？](https://mp.weixin.qq.com/s/iK7wi4p5yaVGdmdkXu7HiA)
-  - [从零开始：Semantic Kernel 搭建第一个 AI 问答应用](https://mp.weixin.qq.com/s?__biz=MzUxMjI3OTQzMQ==&mid=2247498852&idx=1&sn=2d5f1c92d58ef67c6538b7c94786eb36&chksm=f840aca645d2921895e51e54268e1a715f83ceccc8c81357121a8ea26b5f7a2d9d4f6cb1775b&scene=126&sessionid=1773275291&subscene=91&clicktime=1773275296&enterid=1773275296&key=daf9bdc5abc4e8d04b6c0b1470fe4aacbc9f679f904ad0333a8a0395ef2d86ad0c77a2222a29b659ec96c95948e83ee9815eb03ce9eb0e7da3bc65b78305dd7cb7939b397be89c8d95f3d03ad7c598928147f78084121b906137c0dad01535cdb5d07be7ae97d74d42fad33fb2e855933a88a34ec98b52444432a7f8eadc10c0&ascene=0&uin=MTA5MzA0NTc4MA%3D%3D&devicetype=UnifiedPCWindows&version=f2541721&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQAqimjWYiOFjRUxKSjHvR3hLdAQIE97dBBAEAAAAAANqYEk146ggAAAAOpnltbLcz9gKNyK89dVj0Lead%2BhJSzXx1p09hAbLJ1gywFMeMAlYLg70zScwnLVHXYt%2B7DLI%2FFhPPByJ%2FimHNELzuqdIvCFM79F7ModZuapaWkCLmFo%2Ba9ABFzdqVE0v9byxTOe%2BRaLugsD3ZKsRLfSw6L3TGekTZAS5mdXfFOGaPIgsg7zfC8%2FyTydXuOVe3Q1lAAMIaRiDxXGBuaCgelNGYJY4MYZu8%2BlH8UmPXCpRb4ynudJXr1AN5XjnPfmJe%2B5ERWN3u&acctmode=0&pass_ticket=AYcXB3K5roGDMlEaCLGLn%2FBQ%2BhGahX%2FcXeHbagjYHlNrbr%2FsybjEWxvg5CbV5ujs&wx_header=0)
-  - [Semantic Kernel：让 .NET 应用轻松“对话”大模型](https://mp.weixin.qq.com/s/IlpwToqTXoOpV5fvEzVEzQ)
-  - [Rx.NET快速入门：3小时从入门到实战，让异步编程不再头疼](https://mp.weixin.qq.com/s/yqFTytdoOS5NxD6d87MDyw)
-  - [C# Semantic Kernel AI 服务连接器详解：多模型智能路由实战](https://mp.weixin.qq.com/s/_pfhnxLlghNUivnojfYnWg)
-  - [C# Semantic Kernel 日志监控与调试实战：从 ILogger 到 Application Insights 的完整方案](https://mp.weixin.qq.com/s/LnGLCZF90X0zgEB_LxyUxg)
+
+#### Semantic Kernel
+
+- [从零到一：为什么说 Semantic Kernel 是 C# 开发者的 AI 时代入场券？](https://mp.weixin.qq.com/s/iK7wi4p5yaVGdmdkXu7HiA)
+- [从零开始：Semantic Kernel 搭建第一个 AI 问答应用](https://mp.weixin.qq.com/s?__biz=MzUxMjI3OTQzMQ==&mid=2247498852&idx=1&sn=2d5f1c92d58ef67c6538b7c94786eb36&chksm=f840aca645d2921895e51e54268e1a715f83ceccc8c81357121a8ea26b5f7a2d9d4f6cb1775b&scene=126&sessionid=1773275291&subscene=91&clicktime=1773275296&enterid=1773275296&key=daf9bdc5abc4e8d04b6c0b1470fe4aacbc9f679f904ad0333a8a0395ef2d86ad0c77a2222a29b659ec96c95948e83ee9815eb03ce9eb0e7da3bc65b78305dd7cb7939b397be89c8d95f3d03ad7c598928147f78084121b906137c0dad01535cdb5d07be7ae97d74d42fad33fb2e855933a88a34ec98b52444432a7f8eadc10c0&ascene=0&uin=MTA5MzA0NTc4MA%3D%3D&devicetype=UnifiedPCWindows&version=f2541721&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQAqimjWYiOFjRUxKSjHvR3hLdAQIE97dBBAEAAAAAANqYEk146ggAAAAOpnltbLcz9gKNyK89dVj0Lead%2BhJSzXx1p09hAbLJ1gywFMeMAlYLg70zScwnLVHXYt%2B7DLI%2FFhPPByJ%2FimHNELzuqdIvCFM79F7ModZuapaWkCLmFo%2Ba9ABFzdqVE0v9byxTOe%2BRaLugsD3ZKsRLfSw6L3TGekTZAS5mdXfFOGaPIgsg7zfC8%2FyTydXuOVe3Q1lAAMIaRiDxXGBuaCgelNGYJY4MYZu8%2BlH8UmPXCpRb4ynudJXr1AN5XjnPfmJe%2B5ERWN3u&acctmode=0&pass_ticket=AYcXB3K5roGDMlEaCLGLn%2FBQ%2BhGahX%2FcXeHbagjYHlNrbr%2FsybjEWxvg5CbV5ujs&wx_header=0)
+- [Semantic Kernel：让 .NET 应用轻松“对话”大模型](https://mp.weixin.qq.com/s/IlpwToqTXoOpV5fvEzVEzQ)
+- [Rx.NET快速入门：3小时从入门到实战，让异步编程不再头疼](https://mp.weixin.qq.com/s/yqFTytdoOS5NxD6d87MDyw)
+- [C# Semantic Kernel AI 服务连接器详解：多模型智能路由实战](https://mp.weixin.qq.com/s/_pfhnxLlghNUivnojfYnWg)
+- [C# Semantic Kernel 日志监控与调试实战：从 ILogger 到 Application Insights 的完整方案](https://mp.weixin.qq.com/s/LnGLCZF90X0zgEB_LxyUxg)
+- [Semantic Kernel 异常处理与容错设计：构建健壮的 AI 服务包装器](https://mp.weixin.qq.com/s/BrerEeeiU4cLbVNHRdeRIw)
 
 ### **Ollama**
 
@@ -349,8 +358,8 @@
 - [clawdotnet/openclaw.net: Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)](https://github.com/clawdotnet/openclaw.net)
   - [概述 | clawdotnet/openclaw.net | Zread](https://zread.ai/clawdotnet/openclaw.net)
     - [API Key 和 LLM 提供商配置 | clawdotnet/openclaw.net | Zread](https://zread.ai/clawdotnet/openclaw.net/4-api-key-and-llm-provider-setup)
-
   - [基于NativeAOT的 OpenClaw.NET 深度刨析](https://mp.weixin.qq.com/s/VQ1jeJEn-80GP_8Y6TCtkg)
+  - [OpenClaw.NET：AI 工作流程机器人的网关架构深度解析](https://mp.weixin.qq.com/s/kek9VDMVyOVzvHiIYcCxCw)
 - [让 OpenClaw 拥有超强记忆，MemOS 开源了！](https://mp.weixin.qq.com/s/76eNnAQ-tPzt6OY7-ildKA)
 - [OpenClaw 太火！最合适它的大模型排行榜来了，国产两个进前三～](https://mp.weixin.qq.com/s/kOqlsRw9tibR6XtgfboflA)
 
@@ -422,6 +431,8 @@
 - [DeepSeek V3.2 正式版：强化 Agent 能力，融入思考推理](https://mp.weixin.qq.com/s/y0syscUtyK7PwGG7Jnw8mw)
 
 - [DeepSeek-V3.2系列开源，性能直接对标Gemini-3.0-Pro](https://mp.weixin.qq.com/s/glM6LMbsUXwT1DnkBUXjxA)
+
+- [DeepSeek接入codex app使用](https://mp.weixin.qq.com/s/0LugaVf2__Nga_QWbJ328Q)
 
 - **DeepSeek 平替版本**
 
@@ -632,6 +643,7 @@
   - [面向初学者的生成式 AI | Microsoft Learn](https://learn.microsoft.com/zh-cn/shows/generative-ai-for-beginners/)
   - [microsoft/Generative-AI-for-beginners-dotnet: Five lessons, learn how to really apply AI to your .NET Applications](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
 - [程序员必备：60 个 AI 核心关键词，一网打尽](https://mp.weixin.qq.com/s/d7krCFRxOXZ7EY1CltnqgA)
+- [零依赖打造彩色终端 AI 聊天工具——基于 .NET 10 的 ChatAgentCLI](https://mp.weixin.qq.com/s/wqK7O3W4Wz0KX9asr0UKwA)
 
 
 
@@ -806,6 +818,7 @@
 - **单元测试**
 
   - [分析C#项目的单元测试覆盖率，提高代码质量 - 程序设计实验室 - 博客园](https://www.cnblogs.com/deali/p/19026074/csharp-unit-test-coverage-analysis)
+  - [C#开发者别再犯这个单元测试错误了！](https://mp.weixin.qq.com/s/_adEPoocjDA6GdBQHjb_xw)
   
 - **压力测试**
 
@@ -915,6 +928,7 @@
   - [C# 开发必知：IQueryable vs IEnumerable 的性能陷阱与最佳实践](https://mp.weixin.qq.com/s/iFqUlaKtgUUHoCN7trLIKQ)
   - [让你的 C# 程序快10倍的几个方法](https://mp.weixin.qq.com/s/C2Nv-XQVyYWlFrdCBvDeGg)
   - [C# 重构代码的 8 种基本方法](https://mp.weixin.qq.com/s/SsLPDtcDo8KaLZYwvGXH-w)
+  - [C# CallerArgumentExpression：让你的参数验证从此开口说话](https://mp.weixin.qq.com/s/H8IlJRS1W9E1MPSwtIiUng)
 
 - **关键字**
 
@@ -942,6 +956,7 @@
     - [.NET性能优化实战：用 Span<T> 和 stackalloc 给 GC“减负”](https://mp.weixin.qq.com/s/VBnIif8zmBcGtuGT0n6_mA)
   - **dynamic**
     - [告别反射地狱！C#动态编程让你的代码优雅起飞](https://mp.weixin.qq.com/s/bcLHewcPFtGIFmMFiIfjkA)
+    - [C# 动态对象实战：用 DynamicObject 打造你的"万能插件架构"](https://mp.weixin.qq.com/s/LWxw5y-fUzUuxSr465qusw)
   - **Reflection**
     - [C# Reflection.Emit实战：动态创建类型与属性的完全指南](https://mp.weixin.qq.com/s/RCjSirEfhAXCUR5DLo6J0w)
     - [.NET 高级开发 | C# 中的动态代码：反射、EMIT、表达式树、Roslyn、Source Generators](https://mp.weixin.qq.com/s/Sf4CbeO9lhm_r_ZDZZujGg)
@@ -1173,12 +1188,20 @@
     > [.NET 10 网络改进：HTTP、安全与网络原语的全面升级 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/19330426)
 
   - [C# 14 field keyword 让属性更简单](https://mp.weixin.qq.com/s/mRwxYsEftJBwIX_ERMrV1Q)
+
   - [C# 14 新特性：field 关键字实现半自动化属性](https://mp.weixin.qq.com/s/1KYTjC21aN3sduMuZulUfg)
+
   - [C# 14 中的新增功能 - NetCoreKevin - 博客园](https://www.cnblogs.com/net-kevin-li/p/19476883)
+
   - [.NET 10 & C# 14 New Features 新增功能介绍-带修饰符的简单 lambda 参数 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/19623024)
+
   - [.NET 10 & C# 14 New Features 新增功能介绍-再看Top Level Program - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/19629574)
+
   - [.NET10 New feature 新增功能介绍-JIT编译器改进 - Eric zhou - 博客园](https://www.cnblogs.com/tianqing/p/19378803)
+
   - [.NET 10 Networking Improvements - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/)
+
+  - [.NET 10 LTS版正式发布：十大颠覆性特性全解析](https://mp.weixin.qq.com/s/b7p0JWNU8mfopPIaGw2g4A)
 
 #### .NET 11/C#15
 
@@ -1190,6 +1213,8 @@
 - [NET 11 Preview 2 到底带来了啥](https://mp.weixin.qq.com/s/YWRGdVdJ4wo2QFh-Av5i1Q)
 - [.NET 11 Preview 3 来了](https://mp.weixin.qq.com/s/x7E9KE91TNmfZ0ORoEgViQ)
 - [.NET 11 Preview 4 正式发布：Runtime-Async 全面启用、Process API 大幅扩展](https://mp.weixin.qq.com/s/FfjqhrcDMaSqayiQxIyIyw)
+- [.NET 11 中 Process API 升级](https://mp.weixin.qq.com/s/mq_7E2tmYcrUST-aL_HLMw)
+- [C# 终于支持 union types 了](https://mp.weixin.qq.com/s/jRuWp2bssAnDNKtFCVrVrQ)
 
 ### 发布与部署
 
@@ -1212,10 +1237,13 @@
 
 ### 桌面应用
 
+- [.NET 10 桌面 UI 框架的范式演进：Jalium.UI 与 MewUI 架构深度对比](https://mp.weixin.qq.com/s/GrSvn_b-bwJA6tl3A1vqCg)
 - **MVVM**
   - [Winform ObservableProperty 源生成器：告别繁琐的 INotifyPropertyChanged 手写代码](https://mp.weixin.qq.com/s/vxouO7r7jYo3dJ_zIC-jQg)
 - **GDI+**
   - [别再用PictureBox了！C#工业界面这样画才专业](https://mp.weixin.qq.com/s/2fdRIzp3halZVFavrkUXWQ)
+- **Hook**
+  - [C#钩子编程实战：手把手教你监控鼠标双击事件](https://mp.weixin.qq.com/s/5HHdOyw9CIKUDfQtVtWI0g)
 
 
 #### WinForm
@@ -1274,21 +1302,30 @@
 
 - [C# WinForms 资源文件（Resources）完全指南：从入门到实战](https://mp.weixin.qq.com/s/3cORpcNyFz3-PqEDKHiFSQ)
 
+- [C# 从零开始撸一个AI域名生成器：让千问帮你起名，阿里云验真伪](https://mp.weixin.qq.com/s/p3Z83YlM0-Xo-NPK4FXMKw)
+
 - **控件**
 
   - [C# Winform SplitContainer 分割容器的实现](https://mp.weixin.qq.com/s/Bb8AMS1AomspW-8PXF0pjw)
   - [C# Winform GroupBox 分组控件的使用技巧](https://mp.weixin.qq.com/s/atphhpCsxgaQY1xER0ULig)
+  - [C# Winform TableLayoutPanel 表格布局详解](https://mp.weixin.qq.com/s/ygX-RIWhq-7HhCOSbbUdKg)
+  - [C# Winform Panel 容器控件的布局应用](https://mp.weixin.qq.com/s/zXtxfcAFqkCM54SGKDOpkw)
+  - [Winform FlowLayoutPanel 流式布局：告别手动坐标，让界面自己"流"起来](https://mp.weixin.qq.com/s/mMh455MTlYPCcFZNEUh9UQ)
 
 - UI**更新**
 
   - [C# WinForm开发中Invoke与BeginInvoke的区别与应用：让你的界面响应如丝般顺滑](https://mp.weixin.qq.com/s/_dm0kRlhcfyQiNUPCU34Tw)
   - [告别UI卡顿！C#生产者消费者模式让你的WinForm应用丝滑](https://mp.weixin.qq.com/s/Iqyq3Lti47egE5erpQIYAQ)
+  - [C# WinForms主题切换：别再让你的应用"颜值掉线"了！](https://mp.weixin.qq.com/s/CuDQQ7ukuFFPA7ZOaOQxRQ)
 
 - **MVVM**
 
   - [C#从"混乱"到"MVVM优雅设计"：工业级监控系统完整解析](https://mp.weixin.qq.com/s/FIHWo4FhNemExF0KF3jc2A)
   - [C# + Winform 工业设备实时监控系统搭建指南：MVVM架构从零到一的工程化思路](https://mp.weixin.qq.com/s/dufQyIBmH-HU6OhoQGoFzQ)
   - [别再用 Click 事件了：RelayCommand 才是 WinForms 的正确打开方式](https://mp.weixin.qq.com/s/DcrrbBkIbCh9fBzah1rz0A)
+  - [WinForms 下 ViewModel 绑定实战：DataBindings 的正确姿势](https://mp.weixin.qq.com/s/URxKpyLdsAJD0u8mJ-S3Pg)
+  - [C# WinForms 也能玩 MVVM？我用这套架构重构了工业监控系统](https://mp.weixin.qq.com/s/OiJnaAooKncaW5436wfQMw)
+  - [C# Winform 工业设备监控：用 MVVM 让一个字段驱动整个界面联动](https://mp.weixin.qq.com/s/InDEQRx_lW6-5A-Tw2CTLA)
 
 #### WPF
 
@@ -1333,6 +1370,7 @@
      -  [WPF 使用CompositionTarget.Rendering实现平滑流畅滚动的ScrollViewer，支持滚轮、触控板、触摸屏和笔 - Twlm's Blog](https://blog.twlmgatito.cn/posts/wpf-fluent-scrollviewer-with-all-device-supported/)
      -  [WPF 使用 RenderTransform 实现高性能平滑滚动的 ScrollViewer - TwilightLemon - 博客园](https://www.cnblogs.com/TwilightLemon/p/19383555)
   -  [DataGrid 如何实现列头筛选](https://mp.weixin.qq.com/s/3EBweZXdl4hQ7VLw3dUDoQ)
+  -  [WPF 常用控件一文说透：从布局到交互的全景盘点](https://mp.weixin.qq.com/s/2Z8Vl-DJxc0oed-00j1I9g)
 
 - **数据绑定**
 
@@ -1343,6 +1381,8 @@
 - **模板**
 
   - [C# WPF进阶特性：深入理解样式与模板之控件模板](https://mp.weixin.qq.com/s/2_R_PkfsiTsWSEclCS5zeA)
+  - [C# WPF进阶特性：样式与模板之数据模板深度解析](https://mp.weixin.qq.com/s/NHCLS8wT3sZtzKoZDwSwoA)
+  - [WPF 进阶特性：模板选择器实战指南](https://mp.weixin.qq.com/s/JnK1KYNwhn5vgI6LcTok6A)
 
 - **样式**
 
@@ -1356,6 +1396,9 @@
 
   - [WPF/C#：创建第一个Halcon应用](https://mp.weixin.qq.com/s/xQfuAYfvxTKRmwdTviN56w)
 
+### 调试与诊断
+
+- [.NET 高级开发 | 开发 .NET 诊断工具、链路追踪原理](https://mp.weixin.qq.com/s/p6dRQDTYQYnGfDrhlasb6A)
 
 ### 服务
 
@@ -1366,6 +1409,10 @@
 - [Reinventing how .NET Builds and Ships (Again) - .NET Blog](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/?hide_banner=true)
 
   > 再次重塑 .NET 的构建和发布方式
+
+### 初始化
+
+- [C# ModuleInitializer：程序集级别的初始化黑科技](https://mp.weixin.qq.com/s/_e9Q9Op-kr5DGC_abcqEjQ)
 
 ### 动态
 
@@ -1382,7 +1429,6 @@
 - [边界突围：中国.NET技术的七年认知演进与社区化生态重构 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/19288286)
 - [2026：让 .NET 再次伟大](https://mp.weixin.qq.com/s/w4YHpFa4qbKuI3-4eWc9kA)
 - [TIOBE 公布 C# 是 2025 年度编程语言](https://mp.weixin.qq.com/s/Fd71l1ino3oTWA_ZKyttnA)
-
 
 
 
@@ -1496,6 +1542,7 @@
 - [PeriodicTimer](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506539&idx=3&sn=16a6cb3b9320982aacced43fb08115c8&chksm=967cdea0a8c27347dded6ca5255d719f375691dbbe32b41bc6ff7c95e932851394717d06f1e6&scene=126&sessionid=1730033816#rd)
 - [.NET的几种Timer怎么选？如何优雅不翻车？](https://mp.weixin.qq.com/s/YX6nE21QX9NAcvKvHQwwnQ)
 - [如何正确实现一个后台（定时）任务](https://mp.weixin.qq.com/s/sm4HE8bTSLQnxrso7OWDBg?scene=0&subscene=90)
+- [C# PeriodicTimer：让你的定时任务更稳更快！](https://mp.weixin.qq.com/s/L5strJ7-9VumDt9bTRdnxw)
 
  
 
@@ -1665,6 +1712,7 @@
 
 - [点胶机控制系统：当"怎么动"遇上"动哪里"，代码架构的分层哲学](https://mp.weixin.qq.com/s/t2qtkIIDgN9AJyMwYddJmQ)
 - [C# WinForms + OPC DA 网关适配器：从零搭建工业数据服务](https://mp.weixin.qq.com/s/ORnxqVl7jMw55rHbTkDuNQ)
+- [C#工控开发：硬件抽象层（HAL）设计，手把手教你打造专业级运动控制系统](https://mp.weixin.qq.com/s/hc-99eRTDJxPB13_JAhlMQ)
 
 
 
@@ -1737,121 +1785,123 @@
 ## I. IDE
 
 - [2024 年开发人员 13 款常用 IDE 合集 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=3&sn=5594c32e615e9bc6857ff44b28247de1&chksm=9619cf51152401be6ae00b3b8dd4d65de75bdb905ab398e0b4b43a43fc1db5d64df2c3b4b0ab&scene=126&sessionid=1728350900#rd)
-
 - [.NET开发者福音：JetBrains官方宣布 Rider 非商用免费开放！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506917&idx=1&sn=ffed439630d58f7313433659beb98851&chksm=965e8c15b0953e31d36f4daa5dd0ead5c76646c20b817a83315087f21f50a2dd93574c8a7c58&scene=126&sessionid=1730641491#rd)
-
 - [WebStorm：一款专为Web应用程序开发而设计功能强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507021&idx=3&sn=dcaede3cd92887e36223274f028b1a9e&chksm=969390cc0b79c67b078347b62fce76ed0d7524e11d8d9ac6dd9c47cf3d9923c6e46f2b78d5d4&scene=126&sessionid=1730681837#rd)
 
-- **Visual Studio**
+### Visual Studio
 
-  - [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
+- [Visual Studio 2022：一个功能全面且强大的IDE](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506943&idx=2&sn=afbcf31b8a2b7226331f01325d5ae50f&chksm=96df3bff7167bddc1ce2c85987b3d6f7f7f7a58c04b40e8b77f0e25f690013e5a22522327664&scene=126&sessionid=1730641491#rd)
 
-  - [事半功倍：.NET 开发者的 Visual Studio 效率技巧！](https://mp.weixin.qq.com/s/yHAK0VvcOR8bqZVqOBizXQ)
+- [事半功倍：.NET 开发者的 Visual Studio 效率技巧！](https://mp.weixin.qq.com/s/yHAK0VvcOR8bqZVqOBizXQ)
 
-  - [【译】Visual Studio 扩展管理器更新 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18912257)
+- [【译】Visual Studio 扩展管理器更新 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/18912257)
 
-  - [提高 .NET 编程效率的 Visual Studio 使用技巧和建议！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514588&idx=1&sn=08b8b2ea9c042a42888900a8ba1d2580&chksm=96d0039fb1bd99048cfcdb4a9f496baa09842bb203eadea5c0e066780577b69fbd5bae379fdf&scene=126&sessionid=1750209389#rd)
+- [提高 .NET 编程效率的 Visual Studio 使用技巧和建议！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514588&idx=1&sn=08b8b2ea9c042a42888900a8ba1d2580&chksm=96d0039fb1bd99048cfcdb4a9f496baa09842bb203eadea5c0e066780577b69fbd5bae379fdf&scene=126&sessionid=1750209389#rd)
 
-  - [C#-Visual Studio工具使用实践 - 安木夕 - 博客园](https://www.cnblogs.com/anding/p/18919985)
+- [C#-Visual Studio工具使用实践 - 安木夕 - 博客园](https://www.cnblogs.com/anding/p/18919985)
 
-  - [Visual Studio 现已支持新的、更简洁的解决方案文件（slnx）格式](https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg)
+- [Visual Studio 现已支持新的、更简洁的解决方案文件（slnx）格式](https://mp.weixin.qq.com/s/ysq58eg3Eiyie_0wY_k_Gg)
 
-    - [.sln 时代落幕，.slnx成为 .NET 新标准?](https://mp.weixin.qq.com/s/m5-_4VZ78_J-9M5sufG3sg)
+  - [.sln 时代落幕，.slnx成为 .NET 新标准?](https://mp.weixin.qq.com/s/m5-_4VZ78_J-9M5sufG3sg)
 
-  - [微软宣布 Visual Studio 重大变更](https://mp.weixin.qq.com/s/HdGbheLgXV1uXsShHVp8aA)
+- [微软宣布 Visual Studio 重大变更](https://mp.weixin.qq.com/s/HdGbheLgXV1uXsShHVp8aA)
 
-  - [Visual Studio 中的 Agent：内置 Agent 和自定义 Agent](https://mp.weixin.qq.com/s/c8H5UKuKHGJh0Mn5YPWowQ)
+- [Visual Studio 中的 Agent：内置 Agent 和自定义 Agent](https://mp.weixin.qq.com/s/c8H5UKuKHGJh0Mn5YPWowQ)
 
-  - **快捷键**
+- **快捷键**
 
-    - [Visual Studio 快捷键速查表](https://mp.weixin.qq.com/s/A0DdXA7txv4MpVZAgyIllQ)
+  - [Visual Studio 快捷键速查表](https://mp.weixin.qq.com/s/A0DdXA7txv4MpVZAgyIllQ)
 
-  - **调试**
+- **调试**
 
-    - [调试等半天？Visual Studio 符号加载慢的罪魁祸首找到了](https://mp.weixin.qq.com/s/zOpsikUxD0rMRU0451Emtw)
+  - [调试等半天？Visual Studio 符号加载慢的罪魁祸首找到了](https://mp.weixin.qq.com/s/zOpsikUxD0rMRU0451Emtw)
 
-  - **Visual Studio 2026**
+- **Visual Studio 2026**
 
-    - [Visual Studio 2026 现已正式发布，更快、更智能！](https://mp.weixin.qq.com/s/8TjLcw4RExpCohGJYgmBOA)
-    - [Visual Studio 2026 正式版下载与安装详细教程（附带产品密钥）！](https://mp.weixin.qq.com/s/wbZiTPjhKlFOeU3MgIbq0A)
-    - [使用 Visual Studio 2026 简化您的 Git 工作流程](https://mp.weixin.qq.com/s/dkeR_tfors8Suj6kSGwujw)
-    - [使用了两个月VS2026，是什么体验？](https://mp.weixin.qq.com/s/kqm3KnXfo8HI9glsCMgV7A)
-    - [Visual Studio 一月更新 - 增强的编辑器体验](https://mp.weixin.qq.com/s/beuZ_hpxkTrQTKEpFRLcuA)
-    - [【译】Visual Studio 二月更新 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/19659149)
-      - [Visual Studio February Update - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/)
-    - [Visual Studio 2026 预览体验版现已发布，一起来看看带来哪些新功能！](https://mp.weixin.qq.com/s/b5QWP8Bj9YJMRx2adyjDRg)
-    - [Visual Studio 2026 Insiders - Faster, smarter IDE](https://visualstudio.microsoft.com/insiders/?rwnlp=zh-hans)
-    - [在 Visual Studio 2026 中，减少升级时间，增加编码时间](https://mp.weixin.qq.com/s/w5oVWOIgO_hnB3nGBo3PeQ)
+  - [Visual Studio 2026 现已正式发布，更快、更智能！](https://mp.weixin.qq.com/s/8TjLcw4RExpCohGJYgmBOA)
+  - [Visual Studio 2026 正式版下载与安装详细教程（附带产品密钥）！](https://mp.weixin.qq.com/s/wbZiTPjhKlFOeU3MgIbq0A)
+  - [使用 Visual Studio 2026 简化您的 Git 工作流程](https://mp.weixin.qq.com/s/dkeR_tfors8Suj6kSGwujw)
+  - [使用了两个月VS2026，是什么体验？](https://mp.weixin.qq.com/s/kqm3KnXfo8HI9glsCMgV7A)
+  - [Visual Studio 一月更新 - 增强的编辑器体验](https://mp.weixin.qq.com/s/beuZ_hpxkTrQTKEpFRLcuA)
+  - [【译】Visual Studio 二月更新 - MeteorSeed - 博客园](https://www.cnblogs.com/MeteorSeed/p/19659149)
+    - [Visual Studio February Update - Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/)
+  - [Visual Studio 2026 预览体验版现已发布，一起来看看带来哪些新功能！](https://mp.weixin.qq.com/s/b5QWP8Bj9YJMRx2adyjDRg)
+  - [Visual Studio 2026 Insiders - Faster, smarter IDE](https://visualstudio.microsoft.com/insiders/?rwnlp=zh-hans)
+  - [在 Visual Studio 2026 中，减少升级时间，增加编码时间](https://mp.weixin.qq.com/s/w5oVWOIgO_hnB3nGBo3PeQ)
 
-  - **插件/扩展**
+- **插件/扩展**
 
-    - [基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=1&sn=2b93845e99c0943b6e9451dfde463bb1&chksm=9693ad2f6af9208cdcdf45422fe56fdd1242cf6929cb726801a729c2651067512ae95a04df16&scene=126&sessionid=1733445770#rd)
-    - [Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514422&idx=1&sn=32135c7a1bb6279c52e32d6d0c3933dc&scene=21#wechat_redirect)
-    - [一个致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展插件【Codist】](https://mp.weixin.qq.com/s/UWuCIY4Q5PJeNClrQWPGEw)
+  - [基于 C# 编写的 Visual Studio 文件编码显示与修改扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508023&idx=1&sn=2b93845e99c0943b6e9451dfde463bb1&chksm=9693ad2f6af9208cdcdf45422fe56fdd1242cf6929cb726801a729c2651067512ae95a04df16&scene=126&sessionid=1733445770#rd)
+  - [Visual Studio 2022 中的 EF Core 反向工程和模型可视化扩展插件](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514422&idx=1&sn=32135c7a1bb6279c52e32d6d0c3933dc&scene=21#wechat_redirect)
+  - [一个致力于为 C# 程序员提供更佳的编码体验和效率的 Visual Studio 扩展插件【Codist】](https://mp.weixin.qq.com/s/UWuCIY4Q5PJeNClrQWPGEw)
 
-  - **推荐扩展**
+- **推荐扩展**
 
-    - CodeRush
+  - CodeRush
 
-      > CodeRush是用于Visual Studio 2022的功能强大且快速的代码创建、调试、导航、重构、分析和可视化工具（一个完全免费的能和ReSharper匹敌插件）。
+    > CodeRush是用于Visual Studio 2022的功能强大且快速的代码创建、调试、导航、重构、分析和可视化工具（一个完全免费的能和ReSharper匹敌插件）。
 
-    - HTML Snippet Pack
+  - HTML Snippet Pack
 
-      > 它提供了一组预定义的 HTML 代码段（snippets），以帮助开发者更快速地编写 HTML 代码。这些代码段是预先定义的代码模板，可以通过简单的代码缩写触发，然后自动生成相应的 HTML 代码块，从而提高编写 HTML 的效率和准确性。
+    > 它提供了一组预定义的 HTML 代码段（snippets），以帮助开发者更快速地编写 HTML 代码。这些代码段是预先定义的代码模板，可以通过简单的代码缩写触发，然后自动生成相应的 HTML 代码块，从而提高编写 HTML 的效率和准确性。
 
-    - XAML Styler for Visual Studio 2022
+  - XAML Styler for Visual Studio 2022
 
-      > XAML Styler 是一个 Visual Studio 扩展，它根据一组样式规则格式化 XAML 源代码。此工具可以帮助您/您的团队保持更好的 XAML 编码风格以及更好的 XAML 可读性。
+    > XAML Styler 是一个 Visual Studio 扩展，它根据一组样式规则格式化 XAML 源代码。此工具可以帮助您/您的团队保持更好的 XAML 编码风格以及更好的 XAML 可读性。
 
-    - File Icons
+  - File Icons
 
-      > File Icons 此扩展程序为Visual Studio中未提供图标的文件在“解决方案资源管理器”中添加文件图标。
+    > File Icons 此扩展程序为Visual Studio中未提供图标的文件在“解决方案资源管理器”中添加文件图标。
 
-    - [JSON Viewer](https://marketplace.visualstudio.com/items?itemName=MykolaTarasyuk.JSONViewer)
+  - [JSON Viewer](https://marketplace.visualstudio.com/items?itemName=MykolaTarasyuk.JSONViewer)
 
-      > 用于显示和处理JSON数据。安装后，可以在主菜单中找到它：工具-> JSON Viewer。
+    > 用于显示和处理JSON数据。安装后，可以在主菜单中找到它：工具-> JSON Viewer。
 
-    - [C# Var Type CodeLens](https://marketplace.visualstudio.com/items?itemName=AlexanderGayko.VarAdorner)
+  - [C# Var Type CodeLens](https://marketplace.visualstudio.com/items?itemName=AlexanderGayko.VarAdorner)
 
-      > 显示 var 变量的类型。
+    > 显示 var 变量的类型。
 
-    - [CI CodeLens Info 2022](https://marketplace.visualstudio.com/items?itemName=LuizFernandoDINATO.CICodeLensInfo2022)
+  - [CI CodeLens Info 2022](https://marketplace.visualstudio.com/items?itemName=LuizFernandoDINATO.CICodeLensInfo2022)
 
-      > 显示变量引用次数
+    > 显示变量引用次数
 
-    - 4
+  - 4
 
-    - 5
+  - 5
 
-    - 6
+  - 6
 
-    - 7
+  - 7
 
-    - 8
+  - 8
 
-- **VSCode**
+### VSCode
 
-  - [2025 最顺眼的 VSCode 主题推荐，码字效率++！谁用谁上头～](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514778&idx=2&sn=032f2a1f2fc097e5649ed491b62c8b7a&chksm=96c418c831080858f3fca3471ed117712658c043214cee1cdd51bdff2511ea52095f1d56b778&scene=126&sessionid=1751112758&poc_token=HDzcX2ijsMQZZyVPkiD0dimw6FxCGm4UVlb0KQNX)
+- [2025 最顺眼的 VSCode 主题推荐，码字效率++！谁用谁上头～](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247514778&idx=2&sn=032f2a1f2fc097e5649ed491b62c8b7a&chksm=96c418c831080858f3fca3471ed117712658c043214cee1cdd51bdff2511ea52095f1d56b778&scene=126&sessionid=1751112758&poc_token=HDzcX2ijsMQZZyVPkiD0dimw6FxCGm4UVlb0KQNX)
 
-  - [.NET程序员的多语言笔记本：Polyglot Notebook - EdisonZhou - 博客园](https://www.cnblogs.com/edisontalk/p/-/quick-start-on-polyglot-notebook)
+- [.NET程序员的多语言笔记本：Polyglot Notebook - EdisonZhou - 博客园](https://www.cnblogs.com/edisontalk/p/-/quick-start-on-polyglot-notebook)
 
-    > 之前在学习机器学习的时候，使用了Jupyter Notebook这个笔记本工具，我就在想.NET这边有没有类似的，今天就跟你介绍下Polyglot Notebook这个工具。
-    
-  - [VS Code 推出全新 JS/TS 工具，AI 驱动，面向未来！](https://mp.weixin.qq.com/s/_qL18udGs66SqhU5b2Qn0A)
+  > 之前在学习机器学习的时候，使用了Jupyter Notebook这个笔记本工具，我就在想.NET这边有没有类似的，今天就跟你介绍下Polyglot Notebook这个工具。
+  
+- [VS Code 推出全新 JS/TS 工具，AI 驱动，面向未来！](https://mp.weixin.qq.com/s/_qL18udGs66SqhU5b2Qn0A)
 
-  - [VsCode推出 “橙色版” “绿色版” ！一个像御姐一个像萝莉](https://mp.weixin.qq.com/s/W-vyZGBjBOYPWtvXxYQbQw)
+- [VsCode推出 “橙色版” “绿色版” ！一个像御姐一个像萝莉](https://mp.weixin.qq.com/s/W-vyZGBjBOYPWtvXxYQbQw)
 
-  - [Claude Code 正式发布 VS Code 扩展！](https://mp.weixin.qq.com/s/Ts80YnZLvvZTW2oM30vBTg)
+- [Claude Code 正式发布 VS Code 扩展！](https://mp.weixin.qq.com/s/Ts80YnZLvvZTW2oM30vBTg)
 
-  - [杀疯了！VSCode 最强插件！效率提升300%](https://mp.weixin.qq.com/s/0RYPLqzURfyvXBoKAgTcPw)
+- [杀疯了！VSCode 最强插件！效率提升300%](https://mp.weixin.qq.com/s/0RYPLqzURfyvXBoKAgTcPw)
 
-  - [VS Code 1.118 发布！Agents app 全面更新，支持 Claude agent、Web client 甚至是 Mobile](https://mp.weixin.qq.com/s/l4uFymi0Kne3ee1AAR1v4A)
+- [VS Code 1.118 发布！Agents app 全面更新，支持 Claude agent、Web client 甚至是 Mobile](https://mp.weixin.qq.com/s/l4uFymi0Kne3ee1AAR1v4A)
 
 - **Rider**
 
   - [Rider 2025.2 EAP 5: Reimagined Monitoring Tool Window and New OpenTelemetry Plugin | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2025/06/16/rider-eap-5-new-monitoring-tool-opentelemetry-plugin/#)
 
     > Rider 2025.2 EAP 5 版本刚刚发布，这次带来了两项针对 .NET 开发者的主要生产力提升。
+
+### SharpIDE
+
+- [SharpIDE： 基于 .NET 与 Godot 引擎的跨平台开源 IDE](https://mp.weixin.qq.com/s/W6FT90Oey9Na9flAQdkajg)
 
 
 
@@ -1946,6 +1996,7 @@
 - [C# OnnxRuntime Yolov8 纸箱检测](https://mp.weixin.qq.com/s/ZllA1eX7eB2ltVZCOLyveg?scene=0&subscene=90)
 - [免费GPU版OCR推理库来了！不挑卡的OnnxRuntime DML方案来了](https://mp.weixin.qq.com/s/-ra0Bg3sO05KwpZ9VG4qQQ)
 - [C#AI系列(3):31mb单文件exe实现姿态检测-将Yolo装进口袋](https://mp.weixin.qq.com/s/VV1bDDQcNYD1uDG7CWzB5w)
+- [C#/Halcon：简单介绍在AOI设备软件中的应用](https://mp.weixin.qq.com/s/O1mk5F6oxHzMBH9jwMn5cg)
 
 
 
@@ -2261,6 +2312,7 @@
 - [OpenAPI document generation in .NET 9 - .NET Blog](https://devblogs.microsoft.com/dotnet/dotnet9-openapi/)
 - [.NET9 - Swagger平替Scalar详解（四） - IT规划师 - 博客园](https://www.cnblogs.com/hugogoos/p/18571088)
 - [在 .NET 9 中使用 Scalar 替代 Swagger](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509096&idx=1&sn=0c8a8a84fe1c1e6bb81f4965f89b5561&chksm=9658299e4b41db48949c3406c88ec364cfb3366fad437401718182f0ef07b6a4b91d8a162558&scene=126&sessionid=1736503976#rd)
+- [在 .NET 10 应用中结合 API 版本控制与 OpenAPI](https://mp.weixin.qq.com/s/s_VdoWfCAuhHrPgA1XKcbg)
 
 
 
@@ -2279,6 +2331,7 @@
   - [从零开始:C# 解析docx提取文本-无需安装office软件且完美支持aot - LdotJdot - 博客园](https://www.cnblogs.com/luojin765/p/19147754)
 
 - **Excel**
+  - [2026 年 .NET的 Excel 库怎么选？免费与商业方案全面对比](https://mp.weixin.qq.com/s/f4Pod3QNx7ZvdRzNc-JRMg)
   - [告别Excel痛苦！这个C#神器让数据映射变得超简单](https://mp.weixin.qq.com/s/XfauCWqFQl9HOooxJw6htA)
   - [开源一套.NET平台的Excel COM 组件二次封装库 - 玩泥巴的 - 博客园](https://www.cnblogs.com/mudtools/p/19060706)
 - **开源项目推荐**
@@ -2319,6 +2372,7 @@
 - [C#上位机实现西门子PLC标签通信](https://mp.weixin.qq.com/s/aD6elbLox3BP4_Qiyhi_Fw)
 - [C#实现三菱MC通讯协议库（4C帧-格式1） - Dragonet-Z - 博客园](https://www.cnblogs.com/dragonet-Z/p/19318911)
 - [用PLC搭建了一个远程开关机的系统](https://mp.weixin.qq.com/s/hTwrypozxEI9dlSRE-iV2w)
+- [C# 与 OPC UA 通信实战：订阅、读写与安全证书管理](https://mp.weixin.qq.com/s/boeGpMHDYBm_zq__Ofqbxw)
 
 
 
@@ -2384,6 +2438,7 @@
 ## R. 日志
 
 - [.NET 中 Logger 常被忽视的方法 BeginScope - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18682492)
+- [C#日志系统性能飞跃指南：从9倍慢到毫秒级响应](https://mp.weixin.qq.com/s/_iyJ63ontdC3qZzIES4xpQ)
 
 
 
@@ -2394,6 +2449,8 @@
   > 在微服务架构中中，定时任务是最常用的基础设施组件之一，社区中有很多定时任务类库或平台，例如 Quartz.NET、xxx-job，使用方法差异很大，比如 xxx-job 的核心是 http 请求，配置定时任务实现 http 请求具体的接口，不过用起来还是比较复杂的。
   
 - [告别Hangfire！.NET 9原生后台任务处理的最佳实践](https://mp.weixin.qq.com/s/URIallS1rsM7n8Z-gr7hpg)
+
+- [告别 Timer 地狱：用 FluentScheduler 6 打造工业级任务调度系统](https://mp.weixin.qq.com/s/hqH1uTU4Pt4zvS-LePNbSQ)
 
 
 
@@ -2412,6 +2469,7 @@
 ## R. 软件工具
 
 - [c#造个轮子--GIF录制工具 - 何以解忧唯有\*码 - 博客园](https://www.cnblogs.com/axing/p/19128750)
+- [C#从零开始: 自己实现一个截屏工具](https://mp.weixin.qq.com/s/AdKv0_q_gkt6YEDVkGevUQ)
 
 
 
@@ -2522,6 +2580,11 @@
 
 - **选型建议**
   - [高性能场景为什么推荐使用PostgreSQL，而非MySQL?](https://mp.weixin.qq.com/s/BM9l1dTZ4TF-l3RQhMjrMg)
+  
+- **数据库引擎**
+
+  - [[翻译] 为什么我要用 C# 构建数据库引擎](https://mp.weixin.qq.com/s/cS-3XxgGgwwGthy_Qh9yog)
+
 
 
 
@@ -2642,6 +2705,7 @@
       - [聊一聊 .NET 中的 CompositeChangeToken - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/19079389)
     - [记一次 .NET 某MES上位机拍照系统 内存暴涨分析 - 一线码农 - 博客园](https://www.cnblogs.com/huangxincheng/p/19450501)
     - [记一次 .NET 某低代码开发框架 内存暴涨分析](https://mp.weixin.qq.com/s/DjQ8x8Y_Rb2VQZ1JclGDCg)
+    - [记一次 .NET 某集群管理软件 内存暴涨分析](https://mp.weixin.qq.com/s/oznjsR3C5VjLJjiFNxFaLg)
     
   - **程序卡死问题分析**
   
@@ -2728,8 +2792,6 @@
 
   - [聊一聊 C#异步 任务延续的三种底层玩法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509099&idx=2&sn=64514f54589397a27a9c95a9e78cde16&chksm=9644e747e4c46599bad92880716fbf8b6f15809c94000de722730b42fdaa210398d06bd028b7&scene=126&sessionid=1736503976#rd)
 
-  - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
-
   - [C#实现异步编程的常用的5种方式总结 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505725&idx=4&sn=97da5b2d1c1a69e1aed42490510a99c0&chksm=96cb132a1d25fd1faf8c9ab5dd073c425b8f95daf6920ca94030480c25d12a2b76d7dee34bf1&scene=126&sessionid=1727052024#rd)
 
   - [.NET异步有多少种实现方式？（异步编程提高系统性能、改善用户体验） (qq.com)](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500438&idx=1&sn=7295d2cdb1e68ce8abaf182058d3e61e&scene=21#wechat_redirect)
@@ -2815,6 +2877,14 @@
       > 如果你需要**简单启动并等待任务**，用 *Task.Run*；如果你需要**精细化控制任务行为**，用 *Task.Factory.StartNew*。这样既能保持代码简洁，又能在特殊场景下发挥 TPL 的全部能力。
       
     - [C# 下 WinForm开发避坑指南：别让Task满天飞！](https://mp.weixin.qq.com/s/GFHWDnvP9LbidWcD79gaDg)
+    
+    - [C# 异步编程进阶：Task、ValueTask 和 ConfigureAwait 的性能对决](https://mp.weixin.qq.com/s/PATeFFxRe6OFzt65AGJulw)
+    
+    - [探索C#中的ValueTask，高性能异步编程新宠？](https://mp.weixin.qq.com/s/njPHOXSDEamXJIlbZvbdHA)
+    
+  - **async/await**
+
+    - [C#异步编程的隐形炸弹：当async/await遇上线程上下文](https://mp.weixin.qq.com/s/t-koLWhiKJyHhPeiSAn86g)
 
 - **并发**
   
@@ -2847,6 +2917,10 @@
     > 这次的需求很简单，用 C# 模拟一个设备协议，实现不用去现场对接设备，也能先开发和调试上位机程序。实际设备是用 RS-485 标准进行通信，模拟跑通之后，到现场只需要把RS-485 总线（A/B 差分线）插到 USB-RS485 转换器上就可以实现数据读取和指令下发了。
     
   - [C# 实现 Modbus RTU 串口采集：超时、重试与异常处理](https://mp.weixin.qq.com/s/UFuDHJUj7BrY0-sYw6ltBw)
+  
+  - [工控神器诞生记：我是如何用C#撸出一个Modbus调试利器的](https://mp.weixin.qq.com/s/gupjMg86qDq6tpKxUyrjlQ)
+  
+  - [工业通讯救星：47%的Modbus调试时间，我用这套轮询架构拯救了](https://mp.weixin.qq.com/s/Flc6NUD3f_xS0NzsxKJTZw)
   
 - **串口通信**
   
@@ -2896,6 +2970,7 @@
 - **HTTP/HTTPS**
 
   - [.NET中调用API时幕后发生了什么？](https://mp.weixin.qq.com/s/zuQ2DgvxDQIvj6w-Sg5Fhw)
+  - [在.NET Core使用 HttpClient 的正确方式](https://mp.weixin.qq.com/s/0hXmhbIvxhd8fzZZw9e9vQ)
 
 
 
@@ -2933,6 +3008,8 @@
   - [WPF ScottPlot 5.x 实战：多通道传感器数据实时显示与同步](https://mp.weixin.qq.com/s/jGvor6yjhzO6TovaGuye3A)
   - [C# 工业级数据可视化：用ScottPlot让10万个点流畅显示的实战秘籍](https://mp.weixin.qq.com/s/_ldfJUKi6tWy1_5pzMbTxw)
   - [C# Winform ScottPlot5 高频数据采集显示：优化刷新率与内存管理](https://mp.weixin.qq.com/s/6vTNtkxpXiXERbelxoZ0gQ)
+  - [C# Winform ScottPlot 5 实时数据缓冲策略：滑动窗口与历史数据管理](https://mp.weixin.qq.com/s/7Dqxyo0PpQ7m9gzq9npbLQ)
+  - [震惊！C#用ScottPlot流量计数据可视化：累计与瞬时流量双图表](https://mp.weixin.qq.com/s/btFm1QDfUqQnjuYfdmtcwQ)
 
 
 
@@ -3009,6 +3086,7 @@
 
 - [C#委托的前世今生 - 付工上位机 - 博客园](https://www.cnblogs.com/xbdedu/p/18594690)
 - [C# 中委托和事件的深度剖析与应用场景 - 葡萄城技术团队 - 博客园](https://www.cnblogs.com/powertoolsteam/p/18926505)
+- [C# 委托+Pipeline 深入指南：从回调混乱到可读可测的优雅架构](https://mp.weixin.qq.com/s/v_XYb7Hi7flEbgEf1vj2XQ?poc_token=HJiyC2qj90A-AJmubgiQATJtglaBCYnvLjuAcmie)
 
 
 
@@ -3078,6 +3156,8 @@
 - [C# 窗口过程消息处理 WndProc - 蓝点lilac - 博客园](https://www.cnblogs.com/BluePointLilac/p/18802906)
 
   > C# 窗口过程消息处理 WndProc。
+  
+- [从零搭建工业级C#监控系统：Wolverine消息框架实战指南](https://mp.weixin.qq.com/s/4l8m1Wu_0466ikQddnAnZQ)
 
 
 
@@ -3238,6 +3318,12 @@
 
 
 
+# Z. 知识库
+
+- [从0到1打造本地知识库：一个.NET开发者的网站目录爬虫](https://mp.weixin.qq.com/s/psNCvoErr0U_TRs9LpQFjw)
+
+
+
 ## Z. 杂谈
 
 - [程序员的护城河是什么 ？](https://mp.weixin.qq.com/s/ZkjAXSK1UOykQWLpzZ6hjA?scene=0&subscene=90)
@@ -3248,6 +3334,6 @@
 
 
 
-# 招聘
+# Z. 招聘
 
 - [2026年程序员必知的12个招聘渠道](https://mp.weixin.qq.com/s/c-8gGV1fOHZr-lxo8y94EA)

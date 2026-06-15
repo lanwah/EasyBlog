@@ -197,6 +197,7 @@
 | **Gitee:[ndd](https://gitee.com/cxasm/notepad--)**           | GPL-3.0                                                      | Notepad-- 是一个使用C++编写的轻量级文本编辑器，简称ndd。<br />它支持Windows、Mac和Linux操作系统平台，<br />旨在完成文本编辑类软件的国产可替代，特别是在国产Uos/Linux系统、<br />Mac系统上发展。与其他Notepad类竞品相比，Notepad--的优势在于其跨平台特性，<br />能够支持Linux和Mac操作系统。 |
 | Git:[NotepadNext](https://github.com/dail8859/NotepadNext)   | [GPL-3.0 license](https://github.com/dail8859/NotepadNext/#GPL-3.0-1-ov-file) | NotepadNext 是一款基于 Qt 框架开发的开源文本编辑器，<br />作为 Notepad++ 的跨平台替代方案，支持 Windows、Linux 和 macOS 三大操作系统。<br />项目以 MIT 协议开源，致力于为开发者提供轻量级、<br />高性能且功能丰富的文本处理体验。 |
 | Git:[DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) | [MS-PL license](https://github.com/Code52/DownmarkerWPF#MS-PL-1-ov-file) | DownmarkerWPF是一个基于WPF开发的、可视化的Markdown编辑器。<br />功能丰富，可直接打开并保存到您的博客、GitHub等平台，<br />支持从剪贴板粘贴图片到Markdown、Jekyll网站，支持从文件夹打开，以及更多功能！ |
+| Git:[Vex](https://github.com/dotnet9/Vex)                    | [MIT license](https://github.com/dotnet9/Vex#MIT-1-ov-file)  | Vex 是基于 **.NET 10 + Avalonia 12** 构建的免费开源跨平台 Markdown 编辑器。<br />它不做大而全的知识库，也不复刻成熟商业编辑器，<br />当前主线很清楚：**Markdown 源码编辑、实时预览、文件管理、<br />导出，以及复制到内容平台**。 |
 | Git:[NetPad](https://github.com/tareqimbasher/NetPad)        | [MIT license](https://github.com/tareqimbasher/NetPad#MIT-1-ov-file) | NetPad是一个基于.NET开源（MIT License）、跨平台的C#编辑器和游乐场，<br />它允许用户立即运行C#代码，无需创建和管理项目。 |
 | Git:[CsvTextEditor](https://github.com/WildGums/CsvTextEditor) | MIT                                                          | CsvTextEditor是一个基于 C# 开源（MIT License）、免费、<br />易于使用的 CSV 文本编辑器应用程序，<br />使用 AvalonEdit 实现的弹性制表符 CSV 编辑器。 |
 | Git:[DCWriterLite](https://github.com/dcsoft-yyf/DCWriterLite) | [Apache-2.0 license](https://github.com/dcsoft-yyf/DCWriterLite#Apache-2.0-1-ov-file) | DCWriterLite 是一个基于 .NET 开源（Apache-2.0 license）、<br />功能强大的在线文档编辑器，<br />与 TinyMCE 和 CKEditor 等基于浏览器的 HTML DOM 开发的其他软件不同，<br />DCWriterLite 构建自己的 DOM 结构，使用 XML 存储文档，<br />并使用 Canvas 进行文档渲染，使用 SVG 进行文档打印。<br />这使得 DCWriterLite 能够克服 HTML DOM 的局限性并实现高度先进的文档编辑功能，<br />例如实时分页、可靠的重做/撤消功能和强大的表单字段。 |
@@ -236,6 +237,7 @@
   - [一款基于 WPF 开源、轻量级的 Markdown 编辑器【MdXaml】](https://mp.weixin.qq.com/s/wad9ACh8iPfSxPq_HHMOxQ?scene=0&subscene=90)
   - [再见Typora，一款开源免费、轻灵、安全的 Markdown 编辑器神器！【MiaoYan】](https://mp.weixin.qq.com/s/P8pN825in8loTxp5KBXlbw)
   - [C#从零开始: LumNote-重新定义单机Markdown编辑器【LumNote】](https://mp.weixin.qq.com/s/XoAQzA721V35b0yrAsoUtA)
+  - [Vex：免费开源的 .NET + Avalonia 跨平台 Markdown 编辑器【Vex】](https://mp.weixin.qq.com/s/weBR_IMdsPCZeeYL_y85-Q)
   
 - **在线编辑器**
 
@@ -343,10 +345,12 @@
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ |
 | **Gitee:[科讯餐饮管理系统](https://gitee.com/gdianqimeng/RMS)** | MIT        | 科讯餐饮管理系统是一款基于 .NET 开源、功能齐全的商用餐饮管理系统。<br />系统旨在帮助餐饮企业实现业务流程的自动化和规范化，提高工作效率，<br />降低运营成本，并提供决策支持。 |
 | **Gitee:[蜀味正道（餐饮）](https://gitee.com/kbzapp/foodApp)** | GPL-3.0    | 蜀味正道是一款基于 .NET 开源、美观、全面高效的桌面端餐饮管理系统，<br />该系统是专门针对餐饮行业开发的桌面应用程序，旨在提供高效、便捷的餐饮管理服务。 |
+| Gitee:[Boundless](https://gitee.com/cookies_code/boundless)  | AGPL-3.0   | boundless 项目定位是轻量级收银解决方案，核心目标是"开箱即用"。<br />代码结构清晰，文档完善，新手也能快速上手二次开发。<br />我一开始看到 WinForm 还担心界面效果，<br />结果实际运行后发现作者在 UI 优化上下了很大功夫。 |
 
 - [一款基于 .NET 开源、功能齐全的商用餐饮管理系统【RMS】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509965&idx=2&sn=2ff13122d6addb914103f79a8d21e274&chksm=96c6bc81f647e937eba7251a3fc982a279dc2cc970ef6d5cbf706bfe31119565fdaaba4a4879&scene=126&sessionid=1738974305#rd)
 - [一款基于 .NET 开源、美观的桌面端餐饮管理系统【蜀味正道】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512506&idx=2&sn=861b894d06921fee311e19ca983646c3&chksm=96f458487da4b84c42e544fb611feab9d2b74a9840b05588e8409bfcf40cb752ecf2a61075cb&scene=126&sessionid=1744851117#rd)
 - [一款开源、专门针对餐饮行业而开发的.NET桌面应用程序【foodApp】](https://mp.weixin.qq.com/s/kzNlXG47V5w5Whjs6YlFiQ?poc_token=HNo0EWmjz7N15kMhCjymouVtEpttK2iQLfzoHIJ0)
+- [一款基于 WinForm 构建、开源、精美的收银系统【boundless】](https://mp.weixin.qq.com/s/YSyKit2b7Dpv2V-NKa85vw)
 
 
 
@@ -860,6 +864,7 @@
 ### 相关参考
 
 - **[Stack Overflow基于.NET开源的轻量级监控系统【Opserver】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503213&idx=2&sn=cbf5707e8bc804aa71c25bd624921f86&chksm=96c22a12ec0fcb2b392b31e713306ede2cc84b1a8d3ac942b098b9dbdc295009ac6bff3da09f&scene=126&sessionid=1721608423#rd)**
+- [一款由 Stack Overflow 团队基于 .NET 开源、免费、轻量级的监控系统！【Opserver】](https://mp.weixin.qq.com/s/KvMYyvy4ah-Sqj85BdmdVA)
 - [一款开源、轻量、易用的服务器监控系统，开箱即用！【Beszel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512214&idx=2&sn=2cf69fa6c3469e78fbac0977feb8ff9d&chksm=969c563e4807c997cec50874fae84c51b93120474de24589c69f6bb0c36fae19fa8fae1b426a&scene=126&sessionid=1744331895#rd)
 - [一个.NET开源且功能强大的实时应用监控系统【WatchDog】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507121&idx=2&sn=610d4b9fe6570ffc298f524c1a09c84c&chksm=96bac78edb38ce503ccbfc528d0e2efbb05079c2c06106bd2ca62a7837313d57e4ed30ecb548&scene=126&sessionid=1731206998#rd)
 - [一款 .NET 开源、功能强大的实时应用监控系统【WatchDog】](https://mp.weixin.qq.com/s/Eed5guK0NOmNMY4AZhHF5A)
@@ -1303,6 +1308,7 @@
 | Git:[FluentCMS](https://github.com/fluentcms/FluentCMS)      | [MIT license](https://github.com/fluentcms/FluentCMS#MIT-1-ov-file) | FluentCMS 是一个开源（MIT license）、现代化的内容管理系统（CMS），<br />它基于强大的 ASP.NET Core + Blazor技术构建。<br />FluentCMS助力内容写作者更高效地创作内容。其设计快速、灵活且用户友好，<br />不仅具备传统基于内容的CMS功能，还擅长作为无头CMS（headless CMS），<br />使其非常适合各种数字应用场景。 |
 | Git:[OrchardCore](https://github.com/OrchardCMS/OrchardCore) | [BSD-3-Clause license](https://github.com/OrchardCMS/OrchardCore#BSD-3-Clause-1-ov-file) | OrchardCore 是一个开源的（BSD-3-Clause license）、<br />模块化的、支持多租户的应用程序框架，使用 ASP.NET Core 构建。<br />同时，它也是一个基于该框架的内容管理系统（CMS）。 |
 | **Gitee:[ lin-cms-dotnetcore](https://gitee.com/igeekfan/lin-cms-dotnetcore)** | MIT                                                          | Lin CMS .NET Core 是一款基于.NET 8和FreeSql实现的<br />前后端分离的内容管理系统（CMS）。该项目旨在提高CMS开发效率，<br />内置了用户管理、权限管理、日志系统等常用功能，支持Docker部署、<br />OAuth2授权登录等多种现代化技术栈。 |
+| Git：[halo](https://github.com/halo-dev/halo)                | [GPL-3.0 license](https://github.com/halo-dev/halo#GPL-3.0-1-ov-file) | Halo 是一款现代化、开源免费的建站工具，致力于降低建站门槛，<br />提供从个人博客到企业级应用的完整解决方案。<br />其核心设计理念是 **零代码、高扩展、全场景**，通过模块化架构和可视化编辑器，<br />用户无需编程基础即可快速搭建专业级网站。项目采用 GPL-3.0 开源协议，<br />社区活跃，已服务超过 10 万+ 开发者与用户，<br />成为 GitHub 上最受欢迎的 Java 建站系统之一。 |
 
 ### 相关参考
 
@@ -1323,6 +1329,7 @@
   - [Orchard Core 中文文档](https://docs.orchardcore.net/zh-cn/latest/)
   - [一个基于 ASP.NET Core 的开源、模块化、多租户应用框架和内容管理系统【OrchardCore】](https://mp.weixin.qq.com/s/jmaH_1oDfqFVTZIUNlBCDw)
 - [一款基于 .NET 8 + FreeSql 实现的前后端分离的 CMS 系统【Lin CMS .NET Core】](https://mp.weixin.qq.com/s/Az9XnIfGPxwUlWrgQYG0fA)
+- [一款开源免费、强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，一站式满足您的多样化建站需求！【Halo】](https://mp.weixin.qq.com/s/6V46fPxRvbd8gN6FNQKKhQ)
 
 
 
@@ -1426,6 +1433,8 @@
   - [C#AI系列(6): C#离线实现高效OCR - LdotJdot - 博客园](https://www.cnblogs.com/luojin765/p/19346320)
 - [一个开源、高效、灵活的 PDF OCR 文字识别神器！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513341&idx=2&sn=1c664132e2cd8c95c2b1788455a1da84&chksm=96593250cda716c21ecb0bb7cf871eb14ac8be091dc54e5458c991a4e256985c2c212cdae510&scene=126&sessionid=1746578976#rd)
 - [初识 PaddleSharp：C# 开发者的 AI 入场券【PaddleSharp】](https://mp.weixin.qq.com/s/MAVHEEz0ExZ8ItJGPMf0tw)
+  - [PaddleSharp 环境搭建全攻略：NuGet 包管理与运行时配置一次搞定](https://mp.weixin.qq.com/s/I45c4f0newDyEUVxUOP8Zw)
+
 
 
 
@@ -1582,6 +1591,7 @@
 | AnyTXT Searcher                                              | [下载地址](https://anytxt.net/download)                      | AnyTXT Searcher是一款功能强大的本地跨平台（Windows、Linux、MacOS）全文搜索工具，<br />旨在帮助用户快速定位并查找电脑中的各种文档和文本内容。<br />它支持多种文件格式，包括TXT、DOC、PDF、Excel、PPT等，<br />几乎涵盖了日常办公和学习中常见的所有文档类型 |
 | DocFetcher                                                   | [下载地址](https://docfetcher.sourceforge.io/zh/download.html) | DocFetcher是款开源、跨平台（Windows、Linux、MacOS）的全文搜索工具，<br />它通过创建索引快速查找本地文档中的特定文本，支持PDF、Word、Excel、<br />HTML等多种格式，适合学生、研究人员及文档管理者。 |
 | Git：[DevToys](https://github.com/DevToys-app/DevToys)       | [ MIT license](https://github.com/DevToys-app/DevToys#MIT-1-ov-file) | DevToys是一个专门为开发者设计的Windows工具箱，完全支持离线运行，<br />无需使用许多不真实的网站来处理你的数据，<br />常用功能有：格式化（支持 JSON、SQL、XML）、JWT解码、<br />URL编码/解码、UUID生成、图片压缩、文本比较、正则表达式测试、<br />Markdown预览等28+种实用工具。 |
+| Git:[CodeWF.Toolbox](https://github.com/dotnet9/CodeWF.Toolbox) | [MIT license](https://github.com/dotnet9/CodeWF.Toolbox#MIT-1-ov-file) | CodeWF Toolbox 使用Avalonia开发的跨平台工具箱 Cross platform toolbox developed using Avalonia |
 | Git:[winutil](https://github.com/ChrisTitusTech/winutil)     | [MIT license](https://github.com/ChrisTitusTech/winutil#MIT-1-ov-file) | Winutil是一个开源免费（MIT license），强大且灵活的 Windows 系统管理工具。<br />主要用于简化和优化 Windows 系统的安装、调整、故障排除和更新过程。<br />它通过提供一套自动化的脚本和工具，帮助用户减少手动操作，<br />提高系统效率和稳定性。这个工具集包括安装程序、系统调整、<br />故障排除和更新管理等功能模块，支持自定义配置，以满足不同用户的需求。 |
 | Git:[FluentTerminal](https://github.com/felixse/FluentTerminal) | [GPL-3.0 license](https://github.com/felixse/FluentTerminal#GPL-3.0-1-ov-file) | FluentTerminal 是一个基于 UWP 开发且开源（GPL-3.0 license）的<br />现代化 Windows 终端应用，旨在为用户提供高度可定制、<br />功能丰富的终端体验。通过其强大的自定义主题模块，<br />用户可以轻松打造个性化十足的终端界面，支持标签页和多个窗口、<br />内置 SSH 和 Mosh 连接支持。 |
 | Git:[mind-map](https://github.com/wanglin2/mind-map)         | [MIT license](https://github.com/wanglin2/mind-map#MIT-1-ov-file) | SimpleMindMap 是一个旨在提升个人及团队协作效率的思维导图工具。<br />通过直观的界面设计与强大的功能集合，它能够帮助用户轻松创建、<br />管理和分享复杂的思维结构，无论是项目规划、知识整理还是创意激发，<br />Mind Map 都能成为您不可或缺的智力助手。 |
@@ -1633,6 +1643,7 @@
   - [精选 4 款基于 .NET 开源、功能强大的 Windows 系统优化工具，助力轻松提升 Windows 系统性能与使用体验！【Optimizer】【SophiApp】【WinMemoryCleaner】【ZyperWin++】](https://mp.weixin.qq.com/s/Tf8sOVMp-VDnTwOvP4rRTg)
   - [一款使用 C# 编写专为 Windows 11 打造的文件资源管理器增强工具！【ExplorerTabUtility】](https://mp.weixin.qq.com/s/eTfj1kjoRHUd4-wrWVF9bQ)
   - [一款基于 C# 开发的 Windows 10/11 系统增强工具，精简、优化、定制一站完成！【Winhance】](https://mp.weixin.qq.com/s/8XDxwC8mhJMoR3vJ8BEVKg)
+  - [精选 5 款基于 .NET 开源免费、功能强大的 Windows 系统优化工具！【Optimizer】【SophiApp】【WinMemoryCleaner】【ZyperWin++】【Winhance】](https://mp.weixin.qq.com/s/cZzfPjQqAuAxB5-3VBORhQ)
 - **快速启动**
   - [斩获 48K 星！让你 Windows 起飞【Wox】【TranslucentTB】【Seelen-UI】](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247522727&idx=1&sn=a97cbc7965023ea08c998defe8bea8c9&chksm=f847c660df330f08500b8d2fb3fd1e3da43b3b5c303f8f38c5785db5ff8e7c83a9bea1714e3e&scene=126&sessionid=1742448569#rd)
   - [.NET开源免费的Windows快速文件搜索和应用程序启动器【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247497839&idx=1&sn=6cd45d43b563cf6a52d9f905967fdb04&scene=21#wechat_redirect)
@@ -1652,6 +1663,7 @@
   - [一个强大且灵活的 Windows 系统管理工具，开源免费！【Winutil】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511826&idx=2&sn=a4c89f9ef6ec6f2d187cdab948916f2a&chksm=961c13dbd9100350ed27c4ee1e0272725f571026f3b1664cb157c9c0c84669e76173b6913bf1&scene=126&sessionid=1743123644#rd)
   - [FluentTerminal：一个基于 UWP 开发的现代化 Windows 终端应用【FluentTerminal】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513520&idx=1&sn=9a3edd350baf796fd9ef08eba26ff6bd&chksm=96bd6f0918d9691a441a828fa6ff7aa236b083ced6aae6b0fcedf6b2c6573f1cf770398d5c30&scene=126&sessionid=1746879575#rd)
   - [一款由 .NET 开源免费、多功能 Windows 工具箱【PowerToolbox】](https://mp.weixin.qq.com/s/prSiGEeFPFvtTCXFfhRROQ)
+  - [CodeWF Toolbox：一个用 Avalonia + Prism 做出来的开发者工具箱【CodeWF Toolbox】](https://mp.weixin.qq.com/s/3K7MkusOV79TP6QIOs3ryA)
 - **文件搜索**
   - [5款高效的文件搜索工具，工作效率提升利器！【Everything】【Listary】【AnyTXT Searcher】【DocFetcher】【Flow Launcher】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511877&idx=2&sn=39a98aaaa7f5b960c053ae3d3144455d&chksm=96afc2cd2b668ef991b30c3a657ba501791539b89bf2c1e01db4e0d851ab2649222af069b86b&scene=126&sessionid=1743334820#rd)
   - [一款让 Everything 更加如虎添翼的 .NET 开源辅助工具！【EverythingToolbar】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247512072&idx=1&sn=3b3eefffa51e0e472c5609f886675b47&chksm=961ee1a035b8e35cff98c9d6b4bbef1ed931b15207f24af0fc824324fe438b9522b19e7de378&scene=126&sessionid=1743819410#rd)
@@ -1769,6 +1781,7 @@
 | dbdiagram                                                    | [在线文档](https://dbdiagram.io/home)<br />[在线使用地址](https://dbdiagram.io/d) | dbdiagram 是一款免费、简单、高效的在线图形化数据库设计工具，<br />专为开发者和数据分析师设计。它可以通过输入 DSL（领域特定语言）<br />代码来快速绘制数据库 ER 图。<br />支持 MySQL、PostgreSQL、SQL Server 等多种数据库，<br />支持 SQL 导入与导出（导出为 PDF/PNG/SVG）。 |
 | Gitee:[TDengine](https://gitee.com/taosdata/TDengine)        | AGPL-3.0                                                     | **TDengine** 是一款开源、高性能、云原生、<br />AI 驱动的时序数据库（Time-Series Database, TSDB）。该项目旨在为物联网、<br />工业互联网、车联网、IT 运维、金融等领域提供高效的时序数据处理解决方案。<br />TDengine 不仅具备核心的时序数据库功能，还集成了缓存、数据订阅、流式计算、<br />AI 智能体等功能，是一个极简的时序数据处理平台。 |
 | Git:[MasterMemory](https://github.com/Cysharp/MasterMemory)  | [MIT license](https://github.com/Cysharp/MasterMemory#MIT-1-ov-file) |                                                              |
+| Git:[WoWDatabaseEditor](https://github.com/BAndysc/WoWDatabaseEditor) | [MIT license](https://github.com/BAndysc/WoWDatabaseEditor#MIT-1-ov-file) | WoWDatabaseEditor 是一个基于 .NET 与 Avalonia 构建的开源 WoW 数据库编辑器，<br />主要面向 TrinityCore 服务端的数据编辑与 Smart Scripts 开发。<br />项目采用 MIT License，是 Visual SAI Studio 的延续版本，<br />但底层实现已经从零开始重写。 |
 
 ### 相关参考
 
@@ -1780,11 +1793,11 @@
 - [.NET NoSQL 嵌入式数据库 LiteDB 使用教程【LiteDB】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247505978&idx=1&sn=552db3bbf80f7840188518b5f1ee947b&chksm=964162f1055d94b1fa388ee18e6cd0f835bccb3f06ea328618aa5ec8a2d1e42904bafb3dd92e&scene=126&sessionid=1728350900#rd)
 - [比SQLite快4700倍！C#开发者必知的内存数据库神器【MasterMemory】](https://mp.weixin.qq.com/s/xvuSfe5KTvTSLT4sT4djow)
   - [C#高性能内存数据库实战：MasterMemory打造30万数据毫秒级查询系统【MasterMemory】](https://mp.weixin.qq.com/s/Vgvxs8vugQ1DYB8CkLQqUQ)
-
 - [再见PowerDesigner，一款现代化的数据库设计工具，界面够炫酷！](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247506507&idx=4&sn=e63c85deafee1abeed282ed2fe1bd0c2&chksm=9627061b0280a1085642b51f42bc1ace005f476ab30dc686cba5b8536ae678454d703ae5a1c9&scene=126&sessionid=1729816926#rd)
 - [Garnet：微软官方基于.NET开源的高性能分布式缓存存储数据库【Garnet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247500437&idx=2&sn=f76cb3fa303e2a2d44f99bb64283d0ee&scene=21#wechat_redirect)
 - [2款使用.NET开发的数据库系统](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247507032&idx=1&sn=8ff0c066105ad47375c5845803668a35&chksm=96561fd6417d6ea3bd56abcf66f5202aa015c25655f3292c46cf479d82c8055ebd310647038b&scene=126&sessionid=1730854499#rd)
 - [推荐几个不错的数据库设计工具【PowerDesigner】【drawDB】【PDManer】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247508397&idx=1&sn=2ff65577239dc68ecaac0050e66a8f05&chksm=965dc98717e0e95d6e9d9c3166522c905bbc97c8aa9f262b085497eeaa6d46ee3077eb4791a7&scene=126&sessionid=1734311217#rd)
+- [一个基于 .NET 与 Avalonia 构建、面向 TrinityCore 的开源 WoW 数据库编辑器【WoWDatabaseEditor】](https://mp.weixin.qq.com/s/m_glYbjWU6C9hSMsPsPc9Q)
 - **关系型数据库(SQL)**
   - **SQLite**
     - **[七天.NET 8操作SQLite入门到实战 - （3）第七天Blazor学生管理页面编写和接口对接【EasySQLite】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247503380&idx=1&sn=ec931b964ac9ce26abd2b44ded6d0892&chksm=96b4de8a2a13eaedc4dcb826d5b54b5d894f95cfa31408f8bd9187ca40c311df83afda7303d0&scene=126&sessionid=1721954425#rd)**
