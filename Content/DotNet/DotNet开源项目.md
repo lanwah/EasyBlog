@@ -1830,6 +1830,7 @@
 | Git:[HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)         | [GPL-2.0 license](https://github.com/HeidiSQL/HeidiSQL#GPL-2.0-1-ov-file) | [下载](https://www.heidisql.com/download.php?download=installer) | HeidiSQL 是一款免费的数据库管理工具，<br />适用于与数据库打交道的开发人员和数据库管理员。<br />它支持多种数据库系统，包括 MariaDB、MySQL、<br />Microsoft SQL Server、PostgreSQL、SQLite、<br />Interbase 和 Firebird。HeidiSQL 提供了直观易用的界面，<br />使得用户能够方便地连接到数据库、编辑数据、<br />管理数据库结构以及执行各种数据库操作。 |
 | DataGrip                                                     |                                                              | [下载地址](https://www.jetbrains.com.cn/datagrip/download/?section=windows) | DataGrip 是 JetBrains 推出的一款跨平台（在 Windows、macOS <br />和 Linux 上提供一致的体验）数据库 IDE，<br />专为 SQL 开发与数据库管理而打造。<br />它集智能代码补全、AI 辅助、Git 集成等强大功能于一身，<br />支持多种关系型与 NoSQL 数据库，<br />在简洁现代的界面中显著提升开发效率、<br />保障查询准确性，并加速数据库操作流程。 |
 | Git:[beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) |                                                              |                                                              | Beekeeper Studio 是一款功能强大、易用的跨平台 SQL 客户端，<br />适用于多种数据库系统的管理和操作。<br />其现代化的界面设计、丰富的功能模块和开源免费的特性，<br />使得它成为开发人员和数据库管理员的理想选择。 |
+| Git:[dbx](https://github.com/t8y2/dbx)                       | [Apache-2.0 license](https://github.com/t8y2/dbx#Apache-2.0-1-ov-file) |                                                              | 15MB，轻量级跨平台数据库客户端、数据库管理工具。<br />支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、<br />DuckDB、ClickHouse、SQL Server 等。 |
 
 ### 相关推荐
 
@@ -1843,6 +1844,7 @@
 - [重磅福利，JetBrains 宣布 DataGrip 面向非商业用途免费！【DataGrip】](https://mp.weixin.qq.com/s/nrcqcVK9gv3yiB7LwOQjsg)
 - [一款比 Navicat 更好用的数据库管理神器，开源免费、跨平台的 SQL 编辑器和数据库管理器！【Beekeeper Studio】](https://mp.weixin.qq.com/s/quZb53vqMdGwQqDi7YXBUQ)
 - [程序员必备！5 款免费又好用的数据库管理工具推荐【DataGrip】【Navicat Premium Lite】【DBeaver】【HeidiSQL】【JookDB】](https://mp.weixin.qq.com/s/92p3zMZ1NPM6rtB_VFK-8Q)
+- [可以弃用Navicat了！这个15MB的开源工具，搞定40+数据库【DBX】](https://mp.weixin.qq.com/s/xtm33qDwA98He8YsL5JOxw)
 
 
 
@@ -2308,6 +2310,12 @@
 | Gitee:[WPFUIDemo](https://gitee.com/zhang-sleepyhead/WPFUIDemo) |                                                              | WPFUIDemo 是一个专注于 WPF（Windows Presentation Foundation）<br />用户界面设计与开发的示例项目。该项目旨在为开发者提供一个全面、<br />实用的参考范例，帮助他们快速掌握 WPF 应用开发的核心技巧和最佳实践，<br />提升开发效率与界面设计水平。通过丰富的功能模块和代码示例，<br />开发者可以深入了解 WPF 的强大特性，并将其灵活应用于实际项目中。 |
 | **Gitee:[ MusicApp](https://gitee.com/liu_guo_feng/music-app)** | Apache-2.0                                                   | MusicApp 是一个基于 C# 和 WPF 技术开发的模仿网易云音乐界面的音乐应用项目。<br />该项目旨在通过实践学习 WPF 开发，<br />非常适合 WPF 入门学习者作为入门参考项目，本项目已实现基本音乐播放功能。 |
 | Gitee:[ZRCLIENT](https://gitee.com/SayHelloCat/zrclient)     | GPL-2.0                                                      | ZRCLIENT 是一个基于 Element 主题风格的 WPF 管理后台系统，<br />采用免费开源的 GNU General Public License (GPL-2.0) 协议发布。<br />该项目旨在提供一个美观、易用且功能丰富的管理后台解决方案，<br />适用于各种企业级应用场景。 |
+| Git:[dotnet](https://github.com/CommunityToolkit/dotnet)     | MIT                                                          | CommunityToolkit.Mvvm （又名 MVVM 工具包，由微软 .NET 基金会维护，<br />基于 MIT License 开源，以前称为 Microsoft.Toolkit.Mvvm）是一个现代、<br />快速和模块化的 MVVM 库，支持 WinUI 3、UWP、WinForms、WPF、Xamarin、<br />Uno 等客户端框架。独立于平台和运行时： .NET Standard 2.0、.<br />NET Standard 2.1 和 .NET 6（与 UI 框架无关）。 |
+| Git:[Prism](https://github.com/PrismLibrary/Prism)           |                                                              | Prism 是一个用于开发 WPF、Avalonia、MAUI、Uno Platform<br /> 和 WinUI 的 XAML 应用框架，<br />能帮助开发者构建低耦合、易维护、可测试的程序。它内置了 MVVM、依赖注入、<br />命令、事件聚合器等常用模式，并支持多个 .NET 版本。<br />不同平台有各自独立的版本，平台相关功能也会分别实现。 |
+| Git: [ReactiveUI](https://github.com/reactiveui/ReactiveUI)  | [MIT license](https://github.com/reactiveui/ReactiveUI#MIT-1-ov-file) | ReactiveUI 是一个适用于所有 .NET 平台的高级 MVVM 框架，<br />基于 MIT license 开源，设计灵活、可组合，并借鉴了函数式响应式编程的思想。<br />它可以帮助你把界面中的状态变化和业务逻辑分开，<br />把一个功能的核心逻辑集中写在更清晰的位置，同时让程序更容易测试。 |
+| Git:[Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) | MIT                                                          | Caliburn.Micro 是一个小巧但功能很强的框架，<br />用来开发各种 XAML 平台上的应用，基于 MIT license 开源。<br />它对 MVVM 和其他常见界面开发模式支持很好，能帮助你更快地开发程序，<br />同时又不影响代码质量和可测试性。 |
+| Git:  [Catel](https://github.com/Catel/Catel)                | MIT                                                          | Catel 是一个面向 .NET 开源（MIT License）的应用开发平台，<br />核心定位是 WPF 上的 MVVM 框架。 |
+|                                                              |                                                              |                                                              |
 
 #### 相关参考
 
@@ -2315,8 +2323,10 @@
 - [一个开源、通用的 .NET 上位机应用框架【my-wpf】](https://mp.weixin.qq.com/s/HLKN-U4KUYJFlYRJU_JqaA)
 - [【开源力荐】一套使用 .NET WPF 实现的 ToDo 应用，WPF 入门学习实用项目！【wpf-mstodo】](https://mp.weixin.qq.com/s/1VU4NY0gE4ljGGySuMpgtw?scene=0&subscene=90)
 - [WPF优秀项目推荐：Stylet 一个非常轻量但强大的 ViewModel-First MVVM 框架 - mingupupup - 博客园【Stylet】](https://www.cnblogs.com/mingupupu/p/19033566)
+- [2026 年 .NET 客户端常用 MVVM 框架推荐（附带使用情况投票）【Stylet】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247520861&idx=1&sn=9f2734cce8839bc638fc3f2e1dc54cf3&scene=21&poc_token=HJeHOGqj76tZTqb7dI_KmDuqhQbSdYhc_cLY_8Dp)
 - [Rouyan：使用WPF/C#构建的基于LLM的快捷翻译小工具 - mingupupup - 博客园【Rouyan】](https://www.cnblogs.com/mingupupu/p/19108702)
 - [一个开源、漂亮的 Element 主题风格的 WPF 管理后台系统【ZRCLIENT】](https://mp.weixin.qq.com/s/3CvHc9YSem35aI9i85YoDQ)
+- [2026 年 .NET 客户端常用 MVVM 框架推荐（附带使用情况投票）【CommunityToolkit.Mvvm】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247520861&idx=1&sn=9f2734cce8839bc638fc3f2e1dc54cf3&scene=21&poc_token=HAmLNmqjZ3r6nMNzmGeA31jm3YHmW_PKVbHinfI0)
 - **WPF 学习**
   - [Grid 动态横向动画显示 Item](https://mp.weixin.qq.com/s/hUjta_ZJeaoWEwcW-AASHw?scene=0&subscene=90)
   - [C# WPF 内置解码器实现 GIF 动图控件 - 蓝点lilac - 博客园](https://www.cnblogs.com/BluePointLilac/p/19029227)
@@ -2328,6 +2338,10 @@
   - [完美复刻！一个基于 C# 和 WPF 开源的网易云音乐客户端【MusicApp】](https://mp.weixin.qq.com/s/CIWd7qx-S95Xv02pZCBpgw)
   - **Prism**
     - [WPF中使用 using prism.region 报错 - 此wei浩亦 - 博客园](https://www.cnblogs.com/SpikeWang/p/19052176)
+    - [2026 年 .NET 客户端常用 MVVM 框架推荐（附带使用情况投票）【Prism】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247520861&idx=1&sn=9f2734cce8839bc638fc3f2e1dc54cf3&scene=21&poc_token=HJeHOGqj76tZTqb7dI_KmDuqhQbSdYhc_cLY_8Dp)
+  - [2026 年 .NET 客户端常用 MVVM 框架推荐（附带使用情况投票）【ReactiveUI】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247520861&idx=1&sn=9f2734cce8839bc638fc3f2e1dc54cf3&scene=21&poc_token=HJeHOGqj76tZTqb7dI_KmDuqhQbSdYhc_cLY_8Dp)
+  - [2026 年 .NET 客户端常用 MVVM 框架推荐（附带使用情况投票）【Caliburn.Micro】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247520861&idx=1&sn=9f2734cce8839bc638fc3f2e1dc54cf3&scene=21&poc_token=HJeHOGqj76tZTqb7dI_KmDuqhQbSdYhc_cLY_8Dp)
+  - [2026 年 .NET 客户端常用 MVVM 框架推荐（附带使用情况投票）【Catel】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247520861&idx=1&sn=9f2734cce8839bc638fc3f2e1dc54cf3&scene=21&poc_token=HJeHOGqj76tZTqb7dI_KmDuqhQbSdYhc_cLY_8Dp)
 
 
 
@@ -2521,10 +2535,12 @@
 | [sharpcompress](https://github.com/adamhathcock/sharpcompress) | [MIT license](https://github.com/adamhathcock/sharpcompress#MIT-1-ov-file) | SharpCompress 是一个基于 C# 编写的压缩库，支持多种压缩格式的解压<br />与部分格式的写入，专为.NET多版本设计，适合处理大文件和流式压缩。<br />适用于 .NET Framework 4.62、.NET Standard 2.1、<br />.NET 6.0 和 NET 8.0 等多平台的 C# 压缩库，它能够解压 RAR、7Z、ZIP、TAR、BZIP2、<br />GZIP 和 LZIP 格式的文件，同时提供仅向前读取和文件随机访问的API。<br />该库已实现了对 ZIP、TAR、BZIP2、GZIP 和 LZIP 格式的写入支持。 |
 | [SharpZipLib](https://github.com/icsharpcode/SharpZipLib)    | [MIT license](https://github.com/icsharpcode/SharpZipLib#MIT-1-ov-file) | SharpZipLib（以前称为 NZipLib）是一个完全用 C# 编写的压缩库，<br />它支持使用存储和 deflate 压缩方法、PKZIP 2.0 样式和 AES 加密、<br />带有 GNU 长文件扩展名的 tar、GZip、zlib 和 raw deflate 以及 BZip2 的 Zip 文件。<br />支持 Zip64，当前尚不支持 Deflate64。它作为程序集实现（可安装在全局程序集缓存GAC中），<br />因此可以很容易地合并到其他项目中（使用任何 .NET 语言）。 |
 | [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) | [MIT license](https://github.com/MiloszKrajewski/K4os.Compression.LZ4#MIT-1-ov-file) | K4os.Compression.LZ4 是一个为 .NET 平台设计的基于 LZ4 算法的高效压缩库，<br />提供极快的压缩和解压缩速度，支持多种压缩级别和流/块压缩模式。 |
+| Git:[YamlDotNet](https://github.com/aaubry/YamlDotNet)       | MIT, MIT licenses found                                      | YamlDotNet是.NET平台上最流行的YAML处理库，提供了序列化和反序列化功能。 |
 
 ### 相关参考
 
 - [分享 3 个 .NET 开源的文件压缩处理库，助力快速实现文件压缩解压功能！【SharpCompress】【SharpZipLib】【K4os.Compression.LZ4】](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247511258&idx=1&sn=c06e88f432e126c1b7284aa55b91dd34&chksm=967d46687a31b9bd8bce87720e661e79a3601670faf23a4f8eb8605fb1dfded8d72dbd8eb3b1&scene=126&sessionid=1741914104#rd)
+- [YAML文件在C#中的应用：从入门到实践【YamlDotNet】](https://mp.weixin.qq.com/s/zP1g7_BxNJn813Upm5j6jw)
 
 
 

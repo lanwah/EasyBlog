@@ -70,10 +70,14 @@
 
 - [深入了解 ASP.NET Core 中的 IWebHostEnvironment 接口](https://mp.weixin.qq.com/s/aZ9FMyw0nkGmQfHUaV4PdQ?scene=0&subscene=90)
 
+- [ASP.NET Core 2.3 end of support announcement - .NET Blog](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/)
+
+  > 今天，我们宣布 ASP.NET Core 2.3 将于 2027 年 4 月 13 日结束支持。在此日期之后，微软将不再为 ASP.NET Core 2.3 提供安全补丁、错误修复或技术支持。
+
 - **身份鉴权/身份认证**
-  
+
   - [ASP.NET Core 中基于 Cookie 的身份鉴权实现](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247509300&idx=3&sn=435086131053de1e1e57d5800f4b3c26&chksm=966dd908d5f29a93b287606a92c47e4a79f265c6dd419e917db94c8fce2cc5da900af34c9001&scene=126&sessionid=1737334659#rd)
-  
+
 - [在 .NET Core中如何使用 Redis 创建分布式锁 - 代码拾光 - 博客园](https://www.cnblogs.com/liyongqiang-cc/p/18655619)
 
 - **StarBlog**
@@ -86,7 +90,7 @@
 - **下载与上传**
   - [AspNetCore中的文件上传与下载优化](https://mp.weixin.qq.com/s?__biz=MzIxMTUzNzM5Ng==&mid=2247513637&idx=3&sn=a4a5e2573999609c93a282e3902697ea&chksm=961267cc3504ee5a38726f13c148ac3c05889af26111f2a9f879192ba7488c5757d21e3af000&scene=126&sessionid=1747097371#rd)
   - [从零开始:c#如何优雅的操作临时文件/数据？以ASP文件下载为例 - LdotJdot - 博客园](https://www.cnblogs.com/luojin765/p/19109217)
-  
+
 - **微服务**
 
   - [用 Sidecar 容器为 .NET Core 应用做诊断和性能分析 - chester·chen - 博客园](https://www.cnblogs.com/chenyishi/p/18886607)
@@ -1206,15 +1210,27 @@
 #### .NET 11/C#15
 
 - [.NET 11 Preview 1 发布：全面解析技术更新](https://mp.weixin.qq.com/s/TvXVNwxKx3YEZYSBxMiVBQ)
+
 - [.NET 11 预览版1：CoreCLR 在 WebAssembly 上的全面集成与性能突破](https://mp.weixin.qq.com/s/IlW99z7h2i6-c3hha1sZYA)
   - [.NET 11 预览版1：CoreCLR 在 WebAssembly 上的全面集成与性能突破 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/19629649)
+  
 - [.NET 11 预览版 1 中的新兴架构演进：RISC-V 与 LoongArch 支持的深度技术解析与生态展望 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/19629862)
+
 - [C# 15 增强的集合表达式](https://mp.weixin.qq.com/s/SRdozFJAOGDfj3XTM7eeGw)
+
 - [NET 11 Preview 2 到底带来了啥](https://mp.weixin.qq.com/s/YWRGdVdJ4wo2QFh-Av5i1Q)
+
 - [.NET 11 Preview 3 来了](https://mp.weixin.qq.com/s/x7E9KE91TNmfZ0ORoEgViQ)
+
 - [.NET 11 Preview 4 正式发布：Runtime-Async 全面启用、Process API 大幅扩展](https://mp.weixin.qq.com/s/FfjqhrcDMaSqayiQxIyIyw)
+
 - [.NET 11 中 Process API 升级](https://mp.weixin.qq.com/s/mq_7E2tmYcrUST-aL_HLMw)
+
 - [C# 终于支持 union types 了](https://mp.weixin.qq.com/s/jRuWp2bssAnDNKtFCVrVrQ)
+
+- [Explore union types in C# 15 - .NET Blog](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)
+
+  > C# 中经常需要 union 类型，现在它们已经存在。从 .NET 11 Preview 2 开始，C# 15 引入了 union 关键字。union 关键字声明一个值是编译器强制执行的穷尽模式匹配的固定类型集合中的一个。如果你在 F# 或其他语言中使用过区分型 union，那么你就会觉得这里很舒服。 但是，C# 的联合体是为了 C# 的原生体验而设计的：它们是类型联合体，可以组合现有类型，与您已经知道的模式匹配集成在一起，并且与语言的其他部分无缝交互。
 
 ### 发布与部署
 
@@ -2022,18 +2038,32 @@
 - [Avalonia Docs | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/)
   - [Canvas 画布控件 | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/docs/reference/controls/canvas)
   - [Flyout 弹出层 | Avalonia Docs](https://docs.avaloniaui.net/zh-Hans/docs/reference/controls/flyouts)
+  
 - [Avalonia使用XML文件实现国际化](https://mp.weixin.qq.com/s/LYO3YQNocsEUbQFsGglEVw)
+
 - [Lang.Avalonia：Avalonia多语言解决方案，无缝支持Resx/XML/JSON三种格式](https://mp.weixin.qq.com/s/UN74HZJcHELPeIDPIPnJlg?scene=0&subscene=90)
+
 - [基于C#+avalonia ui实现的跨平台点胶机灌胶监控控制上位机软件 - 狼性法则 - 博客园](https://www.cnblogs.com/flykai/p/19027992)
+
 - [【译】Avalonia UI与谷歌Flutter团队合作将Impeller渲染引擎引入.NET](https://mp.weixin.qq.com/s/BQz1GrnknYqlAMujSJQ55A)
+
 - [Avalonia UI的演进逻辑与Qt生态深度对比](https://mp.weixin.qq.com/s/Q0uI6NIGKqHA26nZTITZxA)
   - [Avalonia UI的演进逻辑与Qt生态深度对比 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/19329439)
+  
 - [跨平台 UI 工程的 Agentic 转型：MCP 在 Avalonia 生态中的深度应用与架构演进](https://mp.weixin.qq.com/s/TYfy1-W5PXRdw5UYvrEFpw)
+
 - [Avalonia 跨平台升级、安装包](https://mp.weixin.qq.com/s/ZSR0UKHkHcwrg6vsBvLzdg)
+
 - [Avalonia 12正式发布：蓄势待发，迎接全新未来](https://mp.weixin.qq.com/s/90yY9nl3ZlOvWc9EqPpNAQ)
+
+- [Avalonia UI 12.0.0 正式发布：架构演进和性能飞跃 - 张善友 - 博客园](https://www.cnblogs.com/shanyou/p/19852334)
+
+  > 在跨平台用户界面（UI）框架的演进历史中，从底层绘图引擎到高层声明式界面的抽象化一直伴随着性能与兼容性的深度博弈。2026年4月7日，Avalonia UI 12.0.0 版本的正式发布标志着这一生态系统进入了一个具有分水岭意义的成熟期 。作为一个最初旨在为.NET 开发者提供 Windows Presentation Foundation (WPF) 跨平台替代方案的开源项目，Avalonia 现已将其战略版图全面扩展至桌面、移动端、嵌入式系统以及基于 WebAssembly 的浏览器原生渲染领域。
+
 - **打印相关**
   - [GitHub - Oaz/AvaloniaUI.PrintToPDF: Create PDF documents from Avalonia UI visuals](https://github.com/Oaz/AvaloniaUI.PrintToPDF)
   - [Printing and printing dialog · AvaloniaUI/Avalonia · Discussion #7454 · GitHub](https://github.com/AvaloniaUI/Avalonia/discussions/7454)
+  
 - **控件相关**
   - [Avalonia小窍门之DataGrid添加取消排序](https://mp.weixin.qq.com/s/ME-KQfote0VJ3CVgGm94kQ?scene=0&subscene=90)
   - [Avalonia剪贴板和DataGrid的问题](https://mp.weixin.qq.com/s/0k8Ia1QZDNpU_mvUqpLCNA)
@@ -2893,6 +2923,7 @@
 - **线程安全**
 
   - [C# 锁机制全景与高效实践：从 Monitor 到 .NET 9 全新 Lock - AI·NET极客圈 - 博客园](https://www.cnblogs.com/code-daily/p/18924622)
+  - [C# Interlocked 原子操作：多线程并发的性能利器](https://mp.weixin.qq.com/s/wpJESPkInrIQO5BbBAa64Q)
 
 
 
@@ -3010,8 +3041,14 @@
   - [C# Winform ScottPlot5 高频数据采集显示：优化刷新率与内存管理](https://mp.weixin.qq.com/s/6vTNtkxpXiXERbelxoZ0gQ)
   - [C# Winform ScottPlot 5 实时数据缓冲策略：滑动窗口与历史数据管理](https://mp.weixin.qq.com/s/7Dqxyo0PpQ7m9gzq9npbLQ)
   - [震惊！C#用ScottPlot流量计数据可视化：累计与瞬时流量双图表](https://mp.weixin.qq.com/s/btFm1QDfUqQnjuYfdmtcwQ)
+  - [Winform + ScottPlot 5 实现 SPC 统计过程控制图：X-bar 与 R 控制图完整指南](https://mp.weixin.qq.com/s/zSunBeJL07eXrqr7P0fObA)
+  - [用C#造一套工业级振动监控系统——我踩过的坑和那些没人告诉你的细节](https://mp.weixin.qq.com/s/8S6eYw06z7xJo_ESRyUymg)
 
 
+
+## U. UID
+
+- [SQLSERVER下SEQUENCE彻底解决并发生成唯一编号——从血泪教训到优雅方案](https://mp.weixin.qq.com/s/D59M-vLkspy-NUo_SW81Nw)
 
 ## V. Vue
 
